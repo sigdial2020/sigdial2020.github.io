@@ -1,0 +1,74 @@
+Z15-1:
+  address: Gothenburg, Sweden
+  editor:
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  has_abstracts: false
+  meta_date: 2015/8
+  month: August
+  papers:
+  - Z15-1000
+  - Z15-1001
+  - Z15-1002
+  - Z15-1003
+  - Z15-1004
+  - Z15-1005
+  - Z15-1006
+  - Z15-1007
+  - Z15-1008
+  - Z15-1009
+  - Z15-1010
+  - Z15-1011
+  - Z15-1012
+  - Z15-1013
+  - Z15-1014
+  - Z15-1015
+  - Z15-1016
+  - Z15-1017
+  - Z15-1018
+  - Z15-1019
+  - Z15-1020
+  - Z15-1021
+  - Z15-1022
+  - Z15-1023
+  - Z15-1024
+  - Z15-1025
+  - Z15-1026
+  - Z15-1027
+  - Z15-1028
+  - Z15-1029
+  - Z15-1030
+  - Z15-1031
+  - Z15-1032
+  - Z15-1033
+  - Z15-1034
+  - Z15-1035
+  - Z15-1036
+  - Z15-1037
+  - Z15-1038
+  - Z15-1039
+  - Z15-1040
+  - Z15-1041
+  - Z15-1042
+  - Z15-1043
+  - Z15-1044
+  - Z15-1045
+  - Z15-1046
+  - Z15-1047
+  - Z15-1048
+  - Z15-1049
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue
+  title_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics of
+    Dialogue
+  url: http://events.illc.uva.nl/semdial/Z15-1
+  venues:
+  - SEMDIAL
+  year: '2015'
