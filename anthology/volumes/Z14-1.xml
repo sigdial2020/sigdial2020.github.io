@@ -632,7 +632,7 @@
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">Lu\textbackslash’isa</namePart>
+        <namePart type="given">Luísa</namePart>
         <namePart type="family">Coheur</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
@@ -807,7 +807,7 @@
         <title>Revealing Resources in Strategic Contexts</title>
     </titleInfo>
     <name type="personal">
-        <namePart type="given">J\textbackslash’er\textbackslash’emy</namePart>
+        <namePart type="given">Jérémy</namePart>
         <namePart type="family">Perret</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
@@ -878,7 +878,7 @@
     </name>
     <name type="personal">
         <namePart type="given">Sebastian</namePart>
-        <namePart type="family">Reu\textbackslashsse</namePart>
+        <namePart type="family">Reuße</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
@@ -940,8 +940,8 @@
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">C\textbackslash’edric</namePart>
-        <namePart type="family">D\textbackslash’egremont</namePart>
+        <namePart type="given">Cédric</namePart>
+        <namePart type="family">Dégremont</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
@@ -975,7 +975,7 @@
         <title>MILLA – A Multimodal Interactive Language Learning Agent</title>
     </titleInfo>
     <name type="personal">
-        <namePart type="given">Jo\textbackslash~ao</namePart>
+        <namePart type="given">João</namePart>
         <namePart type="given">Paulo</namePart>
         <namePart type="family">Cabral</namePart>
         <role>
@@ -1033,8 +1033,8 @@
     </name>
     <name type="personal">
         <namePart type="given">Neasa</namePart>
-        <namePart type="given">N\textbackslash’i</namePart>
-        <namePart type="family">Chiar\textbackslash’ain</namePart>
+        <namePart type="given">Ní</namePart>
+        <namePart type="family">Chiaráin</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
@@ -1345,7 +1345,7 @@
         <date>2014-aug</date>
     </part>
 </mods>
-<mods ID="grimm-fern-andez-2014-assessing">
+<mods ID="grimm-fernandez-2014-assessing">
     <titleInfo>
         <title>Assessing the Impact of Local Adaptation in Child-Adult Dialogue: A Recurrence-Quantificational Approach</title>
     </titleInfo>
@@ -1358,7 +1358,7 @@
     </name>
     <name type="personal">
         <namePart type="given">Raquel</namePart>
-        <namePart type="family">Fern\textbackslash’andez</namePart>
+        <namePart type="family">Fernández</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
@@ -1379,7 +1379,7 @@
         </originInfo>
         <genre authority="marcgt">conference publication</genre>
     </relatedItem>
-    <identifier type="citekey">grimm-fern-andez-2014-assessing</identifier>
+    <identifier type="citekey">grimm-fernandez-2014-assessing</identifier>
     <location>
         <url>https://bakuzen.github.io/anthology/Z14-Grimm_semdial_0028.pdf</url>
     </location>
@@ -2463,20 +2463,20 @@
         <date>2014-aug</date>
     </part>
 </mods>
-<mods ID="schl-oder-fern-andez-2014-clarification">
+<mods ID="schloder-fernandez-2014-clarification">
     <titleInfo>
         <title>Clarification Requests at the Level of Uptake</title>
     </titleInfo>
     <name type="personal">
         <namePart type="given">Julian</namePart>
-        <namePart type="family">Schl\textbackslash&quot;oder</namePart>
+        <namePart type="family">Schlöder</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
         <namePart type="given">Raquel</namePart>
-        <namePart type="family">Fern\textbackslash’andez</namePart>
+        <namePart type="family">Fernández</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
@@ -2497,9 +2497,9 @@
         </originInfo>
         <genre authority="marcgt">conference publication</genre>
     </relatedItem>
-    <identifier type="citekey">schl-oder-fern-andez-2014-clarification</identifier>
+    <identifier type="citekey">schloder-fernandez-2014-clarification</identifier>
     <location>
-        <url>https://bakuzen.github.io/anthology/Z14-Schl\&quot;oder_semdial_0047.pdf</url>
+        <url>https://bakuzen.github.io/anthology/Z14-SchlÃ¶der_semdial_0047.pdf</url>
     </location>
     <part>
         <date>2014-aug</date>

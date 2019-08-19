@@ -1,18 +1,3 @@
-c-edric-d-egremont:
-  coauthors:
-  - - antoine-venant
-    - 1
-  - - nicholas-asher
-    - 1
-  first: C\'edric
-  full: C\'edric D\'egremont
-  last: D\'egremont
-  papers:
-  - Z14-1021
-  slug: c-edric-d-egremont
-  venues:
-  - - SEMDIAL
-    - 1
 c-h-lee:
   coauthors: []
   first: C. H.
@@ -488,6 +473,21 @@ cecilia-ovesdotter-alm:
   papers: []
   slug: cecilia-ovesdotter-alm
   venues: []
+cedric-degremont:
+  coauthors:
+  - - antoine-venant
+    - 1
+  - - nicholas-asher
+    - 1
+  first: "C\xE9dric"
+  full: "C\xE9dric D\xE9gremont"
+  last: "D\xE9gremont"
+  papers:
+  - Z14-1021
+  slug: cedric-degremont
+  venues:
+  - - SEMDIAL
+    - 1
 cedric-gendrot:
   coauthors: []
   first: "C\xE9dric"

@@ -360,9 +360,9 @@ Z14-1015:
     full: Daniel Magarreiro
     id: daniel-magarreiro
     last: Magarreiro
-  - first: Lu\'isa
-    full: Lu\'isa Coheur
-    id: lu-isa-coheur
+  - first: "Lu\xEDsa"
+    full: "Lu\xEDsa Coheur"
+    id: luisa-coheur
     last: Coheur
   - first: Francisco
     full: Francisco Melo
@@ -456,9 +456,9 @@ Z14-1018:
 Z14-1019:
   address: Edinburgh, United Kingdom
   author:
-  - first: J\'er\'emy
-    full: J\'er\'emy Perret
-    id: j-er-emy-perret
+  - first: "J\xE9r\xE9my"
+    full: "J\xE9r\xE9my Perret"
+    id: jeremy-perret
     last: Perret
   - first: Stergos
     full: Stergos Afantenos
@@ -496,9 +496,9 @@ Z14-1020:
     id: anton-benz
     last: Benz
   - first: Sebastian
-    full: Sebastian Reu{\ss}e
-    id: sebastian-reu-ss-e
-    last: Reu{\ss}e
+    full: "Sebastian Reu\xDFe"
+    id: sebastian-reusse
+    last: "Reu\xDFe"
   - first: Ronja
     full: Ronja Laarmann-Quante
     id: ronja-laarmann-quante
@@ -530,10 +530,10 @@ Z14-1021:
     full: Nicholas Asher
     id: nicholas-asher
     last: Asher
-  - first: C\'edric
-    full: C\'edric D\'egremont
-    id: c-edric-d-egremont
-    last: D\'egremont
+  - first: "C\xE9dric"
+    full: "C\xE9dric D\xE9gremont"
+    id: cedric-degremont
+    last: "D\xE9gremont"
   bibkey: venant-etal-2014-credibility
   bibtype: inproceedings
   booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
@@ -549,9 +549,9 @@ Z14-1021:
 Z14-1022:
   address: Edinburgh, United Kingdom
   author:
-  - first: Jo\~{a}o Paulo
-    full: Jo\~{a}o Paulo Cabral
-    id: jo-a-o-paulo-cabral
+  - first: "Jo\xE3o Paulo"
+    full: "Jo\xE3o Paulo Cabral"
+    id: joao-paulo-cabral1
     last: Cabral
   - first: Nick
     full: Nick Campbell
@@ -581,10 +581,10 @@ Z14-1022:
     full: Andrew Murphy
     id: andrew-murphy
     last: Murphy
-  - first: Neasa N\'i
-    full: Neasa N\'i Chiar\'ain
-    id: neasa-n-i-chiar-ain
-    last: Chiar\'ain
+  - first: "Neasa N\xED"
+    full: "Neasa N\xED Chiar\xE1in"
+    id: neasa-ni-chiarain
+    last: "Chiar\xE1in"
   - first: Thomas
     full: Thomas Pellegrini
     id: thomas-pellegrini
@@ -762,10 +762,10 @@ Z14-1028:
     id: robert-grimm
     last: Grimm
   - first: Raquel
-    full: Raquel Fern\'andez
-    id: raquel-fern-andez
-    last: Fern\'andez
-  bibkey: grimm-fern-andez-2014-assessing
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  bibkey: grimm-fernandez-2014-assessing
   bibtype: inproceedings
   booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
     of Dialogue
@@ -1392,14 +1392,14 @@ Z14-1047:
   address: Edinburgh, United Kingdom
   author:
   - first: Julian
-    full: Julian Schl\"oder
-    id: julian-schl-oder
-    last: Schl\"oder
+    full: "Julian Schl\xF6der"
+    id: julian-j-schloder
+    last: "Schl\xF6der"
   - first: Raquel
-    full: Raquel Fern\'andez
-    id: raquel-fern-andez
-    last: Fern\'andez
-  bibkey: schl-oder-fern-andez-2014-clarification
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  bibkey: schloder-fernandez-2014-clarification
   bibtype: inproceedings
   booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
     of Dialogue
@@ -1409,7 +1409,7 @@ Z14-1047:
   publisher: SEMDIAL
   title: Clarification Requests at the Level of Uptake
   title_html: Clarification Requests at the Level of Uptake
-  url: https://bakuzen.github.io/anthology/Z14-Schl\"oder_semdial_0047.pdf
+  url: "https://bakuzen.github.io/anthology/Z14-Schl\xF6der_semdial_0047.pdf"
   year: '2014'
 Z14-1048:
   address: Edinburgh, United Kingdom

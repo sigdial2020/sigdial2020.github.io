@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns="http://www.loc.gov/mods/v3">
-<mods ID="grimm-fern-andez-2014-assessing">
+<mods ID="grimm-fernandez-2014-assessing">
     <titleInfo>
         <title>Assessing the Impact of Local Adaptation in Child-Adult Dialogue: A Recurrence-Quantificational Approach</title>
     </titleInfo>
@@ -13,7 +13,7 @@
     </name>
     <name type="personal">
         <namePart type="given">Raquel</namePart>
-        <namePart type="family">Fern\textbackslash’andez</namePart>
+        <namePart type="family">Fernández</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
@@ -34,7 +34,7 @@
         </originInfo>
         <genre authority="marcgt">conference publication</genre>
     </relatedItem>
-    <identifier type="citekey">grimm-fern-andez-2014-assessing</identifier>
+    <identifier type="citekey">grimm-fernandez-2014-assessing</identifier>
     <location>
         <url>https://bakuzen.github.io/anthology/Z14-Grimm_semdial_0028.pdf</url>
     </location>

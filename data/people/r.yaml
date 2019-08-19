@@ -225,7 +225,7 @@ ralf-klabunde:
     - 1
   - - anton-benz
     - 1
-  - - sebastian-reu-ss-e
+  - - sebastian-reusse
     - 1
   - - ronja-laarmann-quante
     - 1
@@ -390,48 +390,28 @@ raphael-troncy:
   papers: []
   slug: raphael-troncy
   venues: []
-raquel-fern-a-ndez:
+raquel-fernandez:
   coauthors:
+  - - robert-grimm
+    - 1
+  - - julian-j-schloder
+    - 1
   - - laura-aina
     - 1
   - - natalia-philippova
     - 1
   - - valentin-vogelmann
     - 1
-  first: Raquel
-  full: Raquel Fern\'{a}ndez
-  last: Fern\'{a}ndez
-  papers:
-  - Z17-1001
-  slug: raquel-fern-a-ndez
-  venues:
-  - - SEMDIAL
-    - 1
-raquel-fern-andez:
-  coauthors:
-  - - robert-grimm
-    - 1
-  - - julian-schl-oder
-    - 1
-  first: Raquel
-  full: Raquel Fern\'andez
-  last: Fern\'andez
-  papers:
-  - Z14-1028
-  - Z14-1047
-  slug: raquel-fern-andez
-  venues:
-  - - SEMDIAL
-    - 2
-raquel-fernandez:
-  coauthors:
   - - sarah-hiller
     - 1
   first: Raquel
   full: "Raquel Fern\xE1ndez"
   last: "Fern\xE1ndez"
   papers:
+  - Z17-1001
   - Z15-1030
+  - Z14-1028
+  - Z14-1047
   slug: raquel-fernandez
   variant_entries:
   - first: Raquel
@@ -439,7 +419,7 @@ raquel-fernandez:
     last: Fernandez
   venues:
   - - SEMDIAL
-    - 1
+    - 4
 raquel-martinez:
   coauthors: []
   first: Raquel
@@ -988,7 +968,7 @@ robert-granville:
   venues: []
 robert-grimm:
   coauthors:
-  - - raquel-fern-andez
+  - - raquel-fernandez
     - 1
   first: Robert
   full: Robert Grimm
@@ -1473,7 +1453,7 @@ ronja-laarmann-quante:
     - 1
   - - anton-benz
     - 1
-  - - sebastian-reu-ss-e
+  - - sebastian-reusse
     - 1
   - - ralf-klabunde
     - 1

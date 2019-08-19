@@ -36,9 +36,9 @@ Z17-1001:
     id: valentin-vogelmann
     last: Vogelmann,
   - first: Raquel
-    full: Raquel Fern\'{a}ndez
-    id: raquel-fern-a-ndez
-    last: Fern\'{a}ndez
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
   bibkey: aina-etal-2017-referring
   bibtype: inproceedings
   booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
@@ -59,10 +59,10 @@ Z17-1002:
     id: simon-dobnik
     last: Dobnik
   - first: Amelie
-    full: Amelie \r{A}stbom
-    id: amelie-r-a-stbom
-    last: \r{A}stbom
-  bibkey: dobnik-r-a-stbom-2017-perceptual
+    full: "Amelie \xC5stbom"
+    id: amelie-astbom
+    last: "\xC5stbom"
+  bibkey: dobnik-astbom-2017-perceptual
   bibtype: inproceedings
   booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
     of Dialogue

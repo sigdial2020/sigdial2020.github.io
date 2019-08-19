@@ -6,23 +6,6 @@ j-angus-webb:
   papers: []
   slug: j-angus-webb
   venues: []
-j-er-emy-perret:
-  coauthors:
-  - - stergos-afantenos
-    - 1
-  - - nicholas-asher
-    - 1
-  - - alex-lascarides
-    - 1
-  first: J\'er\'emy
-  full: J\'er\'emy Perret
-  last: Perret
-  papers:
-  - Z14-1019
-  slug: j-er-emy-perret
-  venues:
-  - - SEMDIAL
-    - 1
 j-fernando-sanchez-rada:
   coauthors: []
   first: J. Fernando
@@ -1093,23 +1076,26 @@ jeremy-leixa:
   venues: []
 jeremy-perret:
   coauthors:
+  - - stergos-afantenos
+    - 2
+  - - nicholas-asher
+    - 2
+  - - alex-lascarides
+    - 1
   - - julie-hunter
     - 1
-  - - nicholas-asher
-    - 1
   - - eric-kow
-    - 1
-  - - stergos-afantenos
     - 1
   first: "J\xE9r\xE9my"
   full: "J\xE9r\xE9my Perret"
   last: Perret
   papers:
   - Z15-1014
+  - Z14-1019
   slug: jeremy-perret
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 jeremy-trione:
   coauthors: []
   first: "J\xE9r\xE9my"
@@ -1514,37 +1500,6 @@ jisha-p-jayan:
   papers: []
   slug: jisha-p-jayan
   venues: []
-jo-a-o-paulo-cabral:
-  coauthors:
-  - - nick-campbell
-    - 1
-  - - sree-ganesh
-    - 1
-  - - mina-kheirkhah
-    - 1
-  - - emer-gilmartin
-    - 1
-  - - fasih-haider
-    - 1
-  - - eamonn-kenny
-    - 1
-  - - andrew-murphy
-    - 1
-  - - neasa-n-i-chiar-ain
-    - 1
-  - - thomas-pellegrini
-    - 1
-  - - odei-rey-orozko
-    - 1
-  first: Jo\~{a}o Paulo
-  full: Jo\~{a}o Paulo Cabral
-  last: Cabral
-  papers:
-  - Z14-1022
-  slug: jo-a-o-paulo-cabral
-  venues:
-  - - SEMDIAL
-    - 1
 jo-calder:
   coauthors: []
   first: Jo
@@ -1649,6 +1604,37 @@ joao-paulo-cabral:
   papers: []
   slug: joao-paulo-cabral
   venues: []
+joao-paulo-cabral1:
+  coauthors:
+  - - nick-campbell
+    - 1
+  - - sree-ganesh
+    - 1
+  - - mina-kheirkhah
+    - 1
+  - - emer-gilmartin
+    - 1
+  - - fasih-haider
+    - 1
+  - - eamonn-kenny
+    - 1
+  - - andrew-murphy
+    - 1
+  - - neasa-ni-chiarain
+    - 1
+  - - thomas-pellegrini
+    - 1
+  - - odei-rey-orozko
+    - 1
+  first: "Jo\xE3o Paulo"
+  full: "Jo\xE3o Paulo Cabral"
+  last: Cabral
+  papers:
+  - Z14-1022
+  slug: joao-paulo-cabral1
+  venues:
+  - - SEMDIAL
+    - 1
 joao-paulo-cordeiro:
   coauthors: []
   first: "Jo\xE3o Paulo"
@@ -2183,7 +2169,7 @@ jon-stevens:
   coauthors:
   - - anton-benz
     - 1
-  - - sebastian-reu-ss-e
+  - - sebastian-reusse
     - 1
   - - ronja-laarmann-quante
     - 1
@@ -2975,6 +2961,8 @@ julian-j-odell:
   venues: []
 julian-j-schloder:
   coauthors:
+  - - raquel-fernandez
+    - 1
   - - alex-lascarides
     - 1
   first: Julian J.
@@ -2982,6 +2970,7 @@ julian-j-schloder:
   last: "Schl\xF6der"
   papers:
   - Z15-1018
+  - Z14-1047
   slug: julian-j-schloder
   variant_entries:
   - first: Julian
@@ -2989,7 +2978,7 @@ julian-j-schloder:
     last: "Schl\xF6der"
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 julian-moreno-schneider:
   coauthors: []
   first: Julian
@@ -2998,19 +2987,6 @@ julian-moreno-schneider:
   papers: []
   slug: julian-moreno-schneider
   venues: []
-julian-schl-oder:
-  coauthors:
-  - - raquel-fern-andez
-    - 1
-  first: Julian
-  full: Julian Schl\"oder
-  last: Schl\"oder
-  papers:
-  - Z14-1047
-  slug: julian-schl-oder
-  venues:
-  - - SEMDIAL
-    - 1
 juliana-miehle:
   coauthors:
   - - nadine-gerstenlauer

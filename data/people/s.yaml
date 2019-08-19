@@ -702,7 +702,7 @@ sebastian-pena-saldarriaga:
   papers: []
   slug: sebastian-pena-saldarriaga
   venues: []
-sebastian-reu-ss-e:
+sebastian-reusse:
   coauthors:
   - - jon-stevens
     - 1
@@ -713,11 +713,11 @@ sebastian-reu-ss-e:
   - - ralf-klabunde
     - 1
   first: Sebastian
-  full: Sebastian Reu{\ss}e
-  last: Reu{\ss}e
+  full: "Sebastian Reu\xDFe"
+  last: "Reu\xDFe"
   papers:
   - Z14-1020
-  slug: sebastian-reu-ss-e
+  slug: sebastian-reusse
   venues:
   - - SEMDIAL
     - 1
@@ -1567,7 +1567,7 @@ simon-dobnik:
     - 1
   - - sebastian-berlin
     - 1
-  - - amelie-r-a-stbom
+  - - amelie-astbom
     - 1
   - - christine-howes
     - 1
@@ -1912,7 +1912,7 @@ spyros-raptis:
   venues: []
 sree-ganesh:
   coauthors:
-  - - jo-a-o-paulo-cabral
+  - - joao-paulo-cabral1
     - 1
   - - nick-campbell
     - 1
@@ -1926,7 +1926,7 @@ sree-ganesh:
     - 1
   - - andrew-murphy
     - 1
-  - - neasa-n-i-chiar-ain
+  - - neasa-ni-chiarain
     - 1
   - - thomas-pellegrini
     - 1
@@ -2474,17 +2474,15 @@ stergios-chatzikyriakidis:
     - 1
 stergos-afantenos:
   coauthors:
+  - - jeremy-perret
+    - 2
   - - nicholas-asher
     - 2
-  - - j-er-emy-perret
-    - 1
   - - alex-lascarides
     - 1
   - - julie-hunter
     - 1
   - - eric-kow
-    - 1
-  - - jeremy-perret
     - 1
   first: Stergos
   full: Stergos Afantenos

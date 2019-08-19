@@ -148,7 +148,7 @@ laura-aina:
     - 1
   - - valentin-vogelmann
     - 1
-  - - raquel-fern-a-ndez
+  - - raquel-fernandez
     - 1
   first: Laura
   full: Laura Aina
@@ -918,21 +918,6 @@ louisette-emirkanian:
   papers: []
   slug: louisette-emirkanian
   venues: []
-lu-isa-coheur:
-  coauthors:
-  - - daniel-magarreiro
-    - 1
-  - - francisco-melo
-    - 1
-  first: Lu\'isa
-  full: Lu\'isa Coheur
-  last: Coheur
-  papers:
-  - Z14-1015
-  slug: lu-isa-coheur
-  venues:
-  - - SEMDIAL
-    - 1
 luana-fagarasan:
   coauthors: []
   first: Luana
@@ -1173,13 +1158,20 @@ luis-villasenor-pineda:
   slug: luis-villasenor-pineda
   venues: []
 luisa-coheur:
-  coauthors: []
+  coauthors:
+  - - daniel-magarreiro
+    - 1
+  - - francisco-melo
+    - 1
   first: "Lu\xEDsa"
   full: "Lu\xEDsa Coheur"
   last: Coheur
-  papers: []
+  papers:
+  - Z14-1015
   slug: luisa-coheur
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 luisa-pereira:
   coauthors: []
   first: "Lu\xEDsa"

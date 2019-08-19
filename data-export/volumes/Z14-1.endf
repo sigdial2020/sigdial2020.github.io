@@ -180,7 +180,7 @@
 %0 Conference Proceedings
 %T Using subtitles to deal with Out-of-Domain interactions
 %A Magarreiro, Daniel
-%A Coheur, Lu\textbackslash?isa
+%A Coheur, Luísa
 %A Melo, Francisco
 %B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue
 %D 2014
@@ -229,7 +229,7 @@
 
 %0 Conference Proceedings
 %T Revealing Resources in Strategic Contexts
-%A Perret, J\textbackslash?er\textbackslash?emy
+%A Perret, Jérémy
 %A Afantenos, Stergos
 %A Asher, Nicholas
 %A Lascarides, Alex
@@ -245,7 +245,7 @@
 %T Indirect answers as potential solutions to decision problems
 %A Stevens, Jon
 %A Benz, Anton
-%A Reu\textbackslashsse, Sebastian
+%A Reuße, Sebastian
 %A Laarmann-Quante, Ronja
 %A Klabunde, Ralf
 %B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue
@@ -260,7 +260,7 @@
 %T Credibility and its Attacks.
 %A Venant, Antoine
 %A Asher, Nicholas
-%A D\textbackslash?egremont, C\textbackslash?edric
+%A Dégremont, Cédric
 %B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue
 %D 2014
 %8 aug
@@ -271,7 +271,7 @@
 
 %0 Conference Proceedings
 %T MILLA ? A Multimodal Interactive Language Learning Agent
-%A Cabral, Jo\textbackslash~ao Paulo
+%A Cabral, João Paulo
 %A Campbell, Nick
 %A Ganesh, Sree
 %A Kheirkhah, Mina
@@ -279,7 +279,7 @@
 %A Haider, Fasih
 %A Kenny, Eamonn
 %A Murphy, Andrew
-%A Chiar\textbackslash?ain, Neasa N\textbackslash?i
+%A Chiaráin, Neasa Ní
 %A Pellegrini, Thomas
 %A Orozko, Odei Rey
 %B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue
@@ -361,13 +361,13 @@
 %0 Conference Proceedings
 %T Assessing the Impact of Local Adaptation in Child-Adult Dialogue: A Recurrence-Quantificational Approach
 %A Grimm, Robert
-%A Fern\textbackslash?andez, Raquel
+%A Fernández, Raquel
 %B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue
 %D 2014
 %8 aug
 %I SEMDIAL
 %C Edinburgh, United Kingdom
-%F grimm-fern-andez-2014-assessing
+%F grimm-fernandez-2014-assessing
 %U https://bakuzen.github.io/anthology/Z14-Grimm_semdial_0028.pdf
 
 %0 Conference Proceedings
@@ -633,15 +633,15 @@
 
 %0 Conference Proceedings
 %T Clarification Requests at the Level of Uptake
-%A Schl\textbackslash"oder, Julian
-%A Fern\textbackslash?andez, Raquel
+%A Schlöder, Julian
+%A Fernández, Raquel
 %B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue
 %D 2014
 %8 aug
 %I SEMDIAL
 %C Edinburgh, United Kingdom
-%F schl-oder-fern-andez-2014-clarification
-%U https://bakuzen.github.io/anthology/Z14-Schl\"oder_semdial_0047.pdf
+%F schloder-fernandez-2014-clarification
+%U https://bakuzen.github.io/anthology/Z14-SchlÃ¶der_semdial_0047.pdf
 
 %0 Conference Proceedings
 %T Tailoring Object Orientation Descriptions to the Dialogue Context

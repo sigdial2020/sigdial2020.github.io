@@ -743,7 +743,7 @@ alex-lascarides:
   coauthors:
   - - markus-guhe
     - 1
-  - - j-er-emy-perret
+  - - jeremy-perret
     - 1
   - - stergos-afantenos
     - 1
@@ -1337,16 +1337,16 @@ amedeo-cappelli:
   papers: []
   slug: amedeo-cappelli
   venues: []
-amelie-r-a-stbom:
+amelie-astbom:
   coauthors:
   - - simon-dobnik
     - 1
   first: Amelie
-  full: Amelie \r{A}stbom
-  last: \r{A}stbom
+  full: "Amelie \xC5stbom"
+  last: "\xC5stbom"
   papers:
   - Z17-1002
-  slug: amelie-r-a-stbom
+  slug: amelie-astbom
   venues:
   - - SEMDIAL
     - 1
@@ -1890,7 +1890,7 @@ andrew-mackinlay:
   venues: []
 andrew-murphy:
   coauthors:
-  - - jo-a-o-paulo-cabral
+  - - joao-paulo-cabral1
     - 1
   - - nick-campbell
     - 1
@@ -1904,7 +1904,7 @@ andrew-murphy:
     - 1
   - - eamonn-kenny
     - 1
-  - - neasa-n-i-chiar-ain
+  - - neasa-ni-chiarain
     - 1
   - - thomas-pellegrini
     - 1
@@ -2372,7 +2372,7 @@ antoine-venant:
   coauthors:
   - - nicholas-asher
     - 1
-  - - c-edric-d-egremont
+  - - cedric-degremont
     - 1
   first: Antoine
   full: Antoine Venant
@@ -2395,7 +2395,7 @@ anton-benz:
   coauthors:
   - - jon-stevens
     - 1
-  - - sebastian-reu-ss-e
+  - - sebastian-reusse
     - 1
   - - ronja-laarmann-quante
     - 1
