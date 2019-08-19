@@ -94,6 +94,31 @@ abe-ittycheriah:
   papers: []
   slug: abe-ittycheriah
   venues: []
+abeer-alsaiari:
+  coauthors:
+  - - abhinav-kumar
+    - 1
+  - - jillian-aurisano
+    - 1
+  - - barbara-di-eugenio
+    - 1
+  - - andrew-johnson
+    - 1
+  - - nigel-flowers
+    - 1
+  - - alberto-gonzalez
+    - 1
+  - - jason-leigh
+    - 1
+  first: Abeer
+  full: Abeer Alsaiari
+  last: Alsaiari
+  papers:
+  - Z17-1005
+  slug: abeer-alsaiari
+  venues:
+  - - SEMDIAL
+    - 1
 abhay-l-kashyap:
   coauthors: []
   first: Abhay
@@ -102,6 +127,31 @@ abhay-l-kashyap:
   papers: []
   slug: abhay-l-kashyap
   venues: []
+abhinav-kumar:
+  coauthors:
+  - - jillian-aurisano
+    - 1
+  - - barbara-di-eugenio
+    - 1
+  - - andrew-johnson
+    - 1
+  - - abeer-alsaiari
+    - 1
+  - - nigel-flowers
+    - 1
+  - - alberto-gonzalez
+    - 1
+  - - jason-leigh
+    - 1
+  first: Abhinav
+  full: Abhinav Kumar
+  last: Kumar
+  papers:
+  - Z17-1005
+  slug: abhinav-kumar
+  venues:
+  - - SEMDIAL
+    - 1
 abhyuday-jagannatha:
   coauthors: []
   first: Abhyuday
@@ -246,6 +296,17 @@ adriana-badulescu:
   papers: []
   slug: adriana-badulescu
   venues: []
+adriana-osa:
+  coauthors: []
+  first: Adriana
+  full: Adriana Osa
+  last: Osa
+  papers:
+  - Z17-1010
+  slug: adriana-osa
+  venues:
+  - - SEMDIAL
+    - 1
 adriana-roventini:
   coauthors: []
   first: Adriana
@@ -550,6 +611,31 @@ alberto-garcia-duran:
   papers: []
   slug: alberto-garcia-duran
   venues: []
+alberto-gonzalez:
+  coauthors:
+  - - abhinav-kumar
+    - 1
+  - - jillian-aurisano
+    - 1
+  - - barbara-di-eugenio
+    - 1
+  - - andrew-johnson
+    - 1
+  - - abeer-alsaiari
+    - 1
+  - - nigel-flowers
+    - 1
+  - - jason-leigh
+    - 1
+  first: Alberto
+  full: Alberto Gonzalez
+  last: Gonzalez
+  papers:
+  - Z17-1005
+  slug: alberto-gonzalez
+  venues:
+  - - SEMDIAL
+    - 1
 alberto-lavelli:
   coauthors: []
   first: Alberto
@@ -877,6 +963,21 @@ alexandros-papangelis:
   papers: []
   slug: alexandros-papangelis
   venues: []
+alexandros-potamianos:
+  coauthors:
+  - - pinelopi-papalampidi
+    - 1
+  - - elias-iosif
+    - 1
+  first: Alexandros
+  full: Alexandros Potamianos
+  last: Potamianos
+  papers:
+  - Z17-1011
+  slug: alexandros-potamianos
+  venues:
+  - - SEMDIAL
+    - 1
 alexandru-ceausu:
   coauthors: []
   first: Alexandru
@@ -1149,6 +1250,19 @@ amedeo-cappelli:
   papers: []
   slug: amedeo-cappelli
   venues: []
+amelie-r-a-stbom:
+  coauthors:
+  - - simon-dobnik
+    - 1
+  first: Amelie
+  full: Amelie \r{A}stbom
+  last: \r{A}stbom
+  papers:
+  - Z17-1002
+  slug: amelie-r-a-stbom
+  venues:
+  - - SEMDIAL
+    - 1
 aminul-islam:
   coauthors: []
   first: Aminul
@@ -1157,6 +1271,27 @@ aminul-islam:
   papers: []
   slug: aminul-islam
   venues: []
+amita-misra:
+  coauthors:
+  - - shereen-oraby
+    - 1
+  - - shubhangi-tandon
+    - 1
+  - - sharath-ts
+    - 1
+  - - pranav-anand
+    - 1
+  - - marilyn-walker
+    - 1
+  first: Amita
+  full: Amita Misra
+  last: Misra
+  papers:
+  - Z17-1008
+  slug: amita-misra
+  venues:
+  - - SEMDIAL
+    - 1
 amol-deshmukh:
   coauthors:
   - - srinivasan-janarthanam
@@ -1475,20 +1610,21 @@ andrei-butnaru:
 andrei-malchanau:
   coauthors:
   - - volha-petukhova
-    - 1
+    - 2
   - - harry-bunt
-    - 1
+    - 2
   - - ramkumar-aruchamy
     - 1
   first: Andrei
   full: Andrei Malchanau
   last: Malchanau
   papers:
+  - Z17-1012
   - Z15-1041
   slug: andrei-malchanau
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 andrei-popescu-belis:
   coauthors: []
   first: Andrei
@@ -1605,6 +1741,31 @@ andrew-j-anderson:
   papers: []
   slug: andrew-j-anderson
   venues: []
+andrew-johnson:
+  coauthors:
+  - - abhinav-kumar
+    - 1
+  - - jillian-aurisano
+    - 1
+  - - barbara-di-eugenio
+    - 1
+  - - abeer-alsaiari
+    - 1
+  - - nigel-flowers
+    - 1
+  - - alberto-gonzalez
+    - 1
+  - - jason-leigh
+    - 1
+  first: Andrew
+  full: Andrew Johnson
+  last: Johnson
+  papers:
+  - Z17-1005
+  slug: andrew-johnson
+  venues:
+  - - SEMDIAL
+    - 1
 andrew-kehler:
   coauthors: []
   first: Andrew
@@ -1701,6 +1862,17 @@ angela-costa:
   papers: []
   slug: angela-costa
   venues: []
+angelika-kiss:
+  coauthors: []
+  first: Angelika
+  full: Angelika Kiss
+  last: Kiss
+  papers:
+  - Z17-1004
+  slug: angelika-kiss
+  venues:
+  - - SEMDIAL
+    - 1
 angelika-storrer:
   coauthors: []
   first: Angelika
@@ -1725,6 +1897,21 @@ angrosh-mandya:
   papers: []
   slug: angrosh-mandya
   venues: []
+anh-duong-trinh:
+  coauthors:
+  - - robert-j-ross
+    - 1
+  - - john-kelleher
+    - 1
+  first: Anh Duong
+  full: Anh Duong Trinh
+  last: Trinh
+  papers:
+  - Z17-1027
+  slug: anh-duong-trinh
+  venues:
+  - - SEMDIAL
+    - 1
 anil-kumar-nelakanti:
   coauthors: []
   first: Anil Kumar
@@ -2246,6 +2433,21 @@ aparna-nurani-venkitasubramanian:
   papers: []
   slug: aparna-nurani-venkitasubramanian
   venues: []
+arabella-sinclair:
+  coauthors:
+  - - jon-oberlander
+    - 1
+  - - dragan-gasevic
+    - 1
+  first: Arabella
+  full: Arabella Sinclair
+  last: Sinclair
+  papers:
+  - Z17-1014
+  slug: arabella-sinclair
+  venues:
+  - - SEMDIAL
+    - 1
 arantza-casillas:
   coauthors: []
   first: Arantza
@@ -2264,20 +2466,23 @@ arantza-diaz-de-ilarraza:
   venues: []
 arash-eshghi:
   coauthors:
-  - - yanchao-yu
-    - 1
   - - oliver-lemon
+    - 2
+  - - igor-shalyminov
+    - 1
+  - - yanchao-yu
     - 1
   first: Arash
   full: Arash Eshghi
   last: Eshghi
   papers:
+  - Z17-1013
   - Z15-1028
   - Z15-1049
   slug: arash-eshghi
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 aravind-joshi:
   coauthors: []
   first: Aravind
@@ -2505,6 +2710,27 @@ ashish-v-tendulkar:
   papers: []
   slug: ashish-v-tendulkar
   venues: []
+ashley-green:
+  coauthors:
+  - - veronika-timpe-laughlin
+    - 1
+  - - keelan-evanini
+    - 1
+  - - ian-blood
+    - 1
+  - - judit-dombi
+    - 1
+  - - vikram-ramanarayanan
+    - 1
+  first: Ashley
+  full: Ashley Green
+  last: Green
+  papers:
+  - Z17-1015
+  slug: ashley-green
+  venues:
+  - - SEMDIAL
+    - 1
 ashok-popat:
   coauthors: []
   first: Ashok

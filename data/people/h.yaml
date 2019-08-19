@@ -152,17 +152,26 @@ hannah-bechara:
   venues: []
 hannah-rohde:
   coauthors:
+  - - ernisa-marzuki
+    - 1
+  - - chris-cummins
+    - 1
+  - - gareth-clegg
+    - 1
+  - - holly-branigan
+    - 1
   - - hodgdon-stevens
     - 1
   first: Hannah
   full: Hannah Rohde
   last: Rohde
   papers:
+  - Z17-1007
   - Z15-1047
   slug: hannah-rohde
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 hanne-erdman-thomsen:
   coauthors: []
   first: Hanne Erdman
@@ -329,20 +338,21 @@ harry-bratt:
 harry-bunt:
   coauthors:
   - - volha-petukhova
-    - 1
+    - 2
   - - andrei-malchanau
-    - 1
+    - 2
   - - ramkumar-aruchamy
     - 1
   first: Harry
   full: Harry Bunt
   last: Bunt
   papers:
+  - Z17-1012
   - Z15-1041
   slug: harry-bunt
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 harry-j-tily:
   coauthors: []
   first: Harry J.
@@ -833,6 +843,39 @@ hinrich-schutze:
   papers: []
   slug: hinrich-schutze
   venues: []
+hiroaki-ito:
+  coauthors:
+  - - ryuichiro-higashinaka
+    - 1
+  - - kazuki-sakai
+    - 1
+  - - hiroaki-sugiyama
+    - 1
+  - - hiromi-narimatsu
+    - 1
+  - - tsunehiro-arimoto
+    - 1
+  - - takaaki-fukutomi-kiyoaki-matsui
+    - 1
+  - - yusuke-ijima
+    - 1
+  - - shoko-araki
+    - 1
+  - - yuichiro-yoshikawa
+    - 1
+  - - hiroshi-ishiguro
+    - 1
+  - - yoshihiro-matsuo
+    - 1
+  first: Hiroaki
+  full: Hiroaki Ito
+  last: Ito
+  papers:
+  - Z17-1016
+  slug: hiroaki-ito
+  venues:
+  - - SEMDIAL
+    - 1
 hiroaki-saito:
   coauthors: []
   first: Hiroaki
@@ -841,6 +884,39 @@ hiroaki-saito:
   papers: []
   slug: hiroaki-saito
   venues: []
+hiroaki-sugiyama:
+  coauthors:
+  - - ryuichiro-higashinaka
+    - 1
+  - - kazuki-sakai
+    - 1
+  - - hiromi-narimatsu
+    - 1
+  - - tsunehiro-arimoto
+    - 1
+  - - takaaki-fukutomi-kiyoaki-matsui
+    - 1
+  - - yusuke-ijima
+    - 1
+  - - hiroaki-ito
+    - 1
+  - - shoko-araki
+    - 1
+  - - yuichiro-yoshikawa
+    - 1
+  - - hiroshi-ishiguro
+    - 1
+  - - yoshihiro-matsuo
+    - 1
+  first: Hiroaki
+  full: Hiroaki Sugiyama
+  last: Sugiyama
+  papers:
+  - Z17-1016
+  slug: hiroaki-sugiyama
+  venues:
+  - - SEMDIAL
+    - 1
 hirofumi-yamamoto:
   coauthors: []
   first: Hirofumi
@@ -865,6 +941,39 @@ hiromi-nakaiwa:
   papers: []
   slug: hiromi-nakaiwa
   venues: []
+hiromi-narimatsu:
+  coauthors:
+  - - ryuichiro-higashinaka
+    - 1
+  - - kazuki-sakai
+    - 1
+  - - hiroaki-sugiyama
+    - 1
+  - - tsunehiro-arimoto
+    - 1
+  - - takaaki-fukutomi-kiyoaki-matsui
+    - 1
+  - - yusuke-ijima
+    - 1
+  - - hiroaki-ito
+    - 1
+  - - shoko-araki
+    - 1
+  - - yuichiro-yoshikawa
+    - 1
+  - - hiroshi-ishiguro
+    - 1
+  - - yoshihiro-matsuo
+    - 1
+  first: Hiromi
+  full: Hiromi Narimatsu
+  last: Narimatsu
+  papers:
+  - Z17-1016
+  slug: hiromi-narimatsu
+  venues:
+  - - SEMDIAL
+    - 1
 hiromi-ozaku:
   coauthors: []
   first: Hiromi
@@ -897,6 +1006,39 @@ hiroshi-g-okuno:
   papers: []
   slug: hiroshi-g-okuno
   venues: []
+hiroshi-ishiguro:
+  coauthors:
+  - - ryuichiro-higashinaka
+    - 1
+  - - kazuki-sakai
+    - 1
+  - - hiroaki-sugiyama
+    - 1
+  - - hiromi-narimatsu
+    - 1
+  - - tsunehiro-arimoto
+    - 1
+  - - takaaki-fukutomi-kiyoaki-matsui
+    - 1
+  - - yusuke-ijima
+    - 1
+  - - hiroaki-ito
+    - 1
+  - - shoko-araki
+    - 1
+  - - yuichiro-yoshikawa
+    - 1
+  - - yoshihiro-matsuo
+    - 1
+  first: Hiroshi
+  full: Hiroshi Ishiguro
+  last: Ishiguro
+  papers:
+  - Z17-1016
+  slug: hiroshi-ishiguro
+  venues:
+  - - SEMDIAL
+    - 1
 hiroshi-masuichi:
   coauthors: []
   first: Hiroshi
@@ -1032,6 +1174,14 @@ holger-hoffmann:
   venues: []
 holly-branigan:
   coauthors:
+  - - ernisa-marzuki
+    - 1
+  - - hannah-rohde
+    - 1
+  - - chris-cummins
+    - 1
+  - - gareth-clegg
+    - 1
   - - lucia-castillo
     - 1
   - - kenny-smith
@@ -1040,11 +1190,12 @@ holly-branigan:
   full: Holly Branigan
   last: Branigan
   papers:
+  - Z17-1007
   - Z15-1023
   slug: holly-branigan
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 hong-i-ng:
   coauthors: []
   first: Hong-I
@@ -1213,6 +1364,27 @@ huarui-zhang:
   papers: []
   slug: huarui-zhang
   venues: []
+hubertus-feussner:
+  coauthors:
+  - - juliana-miehle
+    - 1
+  - - nadine-gerstenlauer
+    - 1
+  - - daniel-ostler
+    - 1
+  - - wolfgang-minker
+    - 1
+  - - stefan-ultes
+    - 1
+  first: Hubertus
+  full: Hubertus Feussner
+  last: Feussner
+  papers:
+  - Z17-1021
+  slug: hubertus-feussner
+  venues:
+  - - SEMDIAL
+    - 1
 huda-almuzaini:
   coauthors: []
   first: Huda

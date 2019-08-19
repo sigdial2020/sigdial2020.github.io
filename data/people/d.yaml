@@ -286,6 +286,19 @@ daniel-keim:
   papers: []
   slug: daniel-keim
   venues: []
+daniel-kondratyuk:
+  coauthors:
+  - - casey-kennington
+    - 1
+  first: Daniel
+  full: Daniel Kondratyuk
+  last: Kondratyuk
+  papers:
+  - Z17-1019
+  slug: daniel-kondratyuk
+  venues:
+  - - SEMDIAL
+    - 1
 daniel-m-bikel:
   coauthors: []
   first: Daniel M.
@@ -310,6 +323,27 @@ daniel-ortiz-martinez:
   papers: []
   slug: daniel-ortiz-martinez
   venues: []
+daniel-ostler:
+  coauthors:
+  - - juliana-miehle
+    - 1
+  - - nadine-gerstenlauer
+    - 1
+  - - hubertus-feussner
+    - 1
+  - - wolfgang-minker
+    - 1
+  - - stefan-ultes
+    - 1
+  first: Daniel
+  full: Daniel Ostler
+  last: Ostler
+  papers:
+  - Z17-1021
+  slug: daniel-ostler
+  venues:
+  - - SEMDIAL
+    - 1
 daniel-p-mills:
   coauthors: []
   first: Daniel P.
@@ -945,13 +979,35 @@ david-stallard:
   slug: david-stallard
   venues: []
 david-suendermann-oeft:
-  coauthors: []
+  coauthors:
+  - - patrick-l-lange
+    - 2
+  - - yao-qian
+    - 1
+  - - rutuja-ubale
+    - 1
+  - - vikram-ramanaryanan
+    - 1
+  - - keelan-evanini
+    - 1
+  - - eugene-tsuprun
+    - 1
+  - - dirk-schnelle-walka
+    - 1
+  - - vikram-ramanarayanan
+    - 1
+  - - stefan-radomski
+    - 1
   first: David
   full: David Suendermann-Oeft
   last: Suendermann-Oeft
-  papers: []
+  papers:
+  - Z17-1023
+  - Z17-1025
   slug: david-suendermann-oeft
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 2
 david-tomas:
   coauthors: []
   first: David
@@ -1459,6 +1515,25 @@ dirk-heylen:
   papers: []
   slug: dirk-heylen
   venues: []
+dirk-schnelle-walka:
+  coauthors:
+  - - vikram-ramanarayanan
+    - 1
+  - - stefan-radomski
+    - 1
+  - - patrick-l-lange
+    - 1
+  - - david-suendermann-oeft
+    - 1
+  first: Dirk
+  full: Dirk Schnelle-Walka
+  last: Schnelle-Walka
+  papers:
+  - Z17-1025
+  slug: dirk-schnelle-walka
+  venues:
+  - - SEMDIAL
+    - 1
 dirk-von-gruenigen:
   coauthors: []
   first: Dirk
@@ -1723,6 +1798,21 @@ douglass-cutting:
   papers: []
   slug: douglass-cutting
   venues: []
+dragan-gasevic:
+  coauthors:
+  - - arabella-sinclair
+    - 1
+  - - jon-oberlander
+    - 1
+  first: Dragan
+  full: Dragan Gasevic
+  last: Gasevic
+  papers:
+  - Z17-1014
+  slug: dragan-gasevic
+  venues:
+  - - SEMDIAL
+    - 1
 dragomir-radev:
   coauthors: []
   first: Dragomir

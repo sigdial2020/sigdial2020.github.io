@@ -142,6 +142,23 @@ lauma-pretkalnina:
   papers: []
   slug: lauma-pretkalnina
   venues: []
+laura-aina:
+  coauthors:
+  - - natalia-philippova
+    - 1
+  - - valentin-vogelmann
+    - 1
+  - - raquel-fern-a-ndez
+    - 1
+  first: Laura
+  full: Laura Aina
+  last: Aina
+  papers:
+  - Z17-1001
+  slug: laura-aina
+  venues:
+  - - SEMDIAL
+    - 1
 laura-alonso-alemany:
   coauthors: []
   first: Laura

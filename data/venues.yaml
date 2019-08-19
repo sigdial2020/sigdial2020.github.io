@@ -1004,14 +1004,17 @@ SEMDIAL:
   is_acl: false
   is_toplevel: true
   main_letter: Z
-  name: SEMDIAL Conference
+  name: SEMDIAL Workshop
   slug: semdial
   type: Non ACL
   volumes_by_year:
     '2015':
     - Z15-1
+    '2017':
+    - Z17-1
   years:
   - '2015'
+  - '2017'
 SEMITIC:
   is_acl: true
   is_toplevel: false

@@ -705,6 +705,21 @@ seiichi-nakagawa:
   papers: []
   slug: seiichi-nakagawa
   venues: []
+seiichi-yamamoto:
+  coauthors:
+  - - ichiro-umata
+    - 1
+  - - koki-ijuin
+    - 1
+  first: Seiichi
+  full: Seiichi Yamamoto
+  last: Yamamoto
+  papers:
+  - Z17-1028
+  slug: seiichi-yamamoto
+  venues:
+  - - SEMDIAL
+    - 1
 selcuk-kopru:
   coauthors: []
   first: Selcuk
@@ -873,6 +888,27 @@ sharath-chandra-guntuku:
   papers: []
   slug: sharath-chandra-guntuku
   venues: []
+sharath-ts:
+  coauthors:
+  - - amita-misra
+    - 1
+  - - shereen-oraby
+    - 1
+  - - shubhangi-tandon
+    - 1
+  - - pranav-anand
+    - 1
+  - - marilyn-walker
+    - 1
+  first: Sharath
+  full: Sharath Ts
+  last: Ts
+  papers:
+  - Z17-1008
+  slug: sharath-ts
+  venues:
+  - - SEMDIAL
+    - 1
 shari-landes:
   coauthors: []
   first: Shari
@@ -969,6 +1005,27 @@ sheng-he-sun:
   papers: []
   slug: sheng-he-sun
   venues: []
+shereen-oraby:
+  coauthors:
+  - - amita-misra
+    - 1
+  - - shubhangi-tandon
+    - 1
+  - - sharath-ts
+    - 1
+  - - pranav-anand
+    - 1
+  - - marilyn-walker
+    - 1
+  first: Shereen
+  full: Shereen Oraby
+  last: Oraby
+  papers:
+  - Z17-1008
+  slug: shereen-oraby
+  venues:
+  - - SEMDIAL
+    - 1
 sherri-condon:
   coauthors: []
   first: Sherri
@@ -1129,6 +1186,39 @@ shoichi-yokoyama:
   papers: []
   slug: shoichi-yokoyama
   venues: []
+shoko-araki:
+  coauthors:
+  - - ryuichiro-higashinaka
+    - 1
+  - - kazuki-sakai
+    - 1
+  - - hiroaki-sugiyama
+    - 1
+  - - hiromi-narimatsu
+    - 1
+  - - tsunehiro-arimoto
+    - 1
+  - - takaaki-fukutomi-kiyoaki-matsui
+    - 1
+  - - yusuke-ijima
+    - 1
+  - - hiroaki-ito
+    - 1
+  - - yuichiro-yoshikawa
+    - 1
+  - - hiroshi-ishiguro
+    - 1
+  - - yoshihiro-matsuo
+    - 1
+  first: Shoko
+  full: Shoko Araki
+  last: Araki
+  papers:
+  - Z17-1016
+  slug: shoko-araki
+  venues:
+  - - SEMDIAL
+    - 1
 shoko-wakamiya:
   coauthors: []
   first: Shoko
@@ -1201,6 +1291,27 @@ shuanglong-li:
   papers: []
   slug: shuanglong-li
   venues: []
+shubhangi-tandon:
+  coauthors:
+  - - amita-misra
+    - 1
+  - - shereen-oraby
+    - 1
+  - - sharath-ts
+    - 1
+  - - pranav-anand
+    - 1
+  - - marilyn-walker
+    - 1
+  first: Shubhangi
+  full: Shubhangi Tandon
+  last: Tandon
+  papers:
+  - Z17-1008
+  slug: shubhangi-tandon
+  venues:
+  - - SEMDIAL
+    - 1
 shuichi-itahashi:
   coauthors: []
   first: Shuichi
@@ -1363,6 +1474,8 @@ simon-de-deyne:
   venues: []
 simon-dobnik:
   coauthors:
+  - - amelie-r-a-stbom
+    - 1
   - - christine-howes
     - 1
   - - john-kelleher
@@ -1373,12 +1486,13 @@ simon-dobnik:
   full: Simon Dobnik
   last: Dobnik
   papers:
+  - Z17-1002
   - Z15-1006
   - Z15-1025
   slug: simon-dobnik
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 simon-dobrisek:
   coauthors: []
   first: Simon
@@ -1389,6 +1503,8 @@ simon-dobrisek:
   venues: []
 simon-keizer:
   coauthors:
+  - - verena-rieser
+    - 1
   - - heriberto-cuayahuitl
     - 1
   - - oliver-lemon
@@ -1397,11 +1513,12 @@ simon-keizer:
   full: Simon Keizer
   last: Keizer
   papers:
+  - Z17-1018
   - Z15-1015
   slug: simon-keizer
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 simon-suster:
   coauthors: []
   first: Simon
@@ -1727,18 +1844,21 @@ ssu-cheng-chen:
   venues: []
 staffan-larsson:
   coauthors:
+  - - jenny-myrendal
+    - 1
   - - christine-howes
     - 1
   first: Staffan
   full: Staffan Larsson
   last: Larsson
   papers:
+  - Z17-1006
   - Z15-1000
   - Z15-1037
   slug: staffan-larsson
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 stan-c-kwasny:
   coauthors: []
   first: Stan C.
@@ -1864,6 +1984,25 @@ stefan-muller:
   papers: []
   slug: stefan-muller
   venues: []
+stefan-radomski:
+  coauthors:
+  - - dirk-schnelle-walka
+    - 1
+  - - vikram-ramanarayanan
+    - 1
+  - - patrick-l-lange
+    - 1
+  - - david-suendermann-oeft
+    - 1
+  first: Stefan
+  full: Stefan Radomski
+  last: Radomski
+  papers:
+  - Z17-1025
+  slug: stefan-radomski
+  venues:
+  - - SEMDIAL
+    - 1
 stefan-rued:
   coauthors: []
   first: Stefan
@@ -1890,21 +2029,30 @@ stefan-steidl:
   venues: []
 stefan-ultes:
   coauthors:
+  - - wolfgang-minker
+    - 2
+  - - juliana-miehle
+    - 1
+  - - nadine-gerstenlauer
+    - 1
+  - - daniel-ostler
+    - 1
+  - - hubertus-feussner
+    - 1
   - - louisa-pragst
     - 1
   - - matthias-kraus
-    - 1
-  - - wolfgang-minker
     - 1
   first: Stefan
   full: Stefan Ultes
   last: Ultes
   papers:
+  - Z17-1021
   - Z15-1043
   slug: stefan-ultes
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 stefan-wagner:
   coauthors: []
   first: Stefan
@@ -2442,6 +2590,17 @@ sungrim-moon:
   papers: []
   slug: sungrim-moon
   venues: []
+sunhee-yae:
+  coauthors: []
+  first: Sunhee
+  full: Sunhee Yae
+  last: Yae
+  papers:
+  - Z17-1030
+  slug: sunhee-yae
+  venues:
+  - - SEMDIAL
+    - 1
 surya-ganesh:
   coauthors: []
   first: Surya
@@ -2578,6 +2737,19 @@ suzanne-liebowitz-taylor:
   papers: []
   slug: suzanne-liebowitz-taylor
   venues: []
+suzanne-renaudier:
+  coauthors:
+  - - gaelle-ferre1
+    - 1
+  first: Suzanne
+  full: Suzanne Renaudier
+  last: Renaudier
+  papers:
+  - Z17-1003
+  slug: suzanne-renaudier
+  venues:
+  - - SEMDIAL
+    - 1
 sv-ramanan:
   coauthors: []
   first: Sv

@@ -6,6 +6,27 @@ nadia-mana:
   papers: []
   slug: nadia-mana
   venues: []
+nadine-gerstenlauer:
+  coauthors:
+  - - juliana-miehle
+    - 1
+  - - daniel-ostler
+    - 1
+  - - hubertus-feussner
+    - 1
+  - - wolfgang-minker
+    - 1
+  - - stefan-ultes
+    - 1
+  first: Nadine
+  full: Nadine Gerstenlauer
+  last: Gerstenlauer
+  papers:
+  - Z17-1021
+  slug: nadine-gerstenlauer
+  venues:
+  - - SEMDIAL
+    - 1
 nadine-glas:
   coauthors:
   - - ken-prepin
@@ -245,6 +266,23 @@ natalia-n-modjeska:
   papers: []
   slug: natalia-n-modjeska
   venues: []
+natalia-philippova:
+  coauthors:
+  - - laura-aina
+    - 1
+  - - valentin-vogelmann
+    - 1
+  - - raquel-fern-a-ndez
+    - 1
+  first: Natalia
+  full: Natalia Philippova
+  last: Philippova
+  papers:
+  - Z17-1001
+  slug: natalia-philippova
+  venues:
+  - - SEMDIAL
+    - 1
 natalie-kubler:
   coauthors: []
   first: Natalie
@@ -592,6 +630,31 @@ niels-ole-bernsen:
   papers: []
   slug: niels-ole-bernsen
   venues: []
+nigel-flowers:
+  coauthors:
+  - - abhinav-kumar
+    - 1
+  - - jillian-aurisano
+    - 1
+  - - barbara-di-eugenio
+    - 1
+  - - andrew-johnson
+    - 1
+  - - abeer-alsaiari
+    - 1
+  - - alberto-gonzalez
+    - 1
+  - - jason-leigh
+    - 1
+  first: Nigel
+  full: Nigel Flowers
+  last: Flowers
+  papers:
+  - Z17-1005
+  slug: nigel-flowers
+  venues:
+  - - SEMDIAL
+    - 1
 nigel-ward:
   coauthors: []
   first: Nigel

@@ -6,6 +6,27 @@ iain-marshall:
   papers: []
   slug: iain-marshall
   venues: []
+ian-blood:
+  coauthors:
+  - - veronika-timpe-laughlin
+    - 1
+  - - keelan-evanini
+    - 1
+  - - ashley-green
+    - 1
+  - - judit-dombi
+    - 1
+  - - vikram-ramanarayanan
+    - 1
+  first: Ian
+  full: Ian Blood
+  last: Blood
+  papers:
+  - Z17-1015
+  slug: ian-blood
+  venues:
+  - - SEMDIAL
+    - 1
 ian-m-oneill:
   coauthors: []
   first: Ian M.
@@ -22,6 +43,21 @@ ian-p-davy:
   papers: []
   slug: ian-p-davy
   venues: []
+ichiro-umata:
+  coauthors:
+  - - koki-ijuin
+    - 1
+  - - seiichi-yamamoto
+    - 1
+  first: Ichiro
+  full: Ichiro Umata
+  last: Umata
+  papers:
+  - Z17-1028
+  slug: ichiro-umata
+  venues:
+  - - SEMDIAL
+    - 1
 ido-dagan:
   coauthors: []
   first: Ido
@@ -62,6 +98,21 @@ igor-melcuk:
   papers: []
   slug: igor-melcuk
   venues: []
+igor-shalyminov:
+  coauthors:
+  - - arash-eshghi
+    - 1
+  - - oliver-lemon
+    - 1
+  first: Igor
+  full: Igor Shalyminov
+  last: Shalyminov
+  papers:
+  - Z17-1013
+  slug: igor-shalyminov
+  venues:
+  - - SEMDIAL
+    - 1
 ihsan-yalcinkaya:
   coauthors: []
   first: Ihsan
@@ -134,6 +185,19 @@ inaki-gaminde:
   papers: []
   slug: inaki-gaminde
   venues: []
+ingmar-steiner:
+  coauthors:
+  - - eran-raveh
+    - 1
+  first: Ingmar
+  full: Ingmar Steiner
+  last: Steiner
+  papers:
+  - Z17-1024
+  slug: ingmar-steiner
+  venues:
+  - - SEMDIAL
+    - 1
 ingrid-meyer:
   coauthors: []
   first: Ingrid
@@ -331,6 +395,19 @@ irshad-bhat:
   papers: []
   slug: irshad-bhat
   venues: []
+iryna-gurevych:
+  coauthors:
+  - - christian-stab
+    - 1
+  first: Iryna
+  full: Iryna Gurevych
+  last: Gurevych
+  papers:
+  - Z17-1026
+  slug: iryna-gurevych
+  venues:
+  - - SEMDIAL
+    - 1
 isabel-segura-bedmar:
   coauthors: []
   first: Isabel

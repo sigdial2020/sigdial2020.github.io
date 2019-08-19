@@ -512,9 +512,17 @@ wolfgang-klein:
   venues: []
 wolfgang-minker:
   coauthors:
-  - - louisa-pragst
-    - 1
   - - stefan-ultes
+    - 2
+  - - juliana-miehle
+    - 1
+  - - nadine-gerstenlauer
+    - 1
+  - - daniel-ostler
+    - 1
+  - - hubertus-feussner
+    - 1
+  - - louisa-pragst
     - 1
   - - matthias-kraus
     - 1
@@ -522,11 +530,12 @@ wolfgang-minker:
   full: Wolfgang Minker
   last: Minker
   papers:
+  - Z17-1021
   - Z15-1043
   slug: wolfgang-minker
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 wolfgang-wahlster:
   coauthors: []
   first: Wolfgang

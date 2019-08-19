@@ -163,6 +163,29 @@ yannick-mathieu:
   venues:
   - - SEMDIAL
     - 1
+yao-qian:
+  coauthors:
+  - - rutuja-ubale
+    - 1
+  - - vikram-ramanaryanan
+    - 1
+  - - david-suendermann-oeft
+    - 1
+  - - keelan-evanini
+    - 1
+  - - patrick-l-lange
+    - 1
+  - - eugene-tsuprun
+    - 1
+  first: Yao
+  full: Yao Qian
+  last: Qian
+  papers:
+  - Z17-1023
+  slug: yao-qian
+  venues:
+  - - SEMDIAL
+    - 1
 yao-ting-sung:
   coauthors: []
   first: Yao-Ting
@@ -214,27 +237,58 @@ yaser-al-onaizan:
   papers: []
   slug: yaser-al-onaizan
   venues: []
+yasuharu-den:
+  coauthors:
+  - - yasuhiro-katagiri
+    - 1
+  - - katsuya-takanashi
+    - 1
+  - - masato-ishizaki
+    - 1
+  - - mika-enomoto
+    - 1
+  first: Yasuharu
+  full: Yasuharu Den
+  last: Den
+  papers:
+  - Z17-1017
+  slug: yasuharu-den
+  venues:
+  - - SEMDIAL
+    - 1
 yasuhiro-katagiri:
   coauthors:
   - - katsuya-takanashi
+    - 2
+  - - masato-ishizaki
+    - 1
+  - - mika-enomoto
+    - 1
+  - - yasuharu-den
     - 1
   first: Yasuhiro
   full: Yasuhiro Katagiri
   last: Katagiri
   papers:
+  - Z17-1017
   - Z15-1034
   slug: yasuhiro-katagiri
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 yasunari-harada:
-  coauthors: []
+  coauthors:
+  - - miwa-morishita
+    - 1
   first: Yasunari
   full: Yasunari Harada
   last: Harada
-  papers: []
+  papers:
+  - Z17-1022
   slug: yasunari-harada
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 yasutsugu-morimoto:
   coauthors: []
   first: Yasutsugu
@@ -253,6 +307,8 @@ yau-tarng-juang:
   venues: []
 ye-tian:
   coauthors:
+  - - volha-petukhova
+    - 1
   - - claire-beyssade
     - 1
   - - yannick-mathieu
@@ -263,11 +319,12 @@ ye-tian:
   full: Ye Tian
   last: Tian
   papers:
+  - Z17-1000
   - Z15-1020
   slug: ye-tian
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 yen-lu-chow:
   coauthors: []
   first: Yen-Lu
@@ -470,11 +527,31 @@ yoshihiko-ono:
   venues: []
 yoshihiro-matsuo:
   coauthors:
+  - - ryuichiro-higashinaka
+    - 2
+  - - kazuki-sakai
+    - 1
+  - - hiroaki-sugiyama
+    - 1
+  - - hiromi-narimatsu
+    - 1
+  - - tsunehiro-arimoto
+    - 1
+  - - takaaki-fukutomi-kiyoaki-matsui
+    - 1
+  - - yusuke-ijima
+    - 1
+  - - hiroaki-ito
+    - 1
+  - - shoko-araki
+    - 1
+  - - yuichiro-yoshikawa
+    - 1
+  - - hiroshi-ishiguro
+    - 1
   - - toru-hirano
     - 1
   - - nozomi-kobayashi
-    - 1
-  - - ryuichiro-higashinaka
     - 1
   - - toshiro-makino
     - 1
@@ -482,11 +559,12 @@ yoshihiro-matsuo:
   full: Yoshihiro Matsuo
   last: Matsuo
   papers:
+  - Z17-1016
   - Z15-1011
   slug: yoshihiro-matsuo
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 yoshihiro-tomiyama:
   coauthors: []
   first: Yoshihiro
@@ -631,6 +709,39 @@ yuguang-duan:
   papers: []
   slug: yuguang-duan
   venues: []
+yuichiro-yoshikawa:
+  coauthors:
+  - - ryuichiro-higashinaka
+    - 1
+  - - kazuki-sakai
+    - 1
+  - - hiroaki-sugiyama
+    - 1
+  - - hiromi-narimatsu
+    - 1
+  - - tsunehiro-arimoto
+    - 1
+  - - takaaki-fukutomi-kiyoaki-matsui
+    - 1
+  - - yusuke-ijima
+    - 1
+  - - hiroaki-ito
+    - 1
+  - - shoko-araki
+    - 1
+  - - hiroshi-ishiguro
+    - 1
+  - - yoshihiro-matsuo
+    - 1
+  first: Yuichiro
+  full: Yuichiro Yoshikawa
+  last: Yoshikawa
+  papers:
+  - Z17-1016
+  slug: yuichiro-yoshikawa
+  venues:
+  - - SEMDIAL
+    - 1
 yuji-matsumoto:
   coauthors: []
   first: Yuji
@@ -719,6 +830,39 @@ yurii-kuratov:
   papers: []
   slug: yurii-kuratov
   venues: []
+yusuke-ijima:
+  coauthors:
+  - - ryuichiro-higashinaka
+    - 1
+  - - kazuki-sakai
+    - 1
+  - - hiroaki-sugiyama
+    - 1
+  - - hiromi-narimatsu
+    - 1
+  - - tsunehiro-arimoto
+    - 1
+  - - takaaki-fukutomi-kiyoaki-matsui
+    - 1
+  - - hiroaki-ito
+    - 1
+  - - shoko-araki
+    - 1
+  - - yuichiro-yoshikawa
+    - 1
+  - - hiroshi-ishiguro
+    - 1
+  - - yoshihiro-matsuo
+    - 1
+  first: Yusuke
+  full: Yusuke Ijima
+  last: Ijima
+  papers:
+  - Z17-1016
+  slug: yusuke-ijima
+  venues:
+  - - SEMDIAL
+    - 1
 yutaka-mitsuishi:
   coauthors: []
   first: Yutaka

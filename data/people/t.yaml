@@ -62,6 +62,39 @@ taijiro-tsutsumi:
   papers: []
   slug: taijiro-tsutsumi
   venues: []
+takaaki-fukutomi-kiyoaki-matsui:
+  coauthors:
+  - - ryuichiro-higashinaka
+    - 1
+  - - kazuki-sakai
+    - 1
+  - - hiroaki-sugiyama
+    - 1
+  - - hiromi-narimatsu
+    - 1
+  - - tsunehiro-arimoto
+    - 1
+  - - yusuke-ijima
+    - 1
+  - - hiroaki-ito
+    - 1
+  - - shoko-araki
+    - 1
+  - - yuichiro-yoshikawa
+    - 1
+  - - hiroshi-ishiguro
+    - 1
+  - - yoshihiro-matsuo
+    - 1
+  first: Takaaki Fukutomi,Kiyoaki
+  full: Takaaki Fukutomi,Kiyoaki Matsui
+  last: Matsui
+  papers:
+  - Z17-1016
+  slug: takaaki-fukutomi-kiyoaki-matsui
+  venues:
+  - - SEMDIAL
+    - 1
 takahiro-ohno:
   coauthors: []
   first: Takahiro
@@ -1010,6 +1043,39 @@ tsong-yi-chen:
   papers: []
   slug: tsong-yi-chen
   venues: []
+tsunehiro-arimoto:
+  coauthors:
+  - - ryuichiro-higashinaka
+    - 1
+  - - kazuki-sakai
+    - 1
+  - - hiroaki-sugiyama
+    - 1
+  - - hiromi-narimatsu
+    - 1
+  - - takaaki-fukutomi-kiyoaki-matsui
+    - 1
+  - - yusuke-ijima
+    - 1
+  - - hiroaki-ito
+    - 1
+  - - shoko-araki
+    - 1
+  - - yuichiro-yoshikawa
+    - 1
+  - - hiroshi-ishiguro
+    - 1
+  - - yoshihiro-matsuo
+    - 1
+  first: Tsunehiro
+  full: Tsunehiro Arimoto
+  last: Arimoto
+  papers:
+  - Z17-1016
+  slug: tsunehiro-arimoto
+  venues:
+  - - SEMDIAL
+    - 1
 tsuyoshi-morimoto:
   coauthors: []
   first: Tsuyoshi

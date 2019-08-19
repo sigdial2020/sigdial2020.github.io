@@ -530,6 +530,21 @@ francisco-m-couto:
   papers: []
   slug: francisco-m-couto
   venues: []
+franco-cutugno:
+  coauthors:
+  - - marco-valentino
+    - 1
+  - - maria-di-maro
+    - 1
+  first: Franco
+  full: Franco Cutugno
+  last: Cutugno
+  papers:
+  - Z17-1029
+  slug: franco-cutugno
+  venues:
+  - - SEMDIAL
+    - 1
 franco-turini:
   coauthors: []
   first: Franco

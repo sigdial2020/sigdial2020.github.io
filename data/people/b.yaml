@@ -86,6 +86,31 @@ barbara-bullock:
   papers: []
   slug: barbara-bullock
   venues: []
+barbara-di-eugenio:
+  coauthors:
+  - - abhinav-kumar
+    - 1
+  - - jillian-aurisano
+    - 1
+  - - andrew-johnson
+    - 1
+  - - abeer-alsaiari
+    - 1
+  - - nigel-flowers
+    - 1
+  - - alberto-gonzalez
+    - 1
+  - - jason-leigh
+    - 1
+  first: Barbara Di
+  full: Barbara Di Eugenio
+  last: Eugenio
+  papers:
+  - Z17-1005
+  slug: barbara-di-eugenio
+  venues:
+  - - SEMDIAL
+    - 1
 barbara-gawronska:
   coauthors: []
   first: Barbara

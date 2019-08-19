@@ -600,6 +600,21 @@ marco-tulio-ribeiro:
   papers: []
   slug: marco-tulio-ribeiro
   venues: []
+marco-valentino:
+  coauthors:
+  - - maria-di-maro
+    - 1
+  - - franco-cutugno
+    - 1
+  first: Marco
+  full: Marco Valentino
+  last: Valentino
+  papers:
+  - Z17-1029
+  slug: marco-valentino
+  venues:
+  - - SEMDIAL
+    - 1
 marcos-didonet-del-fabro:
   coauthors: []
   first: Marcos Didonet Del
@@ -749,6 +764,21 @@ maria-das-gracas-volpe-nunes:
   papers: []
   slug: maria-das-gracas-volpe-nunes
   venues: []
+maria-di-maro:
+  coauthors:
+  - - marco-valentino
+    - 1
+  - - franco-cutugno
+    - 1
+  first: Maria Di
+  full: Maria Di Maro
+  last: Maro
+  papers:
+  - Z17-1029
+  slug: maria-di-maro
+  venues:
+  - - SEMDIAL
+    - 1
 maria-fernanda-bacelar-do-nascimento:
   coauthors: []
   first: Maria Fernanda Bacelar do
@@ -1022,16 +1052,27 @@ mariet-theune:
   slug: mariet-theune
   venues: []
 marilyn-walker:
-  coauthors: []
+  coauthors:
+  - - amita-misra
+    - 1
+  - - shereen-oraby
+    - 1
+  - - shubhangi-tandon
+    - 1
+  - - sharath-ts
+    - 1
+  - - pranav-anand
+    - 1
   first: Marilyn
   full: Marilyn Walker
   last: Walker
   papers:
+  - Z17-1008
   - Z15-1003
   slug: marilyn-walker
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 marina-vigario:
   coauthors: []
   first: Marina
@@ -1628,13 +1669,24 @@ masatake-dantsuji:
   slug: masatake-dantsuji
   venues: []
 masato-ishizaki:
-  coauthors: []
+  coauthors:
+  - - yasuhiro-katagiri
+    - 1
+  - - katsuya-takanashi
+    - 1
+  - - mika-enomoto
+    - 1
+  - - yasuharu-den
+    - 1
   first: Masato
   full: Masato Ishizaki
   last: Ishizaki
-  papers: []
+  papers:
+  - Z17-1017
   slug: masato-ishizaki
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 massih-r-amini:
   coauthors: []
   first: Massih R.
@@ -2491,6 +2543,25 @@ mijail-kabadjov:
   papers: []
   slug: mijail-kabadjov
   venues: []
+mika-enomoto:
+  coauthors:
+  - - yasuhiro-katagiri
+    - 1
+  - - katsuya-takanashi
+    - 1
+  - - masato-ishizaki
+    - 1
+  - - yasuharu-den
+    - 1
+  first: Mika
+  full: Mika Enomoto
+  last: Enomoto
+  papers:
+  - Z17-1017
+  slug: mika-enomoto
+  venues:
+  - - SEMDIAL
+    - 1
 mikael-andersson:
   coauthors: []
   first: Mikael
@@ -2816,6 +2887,19 @@ mitsuo-shimohata:
   papers: []
   slug: mitsuo-shimohata
   venues: []
+miwa-morishita:
+  coauthors:
+  - - yasunari-harada
+    - 1
+  first: Miwa
+  full: Miwa Morishita
+  last: Morishita
+  papers:
+  - Z17-1022
+  slug: miwa-morishita
+  venues:
+  - - SEMDIAL
+    - 1
 mizuki-morita:
   coauthors: []
   first: Mizuki

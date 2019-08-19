@@ -240,13 +240,39 @@ patrick-healey:
   - - SEMDIAL
     - 2
 patrick-l-lange:
-  coauthors: []
+  coauthors:
+  - - david-suendermann-oeft
+    - 2
+  - - yao-qian
+    - 1
+  - - rutuja-ubale
+    - 1
+  - - vikram-ramanaryanan
+    - 1
+  - - keelan-evanini
+    - 1
+  - - eugene-tsuprun
+    - 1
+  - - dirk-schnelle-walka
+    - 1
+  - - vikram-ramanarayanan
+    - 1
+  - - stefan-radomski
+    - 1
   first: Patrick L.
   full: Patrick L. Lange
   last: Lange
-  papers: []
+  papers:
+  - Z17-1023
+  - Z17-1025
   slug: patrick-l-lange
-  venues: []
+  variant_entries:
+  - first: Patrick
+    full: Patrick Lange
+    last: Lange
+  venues:
+  - - SEMDIAL
+    - 2
 patrick-paroubek:
   coauthors: []
   first: Patrick
@@ -1008,20 +1034,21 @@ pierre-guillaume:
   venues: []
 pierre-lison:
   coauthors:
-  - - paolo-dragone
-    - 1
   - - casey-kennington
+    - 2
+  - - paolo-dragone
     - 1
   first: Pierre
   full: Pierre Lison
   last: Lison
   papers:
+  - Z17-1020
   - Z15-1027
   - Z15-1039
   slug: pierre-lison
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 pierre-zweigenbaum:
   coauthors: []
   first: Pierre
@@ -1070,6 +1097,21 @@ pinar-oezden-wennerberg:
   papers: []
   slug: pinar-oezden-wennerberg
   venues: []
+pinelopi-papalampidi:
+  coauthors:
+  - - elias-iosif
+    - 1
+  - - alexandros-potamianos
+    - 1
+  first: Pinelopi
+  full: Pinelopi Papalampidi
+  last: Papalampidi
+  papers:
+  - Z17-1011
+  slug: pinelopi-papalampidi
+  venues:
+  - - SEMDIAL
+    - 1
 ping-che-yang:
   coauthors: []
   first: Ping-Che
@@ -1167,13 +1209,26 @@ prajwol-shrestha:
   slug: prajwol-shrestha
   venues: []
 pranav-anand:
-  coauthors: []
+  coauthors:
+  - - amita-misra
+    - 1
+  - - shereen-oraby
+    - 1
+  - - shubhangi-tandon
+    - 1
+  - - sharath-ts
+    - 1
+  - - marilyn-walker
+    - 1
   first: Pranav
   full: Pranav Anand
   last: Anand
-  papers: []
+  papers:
+  - Z17-1008
   slug: pranav-anand
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 pranava-swaroop-madhyastha:
   coauthors: []
   first: Pranava Swaroop

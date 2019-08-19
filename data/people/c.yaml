@@ -278,27 +278,46 @@ carolyn-rose:
   papers: []
   slug: carolyn-rose
   venues: []
+carrara-nicolas:
+  coauthors:
+  - - romain-laroche
+    - 1
+  - - olivier-pietquin
+    - 1
+  first: Carrara
+  full: Carrara Nicolas
+  last: Nicolas
+  papers:
+  - Z17-1009
+  slug: carrara-nicolas
+  venues:
+  - - SEMDIAL
+    - 1
 casey-kennington:
   coauthors:
+  - - pierre-lison
+    - 2
   - - david-schlangen
     - 2
+  - - daniel-kondratyuk
+    - 1
   - - ting-han
     - 1
   - - soledad-lopez-gambino
-    - 1
-  - - pierre-lison
     - 1
   first: Casey
   full: Casey Kennington
   last: Kennington
   papers:
+  - Z17-1019
+  - Z17-1020
   - Z15-1010
   - Z15-1036
   - Z15-1039
   slug: casey-kennington
   venues:
   - - SEMDIAL
-    - 3
+    - 5
 cassandra-l-jacobs:
   coauthors: []
   first: Cassandra L.
@@ -946,6 +965,25 @@ chris-culy:
   papers: []
   slug: chris-culy
   venues: []
+chris-cummins:
+  coauthors:
+  - - ernisa-marzuki
+    - 1
+  - - hannah-rohde
+    - 1
+  - - gareth-clegg
+    - 1
+  - - holly-branigan
+    - 1
+  first: Chris
+  full: Chris Cummins
+  last: Cummins
+  papers:
+  - Z17-1007
+  slug: chris-cummins
+  venues:
+  - - SEMDIAL
+    - 1
 chris-dyer:
   coauthors: []
   first: Chris
@@ -1122,6 +1160,19 @@ christian-mueller:
   papers: []
   slug: christian-mueller
   venues: []
+christian-stab:
+  coauthors:
+  - - iryna-gurevych
+    - 1
+  first: Christian
+  full: Christian Stab
+  last: Stab
+  papers:
+  - Z17-1026
+  slug: christian-stab
+  venues:
+  - - SEMDIAL
+    - 1
 christine-a-montgomery:
   coauthors: []
   first: Christine A.

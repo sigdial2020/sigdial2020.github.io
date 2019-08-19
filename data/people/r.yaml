@@ -371,6 +371,23 @@ raphael-troncy:
   papers: []
   slug: raphael-troncy
   venues: []
+raquel-fern-a-ndez:
+  coauthors:
+  - - laura-aina
+    - 1
+  - - natalia-philippova
+    - 1
+  - - valentin-vogelmann
+    - 1
+  first: Raquel
+  full: Raquel Fern\'{a}ndez
+  last: Fern\'{a}ndez
+  papers:
+  - Z17-1001
+  slug: raquel-fern-a-ndez
+  venues:
+  - - SEMDIAL
+    - 1
 raquel-fernandez:
   coauthors:
   - - sarah-hiller
@@ -951,6 +968,21 @@ robert-j-kuhns:
   papers: []
   slug: robert-j-kuhns
   venues: []
+robert-j-ross:
+  coauthors:
+  - - anh-duong-trinh
+    - 1
+  - - john-kelleher
+    - 1
+  first: Robert J.
+  full: Robert J. Ross
+  last: Ross
+  papers:
+  - Z17-1027
+  slug: robert-j-ross
+  venues:
+  - - SEMDIAL
+    - 1
 robert-l-mercer:
   coauthors: []
   comment: IBM
@@ -1258,6 +1290,21 @@ roland-stuckardt:
   papers: []
   slug: roland-stuckardt
   venues: []
+romain-laroche:
+  coauthors:
+  - - carrara-nicolas
+    - 1
+  - - olivier-pietquin
+    - 1
+  first: Romain
+  full: Romain Laroche
+  last: Laroche
+  papers:
+  - Z17-1009
+  slug: romain-laroche
+  venues:
+  - - SEMDIAL
+    - 1
 romina-altamirano:
   coauthors: []
   first: Romina
@@ -1563,6 +1610,29 @@ rutu-mulkar-mehta:
   papers: []
   slug: rutu-mulkar-mehta
   venues: []
+rutuja-ubale:
+  coauthors:
+  - - yao-qian
+    - 1
+  - - vikram-ramanaryanan
+    - 1
+  - - david-suendermann-oeft
+    - 1
+  - - keelan-evanini
+    - 1
+  - - patrick-l-lange
+    - 1
+  - - eugene-tsuprun
+    - 1
+  first: Rutuja
+  full: Rutuja Ubale
+  last: Ubale
+  papers:
+  - Z17-1023
+  slug: rutuja-ubale
+  venues:
+  - - SEMDIAL
+    - 1
 ruy-luiz-milidiu:
   coauthors: []
   first: Ruy Luiz
@@ -1605,20 +1675,41 @@ ryochi-sugimura:
   venues: []
 ryuichiro-higashinaka:
   coauthors:
+  - - yoshihiro-matsuo
+    - 2
+  - - kazuki-sakai
+    - 1
+  - - hiroaki-sugiyama
+    - 1
+  - - hiromi-narimatsu
+    - 1
+  - - tsunehiro-arimoto
+    - 1
+  - - takaaki-fukutomi-kiyoaki-matsui
+    - 1
+  - - yusuke-ijima
+    - 1
+  - - hiroaki-ito
+    - 1
+  - - shoko-araki
+    - 1
+  - - yuichiro-yoshikawa
+    - 1
+  - - hiroshi-ishiguro
+    - 1
   - - toru-hirano
     - 1
   - - nozomi-kobayashi
     - 1
   - - toshiro-makino
     - 1
-  - - yoshihiro-matsuo
-    - 1
   first: Ryuichiro
   full: Ryuichiro Higashinaka
   last: Higashinaka
   papers:
+  - Z17-1016
   - Z15-1011
   slug: ryuichiro-higashinaka
   venues:
   - - SEMDIAL
-    - 1
+    - 2

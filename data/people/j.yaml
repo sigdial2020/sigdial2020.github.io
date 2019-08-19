@@ -598,6 +598,31 @@ jason-katz-brown:
   papers: []
   slug: jason-katz-brown
   venues: []
+jason-leigh:
+  coauthors:
+  - - abhinav-kumar
+    - 1
+  - - jillian-aurisano
+    - 1
+  - - barbara-di-eugenio
+    - 1
+  - - andrew-johnson
+    - 1
+  - - abeer-alsaiari
+    - 1
+  - - nigel-flowers
+    - 1
+  - - alberto-gonzalez
+    - 1
+  first: Jason
+  full: Jason Leigh
+  last: Leigh
+  papers:
+  - Z17-1005
+  slug: jason-leigh
+  venues:
+  - - SEMDIAL
+    - 1
 jason-s-chang:
   coauthors: []
   first: Jason S.
@@ -918,6 +943,19 @@ jennifer-stromer-galley:
   papers: []
   slug: jennifer-stromer-galley
   venues: []
+jenny-myrendal:
+  coauthors:
+  - - staffan-larsson
+    - 1
+  first: Jenny
+  full: Jenny Myrendal
+  last: Myrendal
+  papers:
+  - Z17-1006
+  slug: jenny-myrendal
+  venues:
+  - - SEMDIAL
+    - 1
 jenny-rose-finkel:
   coauthors: []
   first: Jenny Rose
@@ -1204,6 +1242,31 @@ jill-fain-lehman:
   papers: []
   slug: jill-fain-lehman
   venues: []
+jillian-aurisano:
+  coauthors:
+  - - abhinav-kumar
+    - 1
+  - - barbara-di-eugenio
+    - 1
+  - - andrew-johnson
+    - 1
+  - - abeer-alsaiari
+    - 1
+  - - nigel-flowers
+    - 1
+  - - alberto-gonzalez
+    - 1
+  - - jason-leigh
+    - 1
+  first: Jillian
+  full: Jillian Aurisano
+  last: Aurisano
+  papers:
+  - Z17-1005
+  slug: jillian-aurisano
+  venues:
+  - - SEMDIAL
+    - 1
 jim-chang:
   coauthors: []
   first: Jim
@@ -1786,6 +1849,10 @@ john-keane:
   venues: []
 john-kelleher:
   coauthors:
+  - - anh-duong-trinh
+    - 1
+  - - robert-j-ross
+    - 1
   - - simon-dobnik
     - 1
   - - christine-howes
@@ -1794,11 +1861,16 @@ john-kelleher:
   full: John Kelleher
   last: Kelleher
   papers:
+  - Z17-1027
   - Z15-1006
   slug: john-kelleher
+  variant_entries:
+  - first: John D.
+    full: John D. Kelleher
+    last: Kelleher
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 john-l-beaven:
   coauthors: []
   first: John L.
@@ -1931,13 +2003,20 @@ jon-m-slack:
   slug: jon-m-slack
   venues: []
 jon-oberlander:
-  coauthors: []
+  coauthors:
+  - - arabella-sinclair
+    - 1
+  - - dragan-gasevic
+    - 1
   first: Jon
   full: Jon Oberlander
   last: Oberlander
-  papers: []
+  papers:
+  - Z17-1014
   slug: jon-oberlander
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 jon-patrick:
   coauthors: []
   first: Jon
@@ -2577,6 +2656,27 @@ juana-maria-ruiz-martinez:
   papers: []
   slug: juana-maria-ruiz-martinez
   venues: []
+judit-dombi:
+  coauthors:
+  - - veronika-timpe-laughlin
+    - 1
+  - - keelan-evanini
+    - 1
+  - - ashley-green
+    - 1
+  - - ian-blood
+    - 1
+  - - vikram-ramanarayanan
+    - 1
+  first: Judit
+  full: Judit Dombi
+  last: Dombi
+  papers:
+  - Z17-1015
+  slug: judit-dombi
+  venues:
+  - - SEMDIAL
+    - 1
 judith-d-schlesinger:
   coauthors: []
   first: Judith D.
@@ -2721,6 +2821,27 @@ julian-moreno-schneider:
   papers: []
   slug: julian-moreno-schneider
   venues: []
+juliana-miehle:
+  coauthors:
+  - - nadine-gerstenlauer
+    - 1
+  - - daniel-ostler
+    - 1
+  - - hubertus-feussner
+    - 1
+  - - wolfgang-minker
+    - 1
+  - - stefan-ultes
+    - 1
+  first: Juliana
+  full: Juliana Miehle
+  last: Miehle
+  papers:
+  - Z17-1021
+  slug: juliana-miehle
+  venues:
+  - - SEMDIAL
+    - 1
 juliano-d-antonio:
   coauthors: []
   first: Juliano D.

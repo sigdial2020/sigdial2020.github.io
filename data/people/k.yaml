@@ -424,16 +424,23 @@ katsumasa-shimizu:
 katsuya-takanashi:
   coauthors:
   - - yasuhiro-katagiri
+    - 2
+  - - masato-ishizaki
+    - 1
+  - - mika-enomoto
+    - 1
+  - - yasuharu-den
     - 1
   first: Katsuya
   full: Katsuya Takanashi
   last: Takanashi
   papers:
+  - Z17-1017
   - Z15-1034
   slug: katsuya-takanashi
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 kavi-mahesh:
   coauthors: []
   first: Kavi
@@ -474,6 +481,39 @@ kazuhiro-kimura:
   papers: []
   slug: kazuhiro-kimura
   venues: []
+kazuki-sakai:
+  coauthors:
+  - - ryuichiro-higashinaka
+    - 1
+  - - hiroaki-sugiyama
+    - 1
+  - - hiromi-narimatsu
+    - 1
+  - - tsunehiro-arimoto
+    - 1
+  - - takaaki-fukutomi-kiyoaki-matsui
+    - 1
+  - - yusuke-ijima
+    - 1
+  - - hiroaki-ito
+    - 1
+  - - shoko-araki
+    - 1
+  - - yuichiro-yoshikawa
+    - 1
+  - - hiroshi-ishiguro
+    - 1
+  - - yoshihiro-matsuo
+    - 1
+  first: Kazuki
+  full: Kazuki Sakai
+  last: Sakai
+  papers:
+  - Z17-1016
+  slug: kazuki-sakai
+  venues:
+  - - SEMDIAL
+    - 1
 kazunori-komatani:
   coauthors: []
   first: Kazunori
@@ -514,6 +554,40 @@ ke-m-tran:
   papers: []
   slug: ke-m-tran
   venues: []
+keelan-evanini:
+  coauthors:
+  - - veronika-timpe-laughlin
+    - 1
+  - - ashley-green
+    - 1
+  - - ian-blood
+    - 1
+  - - judit-dombi
+    - 1
+  - - vikram-ramanarayanan
+    - 1
+  - - yao-qian
+    - 1
+  - - rutuja-ubale
+    - 1
+  - - vikram-ramanaryanan
+    - 1
+  - - david-suendermann-oeft
+    - 1
+  - - patrick-l-lange
+    - 1
+  - - eugene-tsuprun
+    - 1
+  first: Keelan
+  full: Keelan Evanini
+  last: Evanini
+  papers:
+  - Z17-1015
+  - Z17-1023
+  slug: keelan-evanini
+  venues:
+  - - SEMDIAL
+    - 2
 kees-van-deemter:
   coauthors: []
   first: Kees
@@ -1023,6 +1097,21 @@ kok-wee-gan:
   papers: []
   slug: kok-wee-gan
   venues: []
+koki-ijuin:
+  coauthors:
+  - - ichiro-umata
+    - 1
+  - - seiichi-yamamoto
+    - 1
+  first: Koki
+  full: Koki Ijuin
+  last: Ijuin
+  papers:
+  - Z17-1028
+  slug: koki-ijuin
+  venues:
+  - - SEMDIAL
+    - 1
 koldo-gojenola:
   coauthors: []
   first: Koldo

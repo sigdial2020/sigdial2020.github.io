@@ -86,6 +86,19 @@ gaelle-ferre:
   papers: []
   slug: gaelle-ferre
   venues: []
+gaelle-ferre1:
+  coauthors:
+  - - suzanne-renaudier
+    - 1
+  first: Gaelle
+  full: Gaelle Ferre
+  last: Ferre
+  papers:
+  - Z17-1003
+  slug: gaelle-ferre1
+  venues:
+  - - SEMDIAL
+    - 1
 gail-m-keenan:
   coauthors: []
   first: Gail M.
@@ -110,6 +123,25 @@ galia-angelova:
   papers: []
   slug: galia-angelova
   venues: []
+gareth-clegg:
+  coauthors:
+  - - ernisa-marzuki
+    - 1
+  - - hannah-rohde
+    - 1
+  - - chris-cummins
+    - 1
+  - - holly-branigan
+    - 1
+  first: Gareth
+  full: Gareth Clegg
+  last: Clegg
+  papers:
+  - Z17-1007
+  slug: gareth-clegg
+  venues:
+  - - SEMDIAL
+    - 1
 gareth-j-f-jones:
   coauthors: []
   first: Gareth J. F.

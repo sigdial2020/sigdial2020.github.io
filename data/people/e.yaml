@@ -318,6 +318,21 @@ eli-shamir:
   papers: []
   slug: eli-shamir
   venues: []
+elias-iosif:
+  coauthors:
+  - - pinelopi-papalampidi
+    - 1
+  - - alexandros-potamianos
+    - 1
+  first: Elias
+  full: Elias Iosif
+  last: Iosif
+  papers:
+  - Z17-1011
+  slug: elias-iosif
+  venues:
+  - - SEMDIAL
+    - 1
 elina-desipri:
   coauthors: []
   first: Elina
@@ -721,6 +736,19 @@ eraldo-fernandes:
   papers: []
   slug: eraldo-fernandes
   venues: []
+eran-raveh:
+  coauthors:
+  - - ingmar-steiner
+    - 1
+  first: Eran
+  full: Eran Raveh
+  last: Raveh
+  papers:
+  - Z17-1024
+  slug: eran-raveh
+  venues:
+  - - SEMDIAL
+    - 1
 ergina-kavallieratou:
   coauthors: []
   first: Ergina
@@ -985,6 +1013,25 @@ ernesto-william-de-luca:
   papers: []
   slug: ernesto-william-de-luca
   venues: []
+ernisa-marzuki:
+  coauthors:
+  - - hannah-rohde
+    - 1
+  - - chris-cummins
+    - 1
+  - - gareth-clegg
+    - 1
+  - - holly-branigan
+    - 1
+  first: Ernisa
+  full: Ernisa Marzuki
+  last: Marzuki
+  papers:
+  - Z17-1007
+  slug: ernisa-marzuki
+  venues:
+  - - SEMDIAL
+    - 1
 ernst-buchberger:
   coauthors: []
   first: Ernst
@@ -1073,6 +1120,29 @@ ethel-schuster:
   papers: []
   slug: ethel-schuster
   venues: []
+eugene-tsuprun:
+  coauthors:
+  - - yao-qian
+    - 1
+  - - rutuja-ubale
+    - 1
+  - - vikram-ramanaryanan
+    - 1
+  - - david-suendermann-oeft
+    - 1
+  - - keelan-evanini
+    - 1
+  - - patrick-l-lange
+    - 1
+  first: Eugene
+  full: Eugene Tsuprun
+  last: Tsuprun
+  papers:
+  - Z17-1023
+  slug: eugene-tsuprun
+  venues:
+  - - SEMDIAL
+    - 1
 eugenio-picchi:
   coauthors: []
   first: Eugenio

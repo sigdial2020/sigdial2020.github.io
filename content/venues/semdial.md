@@ -1,6 +1,6 @@
 ---
 aliases:
 - /papers/Z/
-title: SEMDIAL Conference
+title: SEMDIAL Workshop
 venue: SEMDIAL
 ---
