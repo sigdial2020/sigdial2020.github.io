@@ -238,6 +238,23 @@ daniel-couto-vale:
   papers: []
   slug: daniel-couto-vale
   venues: []
+daniel-couto-vale1:
+  coauthors:
+  - - vivien-mast
+    - 1
+  - - zoe-falomir
+    - 1
+  - - mohammad-fazleh-elahi
+    - 1
+  first: Daniel Couto
+  full: Daniel Couto Vale
+  last: Vale
+  papers:
+  - Z14-1042
+  slug: daniel-couto-vale1
+  venues:
+  - - SEMDIAL
+    - 1
 daniel-dechelotte:
   coauthors: []
   first: Daniel
@@ -307,6 +324,21 @@ daniel-m-bikel:
   papers: []
   slug: daniel-m-bikel
   venues: []
+daniel-magarreiro:
+  coauthors:
+  - - lu-isa-coheur
+    - 1
+  - - francisco-melo
+    - 1
+  first: Daniel
+  full: Daniel Magarreiro
+  last: Magarreiro
+  papers:
+  - Z14-1015
+  slug: daniel-magarreiro
+  venues:
+  - - SEMDIAL
+    - 1
 daniel-maxwell:
   coauthors: []
   first: Daniel
@@ -940,15 +972,23 @@ david-sankoff:
   venues: []
 david-schlangen:
   coauthors:
-  - - casey-kennington
-    - 2
   - - julian-hough
-    - 2
+    - 4
   - - iwan-de-kok
-    - 2
+    - 3
   - - stefan-kopp
-    - 2
+    - 3
+  - - casey-kennington
+    - 3
   - - ting-han
+    - 2
+  - - spyros-kousidis
+    - 2
+  - - cornelia-frank
+    - 1
+  - - jonathan-ginzburg
+    - 1
+  - - ye-tian
     - 1
   - - felix-hulsmann
     - 1
@@ -966,10 +1006,14 @@ david-schlangen:
   - Z15-1013
   - Z15-1026
   - Z15-1036
+  - Z14-1023
+  - Z14-1026
+  - Z14-1030
+  - Z14-1035
   slug: david-schlangen
   venues:
   - - SEMDIAL
-    - 4
+    - 8
 david-stallard:
   coauthors: []
   first: David
@@ -1017,13 +1061,20 @@ david-tomas:
   slug: david-tomas
   venues: []
 david-traum:
-  coauthors: []
+  coauthors:
+  - - angela-nazarian
+    - 1
+  - - elnaz-nouri
+    - 1
   first: David
   full: David Traum
   last: Traum
-  papers: []
+  papers:
+  - Z14-1044
   slug: david-traum
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 david-w-aha:
   coauthors: []
   first: David W.

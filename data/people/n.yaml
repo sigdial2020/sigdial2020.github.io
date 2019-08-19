@@ -29,19 +29,20 @@ nadine-gerstenlauer:
     - 1
 nadine-glas:
   coauthors:
-  - - ken-prepin
-    - 1
   - - catherine-pelachaud
+    - 2
+  - - ken-prepin
     - 1
   first: Nadine
   full: Nadine Glas
   last: Glas
   papers:
   - Z15-1009
+  - Z14-1027
   slug: nadine-glas
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 nafise-sadat-moosavi:
   coauthors: []
   first: Nafise Sadat
@@ -371,6 +372,37 @@ ndapandula-nakashole:
   papers: []
   slug: ndapandula-nakashole
   venues: []
+neasa-n-i-chiar-ain:
+  coauthors:
+  - - jo-a-o-paulo-cabral
+    - 1
+  - - nick-campbell
+    - 1
+  - - sree-ganesh
+    - 1
+  - - mina-kheirkhah
+    - 1
+  - - emer-gilmartin
+    - 1
+  - - fasih-haider
+    - 1
+  - - eamonn-kenny
+    - 1
+  - - andrew-murphy
+    - 1
+  - - thomas-pellegrini
+    - 1
+  - - odei-rey-orozko
+    - 1
+  first: Neasa N\'i
+  full: Neasa N\'i Chiar\'ain
+  last: Chiar\'ain
+  papers:
+  - Z14-1022
+  slug: neasa-n-i-chiar-ain
+  venues:
+  - - SEMDIAL
+    - 1
 necip-fazil-ayan:
   coauthors: []
   first: Necip Fazil
@@ -485,23 +517,33 @@ nguyen-vo:
   venues: []
 nicholas-asher:
   coauthors:
+  - - stergos-afantenos
+    - 2
+  - - j-er-emy-perret
+    - 1
+  - - alex-lascarides
+    - 1
+  - - antoine-venant
+    - 1
+  - - c-edric-d-egremont
+    - 1
   - - julie-hunter
     - 1
   - - eric-kow
     - 1
   - - jeremy-perret
     - 1
-  - - stergos-afantenos
-    - 1
   first: Nicholas
   full: Nicholas Asher
   last: Asher
   papers:
   - Z15-1014
+  - Z14-1019
+  - Z14-1021
   slug: nicholas-asher
   venues:
   - - SEMDIAL
-    - 1
+    - 3
 nicholas-j-haddock:
   coauthors: []
   first: Nicholas J.
@@ -518,6 +560,37 @@ nicholas-kushmerick:
   papers: []
   slug: nicholas-kushmerick
   venues: []
+nick-campbell:
+  coauthors:
+  - - jo-a-o-paulo-cabral
+    - 1
+  - - sree-ganesh
+    - 1
+  - - mina-kheirkhah
+    - 1
+  - - emer-gilmartin
+    - 1
+  - - fasih-haider
+    - 1
+  - - eamonn-kenny
+    - 1
+  - - andrew-murphy
+    - 1
+  - - neasa-n-i-chiar-ain
+    - 1
+  - - thomas-pellegrini
+    - 1
+  - - odei-rey-orozko
+    - 1
+  first: Nick
+  full: Nick Campbell
+  last: Campbell
+  papers:
+  - Z14-1022
+  slug: nick-campbell
+  venues:
+  - - SEMDIAL
+    - 1
 nick-j-youd:
   coauthors: []
   first: Nick J.
@@ -630,6 +703,21 @@ niels-ole-bernsen:
   papers: []
   slug: niels-ole-bernsen
   venues: []
+niels-schuette:
+  coauthors:
+  - - john-kelleher
+    - 1
+  - - brian-mac-namee
+    - 1
+  first: Niels
+  full: Niels Schuette
+  last: Schuette
+  papers:
+  - Z14-1049
+  slug: niels-schuette
+  venues:
+  - - SEMDIAL
+    - 1
 nigel-flowers:
   coauthors:
   - - abhinav-kumar
@@ -703,6 +791,56 @@ niladri-chatterjee:
   papers: []
   slug: niladri-chatterjee
   venues: []
+nina-dethlefs:
+  coauthors:
+  - - heriberto-cuayahuitl
+    - 2
+  - - helen-hastie
+    - 2
+  - - verena-rieser
+    - 2
+  - - oliver-lemon
+    - 2
+  - - marie-aude-aufaure
+    - 1
+  - - panos-alexopoulos
+    - 1
+  - - hugues-bouchard
+    - 1
+  - - milica-gasic
+    - 1
+  - - almudena-gonzalez-guimerans
+    - 1
+  - - james-henderson
+    - 1
+  - - xingkun-liu
+    - 1
+  - - peter-mika
+    - 1
+  - - ti-potter
+    - 1
+  - - pirros-tsiakoulis
+    - 1
+  - - yves-vanrompay
+    - 1
+  - - boris-villazon-terrazas
+    - 1
+  - - majid-yazdani
+    - 1
+  - - steve-young
+    - 1
+  - - yanchao-yu
+    - 1
+  first: Nina
+  full: Nina Dethlefs
+  last: Dethlefs
+  papers:
+  - Z14-1024
+  - Z14-1031
+  slug: nina-dethlefs
+  venues:
+  - - SEMDIAL
+    - 2
 nishtha-malhotra:
   coauthors: []
   first: Nishtha
@@ -784,13 +922,18 @@ noemie-elhadad:
   slug: noemie-elhadad
   venues: []
 noortje-venhuizen:
-  coauthors: []
+  coauthors:
+  - - harm-brouwer
+    - 1
   first: Noortje
   full: Noortje Venhuizen
   last: Venhuizen
-  papers: []
+  papers:
+  - Z14-1051
   slug: noortje-venhuizen
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 norbert-dinstl:
   coauthors: []
   first: Norbert

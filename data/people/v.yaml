@@ -137,6 +137,62 @@ vera-lucia-strube-de-lima:
   venues: []
 verena-rieser:
   coauthors:
+  - - oliver-lemon
+    - 4
+  - - nina-dethlefs
+    - 2
+  - - heriberto-cuayahuitl
+    - 2
+  - - helen-hastie
+    - 2
+  - - yanchao-yu
+    - 2
+  - - zhuoran-wang
+    - 2
+  - - philippe-muller
+    - 1
+  - - marie-aude-aufaure
+    - 1
+  - - panos-alexopoulos
+    - 1
+  - - hugues-bouchard
+    - 1
+  - - milica-gasic
+    - 1
+  - - almudena-gonzalez-guimerans
+    - 1
+  - - james-henderson
+    - 1
+  - - xingkun-liu
+    - 1
+  - - peter-mika
+    - 1
+  - - ti-potter
+    - 1
+  - - pirros-tsiakoulis
+    - 1
+  - - yves-vanrompay
+    - 1
+  - - boris-villazon-terrazas
+    - 1
+  - - majid-yazdani
+    - 1
+  - - steve-young
+    - 1
+  - - callum-main
+    - 1
+  - - amanda-cercas-curry
+    - 1
+  - - srinivasan-janarthanam
+    - 1
+  - - andy-taylor
+    - 1
+  - - wenshuo-tang
+    - 1
+  - - aimilios-vourliotakis
+    - 1
+  - - ioannis-efstathiou
+    - 1
   - - simon-keizer
     - 1
   first: Verena
@@ -144,10 +200,18 @@ verena-rieser:
   last: Rieser
   papers:
   - Z17-1018
+  - Z14-1000
+  - Z14-1024
+  - Z14-1031
+  - Z14-1041
+  - Z14-1045
+  - Z14-1046
+  - Z14-1050
+  - Z14-1052
   slug: verena-rieser
   venues:
   - - SEMDIAL
-    - 1
+    - 9
 verginica-barbu-mititelu:
   coauthors: []
   first: Verginica
@@ -502,6 +566,23 @@ vivian-k-lee:
   papers: []
   slug: vivian-k-lee
   venues: []
+vivien-mast:
+  coauthors:
+  - - daniel-couto-vale1
+    - 1
+  - - zoe-falomir
+    - 1
+  - - mohammad-fazleh-elahi
+    - 1
+  first: Vivien
+  full: Vivien Mast
+  last: Mast
+  papers:
+  - Z14-1042
+  slug: vivien-mast
+  venues:
+  - - SEMDIAL
+    - 1
 vladimir-kadlec:
   coauthors: []
   first: "Vladim\xEDr"

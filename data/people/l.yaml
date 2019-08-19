@@ -918,6 +918,21 @@ louisette-emirkanian:
   papers: []
   slug: louisette-emirkanian
   venues: []
+lu-isa-coheur:
+  coauthors:
+  - - daniel-magarreiro
+    - 1
+  - - francisco-melo
+    - 1
+  first: Lu\'isa
+  full: Lu\'isa Coheur
+  last: Coheur
+  papers:
+  - Z14-1015
+  slug: lu-isa-coheur
+  venues:
+  - - SEMDIAL
+    - 1
 luana-fagarasan:
   coauthors: []
   first: Luana

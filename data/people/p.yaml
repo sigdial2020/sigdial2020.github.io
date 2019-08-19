@@ -70,6 +70,55 @@ panayiotis-georgiou:
   papers: []
   slug: panayiotis-georgiou
   venues: []
+panos-alexopoulos:
+  coauthors:
+  - - helen-hastie
+    - 1
+  - - marie-aude-aufaure
+    - 1
+  - - hugues-bouchard
+    - 1
+  - - heriberto-cuayahuitl
+    - 1
+  - - nina-dethlefs
+    - 1
+  - - milica-gasic
+    - 1
+  - - almudena-gonzalez-guimerans
+    - 1
+  - - james-henderson
+    - 1
+  - - oliver-lemon
+    - 1
+  - - xingkun-liu
+    - 1
+  - - peter-mika
+    - 1
+  - - ti-potter
+    - 1
+  - - verena-rieser
+    - 1
+  - - pirros-tsiakoulis
+    - 1
+  - - yves-vanrompay
+    - 1
+  - - boris-villazon-terrazas
+    - 1
+  - - majid-yazdani
+    - 1
+  - - steve-young
+    - 1
+  - - yanchao-yu
+    - 1
+  first: Panos
+  full: Panos Alexopoulos
+  last: Alexopoulos
+  papers:
+  - Z14-1031
+  slug: panos-alexopoulos
+  venues:
+  - - SEMDIAL
+    - 1
 paola-pietrandrea:
   coauthors: []
   first: Paola
@@ -720,6 +769,55 @@ peter-machonis:
   papers: []
   slug: peter-machonis
   venues: []
+peter-mika:
+  coauthors:
+  - - helen-hastie
+    - 1
+  - - marie-aude-aufaure
+    - 1
+  - - panos-alexopoulos
+    - 1
+  - - hugues-bouchard
+    - 1
+  - - heriberto-cuayahuitl
+    - 1
+  - - nina-dethlefs
+    - 1
+  - - milica-gasic
+    - 1
+  - - almudena-gonzalez-guimerans
+    - 1
+  - - james-henderson
+    - 1
+  - - oliver-lemon
+    - 1
+  - - xingkun-liu
+    - 1
+  - - ti-potter
+    - 1
+  - - verena-rieser
+    - 1
+  - - pirros-tsiakoulis
+    - 1
+  - - yves-vanrompay
+    - 1
+  - - boris-villazon-terrazas
+    - 1
+  - - majid-yazdani
+    - 1
+  - - steve-young
+    - 1
+  - - yanchao-yu
+    - 1
+  first: Peter
+  full: Peter Mika
+  last: Mika
+  papers:
+  - Z14-1031
+  slug: peter-mika
+  venues:
+  - - SEMDIAL
+    - 1
 peter-pal-boda:
   coauthors: []
   first: "P\xE9ter P\xE1l"
@@ -776,6 +874,17 @@ peter-waiganjo-wagacha:
   papers: []
   slug: peter-waiganjo-wagacha
   venues: []
+peter-wallis:
+  coauthors: []
+  first: Peter
+  full: Peter Wallis
+  last: Wallis
+  papers:
+  - Z14-1053
+  slug: peter-wallis
+  venues:
+  - - SEMDIAL
+    - 1
 peter-white:
   coauthors: []
   first: Peter
@@ -960,6 +1069,19 @@ philippe-langlais:
   papers: []
   slug: philippe-langlais
   venues: []
+philippe-muller:
+  coauthors:
+  - - verena-rieser
+    - 1
+  first: Philippe
+  full: Philippe Muller
+  last: Muller
+  papers:
+  - Z14-1000
+  slug: philippe-muller
+  venues:
+  - - SEMDIAL
+    - 1
 phuong-le-hong:
   coauthors: []
   first: Phuong
@@ -1129,13 +1251,54 @@ ping-wai-wong:
   slug: ping-wai-wong
   venues: []
 pirros-tsiakoulis:
-  coauthors: []
+  coauthors:
+  - - helen-hastie
+    - 1
+  - - marie-aude-aufaure
+    - 1
+  - - panos-alexopoulos
+    - 1
+  - - hugues-bouchard
+    - 1
+  - - heriberto-cuayahuitl
+    - 1
+  - - nina-dethlefs
+    - 1
+  - - milica-gasic
+    - 1
+  - - almudena-gonzalez-guimerans
+    - 1
+  - - james-henderson
+    - 1
+  - - oliver-lemon
+    - 1
+  - - xingkun-liu
+    - 1
+  - - peter-mika
+    - 1
+  - - ti-potter
+    - 1
+  - - verena-rieser
+    - 1
+  - - yves-vanrompay
+    - 1
+  - - boris-villazon-terrazas
+    - 1
+  - - majid-yazdani
+    - 1
+  - - steve-young
+    - 1
+  - - yanchao-yu
+    - 1
   first: Pirros
   full: Pirros Tsiakoulis
   last: Tsiakoulis
-  papers: []
+  papers:
+  - Z14-1031
   slug: pirros-tsiakoulis
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 plaban-kr-bhowmick:
   coauthors: []
   first: Plaban Kr.

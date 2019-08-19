@@ -542,6 +542,23 @@ gertjan-van-noord:
   papers: []
   slug: gertjan-van-noord
   venues: []
+gesa-schole:
+  coauthors:
+  - - thora-tenbrink
+    - 1
+  - - kenny-coventry
+    - 1
+  - - elena-andonova
+    - 1
+  first: Gesa
+  full: Gesa Schole
+  last: Schole
+  papers:
+  - Z14-1048
+  slug: gesa-schole
+  venues:
+  - - SEMDIAL
+    - 1
 gholamreza-ghassem-sani:
   coauthors: []
   first: Gholamreza
@@ -614,6 +631,21 @@ gianmaria-ajani:
   papers: []
   slug: gianmaria-ajani
   venues: []
+gibson-ikoro:
+  coauthors:
+  - - raul-mondragon
+    - 1
+  - - graham-white
+    - 1
+  first: Gibson
+  full: Gibson Ikoro
+  last: Ikoro
+  papers:
+  - Z14-1032
+  slug: gibson-ikoro
+  venues:
+  - - SEMDIAL
+    - 1
 gideon-mann:
   coauthors: []
   first: Gideon
@@ -950,6 +982,21 @@ graham-russell:
   papers: []
   slug: graham-russell
   venues: []
+graham-white:
+  coauthors:
+  - - gibson-ikoro
+    - 1
+  - - raul-mondragon
+    - 1
+  first: Graham
+  full: Graham White
+  last: White
+  papers:
+  - Z14-1032
+  slug: graham-white
+  venues:
+  - - SEMDIAL
+    - 1
 graham-wilcock:
   coauthors: []
   first: Graham
@@ -1078,6 +1125,27 @@ gualberto-a-guzman:
   papers: []
   slug: gualberto-a-guzman
   venues: []
+guanchun-wang:
+  coauthors:
+  - - zengtao-jiao
+    - 1
+  - - zhuoran-wang
+    - 1
+  - - hao-tian
+    - 1
+  - - hua-wu
+    - 1
+  - - haifeng-wang
+    - 1
+  first: Guanchun
+  full: Guanchun Wang
+  last: Wang
+  papers:
+  - Z14-1033
+  slug: guanchun-wang
+  venues:
+  - - SEMDIAL
+    - 1
 gudrun-magnusdottir:
   coauthors: []
   first: "Gu\xF0run"

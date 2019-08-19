@@ -78,6 +78,27 @@ zeljko-agic:
   papers: []
   slug: zeljko-agic
   venues: []
+zengtao-jiao:
+  coauthors:
+  - - zhuoran-wang
+    - 1
+  - - guanchun-wang
+    - 1
+  - - hao-tian
+    - 1
+  - - hua-wu
+    - 1
+  - - haifeng-wang
+    - 1
+  first: Zengtao
+  full: Zengtao Jiao
+  last: Jiao
+  papers:
+  - Z14-1033
+  slug: zengtao-jiao
+  venues:
+  - - SEMDIAL
+    - 1
 zeynep-orhan:
   coauthors: []
   first: Zeynep
@@ -150,6 +171,37 @@ zhiming-xu:
   papers: []
   slug: zhiming-xu
   venues: []
+zhuoran-wang:
+  coauthors:
+  - - verena-rieser
+    - 2
+  - - zengtao-jiao
+    - 1
+  - - guanchun-wang
+    - 1
+  - - hao-tian
+    - 1
+  - - hua-wu
+    - 1
+  - - haifeng-wang
+    - 1
+  - - callum-main
+    - 1
+  - - wenshuo-tang
+    - 1
+  - - oliver-lemon
+    - 1
+  first: Zhuoran
+  full: Zhuoran Wang
+  last: Wang
+  papers:
+  - Z14-1033
+  - Z14-1041
+  - Z14-1050
+  slug: zhuoran-wang
+  venues:
+  - - SEMDIAL
+    - 3
 ziortza-polin:
   coauthors: []
   first: Ziortza
@@ -158,6 +210,23 @@ ziortza-polin:
   papers: []
   slug: ziortza-polin
   venues: []
+zoe-falomir:
+  coauthors:
+  - - vivien-mast
+    - 1
+  - - daniel-couto-vale1
+    - 1
+  - - mohammad-fazleh-elahi
+    - 1
+  first: Zoe
+  full: Zoe Falomir
+  last: Falomir
+  papers:
+  - Z14-1042
+  slug: zoe-falomir
+  venues:
+  - - SEMDIAL
+    - 1
 zoltan-alexin:
   coauthors: []
   first: "Zolt\xE1n"

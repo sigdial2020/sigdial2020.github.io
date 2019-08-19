@@ -237,6 +237,55 @@ maja-popovic:
   papers: []
   slug: maja-popovic
   venues: []
+majid-yazdani:
+  coauthors:
+  - - helen-hastie
+    - 1
+  - - marie-aude-aufaure
+    - 1
+  - - panos-alexopoulos
+    - 1
+  - - hugues-bouchard
+    - 1
+  - - heriberto-cuayahuitl
+    - 1
+  - - nina-dethlefs
+    - 1
+  - - milica-gasic
+    - 1
+  - - almudena-gonzalez-guimerans
+    - 1
+  - - james-henderson
+    - 1
+  - - oliver-lemon
+    - 1
+  - - xingkun-liu
+    - 1
+  - - peter-mika
+    - 1
+  - - ti-potter
+    - 1
+  - - verena-rieser
+    - 1
+  - - pirros-tsiakoulis
+    - 1
+  - - yves-vanrompay
+    - 1
+  - - boris-villazon-terrazas
+    - 1
+  - - steve-young
+    - 1
+  - - yanchao-yu
+    - 1
+  first: Majid
+  full: Majid Yazdani
+  last: Yazdani
+  papers:
+  - Z14-1031
+  slug: majid-yazdani
+  venues:
+  - - SEMDIAL
+    - 1
 makoto-iwayama:
   coauthors: []
   first: Makoto
@@ -939,6 +988,55 @@ marie-a-bienkowski:
   papers: []
   slug: marie-a-bienkowski
   venues: []
+marie-aude-aufaure:
+  coauthors:
+  - - helen-hastie
+    - 1
+  - - panos-alexopoulos
+    - 1
+  - - hugues-bouchard
+    - 1
+  - - heriberto-cuayahuitl
+    - 1
+  - - nina-dethlefs
+    - 1
+  - - milica-gasic
+    - 1
+  - - almudena-gonzalez-guimerans
+    - 1
+  - - james-henderson
+    - 1
+  - - oliver-lemon
+    - 1
+  - - xingkun-liu
+    - 1
+  - - peter-mika
+    - 1
+  - - ti-potter
+    - 1
+  - - verena-rieser
+    - 1
+  - - pirros-tsiakoulis
+    - 1
+  - - yves-vanrompay
+    - 1
+  - - boris-villazon-terrazas
+    - 1
+  - - majid-yazdani
+    - 1
+  - - steve-young
+    - 1
+  - - yanchao-yu
+    - 1
+  first: Marie-Aude
+  full: Marie-Aude Aufaure
+  last: Aufaure
+  papers:
+  - Z14-1031
+  slug: marie-aude-aufaure
+  venues:
+  - - SEMDIAL
+    - 1
 marie-candito:
   coauthors: []
   first: Marie
@@ -1304,6 +1402,19 @@ marketa-lopatkova:
   papers: []
   slug: marketa-lopatkova
   venues: []
+markus-guhe:
+  coauthors:
+  - - alex-lascarides
+    - 1
+  first: Markus
+  full: Markus Guhe
+  last: Guhe
+  papers:
+  - Z14-1011
+  slug: markus-guhe
+  venues:
+  - - SEMDIAL
+    - 1
 markus-kommenda:
   coauthors: []
   first: Markus
@@ -1548,22 +1659,25 @@ mary-elaine-califf:
 mary-ellen-foster:
   coauthors:
   - - srinivasan-janarthanam
-    - 1
-  - - helen-hastie
-    - 1
+    - 2
   - - amol-deshmukh
-    - 1
+    - 2
+  - - helen-hastie
+    - 2
   - - ruth-aylett
+    - 2
+  - - mei-yii-lim
     - 1
   first: Mary Ellen
   full: Mary Ellen Foster
   last: Foster
   papers:
   - Z15-1033
+  - Z14-1040
   slug: mary-ellen-foster
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 mary-harper:
   coauthors: []
   first: Mary
@@ -1671,22 +1785,25 @@ masatake-dantsuji:
 masato-ishizaki:
   coauthors:
   - - yasuhiro-katagiri
-    - 1
+    - 2
   - - katsuya-takanashi
-    - 1
+    - 2
   - - mika-enomoto
-    - 1
+    - 2
   - - yasuharu-den
+    - 2
+  - - shogo-okada
     - 1
   first: Masato
   full: Masato Ishizaki
   last: Ishizaki
   papers:
   - Z17-1017
+  - Z14-1034
   slug: masato-ishizaki
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 massih-r-amini:
   coauthors: []
   first: Massih R.
@@ -1797,16 +1914,24 @@ matthew-purver:
     - 2
   - - patrick-healey
     - 2
+  - - christine-howes
+    - 1
+  - - julian-hough
+    - 1
+  - - rose-mccabe
+    - 1
   first: Matthew
   full: Matthew Purver
   last: Purver
   papers:
   - Z15-1004
   - Z15-1005
+  - Z14-1003
+  - Z14-1013
   slug: matthew-purver
   venues:
   - - SEMDIAL
-    - 2
+    - 4
 matthew-r-gormley:
   coauthors: []
   first: Matthew R.
@@ -1823,6 +1948,21 @@ matthew-snover:
   papers: []
   slug: matthew-snover
   venues: []
+matthew-stone:
+  coauthors:
+  - - timothy-meo
+    - 1
+  - - brian-mcmahan
+    - 1
+  first: Matthew
+  full: Matthew Stone
+  last: Stone
+  papers:
+  - Z14-1016
+  slug: matthew-stone
+  venues:
+  - - SEMDIAL
+    - 1
 matthew-w-bilotti:
   coauthors: []
   first: Matthew W.
@@ -1854,6 +1994,23 @@ matthias-hartung:
   papers: []
   slug: matthias-hartung
   venues: []
+matthias-kerzel:
+  coauthors:
+  - - ozge-alacam
+    - 1
+  - - christopher-habel
+    - 1
+  - - cengiz-acarturk
+    - 1
+  first: Matthias
+  full: Matthias Kerzel
+  last: Kerzel
+  papers:
+  - Z14-1036
+  slug: matthias-kerzel
+  venues:
+  - - SEMDIAL
+    - 1
 matthias-kraus:
   coauthors:
   - - louisa-pragst
@@ -2063,6 +2220,27 @@ mei-hua-chen:
   papers: []
   slug: mei-hua-chen
   venues: []
+mei-yii-lim:
+  coauthors:
+  - - mary-ellen-foster
+    - 1
+  - - srinivasan-janarthanam
+    - 1
+  - - amol-deshmukh
+    - 1
+  - - helen-hastie
+    - 1
+  - - ruth-aylett
+    - 1
+  first: Mei Yii
+  full: Mei Yii Lim
+  last: Lim
+  papers:
+  - Z14-1040
+  slug: mei-yii-lim
+  venues:
+  - - SEMDIAL
+    - 1
 mei-yuh-hwang:
   coauthors: []
   first: Mei-Yuh
@@ -2391,6 +2569,17 @@ michael-s-kearns:
   papers: []
   slug: michael-s-kearns
   venues: []
+michael-schober:
+  coauthors: []
+  first: Michael
+  full: Michael Schober
+  last: Schober
+  papers:
+  - Z14-1004
+  slug: michael-schober
+  venues:
+  - - SEMDIAL
+    - 1
 michael-skinner:
   coauthors: []
   first: Michael
@@ -2546,22 +2735,25 @@ mijail-kabadjov:
 mika-enomoto:
   coauthors:
   - - yasuhiro-katagiri
-    - 1
+    - 2
   - - katsuya-takanashi
-    - 1
+    - 2
   - - masato-ishizaki
-    - 1
+    - 2
   - - yasuharu-den
+    - 2
+  - - shogo-okada
     - 1
   first: Mika
   full: Mika Enomoto
   last: Enomoto
   papers:
   - Z17-1017
+  - Z14-1034
   slug: mika-enomoto
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 mikael-andersson:
   coauthors: []
   first: Mikael
@@ -2635,13 +2827,54 @@ milena-hnatkova:
   slug: milena-hnatkova
   venues: []
 milica-gasic:
-  coauthors: []
+  coauthors:
+  - - helen-hastie
+    - 1
+  - - marie-aude-aufaure
+    - 1
+  - - panos-alexopoulos
+    - 1
+  - - hugues-bouchard
+    - 1
+  - - heriberto-cuayahuitl
+    - 1
+  - - nina-dethlefs
+    - 1
+  - - almudena-gonzalez-guimerans
+    - 1
+  - - james-henderson
+    - 1
+  - - oliver-lemon
+    - 1
+  - - xingkun-liu
+    - 1
+  - - peter-mika
+    - 1
+  - - ti-potter
+    - 1
+  - - verena-rieser
+    - 1
+  - - pirros-tsiakoulis
+    - 1
+  - - yves-vanrompay
+    - 1
+  - - boris-villazon-terrazas
+    - 1
+  - - majid-yazdani
+    - 1
+  - - steve-young
+    - 1
+  - - yanchao-yu
+    - 1
   first: Milica
   full: Milica Gasic
   last: Gasic
-  papers: []
+  papers:
+  - Z14-1031
   slug: milica-gasic
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 min-hua-lai:
   coauthors: []
   first: Min-Hua
@@ -2650,6 +2883,37 @@ min-hua-lai:
   papers: []
   slug: min-hua-lai
   venues: []
+mina-kheirkhah:
+  coauthors:
+  - - jo-a-o-paulo-cabral
+    - 1
+  - - nick-campbell
+    - 1
+  - - sree-ganesh
+    - 1
+  - - emer-gilmartin
+    - 1
+  - - fasih-haider
+    - 1
+  - - eamonn-kenny
+    - 1
+  - - andrew-murphy
+    - 1
+  - - neasa-n-i-chiar-ain
+    - 1
+  - - thomas-pellegrini
+    - 1
+  - - odei-rey-orozko
+    - 1
+  first: Mina
+  full: Mina Kheirkhah
+  last: Kheirkhah
+  papers:
+  - Z14-1022
+  slug: mina-kheirkhah
+  venues:
+  - - SEMDIAL
+    - 1
 ming-chin-yen:
   coauthors: []
   first: Ming-chin
@@ -2996,6 +3260,23 @@ mohammad-bahrani:
   papers: []
   slug: mohammad-bahrani
   venues: []
+mohammad-fazleh-elahi:
+  coauthors:
+  - - vivien-mast
+    - 1
+  - - daniel-couto-vale1
+    - 1
+  - - zoe-falomir
+    - 1
+  first: Mohammad Fazleh
+  full: Mohammad Fazleh Elahi
+  last: Elahi
+  papers:
+  - Z14-1042
+  slug: mohammad-fazleh-elahi
+  venues:
+  - - SEMDIAL
+    - 1
 mohammed-arif-khan:
   coauthors: []
   first: Mohammed Arif

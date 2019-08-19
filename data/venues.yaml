@@ -1008,11 +1008,14 @@ SEMDIAL:
   slug: semdial
   type: Non ACL
   volumes_by_year:
+    '2014':
+    - Z14-1
     '2015':
     - Z15-1
     '2017':
     - Z17-1
   years:
+  - '2014'
   - '2015'
   - '2017'
 SEMITIC:

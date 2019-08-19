@@ -14,6 +14,37 @@ e-gabriela-garza:
   papers: []
   slug: e-gabriela-garza
   venues: []
+eamonn-kenny:
+  coauthors:
+  - - jo-a-o-paulo-cabral
+    - 1
+  - - nick-campbell
+    - 1
+  - - sree-ganesh
+    - 1
+  - - mina-kheirkhah
+    - 1
+  - - emer-gilmartin
+    - 1
+  - - fasih-haider
+    - 1
+  - - andrew-murphy
+    - 1
+  - - neasa-n-i-chiar-ain
+    - 1
+  - - thomas-pellegrini
+    - 1
+  - - odei-rey-orozko
+    - 1
+  first: Eamonn
+  full: Eamonn Kenny
+  last: Kenny
+  papers:
+  - Z14-1022
+  slug: eamonn-kenny
+  venues:
+  - - SEMDIAL
+    - 1
 ebbe-spang-hanssen:
   coauthors: []
   first: Ebbe
@@ -270,6 +301,23 @@ eldon-g-lytle:
   papers: []
   slug: eldon-g-lytle
   venues: []
+elena-andonova:
+  coauthors:
+  - - gesa-schole
+    - 1
+  - - thora-tenbrink
+    - 1
+  - - kenny-coventry
+    - 1
+  first: Elena
+  full: Elena Andonova
+  last: Andonova
+  papers:
+  - Z14-1048
+  slug: elena-andonova
+  venues:
+  - - SEMDIAL
+    - 1
 elena-barcena:
   coauthors: []
   first: Elena
@@ -302,6 +350,25 @@ eleni-koutsogeorgos:
   papers: []
   slug: eleni-koutsogeorgos
   venues: []
+elettra-oleari:
+  coauthors:
+  - - ivana-kruijff-korbayova
+    - 1
+  - - stefania-racioppa
+    - 1
+  - - bernd-kiefer
+    - 1
+  - - clara-pozzi
+    - 1
+  first: Elettra
+  full: Elettra Oleari
+  last: Oleari
+  papers:
+  - Z14-1014
+  slug: elettra-oleari
+  venues:
+  - - SEMDIAL
+    - 1
 eli-goldberg:
   coauthors: []
   first: Eli
@@ -568,6 +635,21 @@ elmar-noth:
   papers: []
   slug: elmar-noth
   venues: []
+elnaz-nouri:
+  coauthors:
+  - - angela-nazarian
+    - 1
+  - - david-traum
+    - 1
+  first: Elnaz
+  full: Elnaz Nouri
+  last: Nouri
+  papers:
+  - Z14-1044
+  slug: elnaz-nouri
+  venues:
+  - - SEMDIAL
+    - 1
 elvira-i-sicilia-garcia:
   coauthors: []
   first: Elvira I.
@@ -600,6 +682,37 @@ emanuele-pianta:
   papers: []
   slug: emanuele-pianta
   venues: []
+emer-gilmartin:
+  coauthors:
+  - - jo-a-o-paulo-cabral
+    - 1
+  - - nick-campbell
+    - 1
+  - - sree-ganesh
+    - 1
+  - - mina-kheirkhah
+    - 1
+  - - fasih-haider
+    - 1
+  - - eamonn-kenny
+    - 1
+  - - andrew-murphy
+    - 1
+  - - neasa-n-i-chiar-ain
+    - 1
+  - - thomas-pellegrini
+    - 1
+  - - odei-rey-orozko
+    - 1
+  first: Emer
+  full: Emer Gilmartin
+  last: Gilmartin
+  papers:
+  - Z14-1022
+  slug: emer-gilmartin
+  venues:
+  - - SEMDIAL
+    - 1
 emerson-cabrera-paraiso:
   coauthors: []
   first: Emerson Cabrera

@@ -230,6 +230,21 @@ inmaculada-hernaez:
   papers: []
   slug: inmaculada-hernaez
   venues: []
+insa-lawler:
+  coauthors:
+  - - florian-hahn
+    - 1
+  - - hannes-rieser
+    - 1
+  first: Insa
+  full: Insa Lawler
+  last: Lawler
+  papers:
+  - Z14-1029
+  slug: insa-lawler
+  venues:
+  - - SEMDIAL
+    - 1
 ioana-vasilescu:
   coauthors: []
   first: Ioana
@@ -249,16 +264,22 @@ ioannis-dologlou:
 ioannis-efstathiou:
   coauthors:
   - - oliver-lemon
+    - 2
+  - - aimilios-vourliotakis
+    - 1
+  - - verena-rieser
     - 1
   first: Ioannis
   full: Ioannis Efstathiou
   last: Efstathiou
   papers:
   - Z15-1007
+  - Z14-1025
+  - Z14-1052
   slug: ioannis-efstathiou
   venues:
   - - SEMDIAL
-    - 1
+    - 3
 ioannis-kakadiaris:
   coauthors: []
   first: Ioannis
@@ -553,13 +574,28 @@ ivan-obradovic:
   slug: ivan-obradovic
   venues: []
 ivana-kruijff-korbayova:
-  coauthors: []
+  coauthors:
+  - - stefania-racioppa
+    - 1
+  - - bernd-kiefer
+    - 1
+  - - elettra-oleari
+    - 1
+  - - clara-pozzi
+    - 1
   first: Ivana
   full: "Ivana Kruijff-Korbayov\xE1"
   last: "Kruijff-Korbayov\xE1"
-  papers: []
+  papers:
+  - Z14-1014
   slug: ivana-kruijff-korbayova
-  venues: []
+  variant_entries:
+  - first: Ivana
+    full: Ivana Kruijff-Korbayova
+    last: Kruijff-Korbayova
+  venues:
+  - - SEMDIAL
+    - 1
 ivandre-paraboni:
   coauthors: []
   first: "Ivandr\xE9"
@@ -579,11 +615,13 @@ ivona-kucerova:
 iwan-de-kok:
   coauthors:
   - - julian-hough
-    - 2
+    - 3
   - - david-schlangen
-    - 2
+    - 3
   - - stefan-kopp
-    - 2
+    - 3
+  - - cornelia-frank
+    - 1
   - - felix-hulsmann
     - 1
   - - thomas-waltema
@@ -596,10 +634,11 @@ iwan-de-kok:
   papers:
   - Z15-1013
   - Z15-1026
+  - Z14-1023
   slug: iwan-de-kok
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 izaskun-aldezabal:
   coauthors: []
   first: Izaskun

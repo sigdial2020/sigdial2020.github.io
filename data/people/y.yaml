@@ -65,6 +65,46 @@ yan-zuo-zhou:
 yanchao-yu:
   coauthors:
   - - oliver-lemon
+    - 3
+  - - verena-rieser
+    - 2
+  - - helen-hastie
+    - 1
+  - - marie-aude-aufaure
+    - 1
+  - - panos-alexopoulos
+    - 1
+  - - hugues-bouchard
+    - 1
+  - - heriberto-cuayahuitl
+    - 1
+  - - nina-dethlefs
+    - 1
+  - - milica-gasic
+    - 1
+  - - almudena-gonzalez-guimerans
+    - 1
+  - - james-henderson
+    - 1
+  - - xingkun-liu
+    - 1
+  - - peter-mika
+    - 1
+  - - ti-potter
+    - 1
+  - - pirros-tsiakoulis
+    - 1
+  - - yves-vanrompay
+    - 1
+  - - boris-villazon-terrazas
+    - 1
+  - - majid-yazdani
+    - 1
+  - - steve-young
+    - 1
+  - - srinivasan-janarthanam
+    - 1
+  - - andy-taylor
     - 1
   - - arash-eshghi
     - 1
@@ -73,10 +113,12 @@ yanchao-yu:
   last: Yu
   papers:
   - Z15-1049
+  - Z14-1031
+  - Z14-1046
   slug: yanchao-yu
   venues:
   - - SEMDIAL
-    - 1
+    - 3
 yang-liu:
   coauthors: []
   comment: May refer to several people
@@ -240,31 +282,36 @@ yaser-al-onaizan:
 yasuharu-den:
   coauthors:
   - - yasuhiro-katagiri
-    - 1
+    - 2
   - - katsuya-takanashi
-    - 1
+    - 2
   - - masato-ishizaki
-    - 1
+    - 2
   - - mika-enomoto
+    - 2
+  - - shogo-okada
     - 1
   first: Yasuharu
   full: Yasuharu Den
   last: Den
   papers:
   - Z17-1017
+  - Z14-1034
   slug: yasuharu-den
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 yasuhiro-katagiri:
   coauthors:
   - - katsuya-takanashi
-    - 2
+    - 3
   - - masato-ishizaki
-    - 1
+    - 2
   - - mika-enomoto
-    - 1
+    - 2
   - - yasuharu-den
+    - 2
+  - - shogo-okada
     - 1
   first: Yasuhiro
   full: Yasuhiro Katagiri
@@ -272,10 +319,11 @@ yasuhiro-katagiri:
   papers:
   - Z17-1017
   - Z15-1034
+  - Z14-1034
   slug: yasuhiro-katagiri
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 yasunari-harada:
   coauthors:
   - - miwa-morishita
@@ -307,13 +355,23 @@ yau-tarng-juang:
   venues: []
 ye-tian:
   coauthors:
+  - - jonathan-ginzburg
+    - 2
+  - - david-schlangen
+    - 1
+  - - julian-hough
+    - 1
+  - - chiara-mazzocconi
+    - 1
+  - - sam-green
+    - 1
+  - - caspar-addyman
+    - 1
   - - volha-petukhova
     - 1
   - - claire-beyssade
     - 1
   - - yannick-mathieu
-    - 1
-  - - jonathan-ginzburg
     - 1
   first: Ye
   full: Ye Tian
@@ -321,10 +379,12 @@ ye-tian:
   papers:
   - Z17-1000
   - Z15-1020
+  - Z14-1026
+  - Z14-1043
   slug: ye-tian
   venues:
   - - SEMDIAL
-    - 2
+    - 4
 yen-lu-chow:
   coauthors: []
   first: Yen-Lu
@@ -887,3 +947,52 @@ yves-schabes:
   papers: []
   slug: yves-schabes
   venues: []
+yves-vanrompay:
+  coauthors:
+  - - helen-hastie
+    - 1
+  - - marie-aude-aufaure
+    - 1
+  - - panos-alexopoulos
+    - 1
+  - - hugues-bouchard
+    - 1
+  - - heriberto-cuayahuitl
+    - 1
+  - - nina-dethlefs
+    - 1
+  - - milica-gasic
+    - 1
+  - - almudena-gonzalez-guimerans
+    - 1
+  - - james-henderson
+    - 1
+  - - oliver-lemon
+    - 1
+  - - xingkun-liu
+    - 1
+  - - peter-mika
+    - 1
+  - - ti-potter
+    - 1
+  - - verena-rieser
+    - 1
+  - - pirros-tsiakoulis
+    - 1
+  - - boris-villazon-terrazas
+    - 1
+  - - majid-yazdani
+    - 1
+  - - steve-young
+    - 1
+  - - yanchao-yu
+    - 1
+  first: Yves
+  full: Yves Vanrompay
+  last: Vanrompay
+  papers:
+  - Z14-1031
+  slug: yves-vanrompay
+  venues:
+  - - SEMDIAL
+    - 1

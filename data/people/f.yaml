@@ -142,6 +142,37 @@ farid-cerbah:
   papers: []
   slug: farid-cerbah
   venues: []
+fasih-haider:
+  coauthors:
+  - - jo-a-o-paulo-cabral
+    - 1
+  - - nick-campbell
+    - 1
+  - - sree-ganesh
+    - 1
+  - - mina-kheirkhah
+    - 1
+  - - emer-gilmartin
+    - 1
+  - - eamonn-kenny
+    - 1
+  - - andrew-murphy
+    - 1
+  - - neasa-n-i-chiar-ain
+    - 1
+  - - thomas-pellegrini
+    - 1
+  - - odei-rey-orozko
+    - 1
+  first: Fasih
+  full: Fasih Haider
+  last: Haider
+  papers:
+  - Z14-1022
+  slug: fasih-haider
+  venues:
+  - - SEMDIAL
+    - 1
 fatemeh-torabi-asr:
   coauthors: []
   first: Fatemeh
@@ -394,6 +425,21 @@ florence-reeder:
   papers: []
   slug: florence-reeder
   venues: []
+florian-hahn:
+  coauthors:
+  - - insa-lawler
+    - 1
+  - - hannes-rieser
+    - 1
+  first: Florian
+  full: Florian Hahn
+  last: Hahn
+  papers:
+  - Z14-1029
+  slug: florian-hahn
+  venues:
+  - - SEMDIAL
+    - 1
 florin-bulgarov:
   coauthors: []
   first: Florin
@@ -530,6 +576,21 @@ francisco-m-couto:
   papers: []
   slug: francisco-m-couto
   venues: []
+francisco-melo:
+  coauthors:
+  - - daniel-magarreiro
+    - 1
+  - - lu-isa-coheur
+    - 1
+  first: Francisco
+  full: Francisco Melo
+  last: Melo
+  papers:
+  - Z14-1015
+  slug: francisco-melo
+  venues:
+  - - SEMDIAL
+    - 1
 franco-cutugno:
   coauthors:
   - - marco-valentino

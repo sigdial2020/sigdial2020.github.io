@@ -262,6 +262,23 @@ wenhan-chao:
   papers: []
   slug: wenhan-chao
   venues: []
+wenshuo-tang:
+  coauthors:
+  - - zhuoran-wang
+    - 1
+  - - verena-rieser
+    - 1
+  - - oliver-lemon
+    - 1
+  first: Wenshuo
+  full: Wenshuo Tang
+  last: Tang
+  papers:
+  - Z14-1050
+  slug: wenshuo-tang
+  venues:
+  - - SEMDIAL
+    - 1
 whitney-l-cade:
   coauthors: []
   first: Whitney L.

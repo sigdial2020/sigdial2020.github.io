@@ -424,12 +424,14 @@ katsumasa-shimizu:
 katsuya-takanashi:
   coauthors:
   - - yasuhiro-katagiri
-    - 2
+    - 3
   - - masato-ishizaki
-    - 1
+    - 2
   - - mika-enomoto
-    - 1
+    - 2
   - - yasuharu-den
+    - 2
+  - - shogo-okada
     - 1
   first: Katsuya
   full: Katsuya Takanashi
@@ -437,10 +439,11 @@ katsuya-takanashi:
   papers:
   - Z17-1017
   - Z15-1034
+  - Z14-1034
   slug: katsuya-takanashi
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 kavi-mahesh:
   coauthors: []
   first: Kavi
@@ -747,6 +750,23 @@ kenneth-s-bogh:
   papers: []
   slug: kenneth-s-bogh
   venues: []
+kenny-coventry:
+  coauthors:
+  - - gesa-schole
+    - 1
+  - - thora-tenbrink
+    - 1
+  - - elena-andonova
+    - 1
+  first: Kenny
+  full: Kenny Coventry
+  last: Coventry
+  papers:
+  - Z14-1048
+  slug: kenny-coventry
+  venues:
+  - - SEMDIAL
+    - 1
 kenny-smith:
   coauthors:
   - - lucia-castillo

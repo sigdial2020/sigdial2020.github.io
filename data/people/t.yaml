@@ -495,6 +495,37 @@ thomas-p-ohara:
   papers: []
   slug: thomas-p-ohara
   venues: []
+thomas-pellegrini:
+  coauthors:
+  - - jo-a-o-paulo-cabral
+    - 1
+  - - nick-campbell
+    - 1
+  - - sree-ganesh
+    - 1
+  - - mina-kheirkhah
+    - 1
+  - - emer-gilmartin
+    - 1
+  - - fasih-haider
+    - 1
+  - - eamonn-kenny
+    - 1
+  - - andrew-murphy
+    - 1
+  - - neasa-n-i-chiar-ain
+    - 1
+  - - odei-rey-orozko
+    - 1
+  first: Thomas
+  full: Thomas Pellegrini
+  last: Pellegrini
+  papers:
+  - Z14-1022
+  slug: thomas-pellegrini
+  venues:
+  - - SEMDIAL
+    - 1
 thomas-s-morton:
   coauthors: []
   first: Thomas S.
@@ -542,6 +573,23 @@ thomas-wasow:
   papers: []
   slug: thomas-wasow
   venues: []
+thora-tenbrink:
+  coauthors:
+  - - gesa-schole
+    - 1
+  - - kenny-coventry
+    - 1
+  - - elena-andonova
+    - 1
+  first: Thora
+  full: Thora Tenbrink
+  last: Tenbrink
+  papers:
+  - Z14-1048
+  slug: thora-tenbrink
+  venues:
+  - - SEMDIAL
+    - 1
 thoudam-doren-singh:
   coauthors: []
   first: Thoudam Doren
@@ -566,6 +614,55 @@ thuylinh-nguyen:
   papers: []
   slug: thuylinh-nguyen
   venues: []
+ti-potter:
+  coauthors:
+  - - helen-hastie
+    - 1
+  - - marie-aude-aufaure
+    - 1
+  - - panos-alexopoulos
+    - 1
+  - - hugues-bouchard
+    - 1
+  - - heriberto-cuayahuitl
+    - 1
+  - - nina-dethlefs
+    - 1
+  - - milica-gasic
+    - 1
+  - - almudena-gonzalez-guimerans
+    - 1
+  - - james-henderson
+    - 1
+  - - oliver-lemon
+    - 1
+  - - xingkun-liu
+    - 1
+  - - peter-mika
+    - 1
+  - - verena-rieser
+    - 1
+  - - pirros-tsiakoulis
+    - 1
+  - - yves-vanrompay
+    - 1
+  - - boris-villazon-terrazas
+    - 1
+  - - majid-yazdani
+    - 1
+  - - steve-young
+    - 1
+  - - yanchao-yu
+    - 1
+  first: Ti
+  full: Ti Potter
+  last: Potter
+  papers:
+  - Z14-1031
+  slug: ti-potter
+  venues:
+  - - SEMDIAL
+    - 1
 tiago-timponi-torrent:
   coauthors: []
   first: Tiago Timponi
@@ -686,6 +783,21 @@ timothy-j-hazen:
   papers: []
   slug: timothy-j-hazen
   venues: []
+timothy-meo:
+  coauthors:
+  - - brian-mcmahan
+    - 1
+  - - matthew-stone
+    - 1
+  first: Timothy
+  full: Timothy Meo
+  last: Meo
+  papers:
+  - Z14-1016
+  slug: timothy-meo
+  venues:
+  - - SEMDIAL
+    - 1
 timothy-miller:
   coauthors: []
   first: Timothy
@@ -720,19 +832,22 @@ tina-kluwer:
   venues: []
 ting-han:
   coauthors:
-  - - casey-kennington
-    - 1
   - - david-schlangen
+    - 2
+  - - spyros-kousidis
+    - 1
+  - - casey-kennington
     - 1
   first: Ting
   full: Ting Han
   last: Han
   papers:
   - Z15-1010
+  - Z14-1030
   slug: ting-han
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 ting-hao-huang:
   coauthors: []
   first: Ting-Hao

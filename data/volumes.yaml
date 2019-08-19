@@ -1,3 +1,80 @@
+Z14-1:
+  address: Edinburgh, United Kingdom
+  editor:
+  - first: Philippe
+    full: Philippe Muller
+    id: philippe-muller
+    last: Muller
+  - first: Verena
+    full: Verena Rieser
+    id: verena-rieser
+    last: Rieser
+  has_abstracts: false
+  meta_date: 2014/8
+  month: August
+  papers:
+  - Z14-1000
+  - Z14-1001
+  - Z14-1002
+  - Z14-1003
+  - Z14-1004
+  - Z14-1005
+  - Z14-1006
+  - Z14-1007
+  - Z14-1008
+  - Z14-1009
+  - Z14-1010
+  - Z14-1011
+  - Z14-1012
+  - Z14-1013
+  - Z14-1014
+  - Z14-1015
+  - Z14-1016
+  - Z14-1017
+  - Z14-1018
+  - Z14-1019
+  - Z14-1020
+  - Z14-1021
+  - Z14-1022
+  - Z14-1023
+  - Z14-1024
+  - Z14-1025
+  - Z14-1026
+  - Z14-1027
+  - Z14-1028
+  - Z14-1029
+  - Z14-1030
+  - Z14-1031
+  - Z14-1032
+  - Z14-1033
+  - Z14-1034
+  - Z14-1035
+  - Z14-1036
+  - Z14-1037
+  - Z14-1038
+  - Z14-1039
+  - Z14-1040
+  - Z14-1041
+  - Z14-1042
+  - Z14-1043
+  - Z14-1044
+  - Z14-1045
+  - Z14-1046
+  - Z14-1047
+  - Z14-1048
+  - Z14-1049
+  - Z14-1050
+  - Z14-1051
+  - Z14-1052
+  - Z14-1053
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue
+  title_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics of
+    Dialogue
+  venues:
+  - SEMDIAL
+  year: '2014'
 Z15-1:
   address: Gothenburg, Sweden
   editor:

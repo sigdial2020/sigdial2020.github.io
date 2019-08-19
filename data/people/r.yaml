@@ -219,6 +219,25 @@ ralf-kese:
   papers: []
   slug: ralf-kese
   venues: []
+ralf-klabunde:
+  coauthors:
+  - - jon-stevens
+    - 1
+  - - anton-benz
+    - 1
+  - - sebastian-reu-ss-e
+    - 1
+  - - ronja-laarmann-quante
+    - 1
+  first: Ralf
+  full: Ralf Klabunde
+  last: Klabunde
+  papers:
+  - Z14-1020
+  slug: ralf-klabunde
+  venues:
+  - - SEMDIAL
+    - 1
 ralf-schlueter:
   coauthors: []
   first: Ralf
@@ -388,6 +407,22 @@ raquel-fern-a-ndez:
   venues:
   - - SEMDIAL
     - 1
+raquel-fern-andez:
+  coauthors:
+  - - robert-grimm
+    - 1
+  - - julian-schl-oder
+    - 1
+  first: Raquel
+  full: Raquel Fern\'andez
+  last: Fern\'andez
+  papers:
+  - Z14-1028
+  - Z14-1047
+  slug: raquel-fern-andez
+  venues:
+  - - SEMDIAL
+    - 2
 raquel-fernandez:
   coauthors:
   - - sarah-hiller
@@ -421,6 +456,21 @@ rasoul-samad-zadeh-kaljahi:
   papers: []
   slug: rasoul-samad-zadeh-kaljahi
   venues: []
+raul-mondragon:
+  coauthors:
+  - - gibson-ikoro
+    - 1
+  - - graham-white
+    - 1
+  first: Raul
+  full: Raul Mondragon
+  last: Mondragon
+  papers:
+  - Z14-1032
+  slug: raul-mondragon
+  venues:
+  - - SEMDIAL
+    - 1
 ravikumar-komandur:
   coauthors: []
   first: Ravikumar
@@ -936,6 +986,19 @@ robert-granville:
   papers: []
   slug: robert-granville
   venues: []
+robert-grimm:
+  coauthors:
+  - - raquel-fern-andez
+    - 1
+  first: Robert
+  full: Robert Grimm
+  last: Grimm
+  papers:
+  - Z14-1028
+  slug: robert-grimm
+  venues:
+  - - SEMDIAL
+    - 1
 robert-i-damper:
   coauthors: []
   first: Robert I.
@@ -1162,6 +1225,17 @@ roberto-pieraccini:
   papers: []
   slug: roberto-pieraccini
   venues: []
+robin-cooper:
+  coauthors: []
+  first: Robin
+  full: Robin Cooper
+  last: Cooper
+  papers:
+  - Z14-1007
+  slug: robin-cooper
+  venues:
+  - - SEMDIAL
+    - 1
 robin-p-fawcett:
   coauthors: []
   first: Robin P.
@@ -1393,6 +1467,25 @@ roni-ben-aharon:
   papers: []
   slug: roni-ben-aharon
   venues: []
+ronja-laarmann-quante:
+  coauthors:
+  - - jon-stevens
+    - 1
+  - - anton-benz
+    - 1
+  - - sebastian-reu-ss-e
+    - 1
+  - - ralf-klabunde
+    - 1
+  first: Ronja
+  full: Ronja Laarmann-Quante
+  last: Laarmann-Quante
+  papers:
+  - Z14-1020
+  slug: ronja-laarmann-quante
+  venues:
+  - - SEMDIAL
+    - 1
 ronnie-cann:
   coauthors:
   - - ruth-kempson
@@ -1440,6 +1533,23 @@ rose-catherine-kanjirathinkal:
   papers: []
   slug: rose-catherine-kanjirathinkal
   venues: []
+rose-mccabe:
+  coauthors:
+  - - christine-howes
+    - 1
+  - - julian-hough
+    - 1
+  - - matthew-purver
+    - 1
+  first: Rose
+  full: Rose McCabe
+  last: McCabe
+  papers:
+  - Z14-1013
+  slug: rose-mccabe
+  venues:
+  - - SEMDIAL
+    - 1
 rosemary-stevenson:
   coauthors: []
   first: Rosemary
@@ -1570,23 +1680,26 @@ russell-beckley:
   venues: []
 ruth-aylett:
   coauthors:
-  - - srinivasan-janarthanam
-    - 1
-  - - helen-hastie
-    - 1
-  - - amol-deshmukh
-    - 1
   - - mary-ellen-foster
+    - 2
+  - - srinivasan-janarthanam
+    - 2
+  - - amol-deshmukh
+    - 2
+  - - helen-hastie
+    - 2
+  - - mei-yii-lim
     - 1
   first: Ruth
   full: Ruth Aylett
   last: Aylett
   papers:
   - Z15-1033
+  - Z14-1040
   slug: ruth-aylett
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 ruth-kempson:
   coauthors:
   - - stergios-chatzikyriakidis

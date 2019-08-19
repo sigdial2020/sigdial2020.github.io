@@ -22,6 +22,37 @@ odbayar-chimeddorj:
   papers: []
   slug: odbayar-chimeddorj
   venues: []
+odei-rey-orozko:
+  coauthors:
+  - - jo-a-o-paulo-cabral
+    - 1
+  - - nick-campbell
+    - 1
+  - - sree-ganesh
+    - 1
+  - - mina-kheirkhah
+    - 1
+  - - emer-gilmartin
+    - 1
+  - - fasih-haider
+    - 1
+  - - eamonn-kenny
+    - 1
+  - - andrew-murphy
+    - 1
+  - - neasa-n-i-chiar-ain
+    - 1
+  - - thomas-pellegrini
+    - 1
+  first: Odei Rey
+  full: Odei Rey Orozko
+  last: Orozko
+  papers:
+  - Z14-1022
+  slug: odei-rey-orozko
+  venues:
+  - - SEMDIAL
+    - 1
 oier-lopez-de-lacalle:
   coauthors: []
   first: Oier
@@ -72,17 +103,61 @@ olga-van-herwijnen:
   venues: []
 oliver-lemon:
   coauthors:
+  - - verena-rieser
+    - 4
   - - arash-eshghi
+    - 3
+  - - yanchao-yu
+    - 3
+  - - nina-dethlefs
     - 2
-  - - igor-shalyminov
-    - 1
+  - - heriberto-cuayahuitl
+    - 2
+  - - helen-hastie
+    - 2
   - - ioannis-efstathiou
+    - 2
+  - - marie-aude-aufaure
+    - 1
+  - - panos-alexopoulos
+    - 1
+  - - hugues-bouchard
+    - 1
+  - - milica-gasic
+    - 1
+  - - almudena-gonzalez-guimerans
+    - 1
+  - - james-henderson
+    - 1
+  - - xingkun-liu
+    - 1
+  - - peter-mika
+    - 1
+  - - ti-potter
+    - 1
+  - - pirros-tsiakoulis
+    - 1
+  - - yves-vanrompay
+    - 1
+  - - boris-villazon-terrazas
+    - 1
+  - - majid-yazdani
+    - 1
+  - - steve-young
+    - 1
+  - - srinivasan-janarthanam
+    - 1
+  - - andy-taylor
+    - 1
+  - - wenshuo-tang
+    - 1
+  - - zhuoran-wang
+    - 1
+  - - igor-shalyminov
     - 1
   - - simon-keizer
     - 1
-  - - heriberto-cuayahuitl
-    - 1
-  - - yanchao-yu
+  - - heriberto-cuayahuitl1
     - 1
   first: Oliver
   full: Oliver Lemon
@@ -92,10 +167,16 @@ oliver-lemon:
   - Z15-1007
   - Z15-1015
   - Z15-1049
+  - Z14-1010
+  - Z14-1024
+  - Z14-1025
+  - Z14-1031
+  - Z14-1046
+  - Z14-1050
   slug: oliver-lemon
   venues:
   - - SEMDIAL
-    - 4
+    - 10
 olivia-o-y-kwong:
   coauthors: []
   first: Olivia O.Y.
@@ -316,6 +397,24 @@ ozan-irsoy:
   papers: []
   slug: ozan-irsoy
   venues: []
+ozge-alacam:
+  coauthors:
+  - - cengiz-acarturk
+    - 2
+  - - christopher-habel
+    - 2
+  - - matthias-kerzel
+    - 1
+  first: Ozge
+  full: Ozge Alacam
+  last: Alacam
+  papers:
+  - Z14-1005
+  - Z14-1036
+  slug: ozge-alacam
+  venues:
+  - - SEMDIAL
+    - 2
 ozlem-cetinoglu:
   coauthors: []
   first: "\xD6zlem"

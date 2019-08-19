@@ -142,10 +142,11 @@ barbara-lewandowska-tomaszczyk:
   last: Lewandowska-Tomaszczyk
   papers:
   - Z15-1038
+  - Z14-1039
   slug: barbara-lewandowska-tomaszczyk
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 barbara-lewandowska-tomaszyk:
   coauthors: []
   first: Barbara
@@ -541,13 +542,24 @@ bernardo-magnini:
   slug: bernardo-magnini
   venues: []
 bernd-kiefer:
-  coauthors: []
+  coauthors:
+  - - ivana-kruijff-korbayova
+    - 1
+  - - stefania-racioppa
+    - 1
+  - - elettra-oleari
+    - 1
+  - - clara-pozzi
+    - 1
   first: Bernd
   full: Bernd Kiefer
   last: Kiefer
-  papers: []
+  papers:
+  - Z14-1014
   slug: bernd-kiefer
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 bernd-mobius:
   coauthors: []
   first: Bernd
@@ -835,6 +847,55 @@ boris-v-dobrov:
   papers: []
   slug: boris-v-dobrov
   venues: []
+boris-villazon-terrazas:
+  coauthors:
+  - - helen-hastie
+    - 1
+  - - marie-aude-aufaure
+    - 1
+  - - panos-alexopoulos
+    - 1
+  - - hugues-bouchard
+    - 1
+  - - heriberto-cuayahuitl
+    - 1
+  - - nina-dethlefs
+    - 1
+  - - milica-gasic
+    - 1
+  - - almudena-gonzalez-guimerans
+    - 1
+  - - james-henderson
+    - 1
+  - - oliver-lemon
+    - 1
+  - - xingkun-liu
+    - 1
+  - - peter-mika
+    - 1
+  - - ti-potter
+    - 1
+  - - verena-rieser
+    - 1
+  - - pirros-tsiakoulis
+    - 1
+  - - yves-vanrompay
+    - 1
+  - - majid-yazdani
+    - 1
+  - - steve-young
+    - 1
+  - - yanchao-yu
+    - 1
+  first: Boris
+  full: Boris Villazon-Terrazas
+  last: Villazon-Terrazas
+  papers:
+  - Z14-1031
+  slug: boris-villazon-terrazas
+  venues:
+  - - SEMDIAL
+    - 1
 borja-navarro:
   coauthors: []
   first: Borja
@@ -931,6 +992,36 @@ brian-m-slator:
   papers: []
   slug: brian-m-slator
   venues: []
+brian-mac-namee:
+  coauthors:
+  - - niels-schuette
+    - 1
+  - - john-kelleher
+    - 1
+  first: Brian Mac
+  full: Brian Mac Namee
+  last: Namee
+  papers:
+  - Z14-1049
+  slug: brian-mac-namee
+  venues:
+  - - SEMDIAL
+    - 1
+brian-mcmahan:
+  coauthors:
+  - - timothy-meo
+    - 1
+  - - matthew-stone
+    - 1
+  first: Brian
+  full: Brian McMahan
+  last: McMahan
+  papers:
+  - Z14-1016
+  slug: brian-mcmahan
+  venues:
+  - - SEMDIAL
+    - 1
 brian-mitchell:
   coauthors: []
   first: Brian

@@ -46,6 +46,27 @@ hai-son-le:
   papers: []
   slug: hai-son-le
   venues: []
+haifeng-wang:
+  coauthors:
+  - - zengtao-jiao
+    - 1
+  - - zhuoran-wang
+    - 1
+  - - guanchun-wang
+    - 1
+  - - hao-tian
+    - 1
+  - - hua-wu
+    - 1
+  first: Haifeng
+  full: Haifeng Wang
+  last: Wang
+  papers:
+  - Z14-1033
+  slug: haifeng-wang
+  venues:
+  - - SEMDIAL
+    - 1
 hajime-mochizuki:
   coauthors: []
   first: Hajime
@@ -189,16 +210,21 @@ hanne-fersoe:
   slug: hanne-fersoe
   venues: []
 hannes-rieser:
-  coauthors: []
+  coauthors:
+  - - florian-hahn
+    - 1
+  - - insa-lawler
+    - 1
   first: Hannes
   full: Hannes Rieser
   last: Rieser
   papers:
   - Z15-1017
+  - Z14-1029
   slug: hannes-rieser
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 hans-dybkjaer:
   coauthors: []
   first: Hans
@@ -255,6 +281,27 @@ hany-hassan:
   papers: []
   slug: hany-hassan
   venues: []
+hao-tian:
+  coauthors:
+  - - zengtao-jiao
+    - 1
+  - - zhuoran-wang
+    - 1
+  - - guanchun-wang
+    - 1
+  - - hua-wu
+    - 1
+  - - haifeng-wang
+    - 1
+  first: Hao
+  full: Hao Tian
+  last: Tian
+  papers:
+  - Z14-1033
+  slug: hao-tian
+  venues:
+  - - SEMDIAL
+    - 1
 haoliang-qi:
   coauthors: []
   first: Haoliang
@@ -303,6 +350,19 @@ harald-trost:
   papers: []
   slug: harald-trost
   venues: []
+harm-brouwer:
+  coauthors:
+  - - noortje-venhuizen
+    - 1
+  first: Harm
+  full: Harm Brouwer
+  last: Brouwer
+  papers:
+  - Z14-1051
+  slug: harm-brouwer
+  venues:
+  - - SEMDIAL
+    - 1
 harold-somers:
   coauthors: []
   first: Harold
@@ -483,23 +543,66 @@ heinz-j-weber:
   venues: []
 helen-hastie:
   coauthors:
-  - - srinivasan-janarthanam
-    - 1
-  - - amol-deshmukh
-    - 1
-  - - ruth-aylett
-    - 1
+  - - nina-dethlefs
+    - 2
+  - - heriberto-cuayahuitl
+    - 2
+  - - verena-rieser
+    - 2
+  - - oliver-lemon
+    - 2
   - - mary-ellen-foster
+    - 2
+  - - srinivasan-janarthanam
+    - 2
+  - - amol-deshmukh
+    - 2
+  - - ruth-aylett
+    - 2
+  - - marie-aude-aufaure
+    - 1
+  - - panos-alexopoulos
+    - 1
+  - - hugues-bouchard
+    - 1
+  - - milica-gasic
+    - 1
+  - - almudena-gonzalez-guimerans
+    - 1
+  - - james-henderson
+    - 1
+  - - xingkun-liu
+    - 1
+  - - peter-mika
+    - 1
+  - - ti-potter
+    - 1
+  - - pirros-tsiakoulis
+    - 1
+  - - yves-vanrompay
+    - 1
+  - - boris-villazon-terrazas
+    - 1
+  - - majid-yazdani
+    - 1
+  - - steve-young
+    - 1
+  - - yanchao-yu
+    - 1
+  - - mei-yii-lim
     - 1
   first: Helen
   full: Helen Hastie
   last: Hastie
   papers:
   - Z15-1033
+  - Z14-1024
+  - Z14-1031
+  - Z14-1040
   slug: helen-hastie
   venues:
   - - SEMDIAL
-    - 1
+    - 4
 helen-kaiyun-chen:
   coauthors: []
   first: Helen Kaiyun
@@ -620,6 +723,19 @@ hema-a-murthy:
   papers: []
   slug: hema-a-murthy
   venues: []
+hendrik-buschmeier:
+  coauthors:
+  - - stefan-kopp
+    - 1
+  first: Hendrik
+  full: Hendrik Buschmeier
+  last: Buschmeier
+  papers:
+  - Z14-1006
+  slug: hendrik-buschmeier
+  venues:
+  - - SEMDIAL
+    - 1
 hendrik-johannes-groenewald:
   coauthors: []
   first: Hendrik Johannes
@@ -678,6 +794,56 @@ herbert-gish:
   venues: []
 heriberto-cuayahuitl:
   coauthors:
+  - - nina-dethlefs
+    - 2
+  - - helen-hastie
+    - 2
+  - - verena-rieser
+    - 2
+  - - oliver-lemon
+    - 2
+  - - marie-aude-aufaure
+    - 1
+  - - panos-alexopoulos
+    - 1
+  - - hugues-bouchard
+    - 1
+  - - milica-gasic
+    - 1
+  - - almudena-gonzalez-guimerans
+    - 1
+  - - james-henderson
+    - 1
+  - - xingkun-liu
+    - 1
+  - - peter-mika
+    - 1
+  - - ti-potter
+    - 1
+  - - pirros-tsiakoulis
+    - 1
+  - - yves-vanrompay
+    - 1
+  - - boris-villazon-terrazas
+    - 1
+  - - majid-yazdani
+    - 1
+  - - steve-young
+    - 1
+  - - yanchao-yu
+    - 1
+  first: Heriberto
+  full: Heriberto Cuayahuitl
+  last: Cuayahuitl
+  papers:
+  - Z14-1024
+  - Z14-1031
+  slug: heriberto-cuayahuitl
+  venues:
+  - - SEMDIAL
+    - 2
+heriberto-cuayahuitl1:
+  coauthors:
   - - simon-keizer
     - 1
   - - oliver-lemon
@@ -687,7 +853,7 @@ heriberto-cuayahuitl:
   last: "Cuay\xE1huitl"
   papers:
   - Z15-1015
-  slug: heriberto-cuayahuitl
+  slug: heriberto-cuayahuitl1
   venues:
   - - SEMDIAL
     - 1
@@ -1192,10 +1358,11 @@ holly-branigan:
   papers:
   - Z17-1007
   - Z15-1023
+  - Z14-1001
   slug: holly-branigan
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 hong-i-ng:
   coauthors: []
   first: Hong-I
@@ -1356,6 +1523,27 @@ hsun-wen-chiu:
   papers: []
   slug: hsun-wen-chiu
   venues: []
+hua-wu:
+  coauthors:
+  - - zengtao-jiao
+    - 1
+  - - zhuoran-wang
+    - 1
+  - - guanchun-wang
+    - 1
+  - - hao-tian
+    - 1
+  - - haifeng-wang
+    - 1
+  first: Hua
+  full: Hua Wu
+  last: Wu
+  papers:
+  - Z14-1033
+  slug: hua-wu
+  venues:
+  - - SEMDIAL
+    - 1
 huarui-zhang:
   coauthors: []
   first: Huarui
@@ -1417,6 +1605,55 @@ hugo-van-hamme:
   papers: []
   slug: hugo-van-hamme
   venues: []
+hugues-bouchard:
+  coauthors:
+  - - helen-hastie
+    - 1
+  - - marie-aude-aufaure
+    - 1
+  - - panos-alexopoulos
+    - 1
+  - - heriberto-cuayahuitl
+    - 1
+  - - nina-dethlefs
+    - 1
+  - - milica-gasic
+    - 1
+  - - almudena-gonzalez-guimerans
+    - 1
+  - - james-henderson
+    - 1
+  - - oliver-lemon
+    - 1
+  - - xingkun-liu
+    - 1
+  - - peter-mika
+    - 1
+  - - ti-potter
+    - 1
+  - - verena-rieser
+    - 1
+  - - pirros-tsiakoulis
+    - 1
+  - - yves-vanrompay
+    - 1
+  - - boris-villazon-terrazas
+    - 1
+  - - majid-yazdani
+    - 1
+  - - steve-young
+    - 1
+  - - yanchao-yu
+    - 1
+  first: Hugues
+  full: Hugues Bouchard
+  last: Bouchard
+  papers:
+  - Z14-1031
+  slug: hugues-bouchard
+  venues:
+  - - SEMDIAL
+    - 1
 huidan-liu:
   coauthors: []
   first: Huidan

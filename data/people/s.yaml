@@ -158,6 +158,23 @@ salvador-espana:
   papers: []
   slug: salvador-espana
   venues: []
+sam-green:
+  coauthors:
+  - - chiara-mazzocconi
+    - 1
+  - - ye-tian
+    - 1
+  - - caspar-addyman
+    - 1
+  first: Sam
+  full: Sam Green
+  last: Green
+  papers:
+  - Z14-1043
+  slug: sam-green
+  venues:
+  - - SEMDIAL
+    - 1
 sameer-pradhan:
   coauthors: []
   first: Sameer
@@ -369,6 +386,19 @@ sara-bogels:
   papers:
   - Z15-1021
   slug: sara-bogels
+  venues:
+  - - SEMDIAL
+    - 1
+sara-moradlou:
+  coauthors:
+  - - jonathan-ginzburg
+    - 1
+  first: Sara
+  full: Sara Moradlou
+  last: Moradlou
+  papers:
+  - Z14-1017
+  slug: sara-moradlou
   venues:
   - - SEMDIAL
     - 1
@@ -609,6 +639,21 @@ sean-boisen:
   papers: []
   slug: sean-boisen
   venues: []
+sebastian-berlin:
+  coauthors:
+  - - staffan-larsson
+    - 1
+  - - simon-dobnik
+    - 1
+  first: Sebastian
+  full: Sebastian Berlin
+  last: Berlin
+  papers:
+  - Z14-1037
+  slug: sebastian-berlin
+  venues:
+  - - SEMDIAL
+    - 1
 sebastian-drude:
   coauthors: []
   first: Sebastian
@@ -657,6 +702,25 @@ sebastian-pena-saldarriaga:
   papers: []
   slug: sebastian-pena-saldarriaga
   venues: []
+sebastian-reu-ss-e:
+  coauthors:
+  - - jon-stevens
+    - 1
+  - - anton-benz
+    - 1
+  - - ronja-laarmann-quante
+    - 1
+  - - ralf-klabunde
+    - 1
+  first: Sebastian
+  full: Sebastian Reu{\ss}e
+  last: Reu{\ss}e
+  papers:
+  - Z14-1020
+  slug: sebastian-reu-ss-e
+  venues:
+  - - SEMDIAL
+    - 1
 sebastian-stuker:
   coauthors: []
   first: Sebastian
@@ -1170,6 +1234,27 @@ sho-yoshida:
   papers: []
   slug: sho-yoshida
   venues: []
+shogo-okada:
+  coauthors:
+  - - yasuhiro-katagiri
+    - 1
+  - - katsuya-takanashi
+    - 1
+  - - masato-ishizaki
+    - 1
+  - - mika-enomoto
+    - 1
+  - - yasuharu-den
+    - 1
+  first: Shogo
+  full: Shogo Okada
+  last: Okada
+  papers:
+  - Z14-1034
+  slug: shogo-okada
+  venues:
+  - - SEMDIAL
+    - 1
 shoichi-matsunaga:
   coauthors: []
   first: Shoichi
@@ -1474,11 +1559,17 @@ simon-de-deyne:
   venues: []
 simon-dobnik:
   coauthors:
+  - - john-kelleher
+    - 2
+  - - christos-koniaris
+    - 1
+  - - staffan-larsson
+    - 1
+  - - sebastian-berlin
+    - 1
   - - amelie-r-a-stbom
     - 1
   - - christine-howes
-    - 1
-  - - john-kelleher
     - 1
   - - erik-de-graaf
     - 1
@@ -1489,10 +1580,12 @@ simon-dobnik:
   - Z17-1002
   - Z15-1006
   - Z15-1025
+  - Z14-1009
+  - Z14-1037
   slug: simon-dobnik
   venues:
   - - SEMDIAL
-    - 3
+    - 5
 simon-dobrisek:
   coauthors: []
   first: Simon
@@ -1505,7 +1598,7 @@ simon-keizer:
   coauthors:
   - - verena-rieser
     - 1
-  - - heriberto-cuayahuitl
+  - - heriberto-cuayahuitl1
     - 1
   - - oliver-lemon
     - 1
@@ -1791,6 +1884,24 @@ spela-vintar:
   papers: []
   slug: spela-vintar
   venues: []
+spyros-kousidis:
+  coauthors:
+  - - david-schlangen
+    - 2
+  - - ting-han
+    - 1
+  - - casey-kennington
+    - 1
+  first: Spyros
+  full: Spyros Kousidis
+  last: Kousidis
+  papers:
+  - Z14-1030
+  - Z14-1035
+  slug: spyros-kousidis
+  venues:
+  - - SEMDIAL
+    - 2
 spyros-raptis:
   coauthors: []
   first: Spyros
@@ -1799,6 +1910,37 @@ spyros-raptis:
   papers: []
   slug: spyros-raptis
   venues: []
+sree-ganesh:
+  coauthors:
+  - - jo-a-o-paulo-cabral
+    - 1
+  - - nick-campbell
+    - 1
+  - - mina-kheirkhah
+    - 1
+  - - emer-gilmartin
+    - 1
+  - - fasih-haider
+    - 1
+  - - eamonn-kenny
+    - 1
+  - - andrew-murphy
+    - 1
+  - - neasa-n-i-chiar-ain
+    - 1
+  - - thomas-pellegrini
+    - 1
+  - - odei-rey-orozko
+    - 1
+  first: Sree
+  full: Sree Ganesh
+  last: Ganesh
+  papers:
+  - Z14-1022
+  slug: sree-ganesh
+  venues:
+  - - SEMDIAL
+    - 1
 srini-narayanan:
   coauthors: []
   first: Srini
@@ -1817,23 +1959,35 @@ srinivas-bangalore:
   venues: []
 srinivasan-janarthanam:
   coauthors:
-  - - helen-hastie
-    - 1
-  - - amol-deshmukh
-    - 1
-  - - ruth-aylett
-    - 1
   - - mary-ellen-foster
+    - 2
+  - - amol-deshmukh
+    - 2
+  - - helen-hastie
+    - 2
+  - - ruth-aylett
+    - 2
+  - - mei-yii-lim
+    - 1
+  - - verena-rieser
+    - 1
+  - - andy-taylor
+    - 1
+  - - yanchao-yu
+    - 1
+  - - oliver-lemon
     - 1
   first: Srinivasan
   full: Srinivasan Janarthanam
   last: Janarthanam
   papers:
   - Z15-1033
+  - Z14-1040
+  - Z14-1046
   slug: srinivasan-janarthanam
   venues:
   - - SEMDIAL
-    - 1
+    - 3
 ssu-cheng-chen:
   coauthors: []
   first: Ssu-Cheng
@@ -1844,6 +1998,10 @@ ssu-cheng-chen:
   venues: []
 staffan-larsson:
   coauthors:
+  - - simon-dobnik
+    - 1
+  - - sebastian-berlin
+    - 1
   - - jenny-myrendal
     - 1
   - - christine-howes
@@ -1855,10 +2013,11 @@ staffan-larsson:
   - Z17-1006
   - Z15-1000
   - Z15-1037
+  - Z14-1037
   slug: staffan-larsson
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 stan-c-kwasny:
   coauthors: []
   first: Stan C.
@@ -1941,12 +2100,16 @@ stefan-darmoni:
   venues: []
 stefan-kopp:
   coauthors:
-  - - julian-hough
-    - 2
   - - iwan-de-kok
-    - 2
+    - 3
+  - - julian-hough
+    - 3
   - - david-schlangen
-    - 2
+    - 3
+  - - hendrik-buschmeier
+    - 1
+  - - cornelia-frank
+    - 1
   - - felix-hulsmann
     - 1
   - - thomas-waltema
@@ -1964,10 +2127,12 @@ stefan-kopp:
   - Z15-1013
   - Z15-1026
   - Z15-1045
+  - Z14-1006
+  - Z14-1023
   slug: stefan-kopp
   venues:
   - - SEMDIAL
-    - 3
+    - 5
 stefan-l-frank:
   coauthors: []
   first: Stefan L.
@@ -2061,6 +2226,25 @@ stefan-wagner:
   papers: []
   slug: stefan-wagner
   venues: []
+stefania-racioppa:
+  coauthors:
+  - - ivana-kruijff-korbayova
+    - 1
+  - - bernd-kiefer
+    - 1
+  - - elettra-oleari
+    - 1
+  - - clara-pozzi
+    - 1
+  first: Stefania
+  full: Stefania Racioppa
+  last: Racioppa
+  papers:
+  - Z14-1014
+  slug: stefania-racioppa
+  venues:
+  - - SEMDIAL
+    - 1
 stefanie-shattuck-hufnagel:
   coauthors: []
   first: Stefanie
@@ -2290,9 +2474,13 @@ stergios-chatzikyriakidis:
     - 1
 stergos-afantenos:
   coauthors:
-  - - julie-hunter
-    - 1
   - - nicholas-asher
+    - 2
+  - - j-er-emy-perret
+    - 1
+  - - alex-lascarides
+    - 1
+  - - julie-hunter
     - 1
   - - eric-kow
     - 1
@@ -2303,10 +2491,11 @@ stergos-afantenos:
   last: Afantenos
   papers:
   - Z15-1014
+  - Z14-1019
   slug: stergos-afantenos
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 steve-austin:
   coauthors: []
   first: Steve
@@ -2332,13 +2521,54 @@ steve-whittaker:
   slug: steve-whittaker
   venues: []
 steve-young:
-  coauthors: []
+  coauthors:
+  - - helen-hastie
+    - 1
+  - - marie-aude-aufaure
+    - 1
+  - - panos-alexopoulos
+    - 1
+  - - hugues-bouchard
+    - 1
+  - - heriberto-cuayahuitl
+    - 1
+  - - nina-dethlefs
+    - 1
+  - - milica-gasic
+    - 1
+  - - almudena-gonzalez-guimerans
+    - 1
+  - - james-henderson
+    - 1
+  - - oliver-lemon
+    - 1
+  - - xingkun-liu
+    - 1
+  - - peter-mika
+    - 1
+  - - ti-potter
+    - 1
+  - - verena-rieser
+    - 1
+  - - pirros-tsiakoulis
+    - 1
+  - - yves-vanrompay
+    - 1
+  - - boris-villazon-terrazas
+    - 1
+  - - majid-yazdani
+    - 1
+  - - yanchao-yu
+    - 1
   first: Steve
   full: Steve Young
   last: Young
-  papers: []
+  papers:
+  - Z14-1031
   slug: steve-young
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 steven-abney:
   coauthors: []
   first: Steven

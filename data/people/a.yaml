@@ -435,6 +435,21 @@ aimilios-chalamandaris:
   papers: []
   slug: aimilios-chalamandaris
   venues: []
+aimilios-vourliotakis:
+  coauthors:
+  - - ioannis-efstathiou
+    - 1
+  - - verena-rieser
+    - 1
+  first: Aimilios
+  full: Aimilios Vourliotakis
+  last: Vourliotakis
+  papers:
+  - Z14-1052
+  slug: aimilios-vourliotakis
+  venues:
+  - - SEMDIAL
+    - 1
 aingeru-mayor:
   coauthors: []
   first: Aingeru
@@ -726,6 +741,14 @@ alex-klassmann:
   venues: []
 alex-lascarides:
   coauthors:
+  - - markus-guhe
+    - 1
+  - - j-er-emy-perret
+    - 1
+  - - stergos-afantenos
+    - 1
+  - - nicholas-asher
+    - 1
   - - julian-j-schloder
     - 1
   first: Alex
@@ -733,10 +756,12 @@ alex-lascarides:
   last: Lascarides
   papers:
   - Z15-1018
+  - Z14-1011
+  - Z14-1019
   slug: alex-lascarides
   venues:
   - - SEMDIAL
-    - 1
+    - 3
 alex-liu:
   coauthors: []
   first: Alex
@@ -1138,6 +1163,55 @@ allen-l-gorin:
   papers: []
   slug: allen-l-gorin
   venues: []
+almudena-gonzalez-guimerans:
+  coauthors:
+  - - helen-hastie
+    - 1
+  - - marie-aude-aufaure
+    - 1
+  - - panos-alexopoulos
+    - 1
+  - - hugues-bouchard
+    - 1
+  - - heriberto-cuayahuitl
+    - 1
+  - - nina-dethlefs
+    - 1
+  - - milica-gasic
+    - 1
+  - - james-henderson
+    - 1
+  - - oliver-lemon
+    - 1
+  - - xingkun-liu
+    - 1
+  - - peter-mika
+    - 1
+  - - ti-potter
+    - 1
+  - - verena-rieser
+    - 1
+  - - pirros-tsiakoulis
+    - 1
+  - - yves-vanrompay
+    - 1
+  - - boris-villazon-terrazas
+    - 1
+  - - majid-yazdani
+    - 1
+  - - steve-young
+    - 1
+  - - yanchao-yu
+    - 1
+  first: Almudena
+  full: Almudena Gonzalez-Guimerans
+  last: Gonzalez-Guimerans
+  papers:
+  - Z14-1031
+  slug: almudena-gonzalez-guimerans
+  venues:
+  - - SEMDIAL
+    - 1
 almut-silja-hildebrand:
   coauthors: []
   first: Almut Silja
@@ -1218,6 +1292,19 @@ amanda-c-jobbins:
   papers: []
   slug: amanda-c-jobbins
   venues: []
+amanda-cercas-curry:
+  coauthors:
+  - - verena-rieser
+    - 1
+  first: Amanda Cercas
+  full: Amanda Cercas Curry
+  last: Curry
+  papers:
+  - Z14-1045
+  slug: amanda-cercas-curry
+  venues:
+  - - SEMDIAL
+    - 1
 amanda-stent:
   coauthors: []
   first: Amanda
@@ -1294,23 +1381,26 @@ amita-misra:
     - 1
 amol-deshmukh:
   coauthors:
-  - - srinivasan-janarthanam
-    - 1
-  - - helen-hastie
-    - 1
-  - - ruth-aylett
-    - 1
   - - mary-ellen-foster
+    - 2
+  - - srinivasan-janarthanam
+    - 2
+  - - helen-hastie
+    - 2
+  - - ruth-aylett
+    - 2
+  - - mei-yii-lim
     - 1
   first: Amol
   full: Amol Deshmukh
   last: Deshmukh
   papers:
   - Z15-1033
+  - Z14-1040
   slug: amol-deshmukh
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 amparo-elizabeth-cano-basave:
   coauthors: []
   first: Amparo Elizabeth
@@ -1798,6 +1888,37 @@ andrew-mackinlay:
   papers: []
   slug: andrew-mackinlay
   venues: []
+andrew-murphy:
+  coauthors:
+  - - jo-a-o-paulo-cabral
+    - 1
+  - - nick-campbell
+    - 1
+  - - sree-ganesh
+    - 1
+  - - mina-kheirkhah
+    - 1
+  - - emer-gilmartin
+    - 1
+  - - fasih-haider
+    - 1
+  - - eamonn-kenny
+    - 1
+  - - neasa-n-i-chiar-ain
+    - 1
+  - - thomas-pellegrini
+    - 1
+  - - odei-rey-orozko
+    - 1
+  first: Andrew
+  full: Andrew Murphy
+  last: Murphy
+  papers:
+  - Z14-1022
+  slug: andrew-murphy
+  venues:
+  - - SEMDIAL
+    - 1
 andrew-olney:
   coauthors: []
   first: Andrew
@@ -1838,6 +1959,25 @@ andrew-y-ng:
   papers: []
   slug: andrew-y-ng
   venues: []
+andy-taylor:
+  coauthors:
+  - - verena-rieser
+    - 1
+  - - srinivasan-janarthanam
+    - 1
+  - - yanchao-yu
+    - 1
+  - - oliver-lemon
+    - 1
+  first: Andy
+  full: Andy Taylor
+  last: Taylor
+  papers:
+  - Z14-1046
+  slug: andy-taylor
+  venues:
+  - - SEMDIAL
+    - 1
 angel-chang:
   coauthors: []
   first: Angel
@@ -1862,6 +2002,21 @@ angela-costa:
   papers: []
   slug: angela-costa
   venues: []
+angela-nazarian:
+  coauthors:
+  - - elnaz-nouri
+    - 1
+  - - david-traum
+    - 1
+  first: Angela
+  full: Angela Nazarian
+  last: Nazarian
+  papers:
+  - Z14-1044
+  slug: angela-nazarian
+  venues:
+  - - SEMDIAL
+    - 1
 angelika-kiss:
   coauthors: []
   first: Angelika
@@ -2213,6 +2368,21 @@ antje-rossdeutscher:
   papers: []
   slug: antje-rossdeutscher
   venues: []
+antoine-venant:
+  coauthors:
+  - - nicholas-asher
+    - 1
+  - - c-edric-d-egremont
+    - 1
+  first: Antoine
+  full: Antoine Venant
+  last: Venant
+  papers:
+  - Z14-1021
+  slug: antoine-venant
+  venues:
+  - - SEMDIAL
+    - 1
 anton-batliner:
   coauthors: []
   first: Anton
@@ -2221,6 +2391,25 @@ anton-batliner:
   papers: []
   slug: anton-batliner
   venues: []
+anton-benz:
+  coauthors:
+  - - jon-stevens
+    - 1
+  - - sebastian-reu-ss-e
+    - 1
+  - - ronja-laarmann-quante
+    - 1
+  - - ralf-klabunde
+    - 1
+  first: Anton
+  full: Anton Benz
+  last: Benz
+  papers:
+  - Z14-1020
+  slug: anton-benz
+  venues:
+  - - SEMDIAL
+    - 1
 anton-karl-ingason:
   coauthors: []
   first: Anton Karl
@@ -2467,7 +2656,7 @@ arantza-diaz-de-ilarraza:
 arash-eshghi:
   coauthors:
   - - oliver-lemon
-    - 2
+    - 3
   - - igor-shalyminov
     - 1
   - - yanchao-yu
@@ -2479,10 +2668,11 @@ arash-eshghi:
   - Z17-1013
   - Z15-1028
   - Z15-1049
+  - Z14-1010
   slug: arash-eshghi
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 aravind-joshi:
   coauthors: []
   first: Aravind

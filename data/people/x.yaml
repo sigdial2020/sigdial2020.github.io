@@ -126,6 +126,55 @@ xin-ying-qiu:
   papers: []
   slug: xin-ying-qiu
   venues: []
+xingkun-liu:
+  coauthors:
+  - - helen-hastie
+    - 1
+  - - marie-aude-aufaure
+    - 1
+  - - panos-alexopoulos
+    - 1
+  - - hugues-bouchard
+    - 1
+  - - heriberto-cuayahuitl
+    - 1
+  - - nina-dethlefs
+    - 1
+  - - milica-gasic
+    - 1
+  - - almudena-gonzalez-guimerans
+    - 1
+  - - james-henderson
+    - 1
+  - - oliver-lemon
+    - 1
+  - - peter-mika
+    - 1
+  - - ti-potter
+    - 1
+  - - verena-rieser
+    - 1
+  - - pirros-tsiakoulis
+    - 1
+  - - yves-vanrompay
+    - 1
+  - - boris-villazon-terrazas
+    - 1
+  - - majid-yazdani
+    - 1
+  - - steve-young
+    - 1
+  - - yanchao-yu
+    - 1
+  first: Xingkun
+  full: Xingkun Liu
+  last: Liu
+  papers:
+  - Z14-1031
+  slug: xingkun-liu
+  venues:
+  - - SEMDIAL
+    - 1
 xinnian-mao:
   coauthors: []
   first: Xinnian

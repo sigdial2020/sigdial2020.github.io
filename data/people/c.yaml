@@ -1,3 +1,18 @@
+c-edric-d-egremont:
+  coauthors:
+  - - antoine-venant
+    - 1
+  - - nicholas-asher
+    - 1
+  first: C\'edric
+  full: C\'edric D\'egremont
+  last: D\'egremont
+  papers:
+  - Z14-1021
+  slug: c-edric-d-egremont
+  venues:
+  - - SEMDIAL
+    - 1
 c-h-lee:
   coauthors: []
   first: C. H.
@@ -54,6 +69,21 @@ calkin-s-montero:
   papers: []
   slug: calkin-s-montero
   venues: []
+callum-main:
+  coauthors:
+  - - zhuoran-wang
+    - 1
+  - - verena-rieser
+    - 1
+  first: Callum
+  full: Callum Main
+  last: Main
+  papers:
+  - Z14-1041
+  slug: callum-main
+  venues:
+  - - SEMDIAL
+    - 1
 cam-tu-nguyen:
   coauthors: []
   first: Cam-Tu
@@ -295,10 +325,12 @@ carrara-nicolas:
     - 1
 casey-kennington:
   coauthors:
+  - - david-schlangen
+    - 3
   - - pierre-lison
     - 2
-  - - david-schlangen
-    - 2
+  - - spyros-kousidis
+    - 1
   - - daniel-kondratyuk
     - 1
   - - ting-han
@@ -314,10 +346,28 @@ casey-kennington:
   - Z15-1010
   - Z15-1036
   - Z15-1039
+  - Z14-1035
   slug: casey-kennington
   venues:
   - - SEMDIAL
-    - 5
+    - 6
+caspar-addyman:
+  coauthors:
+  - - chiara-mazzocconi
+    - 1
+  - - sam-green
+    - 1
+  - - ye-tian
+    - 1
+  first: Caspar
+  full: Caspar Addyman
+  last: Addyman
+  papers:
+  - Z14-1043
+  slug: caspar-addyman
+  venues:
+  - - SEMDIAL
+    - 1
 cassandra-l-jacobs:
   coauthors: []
   first: Cassandra L.
@@ -385,7 +435,7 @@ catherine-n-ball:
 catherine-pelachaud:
   coauthors:
   - - nadine-glas
-    - 1
+    - 2
   - - ken-prepin
     - 1
   first: Catherine
@@ -393,10 +443,11 @@ catherine-pelachaud:
   last: Pelachaud
   papers:
   - Z15-1009
+  - Z14-1027
   slug: catherine-pelachaud
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 catia-cucchiarini:
   coauthors: []
   first: Catia
@@ -485,6 +536,24 @@ cenel-augusto-perez:
   papers: []
   slug: cenel-augusto-perez
   venues: []
+cengiz-acarturk:
+  coauthors:
+  - - ozge-alacam
+    - 2
+  - - christopher-habel
+    - 2
+  - - matthias-kerzel
+    - 1
+  first: Cengiz
+  full: Cengiz Acarturk
+  last: Acarturk
+  papers:
+  - Z14-1005
+  - Z14-1036
+  slug: cengiz-acarturk
+  venues:
+  - - SEMDIAL
+    - 2
 chafic-mukbel:
   coauthors: []
   first: Chafic
@@ -589,6 +658,19 @@ charles-l-a-clarke:
   papers: []
   slug: charles-l-a-clarke
   venues: []
+charles-ortiz:
+  coauthors:
+  - - jiaying-shen
+    - 1
+  first: Charles
+  full: Charles Ortiz
+  last: Ortiz
+  papers:
+  - Z14-1018
+  slug: charles-ortiz
+  venues:
+  - - SEMDIAL
+    - 1
 charles-p-dolan:
   coauthors: []
   first: Charles P.
@@ -805,6 +887,36 @@ chia-ying-lee:
   papers: []
   slug: chia-ying-lee
   venues: []
+chiara-gambi:
+  coauthors:
+  - - jaroslaw-lelonkiewicz
+    - 1
+  first: Chiara
+  full: Chiara Gambi
+  last: Gambi
+  papers:
+  - Z14-1038
+  slug: chiara-gambi
+  venues:
+  - - SEMDIAL
+    - 1
+chiara-mazzocconi:
+  coauthors:
+  - - sam-green
+    - 1
+  - - ye-tian
+    - 1
+  - - caspar-addyman
+    - 1
+  first: Chiara
+  full: Chiara Mazzocconi
+  last: Mazzocconi
+  papers:
+  - Z14-1043
+  slug: chiara-mazzocconi
+  venues:
+  - - SEMDIAL
+    - 1
 chih-lung-lin:
   coauthors: []
   first: Chih-Lung
@@ -980,10 +1092,11 @@ chris-cummins:
   last: Cummins
   papers:
   - Z17-1007
+  - Z14-1008
   slug: chris-cummins
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 chris-dyer:
   coauthors: []
   first: Chris
@@ -1199,6 +1312,12 @@ christine-h-nakatani:
   venues: []
 christine-howes:
   coauthors:
+  - - julian-hough
+    - 1
+  - - matthew-purver
+    - 1
+  - - rose-mccabe
+    - 1
   - - staffan-larsson
     - 1
   - - simon-dobnik
@@ -1214,10 +1333,11 @@ christine-howes:
   - Z15-1000
   - Z15-1006
   - Z15-1022
+  - Z14-1013
   slug: christine-howes
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 christine-piatko:
   coauthors: []
   first: Christine
@@ -1352,13 +1472,23 @@ christopher-dozier:
   slug: christopher-dozier
   venues: []
 christopher-habel:
-  coauthors: []
+  coauthors:
+  - - ozge-alacam
+    - 2
+  - - cengiz-acarturk
+    - 2
+  - - matthias-kerzel
+    - 1
   first: Christopher
   full: Christopher Habel
   last: Habel
-  papers: []
+  papers:
+  - Z14-1005
+  - Z14-1036
   slug: christopher-habel
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 2
 christopher-j-c-burges:
   coauthors: []
   first: Christopher J.C.
@@ -1431,6 +1561,21 @@ christopher-r-walker:
   papers: []
   slug: christopher-r-walker
   venues: []
+christos-koniaris:
+  coauthors:
+  - - simon-dobnik
+    - 1
+  - - john-kelleher
+    - 1
+  first: Christos
+  full: Christos Koniaris
+  last: Koniaris
+  papers:
+  - Z14-1009
+  slug: christos-koniaris
+  venues:
+  - - SEMDIAL
+    - 1
 chrysanne-dimarco:
   coauthors: []
   first: Chrysanne
@@ -1592,6 +1737,25 @@ claire-nedellec:
   papers: []
   slug: claire-nedellec
   venues: []
+clara-pozzi:
+  coauthors:
+  - - ivana-kruijff-korbayova
+    - 1
+  - - stefania-racioppa
+    - 1
+  - - bernd-kiefer
+    - 1
+  - - elettra-oleari
+    - 1
+  first: Clara
+  full: Clara Pozzi
+  last: Pozzi
+  papers:
+  - Z14-1014
+  slug: clara-pozzi
+  venues:
+  - - SEMDIAL
+    - 1
 clare-voss:
   coauthors: []
   first: Clare
@@ -1784,6 +1948,25 @@ corinna-onelli:
   papers: []
   slug: corinna-onelli
   venues: []
+cornelia-frank:
+  coauthors:
+  - - iwan-de-kok
+    - 1
+  - - julian-hough
+    - 1
+  - - david-schlangen
+    - 1
+  - - stefan-kopp
+    - 1
+  first: Cornelia
+  full: Cornelia Frank
+  last: Frank
+  papers:
+  - Z14-1023
+  slug: cornelia-frank
+  venues:
+  - - SEMDIAL
+    - 1
 cornelia-zelinsky-wibbelt:
   coauthors: []
   first: Cornelia
