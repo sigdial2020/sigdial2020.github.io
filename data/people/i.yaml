@@ -22,7 +22,7 @@ ian-blood:
   full: Ian Blood
   last: Blood
   papers:
-  - Z17-1015
+  - Z17-2018
   slug: ian-blood
   venues:
   - - SEMDIAL
@@ -53,7 +53,7 @@ ichiro-umata:
   full: Ichiro Umata
   last: Umata
   papers:
-  - Z17-1028
+  - Z17-3031
   slug: ichiro-umata
   venues:
   - - SEMDIAL
@@ -108,7 +108,7 @@ igor-shalyminov:
   full: Igor Shalyminov
   last: Shalyminov
   papers:
-  - Z17-1013
+  - Z17-2016
   slug: igor-shalyminov
   venues:
   - - SEMDIAL
@@ -193,7 +193,7 @@ ingmar-steiner:
   full: Ingmar Steiner
   last: Steiner
   papers:
-  - Z17-1024
+  - Z17-3027
   slug: ingmar-steiner
   venues:
   - - SEMDIAL
@@ -240,7 +240,7 @@ insa-lawler:
   full: Insa Lawler
   last: Lawler
   papers:
-  - Z14-1029
+  - Z14-3029
   slug: insa-lawler
   venues:
   - - SEMDIAL
@@ -273,9 +273,9 @@ ioannis-efstathiou:
   full: Ioannis Efstathiou
   last: Efstathiou
   papers:
-  - Z15-1007
-  - Z14-1025
-  - Z14-1052
+  - Z15-2007
+  - Z14-3025
+  - Z14-3052
   slug: ioannis-efstathiou
   venues:
   - - SEMDIAL
@@ -424,7 +424,7 @@ iryna-gurevych:
   full: Iryna Gurevych
   last: Gurevych
   papers:
-  - Z17-1026
+  - Z17-3029
   slug: iryna-gurevych
   venues:
   - - SEMDIAL
@@ -587,7 +587,7 @@ ivana-kruijff-korbayova:
   full: "Ivana Kruijff-Korbayov\xE1"
   last: "Kruijff-Korbayov\xE1"
   papers:
-  - Z14-1014
+  - Z14-2014
   slug: ivana-kruijff-korbayova
   variant_entries:
   - first: Ivana
@@ -632,9 +632,9 @@ iwan-de-kok:
   full: Iwan de Kok
   last: Kok
   papers:
-  - Z15-1013
-  - Z15-1026
-  - Z14-1023
+  - Z15-2013
+  - Z15-3026
+  - Z14-3023
   slug: iwan-de-kok
   venues:
   - - SEMDIAL

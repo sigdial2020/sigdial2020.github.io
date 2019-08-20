@@ -22,7 +22,7 @@ nadine-gerstenlauer:
   full: Nadine Gerstenlauer
   last: Gerstenlauer
   papers:
-  - Z17-1021
+  - Z17-3024
   slug: nadine-gerstenlauer
   venues:
   - - SEMDIAL
@@ -37,8 +37,8 @@ nadine-glas:
   full: Nadine Glas
   last: Glas
   papers:
-  - Z15-1009
-  - Z14-1027
+  - Z15-2009
+  - Z14-3027
   slug: nadine-glas
   venues:
   - - SEMDIAL
@@ -279,7 +279,7 @@ natalia-philippova:
   full: Natalia Philippova
   last: Philippova
   papers:
-  - Z17-1001
+  - Z17-2004
   slug: natalia-philippova
   venues:
   - - SEMDIAL
@@ -398,7 +398,7 @@ neasa-ni-chiarain:
   full: "Neasa N\xED Chiar\xE1in"
   last: "Chiar\xE1in"
   papers:
-  - Z14-1022
+  - Z14-3022
   slug: neasa-ni-chiarain
   venues:
   - - SEMDIAL
@@ -535,9 +535,9 @@ nicholas-asher:
   full: Nicholas Asher
   last: Asher
   papers:
-  - Z15-1014
-  - Z14-1019
-  - Z14-1021
+  - Z15-2014
+  - Z14-2019
+  - Z14-2021
   slug: nicholas-asher
   venues:
   - - SEMDIAL
@@ -584,7 +584,7 @@ nick-campbell:
   full: Nick Campbell
   last: Campbell
   papers:
-  - Z14-1022
+  - Z14-3022
   slug: nick-campbell
   venues:
   - - SEMDIAL
@@ -711,7 +711,7 @@ niels-schuette:
   full: Niels Schuette
   last: Schuette
   papers:
-  - Z14-1049
+  - Z14-3049
   slug: niels-schuette
   venues:
   - - SEMDIAL
@@ -736,7 +736,7 @@ nigel-flowers:
   full: Nigel Flowers
   last: Flowers
   papers:
-  - Z17-1005
+  - Z17-2008
   slug: nigel-flowers
   venues:
   - - SEMDIAL
@@ -833,8 +833,8 @@ nina-dethlefs:
   full: Nina Dethlefs
   last: Dethlefs
   papers:
-  - Z14-1024
-  - Z14-1031
+  - Z14-3024
+  - Z14-3031
   slug: nina-dethlefs
   venues:
   - - SEMDIAL
@@ -927,7 +927,7 @@ noortje-venhuizen:
   full: Noortje Venhuizen
   last: Venhuizen
   papers:
-  - Z14-1051
+  - Z14-3051
   slug: noortje-venhuizen
   venues:
   - - SEMDIAL
@@ -1034,7 +1034,7 @@ nozomi-kobayashi:
   full: Nozomi Kobayashi
   last: Kobayashi
   papers:
-  - Z15-1011
+  - Z15-2011
   slug: nozomi-kobayashi
   venues:
   - - SEMDIAL

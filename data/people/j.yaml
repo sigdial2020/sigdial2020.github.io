@@ -326,7 +326,7 @@ james-henderson:
   full: James Henderson
   last: Henderson
   papers:
-  - Z14-1031
+  - Z14-3031
   slug: james-henderson
   venues:
   - - SEMDIAL
@@ -615,7 +615,7 @@ jaroslaw-lelonkiewicz:
   full: Jaroslaw Lelonkiewicz
   last: Lelonkiewicz
   papers:
-  - Z14-1038
+  - Z14-3038
   slug: jaroslaw-lelonkiewicz
   venues:
   - - SEMDIAL
@@ -672,7 +672,7 @@ jason-leigh:
   full: Jason Leigh
   last: Leigh
   papers:
-  - Z17-1005
+  - Z17-2008
   slug: jason-leigh
   venues:
   - - SEMDIAL
@@ -1005,7 +1005,7 @@ jenny-myrendal:
   full: Jenny Myrendal
   last: Myrendal
   papers:
-  - Z17-1006
+  - Z17-2009
   slug: jenny-myrendal
   venues:
   - - SEMDIAL
@@ -1090,8 +1090,8 @@ jeremy-perret:
   full: "J\xE9r\xE9my Perret"
   last: Perret
   papers:
-  - Z15-1014
-  - Z14-1019
+  - Z15-2014
+  - Z14-2019
   slug: jeremy-perret
   venues:
   - - SEMDIAL
@@ -1118,7 +1118,7 @@ jeroen-geertzen:
   full: Jeroen Geertzen
   last: Geertzen
   papers:
-  - Z15-1008
+  - Z15-2008
   slug: jeroen-geertzen
   venues:
   - - SEMDIAL
@@ -1153,7 +1153,7 @@ jesse-harris:
   full: Jesse Harris
   last: Harris
   papers:
-  - Z14-1012
+  - Z14-2012
   slug: jesse-harris
   venues:
   - - SEMDIAL
@@ -1310,7 +1310,7 @@ jiaying-shen:
   full: Jiaying Shen
   last: Shen
   papers:
-  - Z14-1018
+  - Z14-2018
   slug: jiaying-shen
   venues:
   - - SEMDIAL
@@ -1343,7 +1343,7 @@ jillian-aurisano:
   full: Jillian Aurisano
   last: Aurisano
   papers:
-  - Z17-1005
+  - Z17-2008
   slug: jillian-aurisano
   venues:
   - - SEMDIAL
@@ -1630,7 +1630,7 @@ joao-paulo-cabral1:
   full: "Jo\xE3o Paulo Cabral"
   last: Cabral
   papers:
-  - Z14-1022
+  - Z14-3022
   slug: joao-paulo-cabral1
   venues:
   - - SEMDIAL
@@ -1979,10 +1979,10 @@ john-kelleher:
   full: John Kelleher
   last: Kelleher
   papers:
-  - Z17-1027
-  - Z15-1006
-  - Z14-1009
-  - Z14-1049
+  - Z17-3030
+  - Z15-2006
+  - Z14-2009
+  - Z14-3049
   slug: john-kelleher
   variant_entries:
   - first: John D.
@@ -2132,7 +2132,7 @@ jon-oberlander:
   full: Jon Oberlander
   last: Oberlander
   papers:
-  - Z17-1014
+  - Z17-2017
   - Z14-1002
   slug: jon-oberlander
   venues:
@@ -2179,7 +2179,7 @@ jon-stevens:
   full: Jon Stevens
   last: Stevens
   papers:
-  - Z14-1020
+  - Z14-2020
   slug: jon-stevens
   venues:
   - - SEMDIAL
@@ -2228,10 +2228,10 @@ jonathan-ginzburg:
   full: Jonathan Ginzburg
   last: Ginzburg
   papers:
-  - Z15-1020
-  - Z15-1048
-  - Z14-1017
-  - Z14-1026
+  - Z15-2020
+  - Z15-3048
+  - Z14-2017
+  - Z14-3026
   slug: jonathan-ginzburg
   venues:
   - - SEMDIAL
@@ -2820,7 +2820,7 @@ judit-dombi:
   full: Judit Dombi
   last: Dombi
   papers:
-  - Z17-1015
+  - Z17-2018
   slug: judit-dombi
   venues:
   - - SEMDIAL
@@ -2843,7 +2843,7 @@ judith-holler:
   full: Judith Holler
   last: Holler
   papers:
-  - Z15-1032
+  - Z15-3032
   slug: judith-holler
   venues:
   - - SEMDIAL
@@ -2942,11 +2942,11 @@ julian-hough:
   full: Julian Hough
   last: Hough
   papers:
-  - Z15-1013
-  - Z15-1026
-  - Z14-1013
-  - Z14-1023
-  - Z14-1026
+  - Z15-2013
+  - Z15-3026
+  - Z14-2013
+  - Z14-3023
+  - Z14-3026
   slug: julian-hough
   venues:
   - - SEMDIAL
@@ -2969,8 +2969,8 @@ julian-j-schloder:
   full: "Julian J. Schl\xF6der"
   last: "Schl\xF6der"
   papers:
-  - Z15-1018
-  - Z14-1047
+  - Z15-2018
+  - Z14-3047
   slug: julian-j-schloder
   variant_entries:
   - first: Julian
@@ -3003,7 +3003,7 @@ juliana-miehle:
   full: Juliana Miehle
   last: Miehle
   papers:
-  - Z17-1021
+  - Z17-3024
   slug: juliana-miehle
   venues:
   - - SEMDIAL
@@ -3062,7 +3062,7 @@ julie-hunter:
   full: Julie Hunter
   last: Hunter
   papers:
-  - Z15-1014
+  - Z15-2014
   slug: julie-hunter
   venues:
   - - SEMDIAL

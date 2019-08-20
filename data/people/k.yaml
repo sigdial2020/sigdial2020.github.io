@@ -134,7 +134,7 @@ kam-yiu-joe-chan:
   full: Kam Yiu Joe Chan
   last: Chan
   papers:
-  - Z15-1044
+  - Z15-3044
   slug: kam-yiu-joe-chan
   venues:
   - - SEMDIAL
@@ -437,9 +437,9 @@ katsuya-takanashi:
   full: Katsuya Takanashi
   last: Takanashi
   papers:
-  - Z17-1017
-  - Z15-1034
-  - Z14-1034
+  - Z17-3020
+  - Z15-3034
+  - Z14-3034
   slug: katsuya-takanashi
   venues:
   - - SEMDIAL
@@ -512,7 +512,7 @@ kazuki-sakai:
   full: Kazuki Sakai
   last: Sakai
   papers:
-  - Z17-1016
+  - Z17-3019
   slug: kazuki-sakai
   venues:
   - - SEMDIAL
@@ -585,8 +585,8 @@ keelan-evanini:
   full: Keelan Evanini
   last: Evanini
   papers:
-  - Z17-1015
-  - Z17-1023
+  - Z17-2018
+  - Z17-3026
   slug: keelan-evanini
   venues:
   - - SEMDIAL
@@ -681,7 +681,7 @@ ken-prepin:
   full: Ken Prepin
   last: Prepin
   papers:
-  - Z15-1009
+  - Z15-2009
   slug: ken-prepin
   venues:
   - - SEMDIAL
@@ -762,7 +762,7 @@ kenny-coventry:
   full: Kenny Coventry
   last: Coventry
   papers:
-  - Z14-1048
+  - Z14-3048
   slug: kenny-coventry
   venues:
   - - SEMDIAL
@@ -777,7 +777,7 @@ kenny-smith:
   full: Kenny Smith
   last: Smith
   papers:
-  - Z15-1023
+  - Z15-3023
   slug: kenny-smith
   venues:
   - - SEMDIAL
@@ -1064,7 +1064,7 @@ kobin-kendrick:
   full: Kobin Kendrick
   last: Kendrick
   papers:
-  - Z15-1021
+  - Z15-3021
   slug: kobin-kendrick
   venues:
   - - SEMDIAL
@@ -1127,7 +1127,7 @@ koki-ijuin:
   full: Koki Ijuin
   last: Ijuin
   papers:
-  - Z17-1028
+  - Z17-3031
   slug: koki-ijuin
   venues:
   - - SEMDIAL
@@ -1300,7 +1300,7 @@ kwong-cheong-wong:
   full: Kwong-Cheong Wong
   last: Wong
   papers:
-  - Z15-1048
+  - Z15-3048
   slug: kwong-cheong-wong
   venues:
   - - SEMDIAL

@@ -114,7 +114,7 @@ abeer-alsaiari:
   full: Abeer Alsaiari
   last: Alsaiari
   papers:
-  - Z17-1005
+  - Z17-2008
   slug: abeer-alsaiari
   venues:
   - - SEMDIAL
@@ -147,7 +147,7 @@ abhinav-kumar:
   full: Abhinav Kumar
   last: Kumar
   papers:
-  - Z17-1005
+  - Z17-2008
   slug: abhinav-kumar
   venues:
   - - SEMDIAL
@@ -302,7 +302,7 @@ adriana-osa:
   full: Adriana Osa
   last: Osa
   papers:
-  - Z17-1010
+  - Z17-2013
   slug: adriana-osa
   venues:
   - - SEMDIAL
@@ -445,7 +445,7 @@ aimilios-vourliotakis:
   full: Aimilios Vourliotakis
   last: Vourliotakis
   papers:
-  - Z14-1052
+  - Z14-3052
   slug: aimilios-vourliotakis
   venues:
   - - SEMDIAL
@@ -646,7 +646,7 @@ alberto-gonzalez:
   full: Alberto Gonzalez
   last: Gonzalez
   papers:
-  - Z17-1005
+  - Z17-2008
   slug: alberto-gonzalez
   venues:
   - - SEMDIAL
@@ -755,9 +755,9 @@ alex-lascarides:
   full: Alex Lascarides
   last: Lascarides
   papers:
-  - Z15-1018
-  - Z14-1011
-  - Z14-1019
+  - Z15-2018
+  - Z14-2011
+  - Z14-2019
   slug: alex-lascarides
   venues:
   - - SEMDIAL
@@ -998,7 +998,7 @@ alexandros-potamianos:
   full: Alexandros Potamianos
   last: Potamianos
   papers:
-  - Z17-1011
+  - Z17-2014
   slug: alexandros-potamianos
   venues:
   - - SEMDIAL
@@ -1207,7 +1207,7 @@ almudena-gonzalez-guimerans:
   full: Almudena Gonzalez-Guimerans
   last: Gonzalez-Guimerans
   papers:
-  - Z14-1031
+  - Z14-3031
   slug: almudena-gonzalez-guimerans
   venues:
   - - SEMDIAL
@@ -1300,7 +1300,7 @@ amanda-cercas-curry:
   full: Amanda Cercas Curry
   last: Curry
   papers:
-  - Z14-1045
+  - Z14-3045
   slug: amanda-cercas-curry
   venues:
   - - SEMDIAL
@@ -1345,7 +1345,7 @@ amelie-astbom:
   full: "Amelie \xC5stbom"
   last: "\xC5stbom"
   papers:
-  - Z17-1002
+  - Z17-2005
   slug: amelie-astbom
   venues:
   - - SEMDIAL
@@ -1374,7 +1374,7 @@ amita-misra:
   full: Amita Misra
   last: Misra
   papers:
-  - Z17-1008
+  - Z17-2011
   slug: amita-misra
   venues:
   - - SEMDIAL
@@ -1395,8 +1395,8 @@ amol-deshmukh:
   full: Amol Deshmukh
   last: Deshmukh
   papers:
-  - Z15-1033
-  - Z14-1040
+  - Z15-3033
+  - Z14-3040
   slug: amol-deshmukh
   venues:
   - - SEMDIAL
@@ -1709,8 +1709,8 @@ andrei-malchanau:
   full: Andrei Malchanau
   last: Malchanau
   papers:
-  - Z17-1012
-  - Z15-1041
+  - Z17-2015
+  - Z15-3041
   slug: andrei-malchanau
   venues:
   - - SEMDIAL
@@ -1851,7 +1851,7 @@ andrew-johnson:
   full: Andrew Johnson
   last: Johnson
   papers:
-  - Z17-1005
+  - Z17-2008
   slug: andrew-johnson
   venues:
   - - SEMDIAL
@@ -1861,9 +1861,12 @@ andrew-kehler:
   first: Andrew
   full: Andrew Kehler
   last: Kehler
-  papers: []
+  papers:
+  - Z17-1003
   slug: andrew-kehler
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 andrew-l-kun:
   coauthors: []
   first: Andrew L.
@@ -1914,7 +1917,7 @@ andrew-murphy:
   full: Andrew Murphy
   last: Murphy
   papers:
-  - Z14-1022
+  - Z14-3022
   slug: andrew-murphy
   venues:
   - - SEMDIAL
@@ -1973,7 +1976,7 @@ andy-taylor:
   full: Andy Taylor
   last: Taylor
   papers:
-  - Z14-1046
+  - Z14-3046
   slug: andy-taylor
   venues:
   - - SEMDIAL
@@ -2012,7 +2015,7 @@ angela-nazarian:
   full: Angela Nazarian
   last: Nazarian
   papers:
-  - Z14-1044
+  - Z14-3044
   slug: angela-nazarian
   venues:
   - - SEMDIAL
@@ -2023,7 +2026,7 @@ angelika-kiss:
   full: Angelika Kiss
   last: Kiss
   papers:
-  - Z17-1004
+  - Z17-2007
   slug: angelika-kiss
   venues:
   - - SEMDIAL
@@ -2062,7 +2065,7 @@ anh-duong-trinh:
   full: Anh Duong Trinh
   last: Trinh
   papers:
-  - Z17-1027
+  - Z17-3030
   slug: anh-duong-trinh
   venues:
   - - SEMDIAL
@@ -2147,7 +2150,7 @@ anna-hjalmarsson:
   full: Anna Hjalmarsson
   last: Hjalmarsson
   papers:
-  - Z15-1031
+  - Z15-3031
   slug: anna-hjalmarsson
   venues:
   - - SEMDIAL
@@ -2378,7 +2381,7 @@ antoine-venant:
   full: Antoine Venant
   last: Venant
   papers:
-  - Z14-1021
+  - Z14-2021
   slug: antoine-venant
   venues:
   - - SEMDIAL
@@ -2405,7 +2408,7 @@ anton-benz:
   full: Anton Benz
   last: Benz
   papers:
-  - Z14-1020
+  - Z14-2020
   slug: anton-benz
   venues:
   - - SEMDIAL
@@ -2632,7 +2635,7 @@ arabella-sinclair:
   full: Arabella Sinclair
   last: Sinclair
   papers:
-  - Z17-1014
+  - Z17-2017
   slug: arabella-sinclair
   venues:
   - - SEMDIAL
@@ -2665,10 +2668,10 @@ arash-eshghi:
   full: Arash Eshghi
   last: Eshghi
   papers:
-  - Z17-1013
-  - Z15-1028
-  - Z15-1049
-  - Z14-1010
+  - Z17-2016
+  - Z15-3028
+  - Z15-3049
+  - Z14-2010
   slug: arash-eshghi
   venues:
   - - SEMDIAL
@@ -2783,7 +2786,7 @@ arnaud-gingold:
   full: Arnaud Gingold
   last: Gingold
   papers:
-  - Z15-1044
+  - Z15-3044
   slug: arnaud-gingold
   venues:
   - - SEMDIAL
@@ -2916,7 +2919,7 @@ ashley-green:
   full: Ashley Green
   last: Green
   papers:
-  - Z17-1015
+  - Z17-2018
   slug: ashley-green
   venues:
   - - SEMDIAL

@@ -94,7 +94,7 @@ zengtao-jiao:
   full: Zengtao Jiao
   last: Jiao
   papers:
-  - Z14-1033
+  - Z14-3033
   slug: zengtao-jiao
   venues:
   - - SEMDIAL
@@ -195,9 +195,9 @@ zhuoran-wang:
   full: Zhuoran Wang
   last: Wang
   papers:
-  - Z14-1033
-  - Z14-1041
-  - Z14-1050
+  - Z14-3033
+  - Z14-3041
+  - Z14-3050
   slug: zhuoran-wang
   venues:
   - - SEMDIAL
@@ -222,7 +222,7 @@ zoe-falomir:
   full: Zoe Falomir
   last: Falomir
   papers:
-  - Z14-1042
+  - Z14-3042
   slug: zoe-falomir
   venues:
   - - SEMDIAL

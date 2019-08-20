@@ -40,7 +40,7 @@ eamonn-kenny:
   full: Eamonn Kenny
   last: Kenny
   papers:
-  - Z14-1022
+  - Z14-3022
   slug: eamonn-kenny
   venues:
   - - SEMDIAL
@@ -313,7 +313,7 @@ elena-andonova:
   full: Elena Andonova
   last: Andonova
   papers:
-  - Z14-1048
+  - Z14-3048
   slug: elena-andonova
   venues:
   - - SEMDIAL
@@ -364,7 +364,7 @@ elettra-oleari:
   full: Elettra Oleari
   last: Oleari
   papers:
-  - Z14-1014
+  - Z14-2014
   slug: elettra-oleari
   venues:
   - - SEMDIAL
@@ -395,7 +395,7 @@ elias-iosif:
   full: Elias Iosif
   last: Iosif
   papers:
-  - Z17-1011
+  - Z17-2014
   slug: elias-iosif
   venues:
   - - SEMDIAL
@@ -448,9 +448,16 @@ elisabeth-andre:
   first: Elisabeth
   full: Elisabeth Andre
   last: Andre
-  papers: []
+  papers:
+  - Z17-1002
   slug: elisabeth-andre
-  venues: []
+  variant_entries:
+  - first: Elisabeth
+    full: "Elisabeth Andr\xE9"
+    last: "Andr\xE9"
+  venues:
+  - - SEMDIAL
+    - 1
 elisabeth-delais-roussarie:
   coauthors: []
   first: Elisabeth
@@ -566,7 +573,7 @@ ellen-breitholtz:
   full: Ellen Breitholtz
   last: Breitholtz
   papers:
-  - Z15-1022
+  - Z15-3022
   slug: ellen-breitholtz
   venues:
   - - SEMDIAL
@@ -645,7 +652,7 @@ elnaz-nouri:
   full: Elnaz Nouri
   last: Nouri
   papers:
-  - Z14-1044
+  - Z14-3044
   slug: elnaz-nouri
   venues:
   - - SEMDIAL
@@ -708,7 +715,7 @@ emer-gilmartin:
   full: Emer Gilmartin
   last: Gilmartin
   papers:
-  - Z14-1022
+  - Z14-3022
   slug: emer-gilmartin
   venues:
   - - SEMDIAL
@@ -857,7 +864,7 @@ eran-raveh:
   full: Eran Raveh
   last: Raveh
   papers:
-  - Z17-1024
+  - Z17-3027
   slug: eran-raveh
   venues:
   - - SEMDIAL
@@ -972,7 +979,7 @@ eric-kow:
   full: Eric Kow
   last: Kow
   papers:
-  - Z15-1014
+  - Z15-2014
   slug: eric-kow
   venues:
   - - SEMDIAL
@@ -1089,7 +1096,7 @@ erik-de-graaf:
   full: Erik de Graaf
   last: Graaf
   papers:
-  - Z15-1025
+  - Z15-3025
   slug: erik-de-graaf
   venues:
   - - SEMDIAL
@@ -1140,7 +1147,7 @@ ernisa-marzuki:
   full: Ernisa Marzuki
   last: Marzuki
   papers:
-  - Z17-1007
+  - Z17-2010
   slug: ernisa-marzuki
   venues:
   - - SEMDIAL
@@ -1251,7 +1258,7 @@ eugene-tsuprun:
   full: Eugene Tsuprun
   last: Tsuprun
   papers:
-  - Z17-1023
+  - Z17-3026
   slug: eugene-tsuprun
   venues:
   - - SEMDIAL

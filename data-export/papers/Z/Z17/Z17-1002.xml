@@ -1,19 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns="http://www.loc.gov/mods/v3">
-<mods ID="dobnik-astbom-2017-perceptual">
+<mods ID="andre-2017-empowering">
     <titleInfo>
-        <title>(Perceptual) grounding as interaction</title>
+        <title>Empowering Human-Robot Dialogue by Affective Computing Research</title>
     </titleInfo>
     <name type="personal">
-        <namePart type="given">Simon</namePart>
-        <namePart type="family">Dobnik</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Amelie</namePart>
-        <namePart type="family">Åstbom</namePart>
+        <namePart type="given">Elisabeth</namePart>
+        <namePart type="family">André</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
@@ -24,7 +17,7 @@
     <typeOfResource>text</typeOfResource>
     <relatedItem type="host">
         <titleInfo>
-            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue</title>
+            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</title>
         </titleInfo>
         <originInfo>
             <publisher>SEMDIAL</publisher>
@@ -34,9 +27,9 @@
         </originInfo>
         <genre authority="marcgt">conference publication</genre>
     </relatedItem>
-    <identifier type="citekey">dobnik-astbom-2017-perceptual</identifier>
+    <identifier type="citekey">andre-2017-empowering</identifier>
     <location>
-        <url>https://bakuzen.github.io/anthology/Z17-Dobnik_semdial_0002.pdf</url>
+        <url>https://bakuzen.github.io/anthology/Z17-AndrÃ©_semdial_0002.pdf</url>
     </location>
     <part>
         <date>2017-aug</date>

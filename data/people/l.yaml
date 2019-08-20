@@ -154,7 +154,7 @@ laura-aina:
   full: Laura Aina
   last: Aina
   papers:
-  - Z17-1001
+  - Z17-2004
   slug: laura-aina
   venues:
   - - SEMDIAL
@@ -269,7 +269,7 @@ laurent-prevot:
   full: "Laurent Pr\xE9vot"
   last: "Pr\xE9vot"
   papers:
-  - Z15-1044
+  - Z15-3044
   slug: laurent-prevot
   venues:
   - - SEMDIAL
@@ -640,7 +640,7 @@ lisa-hofmann:
   full: Lisa Hofmann
   last: Hofmann
   papers:
-  - Z15-1012
+  - Z15-2012
   slug: lisa-hofmann
   venues:
   - - SEMDIAL
@@ -881,7 +881,7 @@ louisa-pragst:
   full: Louisa Pragst
   last: Pragst
   papers:
-  - Z15-1043
+  - Z15-3043
   slug: louisa-pragst
   venues:
   - - SEMDIAL
@@ -976,7 +976,7 @@ lucia-castillo:
   full: Lucia Castillo
   last: Castillo
   papers:
-  - Z15-1023
+  - Z15-3023
   slug: lucia-castillo
   venues:
   - - SEMDIAL
@@ -1167,7 +1167,7 @@ luisa-coheur:
   full: "Lu\xEDsa Coheur"
   last: Coheur
   papers:
-  - Z14-1015
+  - Z14-2015
   slug: luisa-coheur
   venues:
   - - SEMDIAL

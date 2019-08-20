@@ -1,19 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns="http://www.loc.gov/mods/v3">
-<mods ID="ferre-renaudier-2017-unimodal">
+<mods ID="kehler-2017-conversational">
     <titleInfo>
-        <title>Unimodal and Bimodal Backchannels in Conversational English</title>
+        <title>Conversational Eliciture in a Bayesian Model of Language Interpretation</title>
     </titleInfo>
     <name type="personal">
-        <namePart type="given">Gaelle</namePart>
-        <namePart type="family">Ferre</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Suzanne</namePart>
-        <namePart type="family">Renaudier</namePart>
+        <namePart type="given">Andrew</namePart>
+        <namePart type="family">Kehler</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
@@ -24,7 +17,7 @@
     <typeOfResource>text</typeOfResource>
     <relatedItem type="host">
         <titleInfo>
-            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue</title>
+            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</title>
         </titleInfo>
         <originInfo>
             <publisher>SEMDIAL</publisher>
@@ -34,9 +27,9 @@
         </originInfo>
         <genre authority="marcgt">conference publication</genre>
     </relatedItem>
-    <identifier type="citekey">ferre-renaudier-2017-unimodal</identifier>
+    <identifier type="citekey">kehler-2017-conversational</identifier>
     <location>
-        <url>https://bakuzen.github.io/anthology/Z17-Ferre_semdial_0003.pdf</url>
+        <url>https://bakuzen.github.io/anthology/Z17-Kehler_semdial_0003.pdf</url>
     </location>
     <part>
         <date>2017-aug</date>

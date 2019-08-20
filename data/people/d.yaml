@@ -250,7 +250,7 @@ daniel-couto-vale1:
   full: Daniel Couto Vale
   last: Vale
   papers:
-  - Z14-1042
+  - Z14-3042
   slug: daniel-couto-vale1
   venues:
   - - SEMDIAL
@@ -311,7 +311,7 @@ daniel-kondratyuk:
   full: Daniel Kondratyuk
   last: Kondratyuk
   papers:
-  - Z17-1019
+  - Z17-3022
   slug: daniel-kondratyuk
   venues:
   - - SEMDIAL
@@ -334,7 +334,7 @@ daniel-magarreiro:
   full: Daniel Magarreiro
   last: Magarreiro
   papers:
-  - Z14-1015
+  - Z14-2015
   slug: daniel-magarreiro
   venues:
   - - SEMDIAL
@@ -371,7 +371,7 @@ daniel-ostler:
   full: Daniel Ostler
   last: Ostler
   papers:
-  - Z17-1021
+  - Z17-3024
   slug: daniel-ostler
   venues:
   - - SEMDIAL
@@ -693,7 +693,7 @@ david-devault:
   full: David Devault
   last: Devault
   papers:
-  - Z15-1016
+  - Z15-2016
   slug: david-devault
   venues:
   - - SEMDIAL
@@ -1002,14 +1002,14 @@ david-schlangen:
   full: David Schlangen
   last: Schlangen
   papers:
-  - Z15-1010
-  - Z15-1013
-  - Z15-1026
-  - Z15-1036
-  - Z14-1023
-  - Z14-1026
-  - Z14-1030
-  - Z14-1035
+  - Z15-2010
+  - Z15-2013
+  - Z15-3026
+  - Z15-3036
+  - Z14-3023
+  - Z14-3026
+  - Z14-3030
+  - Z14-3035
   slug: david-schlangen
   venues:
   - - SEMDIAL
@@ -1046,8 +1046,8 @@ david-suendermann-oeft:
   full: David Suendermann-Oeft
   last: Suendermann-Oeft
   papers:
-  - Z17-1023
-  - Z17-1025
+  - Z17-3026
+  - Z17-3028
   slug: david-suendermann-oeft
   venues:
   - - SEMDIAL
@@ -1070,7 +1070,7 @@ david-traum:
   full: David Traum
   last: Traum
   papers:
-  - Z14-1044
+  - Z14-3044
   slug: david-traum
   venues:
   - - SEMDIAL
@@ -1580,7 +1580,7 @@ dirk-schnelle-walka:
   full: Dirk Schnelle-Walka
   last: Schnelle-Walka
   papers:
-  - Z17-1025
+  - Z17-3028
   slug: dirk-schnelle-walka
   venues:
   - - SEMDIAL
@@ -1859,7 +1859,7 @@ dragan-gasevic:
   full: Dragan Gasevic
   last: Gasevic
   papers:
-  - Z17-1014
+  - Z17-2017
   slug: dragan-gasevic
   venues:
   - - SEMDIAL

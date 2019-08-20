@@ -233,7 +233,7 @@ ralf-klabunde:
   full: Ralf Klabunde
   last: Klabunde
   papers:
-  - Z14-1020
+  - Z14-2020
   slug: ralf-klabunde
   venues:
   - - SEMDIAL
@@ -280,7 +280,7 @@ ramesh-manuvinakurike:
   full: Ramesh Manuvinakurike
   last: Manuvinakurike
   papers:
-  - Z15-1016
+  - Z15-2016
   slug: ramesh-manuvinakurike
   venues:
   - - SEMDIAL
@@ -297,7 +297,7 @@ ramkumar-aruchamy:
   full: Ramkumar Aruchamy
   last: Aruchamy
   papers:
-  - Z15-1041
+  - Z15-3041
   slug: ramkumar-aruchamy
   venues:
   - - SEMDIAL
@@ -408,10 +408,10 @@ raquel-fernandez:
   full: "Raquel Fern\xE1ndez"
   last: "Fern\xE1ndez"
   papers:
-  - Z17-1001
-  - Z15-1030
-  - Z14-1028
-  - Z14-1047
+  - Z17-2004
+  - Z15-3030
+  - Z14-3028
+  - Z14-3047
   slug: raquel-fernandez
   variant_entries:
   - first: Raquel
@@ -446,7 +446,7 @@ raul-mondragon:
   full: Raul Mondragon
   last: Mondragon
   papers:
-  - Z14-1032
+  - Z14-3032
   slug: raul-mondragon
   venues:
   - - SEMDIAL
@@ -974,7 +974,7 @@ robert-grimm:
   full: Robert Grimm
   last: Grimm
   papers:
-  - Z14-1028
+  - Z14-3028
   slug: robert-grimm
   venues:
   - - SEMDIAL
@@ -1021,7 +1021,7 @@ robert-j-ross:
   full: Robert J. Ross
   last: Ross
   papers:
-  - Z17-1027
+  - Z17-3030
   slug: robert-j-ross
   venues:
   - - SEMDIAL
@@ -1211,7 +1211,7 @@ robin-cooper:
   full: Robin Cooper
   last: Cooper
   papers:
-  - Z14-1007
+  - Z14-2007
   slug: robin-cooper
   venues:
   - - SEMDIAL
@@ -1354,7 +1354,7 @@ romain-laroche:
   full: Romain Laroche
   last: Laroche
   papers:
-  - Z17-1009
+  - Z17-2012
   slug: romain-laroche
   venues:
   - - SEMDIAL
@@ -1461,7 +1461,7 @@ ronja-laarmann-quante:
   full: Ronja Laarmann-Quante
   last: Laarmann-Quante
   papers:
-  - Z14-1020
+  - Z14-2020
   slug: ronja-laarmann-quante
   venues:
   - - SEMDIAL
@@ -1476,7 +1476,7 @@ ronnie-cann:
   full: Ronnie Cann
   last: Cann
   papers:
-  - Z15-1035
+  - Z15-3035
   slug: ronnie-cann
   venues:
   - - SEMDIAL
@@ -1525,7 +1525,7 @@ rose-mccabe:
   full: Rose McCabe
   last: McCabe
   papers:
-  - Z14-1013
+  - Z14-2013
   slug: rose-mccabe
   venues:
   - - SEMDIAL
@@ -1674,8 +1674,8 @@ ruth-aylett:
   full: Ruth Aylett
   last: Aylett
   papers:
-  - Z15-1033
-  - Z14-1040
+  - Z15-3033
+  - Z14-3040
   slug: ruth-aylett
   venues:
   - - SEMDIAL
@@ -1690,7 +1690,7 @@ ruth-kempson:
   full: Ruth Kempson
   last: Kempson
   papers:
-  - Z15-1035
+  - Z15-3035
   slug: ruth-kempson
   venues:
   - - SEMDIAL
@@ -1721,7 +1721,7 @@ rutuja-ubale:
   full: Rutuja Ubale
   last: Ubale
   papers:
-  - Z17-1023
+  - Z17-3026
   slug: rutuja-ubale
   venues:
   - - SEMDIAL
@@ -1800,8 +1800,8 @@ ryuichiro-higashinaka:
   full: Ryuichiro Higashinaka
   last: Higashinaka
   papers:
-  - Z17-1016
-  - Z15-1011
+  - Z17-3019
+  - Z15-2011
   slug: ryuichiro-higashinaka
   venues:
   - - SEMDIAL

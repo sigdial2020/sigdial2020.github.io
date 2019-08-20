@@ -94,7 +94,7 @@ gaelle-ferre1:
   full: Gaelle Ferre
   last: Ferre
   papers:
-  - Z17-1003
+  - Z17-2006
   slug: gaelle-ferre1
   venues:
   - - SEMDIAL
@@ -137,7 +137,7 @@ gareth-clegg:
   full: Gareth Clegg
   last: Clegg
   papers:
-  - Z17-1007
+  - Z17-2010
   slug: gareth-clegg
   venues:
   - - SEMDIAL
@@ -554,7 +554,7 @@ gesa-schole:
   full: Gesa Schole
   last: Schole
   papers:
-  - Z14-1048
+  - Z14-3048
   slug: gesa-schole
   venues:
   - - SEMDIAL
@@ -641,7 +641,7 @@ gibson-ikoro:
   full: Gibson Ikoro
   last: Ikoro
   papers:
-  - Z14-1032
+  - Z14-3032
   slug: gibson-ikoro
   venues:
   - - SEMDIAL
@@ -992,7 +992,7 @@ graham-white:
   full: Graham White
   last: White
   papers:
-  - Z14-1032
+  - Z14-3032
   slug: graham-white
   venues:
   - - SEMDIAL
@@ -1141,7 +1141,7 @@ guanchun-wang:
   full: Guanchun Wang
   last: Wang
   papers:
-  - Z14-1033
+  - Z14-3033
   slug: guanchun-wang
   venues:
   - - SEMDIAL

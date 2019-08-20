@@ -112,9 +112,9 @@ yanchao-yu:
   full: Yanchao Yu
   last: Yu
   papers:
-  - Z15-1049
-  - Z14-1031
-  - Z14-1046
+  - Z15-3049
+  - Z14-3031
+  - Z14-3046
   slug: yanchao-yu
   venues:
   - - SEMDIAL
@@ -200,7 +200,7 @@ yannick-mathieu:
   full: Yannick Mathieu
   last: Mathieu
   papers:
-  - Z15-1020
+  - Z15-2020
   slug: yannick-mathieu
   venues:
   - - SEMDIAL
@@ -223,7 +223,7 @@ yao-qian:
   full: Yao Qian
   last: Qian
   papers:
-  - Z17-1023
+  - Z17-3026
   slug: yao-qian
   venues:
   - - SEMDIAL
@@ -250,7 +250,7 @@ yao-yao:
   full: Yao Yao
   last: Yao
   papers:
-  - Z15-1044
+  - Z15-3044
   slug: yao-yao
   venues:
   - - SEMDIAL
@@ -295,8 +295,8 @@ yasuharu-den:
   full: Yasuharu Den
   last: Den
   papers:
-  - Z17-1017
-  - Z14-1034
+  - Z17-3020
+  - Z14-3034
   slug: yasuharu-den
   venues:
   - - SEMDIAL
@@ -317,9 +317,9 @@ yasuhiro-katagiri:
   full: Yasuhiro Katagiri
   last: Katagiri
   papers:
-  - Z17-1017
-  - Z15-1034
-  - Z14-1034
+  - Z17-3020
+  - Z15-3034
+  - Z14-3034
   slug: yasuhiro-katagiri
   venues:
   - - SEMDIAL
@@ -332,7 +332,7 @@ yasunari-harada:
   full: Yasunari Harada
   last: Harada
   papers:
-  - Z17-1022
+  - Z17-3025
   slug: yasunari-harada
   venues:
   - - SEMDIAL
@@ -355,6 +355,8 @@ yau-tarng-juang:
   venues: []
 ye-tian:
   coauthors:
+  - - volha-petukhova
+    - 3
   - - jonathan-ginzburg
     - 2
   - - david-schlangen
@@ -367,8 +369,6 @@ ye-tian:
     - 1
   - - caspar-addyman
     - 1
-  - - volha-petukhova
-    - 1
   - - claire-beyssade
     - 1
   - - yannick-mathieu
@@ -378,13 +378,15 @@ ye-tian:
   last: Tian
   papers:
   - Z17-1000
-  - Z15-1020
-  - Z14-1026
-  - Z14-1043
+  - Z17-2000
+  - Z17-3000
+  - Z15-2020
+  - Z14-3026
+  - Z14-3043
   slug: ye-tian
   venues:
   - - SEMDIAL
-    - 4
+    - 6
 yen-lu-chow:
   coauthors: []
   first: Yen-Lu
@@ -619,8 +621,8 @@ yoshihiro-matsuo:
   full: Yoshihiro Matsuo
   last: Matsuo
   papers:
-  - Z17-1016
-  - Z15-1011
+  - Z17-3019
+  - Z15-2011
   slug: yoshihiro-matsuo
   venues:
   - - SEMDIAL
@@ -797,7 +799,7 @@ yuichiro-yoshikawa:
   full: Yuichiro Yoshikawa
   last: Yoshikawa
   papers:
-  - Z17-1016
+  - Z17-3019
   slug: yuichiro-yoshikawa
   venues:
   - - SEMDIAL
@@ -918,7 +920,7 @@ yusuke-ijima:
   full: Yusuke Ijima
   last: Ijima
   papers:
-  - Z17-1016
+  - Z17-3019
   slug: yusuke-ijima
   venues:
   - - SEMDIAL
@@ -991,7 +993,7 @@ yves-vanrompay:
   full: Yves Vanrompay
   last: Vanrompay
   papers:
-  - Z14-1031
+  - Z14-3031
   slug: yves-vanrompay
   venues:
   - - SEMDIAL
