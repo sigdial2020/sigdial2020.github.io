@@ -90,7 +90,7 @@ takaaki-fukutomi-kiyoaki-matsui:
   full: Takaaki Fukutomi,Kiyoaki Matsui
   last: Matsui
   papers:
-  - Z17-3019
+  - Z17-4019
   slug: takaaki-fukutomi-kiyoaki-matsui
   venues:
   - - SEMDIAL
@@ -521,7 +521,7 @@ thomas-pellegrini:
   full: Thomas Pellegrini
   last: Pellegrini
   papers:
-  - Z14-3022
+  - Z14-4022
   slug: thomas-pellegrini
   venues:
   - - SEMDIAL
@@ -560,7 +560,7 @@ thomas-waltema:
   full: Thomas Waltema
   last: Waltema
   papers:
-  - Z15-3026
+  - Z15-4026
   slug: thomas-waltema
   venues:
   - - SEMDIAL
@@ -585,7 +585,7 @@ thora-tenbrink:
   full: Thora Tenbrink
   last: Tenbrink
   papers:
-  - Z14-3048
+  - Z14-4048
   slug: thora-tenbrink
   venues:
   - - SEMDIAL
@@ -658,7 +658,7 @@ ti-potter:
   full: Ti Potter
   last: Potter
   papers:
-  - Z14-3031
+  - Z14-4031
   slug: ti-potter
   venues:
   - - SEMDIAL
@@ -793,7 +793,7 @@ timothy-meo:
   full: Timothy Meo
   last: Meo
   papers:
-  - Z14-2016
+  - Z14-3016
   slug: timothy-meo
   venues:
   - - SEMDIAL
@@ -842,8 +842,8 @@ ting-han:
   full: Ting Han
   last: Han
   papers:
-  - Z15-2010
-  - Z14-3030
+  - Z15-3010
+  - Z14-4030
   slug: ting-han
   venues:
   - - SEMDIAL
@@ -1038,7 +1038,7 @@ toru-hirano:
   full: Toru Hirano
   last: Hirano
   papers:
-  - Z15-2011
+  - Z15-3011
   slug: toru-hirano
   venues:
   - - SEMDIAL
@@ -1081,7 +1081,7 @@ toshiro-makino:
   full: Toshiro Makino
   last: Makino
   papers:
-  - Z15-2011
+  - Z15-3011
   slug: toshiro-makino
   venues:
   - - SEMDIAL
@@ -1186,7 +1186,7 @@ tsunehiro-arimoto:
   full: Tsunehiro Arimoto
   last: Arimoto
   papers:
-  - Z17-3019
+  - Z17-4019
   slug: tsunehiro-arimoto
   venues:
   - - SEMDIAL

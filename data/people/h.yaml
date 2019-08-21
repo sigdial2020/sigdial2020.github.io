@@ -62,7 +62,7 @@ haifeng-wang:
   full: Haifeng Wang
   last: Wang
   papers:
-  - Z14-3033
+  - Z14-4033
   slug: haifeng-wang
   venues:
   - - SEMDIAL
@@ -187,8 +187,8 @@ hannah-rohde:
   full: Hannah Rohde
   last: Rohde
   papers:
-  - Z17-2010
-  - Z15-3047
+  - Z17-3010
+  - Z15-4047
   slug: hannah-rohde
   venues:
   - - SEMDIAL
@@ -219,8 +219,8 @@ hannes-rieser:
   full: Hannes Rieser
   last: Rieser
   papers:
-  - Z15-2017
-  - Z14-3029
+  - Z15-3017
+  - Z14-4029
   slug: hannes-rieser
   venues:
   - - SEMDIAL
@@ -297,7 +297,7 @@ hao-tian:
   full: Hao Tian
   last: Tian
   papers:
-  - Z14-3033
+  - Z14-4033
   slug: hao-tian
   venues:
   - - SEMDIAL
@@ -358,7 +358,7 @@ harm-brouwer:
   full: Harm Brouwer
   last: Brouwer
   papers:
-  - Z14-3051
+  - Z14-4051
   slug: harm-brouwer
   venues:
   - - SEMDIAL
@@ -407,8 +407,8 @@ harry-bunt:
   full: Harry Bunt
   last: Bunt
   papers:
-  - Z17-2015
-  - Z15-3041
+  - Z17-3015
+  - Z15-4041
   slug: harry-bunt
   venues:
   - - SEMDIAL
@@ -595,10 +595,10 @@ helen-hastie:
   full: Helen Hastie
   last: Hastie
   papers:
-  - Z15-3033
-  - Z14-3024
-  - Z14-3031
-  - Z14-3040
+  - Z15-4033
+  - Z14-4024
+  - Z14-4031
+  - Z14-4040
   slug: helen-hastie
   venues:
   - - SEMDIAL
@@ -731,7 +731,7 @@ hendrik-buschmeier:
   full: Hendrik Buschmeier
   last: Buschmeier
   papers:
-  - Z14-2006
+  - Z14-3006
   slug: hendrik-buschmeier
   venues:
   - - SEMDIAL
@@ -836,8 +836,8 @@ heriberto-cuayahuitl:
   full: Heriberto Cuayahuitl
   last: Cuayahuitl
   papers:
-  - Z14-3024
-  - Z14-3031
+  - Z14-4024
+  - Z14-4031
   slug: heriberto-cuayahuitl
   venues:
   - - SEMDIAL
@@ -852,7 +852,7 @@ heriberto-cuayahuitl1:
   full: "Heriberto Cuay\xE1huitl"
   last: "Cuay\xE1huitl"
   papers:
-  - Z15-2015
+  - Z15-3015
   slug: heriberto-cuayahuitl1
   venues:
   - - SEMDIAL
@@ -1037,7 +1037,7 @@ hiroaki-ito:
   full: Hiroaki Ito
   last: Ito
   papers:
-  - Z17-3019
+  - Z17-4019
   slug: hiroaki-ito
   venues:
   - - SEMDIAL
@@ -1078,7 +1078,7 @@ hiroaki-sugiyama:
   full: Hiroaki Sugiyama
   last: Sugiyama
   papers:
-  - Z17-3019
+  - Z17-4019
   slug: hiroaki-sugiyama
   venues:
   - - SEMDIAL
@@ -1135,7 +1135,7 @@ hiromi-narimatsu:
   full: Hiromi Narimatsu
   last: Narimatsu
   papers:
-  - Z17-3019
+  - Z17-4019
   slug: hiromi-narimatsu
   venues:
   - - SEMDIAL
@@ -1200,7 +1200,7 @@ hiroshi-ishiguro:
   full: Hiroshi Ishiguro
   last: Ishiguro
   papers:
-  - Z17-3019
+  - Z17-4019
   slug: hiroshi-ishiguro
   venues:
   - - SEMDIAL
@@ -1325,7 +1325,7 @@ hodgdon-stevens:
   full: Hodgdon Stevens
   last: Stevens
   papers:
-  - Z15-3047
+  - Z15-4047
   slug: hodgdon-stevens
   venues:
   - - SEMDIAL
@@ -1356,9 +1356,9 @@ holly-branigan:
   full: Holly Branigan
   last: Branigan
   papers:
-  - Z17-2010
-  - Z15-3023
-  - Z14-1001
+  - Z17-3010
+  - Z15-4023
+  - Z14-2001
   slug: holly-branigan
   venues:
   - - SEMDIAL
@@ -1539,7 +1539,7 @@ hua-wu:
   full: Hua Wu
   last: Wu
   papers:
-  - Z14-3033
+  - Z14-4033
   slug: hua-wu
   venues:
   - - SEMDIAL
@@ -1568,7 +1568,7 @@ hubertus-feussner:
   full: Hubertus Feussner
   last: Feussner
   papers:
-  - Z17-3024
+  - Z17-4024
   slug: hubertus-feussner
   venues:
   - - SEMDIAL
@@ -1649,7 +1649,7 @@ hugues-bouchard:
   full: Hugues Bouchard
   last: Bouchard
   papers:
-  - Z14-3031
+  - Z14-4031
   slug: hugues-bouchard
   venues:
   - - SEMDIAL

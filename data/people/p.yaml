@@ -114,7 +114,7 @@ panos-alexopoulos:
   full: Panos Alexopoulos
   last: Alexopoulos
   papers:
-  - Z14-3031
+  - Z14-4031
   slug: panos-alexopoulos
   venues:
   - - SEMDIAL
@@ -151,7 +151,7 @@ paolo-dragone:
   full: Paolo Dragone
   last: Dragone
   papers:
-  - Z15-3027
+  - Z15-4027
   slug: paolo-dragone
   venues:
   - - SEMDIAL
@@ -278,8 +278,8 @@ patrick-healey:
   full: Patrick Healey
   last: Healey
   papers:
-  - Z15-2004
-  - Z15-2005
+  - Z15-3004
+  - Z15-3005
   slug: patrick-healey
   variant_entries:
   - first: Pat
@@ -312,8 +312,8 @@ patrick-l-lange:
   full: Patrick L. Lange
   last: Lange
   papers:
-  - Z17-3026
-  - Z17-3028
+  - Z17-4026
+  - Z17-4028
   slug: patrick-l-lange
   variant_entries:
   - first: Patrick
@@ -436,7 +436,7 @@ paul-homke:
   full: "Paul H\xF6mke"
   last: "H\xF6mke"
   papers:
-  - Z15-3032
+  - Z15-4032
   slug: paul-homke
   venues:
   - - SEMDIAL
@@ -813,7 +813,7 @@ peter-mika:
   full: Peter Mika
   last: Mika
   papers:
-  - Z14-3031
+  - Z14-4031
   slug: peter-mika
   venues:
   - - SEMDIAL
@@ -880,7 +880,7 @@ peter-wallis:
   full: Peter Wallis
   last: Wallis
   papers:
-  - Z14-3053
+  - Z14-4053
   slug: peter-wallis
   venues:
   - - SEMDIAL
@@ -1072,18 +1072,16 @@ philippe-langlais:
 philippe-muller:
   coauthors:
   - - verena-rieser
-    - 3
+    - 1
   first: Philippe
   full: Philippe Muller
   last: Muller
   papers:
   - Z14-1000
-  - Z14-2000
-  - Z14-3000
   slug: philippe-muller
   venues:
   - - SEMDIAL
-    - 3
+    - 1
 phuong-le-hong:
   coauthors: []
   first: Phuong
@@ -1166,9 +1164,9 @@ pierre-lison:
   full: Pierre Lison
   last: Lison
   papers:
-  - Z17-3023
-  - Z15-3027
-  - Z15-3039
+  - Z17-4023
+  - Z15-4027
+  - Z15-4039
   slug: pierre-lison
   venues:
   - - SEMDIAL
@@ -1231,7 +1229,7 @@ pinelopi-papalampidi:
   full: Pinelopi Papalampidi
   last: Papalampidi
   papers:
-  - Z17-2014
+  - Z17-3014
   slug: pinelopi-papalampidi
   venues:
   - - SEMDIAL
@@ -1296,7 +1294,7 @@ pirros-tsiakoulis:
   full: Pirros Tsiakoulis
   last: Tsiakoulis
   papers:
-  - Z14-3031
+  - Z14-4031
   slug: pirros-tsiakoulis
   venues:
   - - SEMDIAL
@@ -1389,7 +1387,7 @@ pranav-anand:
   full: Pranav Anand
   last: Anand
   papers:
-  - Z17-2011
+  - Z17-3011
   slug: pranav-anand
   venues:
   - - SEMDIAL

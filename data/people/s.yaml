@@ -170,7 +170,7 @@ sam-green:
   full: Sam Green
   last: Green
   papers:
-  - Z14-3043
+  - Z14-4043
   slug: sam-green
   venues:
   - - SEMDIAL
@@ -225,7 +225,7 @@ sammie-tarenskeen:
   full: Sammie Tarenskeen
   last: Tarenskeen
   papers:
-  - Z15-2019
+  - Z15-3019
   slug: sammie-tarenskeen
   venues:
   - - SEMDIAL
@@ -384,7 +384,7 @@ sara-bogels:
   full: "Sara B\xF6gels"
   last: "B\xF6gels"
   papers:
-  - Z15-3021
+  - Z15-4021
   slug: sara-bogels
   venues:
   - - SEMDIAL
@@ -397,7 +397,7 @@ sara-moradlou:
   full: Sara Moradlou
   last: Moradlou
   papers:
-  - Z14-2017
+  - Z14-3017
   slug: sara-moradlou
   venues:
   - - SEMDIAL
@@ -418,7 +418,7 @@ sarah-hiller:
   full: Sarah Hiller
   last: Hiller
   papers:
-  - Z15-3030
+  - Z15-4030
   slug: sarah-hiller
   venues:
   - - SEMDIAL
@@ -649,7 +649,7 @@ sebastian-berlin:
   full: Sebastian Berlin
   last: Berlin
   papers:
-  - Z14-3037
+  - Z14-4037
   slug: sebastian-berlin
   venues:
   - - SEMDIAL
@@ -716,7 +716,7 @@ sebastian-reusse:
   full: "Sebastian Reu\xDFe"
   last: "Reu\xDFe"
   papers:
-  - Z14-2020
+  - Z14-3020
   slug: sebastian-reusse
   venues:
   - - SEMDIAL
@@ -779,7 +779,7 @@ seiichi-yamamoto:
   full: Seiichi Yamamoto
   last: Yamamoto
   papers:
-  - Z17-3031
+  - Z17-4031
   slug: seiichi-yamamoto
   venues:
   - - SEMDIAL
@@ -968,7 +968,7 @@ sharath-ts:
   full: Sharath Ts
   last: Ts
   papers:
-  - Z17-2011
+  - Z17-3011
   slug: sharath-ts
   venues:
   - - SEMDIAL
@@ -1015,8 +1015,8 @@ shauna-concannon:
   full: Shauna Concannon
   last: Concannon
   papers:
-  - Z15-2004
-  - Z15-2005
+  - Z15-3004
+  - Z15-3005
   slug: shauna-concannon
   venues:
   - - SEMDIAL
@@ -1085,7 +1085,7 @@ shereen-oraby:
   full: Shereen Oraby
   last: Oraby
   papers:
-  - Z17-2011
+  - Z17-3011
   slug: shereen-oraby
   venues:
   - - SEMDIAL
@@ -1250,7 +1250,7 @@ shogo-okada:
   full: Shogo Okada
   last: Okada
   papers:
-  - Z14-3034
+  - Z14-4034
   slug: shogo-okada
   venues:
   - - SEMDIAL
@@ -1299,7 +1299,7 @@ shoko-araki:
   full: Shoko Araki
   last: Araki
   papers:
-  - Z17-3019
+  - Z17-4019
   slug: shoko-araki
   venues:
   - - SEMDIAL
@@ -1392,7 +1392,7 @@ shubhangi-tandon:
   full: Shubhangi Tandon
   last: Tandon
   papers:
-  - Z17-2011
+  - Z17-3011
   slug: shubhangi-tandon
   venues:
   - - SEMDIAL
@@ -1577,11 +1577,11 @@ simon-dobnik:
   full: Simon Dobnik
   last: Dobnik
   papers:
-  - Z17-2005
-  - Z15-2006
-  - Z15-3025
-  - Z14-2009
-  - Z14-3037
+  - Z17-3005
+  - Z15-3006
+  - Z15-4025
+  - Z14-3009
+  - Z14-4037
   slug: simon-dobnik
   venues:
   - - SEMDIAL
@@ -1606,8 +1606,8 @@ simon-keizer:
   full: Simon Keizer
   last: Keizer
   papers:
-  - Z17-3021
-  - Z15-2015
+  - Z17-4021
+  - Z15-3015
   slug: simon-keizer
   venues:
   - - SEMDIAL
@@ -1734,7 +1734,7 @@ soledad-lopez-gambino:
   full: Soledad Lopez Gambino
   last: Gambino
   papers:
-  - Z15-3036
+  - Z15-4036
   slug: soledad-lopez-gambino
   venues:
   - - SEMDIAL
@@ -1831,7 +1831,7 @@ sophie-repp:
   full: Sophie Repp
   last: Repp
   papers:
-  - Z15-3024
+  - Z15-4024
   slug: sophie-repp
   venues:
   - - SEMDIAL
@@ -1896,8 +1896,8 @@ spyros-kousidis:
   full: Spyros Kousidis
   last: Kousidis
   papers:
-  - Z14-3030
-  - Z14-3035
+  - Z14-4030
+  - Z14-4035
   slug: spyros-kousidis
   venues:
   - - SEMDIAL
@@ -1936,7 +1936,7 @@ sree-ganesh:
   full: Sree Ganesh
   last: Ganesh
   papers:
-  - Z14-3022
+  - Z14-4022
   slug: sree-ganesh
   venues:
   - - SEMDIAL
@@ -1981,9 +1981,9 @@ srinivasan-janarthanam:
   full: Srinivasan Janarthanam
   last: Janarthanam
   papers:
-  - Z15-3033
-  - Z14-3040
-  - Z14-3046
+  - Z15-4033
+  - Z14-4040
+  - Z14-4046
   slug: srinivasan-janarthanam
   venues:
   - - SEMDIAL
@@ -1998,28 +1998,26 @@ ssu-cheng-chen:
   venues: []
 staffan-larsson:
   coauthors:
-  - - christine-howes
-    - 3
   - - simon-dobnik
     - 1
   - - sebastian-berlin
     - 1
   - - jenny-myrendal
     - 1
+  - - christine-howes
+    - 1
   first: Staffan
   full: Staffan Larsson
   last: Larsson
   papers:
-  - Z17-2009
+  - Z17-3009
   - Z15-1000
-  - Z15-2000
-  - Z15-3000
-  - Z15-3037
-  - Z14-3037
+  - Z15-4037
+  - Z14-4037
   slug: staffan-larsson
   venues:
   - - SEMDIAL
-    - 6
+    - 4
 stan-c-kwasny:
   coauthors: []
   first: Stan C.
@@ -2126,11 +2124,11 @@ stefan-kopp:
   full: Stefan Kopp
   last: Kopp
   papers:
-  - Z15-2013
-  - Z15-3026
-  - Z15-3045
-  - Z14-2006
-  - Z14-3023
+  - Z15-3013
+  - Z15-4026
+  - Z15-4045
+  - Z14-3006
+  - Z14-4023
   slug: stefan-kopp
   venues:
   - - SEMDIAL
@@ -2165,7 +2163,7 @@ stefan-radomski:
   full: Stefan Radomski
   last: Radomski
   papers:
-  - Z17-3028
+  - Z17-4028
   slug: stefan-radomski
   venues:
   - - SEMDIAL
@@ -2214,8 +2212,8 @@ stefan-ultes:
   full: Stefan Ultes
   last: Ultes
   papers:
-  - Z17-3024
-  - Z15-3043
+  - Z17-4024
+  - Z15-4043
   slug: stefan-ultes
   venues:
   - - SEMDIAL
@@ -2242,7 +2240,7 @@ stefania-racioppa:
   full: Stefania Racioppa
   last: Racioppa
   papers:
-  - Z14-2014
+  - Z14-3014
   slug: stefania-racioppa
   venues:
   - - SEMDIAL
@@ -2386,7 +2384,7 @@ stephen-c-levinson:
   full: Stephen C. Levinson
   last: Levinson
   papers:
-  - Z15-3032
+  - Z15-4032
   similar:
   - stephen-e-levinson
   slug: stephen-c-levinson
@@ -2438,7 +2436,7 @@ stephen-levinson:
   full: Stephen Levinson
   last: Levinson
   papers:
-  - Z15-3021
+  - Z15-4021
   slug: stephen-levinson
   venues:
   - - SEMDIAL
@@ -2469,7 +2467,7 @@ stergios-chatzikyriakidis:
   full: Stergios Chatzikyriakidis
   last: Chatzikyriakidis
   papers:
-  - Z15-3035
+  - Z15-4035
   slug: stergios-chatzikyriakidis
   venues:
   - - SEMDIAL
@@ -2490,8 +2488,8 @@ stergos-afantenos:
   full: Stergos Afantenos
   last: Afantenos
   papers:
-  - Z15-2014
-  - Z14-2019
+  - Z15-3014
+  - Z14-3019
   slug: stergos-afantenos
   venues:
   - - SEMDIAL
@@ -2564,7 +2562,7 @@ steve-young:
   full: Steve Young
   last: Young
   papers:
-  - Z14-3031
+  - Z14-4031
   slug: steve-young
   venues:
   - - SEMDIAL
@@ -2759,7 +2757,7 @@ sumiyo-nishiguchi:
   full: Sumiyo Nishiguchi
   last: Nishiguchi
   papers:
-  - Z15-3040
+  - Z15-4040
   slug: sumiyo-nishiguchi
   venues:
   - - SEMDIAL
@@ -2826,7 +2824,7 @@ sunhee-yae:
   full: Sunhee Yae
   last: Yae
   papers:
-  - Z17-3033
+  - Z17-4033
   slug: sunhee-yae
   venues:
   - - SEMDIAL
@@ -2975,7 +2973,7 @@ suzanne-renaudier:
   full: Suzanne Renaudier
   last: Renaudier
   papers:
-  - Z17-2006
+  - Z17-3006
   slug: suzanne-renaudier
   venues:
   - - SEMDIAL

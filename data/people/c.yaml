@@ -64,7 +64,7 @@ callum-main:
   full: Callum Main
   last: Main
   papers:
-  - Z14-3041
+  - Z14-4041
   slug: callum-main
   venues:
   - - SEMDIAL
@@ -303,7 +303,7 @@ carrara-nicolas:
   full: Carrara Nicolas
   last: Nicolas
   papers:
-  - Z17-2012
+  - Z17-3012
   slug: carrara-nicolas
   venues:
   - - SEMDIAL
@@ -326,12 +326,12 @@ casey-kennington:
   full: Casey Kennington
   last: Kennington
   papers:
-  - Z17-3022
-  - Z17-3023
-  - Z15-2010
-  - Z15-3036
-  - Z15-3039
-  - Z14-3035
+  - Z17-4022
+  - Z17-4023
+  - Z15-3010
+  - Z15-4036
+  - Z15-4039
+  - Z14-4035
   slug: casey-kennington
   venues:
   - - SEMDIAL
@@ -348,7 +348,7 @@ caspar-addyman:
   full: Caspar Addyman
   last: Addyman
   papers:
-  - Z14-3043
+  - Z14-4043
   slug: caspar-addyman
   venues:
   - - SEMDIAL
@@ -427,8 +427,8 @@ catherine-pelachaud:
   full: Catherine Pelachaud
   last: Pelachaud
   papers:
-  - Z15-2009
-  - Z14-3027
+  - Z15-3009
+  - Z14-4027
   slug: catherine-pelachaud
   venues:
   - - SEMDIAL
@@ -483,7 +483,7 @@ cedric-degremont:
   full: "C\xE9dric D\xE9gremont"
   last: "D\xE9gremont"
   papers:
-  - Z14-2021
+  - Z14-3021
   slug: cedric-degremont
   venues:
   - - SEMDIAL
@@ -548,8 +548,8 @@ cengiz-acarturk:
   full: Cengiz Acarturk
   last: Acarturk
   papers:
-  - Z14-2005
-  - Z14-3036
+  - Z14-3005
+  - Z14-4036
   slug: cengiz-acarturk
   venues:
   - - SEMDIAL
@@ -666,7 +666,7 @@ charles-ortiz:
   full: Charles Ortiz
   last: Ortiz
   papers:
-  - Z14-2018
+  - Z14-3018
   slug: charles-ortiz
   venues:
   - - SEMDIAL
@@ -895,7 +895,7 @@ chiara-gambi:
   full: Chiara Gambi
   last: Gambi
   papers:
-  - Z14-3038
+  - Z14-4038
   slug: chiara-gambi
   venues:
   - - SEMDIAL
@@ -912,7 +912,7 @@ chiara-mazzocconi:
   full: Chiara Mazzocconi
   last: Mazzocconi
   papers:
-  - Z14-3043
+  - Z14-4043
   slug: chiara-mazzocconi
   venues:
   - - SEMDIAL
@@ -1091,8 +1091,8 @@ chris-cummins:
   full: Chris Cummins
   last: Cummins
   papers:
-  - Z17-2010
-  - Z14-2008
+  - Z17-3010
+  - Z14-3008
   slug: chris-cummins
   venues:
   - - SEMDIAL
@@ -1281,7 +1281,7 @@ christian-stab:
   full: Christian Stab
   last: Stab
   papers:
-  - Z17-3029
+  - Z17-4029
   slug: christian-stab
   venues:
   - - SEMDIAL
@@ -1312,13 +1312,13 @@ christine-h-nakatani:
   venues: []
 christine-howes:
   coauthors:
-  - - staffan-larsson
-    - 3
   - - julian-hough
     - 1
   - - matthew-purver
     - 1
   - - rose-mccabe
+    - 1
+  - - staffan-larsson
     - 1
   - - simon-dobnik
     - 1
@@ -1331,15 +1331,13 @@ christine-howes:
   last: Howes
   papers:
   - Z15-1000
-  - Z15-2000
-  - Z15-2006
-  - Z15-3000
-  - Z15-3022
-  - Z14-2013
+  - Z15-3006
+  - Z15-4022
+  - Z14-3013
   slug: christine-howes
   venues:
   - - SEMDIAL
-    - 6
+    - 4
 christine-piatko:
   coauthors: []
   first: Christine
@@ -1396,7 +1394,7 @@ christophe-fouquere:
   full: "Christophe Fouquer\xE9"
   last: "Fouquer\xE9"
   papers:
-  - Z15-3029
+  - Z15-4029
   slug: christophe-fouquere
   venues:
   - - SEMDIAL
@@ -1485,8 +1483,8 @@ christopher-habel:
   full: Christopher Habel
   last: Habel
   papers:
-  - Z14-2005
-  - Z14-3036
+  - Z14-3005
+  - Z14-4036
   slug: christopher-habel
   venues:
   - - SEMDIAL
@@ -1573,7 +1571,7 @@ christos-koniaris:
   full: Christos Koniaris
   last: Koniaris
   papers:
-  - Z14-2009
+  - Z14-3009
   slug: christos-koniaris
   venues:
   - - SEMDIAL
@@ -1694,7 +1692,7 @@ claire-beyssade:
   full: Claire Beyssade
   last: Beyssade
   papers:
-  - Z15-2020
+  - Z15-3020
   slug: claire-beyssade
   venues:
   - - SEMDIAL
@@ -1753,7 +1751,7 @@ clara-pozzi:
   full: Clara Pozzi
   last: Pozzi
   papers:
-  - Z14-2014
+  - Z14-3014
   slug: clara-pozzi
   venues:
   - - SEMDIAL
@@ -1964,7 +1962,7 @@ cornelia-frank:
   full: Cornelia Frank
   last: Frank
   papers:
-  - Z14-3023
+  - Z14-4023
   slug: cornelia-frank
   venues:
   - - SEMDIAL

@@ -274,7 +274,7 @@ wenshuo-tang:
   full: Wenshuo Tang
   last: Tang
   papers:
-  - Z14-3050
+  - Z14-4050
   slug: wenshuo-tang
   venues:
   - - SEMDIAL
@@ -547,8 +547,8 @@ wolfgang-minker:
   full: Wolfgang Minker
   last: Minker
   papers:
-  - Z17-3024
-  - Z15-3043
+  - Z17-4024
+  - Z15-4043
   slug: wolfgang-minker
   venues:
   - - SEMDIAL

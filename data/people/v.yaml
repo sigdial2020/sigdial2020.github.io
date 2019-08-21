@@ -34,7 +34,7 @@ valentin-vogelmann:
   full: Valentin Vogelmann,
   last: Vogelmann,
   papers:
-  - Z17-2004
+  - Z17-3004
   slug: valentin-vogelmann
   venues:
   - - SEMDIAL
@@ -139,8 +139,6 @@ verena-rieser:
   coauthors:
   - - oliver-lemon
     - 4
-  - - philippe-muller
-    - 3
   - - nina-dethlefs
     - 2
   - - heriberto-cuayahuitl
@@ -151,6 +149,8 @@ verena-rieser:
     - 2
   - - zhuoran-wang
     - 2
+  - - philippe-muller
+    - 1
   - - marie-aude-aufaure
     - 1
   - - panos-alexopoulos
@@ -199,21 +199,19 @@ verena-rieser:
   full: Verena Rieser
   last: Rieser
   papers:
-  - Z17-3021
+  - Z17-4021
   - Z14-1000
-  - Z14-2000
-  - Z14-3000
-  - Z14-3024
-  - Z14-3031
-  - Z14-3041
-  - Z14-3045
-  - Z14-3046
-  - Z14-3050
-  - Z14-3052
+  - Z14-4024
+  - Z14-4031
+  - Z14-4041
+  - Z14-4045
+  - Z14-4046
+  - Z14-4050
+  - Z14-4052
   slug: verena-rieser
   venues:
   - - SEMDIAL
-    - 11
+    - 9
 verginica-barbu-mititelu:
   coauthors: []
   first: Verginica
@@ -254,7 +252,7 @@ veronika-timpe-laughlin:
   full: Veronika Timpe-Laughlin
   last: Timpe-Laughlin
   papers:
-  - Z17-2018
+  - Z17-3018
   slug: veronika-timpe-laughlin
   venues:
   - - SEMDIAL
@@ -443,8 +441,8 @@ vikram-ramanarayanan:
   full: Vikram Ramanarayanan
   last: Ramanarayanan
   papers:
-  - Z17-2018
-  - Z17-3028
+  - Z17-3018
+  - Z17-4028
   slug: vikram-ramanarayanan
   venues:
   - - SEMDIAL
@@ -467,7 +465,7 @@ vikram-ramanaryanan:
   full: Vikram Ramanaryanan
   last: Ramanaryanan
   papers:
-  - Z17-3026
+  - Z17-4026
   slug: vikram-ramanaryanan
   venues:
   - - SEMDIAL
@@ -580,7 +578,7 @@ vivien-mast:
   full: Vivien Mast
   last: Mast
   papers:
-  - Z14-3042
+  - Z14-4042
   slug: vivien-mast
   venues:
   - - SEMDIAL
@@ -635,12 +633,12 @@ vojtech-kovar:
   venues: []
 volha-petukhova:
   coauthors:
-  - - ye-tian
-    - 3
   - - harry-bunt
     - 2
   - - andrei-malchanau
     - 2
+  - - ye-tian
+    - 1
   - - ramkumar-aruchamy
     - 1
   first: Volha
@@ -648,14 +646,12 @@ volha-petukhova:
   last: Petukhova
   papers:
   - Z17-1000
-  - Z17-2000
-  - Z17-2015
-  - Z17-3000
-  - Z15-3041
+  - Z17-3015
+  - Z15-4041
   slug: volha-petukhova
   venues:
   - - SEMDIAL
-    - 5
+    - 3
 von-wun-soo:
   coauthors: []
   first: Von-Wun

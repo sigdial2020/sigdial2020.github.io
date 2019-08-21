@@ -1,8 +1,577 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns="http://www.loc.gov/mods/v3">
-<mods ID="semdial-2017-semantics-pragmatics-dialogue">
+<mods ID="aina-etal-2017-referring">
     <titleInfo>
-        <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        <title>Referring Expressions and Communicative Success in Task-oriented Dialogues</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Laura</namePart>
+        <namePart type="family">Aina</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Natalia</namePart>
+        <namePart type="family">Philippova</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">,</namePart>
+        <namePart type="given">Valentin</namePart>
+        <namePart type="family">Vogelmann</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Raquel</namePart>
+        <namePart type="family">Fernández</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2017-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Saarbrücken, Geramny</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">aina-etal-2017-referring</identifier>
+    <location>
+        <url>https://bakuzen.github.io/anthology/Z17-Aina_semdial_0004.pdf</url>
+    </location>
+    <part>
+        <date>2017-aug</date>
+    </part>
+</mods>
+<mods ID="dobnik-astbom-2017-perceptual">
+    <titleInfo>
+        <title>(Perceptual) grounding as interaction</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Simon</namePart>
+        <namePart type="family">Dobnik</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Amelie</namePart>
+        <namePart type="family">Åstbom</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2017-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Saarbrücken, Geramny</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">dobnik-astbom-2017-perceptual</identifier>
+    <location>
+        <url>https://bakuzen.github.io/anthology/Z17-Dobnik_semdial_0005.pdf</url>
+    </location>
+    <part>
+        <date>2017-aug</date>
+    </part>
+</mods>
+<mods ID="ferre-renaudier-2017-unimodal">
+    <titleInfo>
+        <title>Unimodal and Bimodal Backchannels in Conversational English</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Gaelle</namePart>
+        <namePart type="family">Ferre</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Suzanne</namePart>
+        <namePart type="family">Renaudier</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2017-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Saarbrücken, Geramny</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">ferre-renaudier-2017-unimodal</identifier>
+    <location>
+        <url>https://bakuzen.github.io/anthology/Z17-Ferre_semdial_0006.pdf</url>
+    </location>
+    <part>
+        <date>2017-aug</date>
+    </part>
+</mods>
+<mods ID="kiss-2017-meta">
+    <titleInfo>
+        <title>Meta-conversational since when-questions and the common ground</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Angelika</namePart>
+        <namePart type="family">Kiss</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2017-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Saarbrücken, Geramny</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">kiss-2017-meta</identifier>
+    <location>
+        <url>https://bakuzen.github.io/anthology/Z17-Kiss_semdial_0007.pdf</url>
+    </location>
+    <part>
+        <date>2017-aug</date>
+    </part>
+</mods>
+<mods ID="kumar-etal-2017-multimodal">
+    <titleInfo>
+        <title>Multimodal Coreference Resolution for Exploratory Data Visualization Dialogue: Context-Based Annotation and Gesture Identification</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Abhinav</namePart>
+        <namePart type="family">Kumar</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jillian</namePart>
+        <namePart type="family">Aurisano</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Barbara</namePart>
+        <namePart type="given">Di</namePart>
+        <namePart type="family">Eugenio</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Andrew</namePart>
+        <namePart type="family">Johnson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Abeer</namePart>
+        <namePart type="family">Alsaiari</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Nigel</namePart>
+        <namePart type="family">Flowers</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Alberto</namePart>
+        <namePart type="family">Gonzalez</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jason</namePart>
+        <namePart type="family">Leigh</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2017-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Saarbrücken, Geramny</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">kumar-etal-2017-multimodal</identifier>
+    <location>
+        <url>https://bakuzen.github.io/anthology/Z17-Kumar_semdial_0008.pdf</url>
+    </location>
+    <part>
+        <date>2017-aug</date>
+    </part>
+</mods>
+<mods ID="larsson-myrendal-2017-dialogue">
+    <titleInfo>
+        <title>Dialogue Acts and Updates for Semantic Coordination</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Staffan</namePart>
+        <namePart type="family">Larsson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jenny</namePart>
+        <namePart type="family">Myrendal</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2017-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Saarbrücken, Geramny</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">larsson-myrendal-2017-dialogue</identifier>
+    <location>
+        <url>https://bakuzen.github.io/anthology/Z17-Larsson_semdial_0009.pdf</url>
+    </location>
+    <part>
+        <date>2017-aug</date>
+    </part>
+</mods>
+<mods ID="marzuki-etal-2017-resuscitation">
+    <titleInfo>
+        <title>Resuscitation procedures as multi-party dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Ernisa</namePart>
+        <namePart type="family">Marzuki</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Hannah</namePart>
+        <namePart type="family">Rohde</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Chris</namePart>
+        <namePart type="family">Cummins</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Gareth</namePart>
+        <namePart type="family">Clegg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Holly</namePart>
+        <namePart type="family">Branigan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2017-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Saarbrücken, Geramny</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">marzuki-etal-2017-resuscitation</identifier>
+    <location>
+        <url>https://bakuzen.github.io/anthology/Z17-Marzuki_semdial_0010.pdf</url>
+    </location>
+    <part>
+        <date>2017-aug</date>
+    </part>
+</mods>
+<mods ID="misra-etal-2017-special">
+    <titleInfo>
+        <title>Special Session - Summarizing Dialogic Arguments from Social Media</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Amita</namePart>
+        <namePart type="family">Misra</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Shereen</namePart>
+        <namePart type="family">Oraby</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Shubhangi</namePart>
+        <namePart type="family">Tandon</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sharath</namePart>
+        <namePart type="family">Ts</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Pranav</namePart>
+        <namePart type="family">Anand</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Marilyn</namePart>
+        <namePart type="family">Walker</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2017-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Saarbrücken, Geramny</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">misra-etal-2017-special</identifier>
+    <location>
+        <url>https://bakuzen.github.io/anthology/Z17-Misra_semdial_0011.pdf</url>
+    </location>
+    <part>
+        <date>2017-aug</date>
+    </part>
+</mods>
+<mods ID="nicolas-etal-2017-special">
+    <titleInfo>
+        <title>Special Session - Online learning and transfer for user adaptation in dialogue systems</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Carrara</namePart>
+        <namePart type="family">Nicolas</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Romain</namePart>
+        <namePart type="family">Laroche</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Olivier</namePart>
+        <namePart type="family">Pietquin</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2017-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Saarbrücken, Geramny</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">nicolas-etal-2017-special</identifier>
+    <location>
+        <url>https://bakuzen.github.io/anthology/Z17-Nicolas_semdial_0012.pdf</url>
+    </location>
+    <part>
+        <date>2017-aug</date>
+    </part>
+</mods>
+<mods ID="osa-2017-negotiation">
+    <titleInfo>
+        <title>Negotiation of discourse moves: right periphery tags</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Adriana</namePart>
+        <namePart type="family">Osa</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2017-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Saarbrücken, Geramny</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">osa-2017-negotiation</identifier>
+    <location>
+        <url>https://bakuzen.github.io/anthology/Z17-Osa_semdial_0013.pdf</url>
+    </location>
+    <part>
+        <date>2017-aug</date>
+    </part>
+</mods>
+<mods ID="papalampidi-etal-2017-dialogue">
+    <titleInfo>
+        <title>Dialogue Act Semantic Representation and Classification Using Recurrent Neural Networks</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Pinelopi</namePart>
+        <namePart type="family">Papalampidi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Elias</namePart>
+        <namePart type="family">Iosif</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Alexandros</namePart>
+        <namePart type="family">Potamianos</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2017-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Saarbrücken, Geramny</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">papalampidi-etal-2017-dialogue</identifier>
+    <location>
+        <url>https://bakuzen.github.io/anthology/Z17-Papalampidi_semdial_0014.pdf</url>
+    </location>
+    <part>
+        <date>2017-aug</date>
+    </part>
+</mods>
+<mods ID="petukhova-etal-2017-computing">
+    <titleInfo>
+        <title>Computing Negotiation Update Semantics in Multi-issue Bargaining Dialogues</title>
     </titleInfo>
     <name type="personal">
         <namePart type="given">Volha</namePart>
@@ -12,111 +581,15 @@
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">Ye</namePart>
-        <namePart type="family">Tian</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <originInfo>
-        <dateIssued>2017-aug</dateIssued>
-        <publisher>SEMDIAL</publisher>
-        <place>
-            <placeTerm type="text">Saarbrücken, Geramny</placeTerm>
-        </place>
-    </originInfo>
-    <typeOfResource>text</typeOfResource>
-    <genre authority="marcgt">conference publication</genre>
-    <identifier type="citekey">semdial-2017-semantics-pragmatics-dialogue</identifier>
-    <location>
-        <url>https://bakuzen.github.io/anthology/semdial2017_saardial_proceedings.pdf</url>
-    </location>
-</mods>
-<mods ID="higashinaka-etal-2017-argumentative">
-    <titleInfo>
-        <title>Argumentative dialogue system based on argumentation structures</title>
-    </titleInfo>
-    <name type="personal">
-        <namePart type="given">Ryuichiro</namePart>
-        <namePart type="family">Higashinaka</namePart>
+        <namePart type="given">Harry</namePart>
+        <namePart type="family">Bunt</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">Kazuki</namePart>
-        <namePart type="family">Sakai</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Hiroaki</namePart>
-        <namePart type="family">Sugiyama</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Hiromi</namePart>
-        <namePart type="family">Narimatsu</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Tsunehiro</namePart>
-        <namePart type="family">Arimoto</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Takaaki</namePart>
-        <namePart type="given">Fukutomi,Kiyoaki</namePart>
-        <namePart type="family">Matsui</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Yusuke</namePart>
-        <namePart type="family">Ijima</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Hiroaki</namePart>
-        <namePart type="family">Ito</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Shoko</namePart>
-        <namePart type="family">Araki</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Yuichiro</namePart>
-        <namePart type="family">Yoshikawa</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Hiroshi</namePart>
-        <namePart type="family">Ishiguro</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Yoshihiro</namePart>
-        <namePart type="family">Matsuo</namePart>
+        <namePart type="given">Andrei</namePart>
+        <namePart type="family">Malchanau</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
@@ -127,7 +600,7 @@
     <typeOfResource>text</typeOfResource>
     <relatedItem type="host">
         <titleInfo>
-            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
         </titleInfo>
         <originInfo>
             <publisher>SEMDIAL</publisher>
@@ -137,49 +610,35 @@
         </originInfo>
         <genre authority="marcgt">conference publication</genre>
     </relatedItem>
-    <identifier type="citekey">higashinaka-etal-2017-argumentative</identifier>
+    <identifier type="citekey">petukhova-etal-2017-computing</identifier>
     <location>
-        <url>https://bakuzen.github.io/anthology/Z17-Higashinaka_semdial_0019.pdf</url>
+        <url>https://bakuzen.github.io/anthology/Z17-Petukhova_semdial_0015.pdf</url>
     </location>
     <part>
         <date>2017-aug</date>
     </part>
 </mods>
-<mods ID="katagiri-etal-2017-concern">
+<mods ID="shalyminov-etal-2017-challenging">
     <titleInfo>
-        <title>Concern-Alignment for Negotiation and Joint Inquiry in Dialogues</title>
+        <title>Challenging Neural Dialogue Models with Natural Data: Memory Networks Fail on Incremental Phenomena</title>
     </titleInfo>
     <name type="personal">
-        <namePart type="given">Yasuhiro</namePart>
-        <namePart type="family">Katagiri</namePart>
+        <namePart type="given">Igor</namePart>
+        <namePart type="family">Shalyminov</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">Katsuya</namePart>
-        <namePart type="family">Takanashi</namePart>
+        <namePart type="given">Arash</namePart>
+        <namePart type="family">Eshghi</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">Masato</namePart>
-        <namePart type="family">Ishizaki</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Mika</namePart>
-        <namePart type="family">Enomoto</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Yasuharu</namePart>
-        <namePart type="family">Den</namePart>
+        <namePart type="given">Oliver</namePart>
+        <namePart type="family">Lemon</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
@@ -190,7 +649,7 @@
     <typeOfResource>text</typeOfResource>
     <relatedItem type="host">
         <titleInfo>
-            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
         </titleInfo>
         <originInfo>
             <publisher>SEMDIAL</publisher>
@@ -200,28 +659,35 @@
         </originInfo>
         <genre authority="marcgt">conference publication</genre>
     </relatedItem>
-    <identifier type="citekey">katagiri-etal-2017-concern</identifier>
+    <identifier type="citekey">shalyminov-etal-2017-challenging</identifier>
     <location>
-        <url>https://bakuzen.github.io/anthology/Z17-Katagiri_semdial_0020.pdf</url>
+        <url>https://bakuzen.github.io/anthology/Z17-Shalyminov_semdial_0016.pdf</url>
     </location>
     <part>
         <date>2017-aug</date>
     </part>
 </mods>
-<mods ID="keizer-rieser-2017-towards">
+<mods ID="sinclair-etal-2017-finding">
     <titleInfo>
-        <title>Towards Learning Transferable Conversational Skills using Multi-dimensional Dialogue Modelling</title>
+        <title>Finding the Zone of Proximal Development: Student-Tutor Second Language Dialogue Interactions</title>
     </titleInfo>
     <name type="personal">
-        <namePart type="given">Simon</namePart>
-        <namePart type="family">Keizer</namePart>
+        <namePart type="given">Arabella</namePart>
+        <namePart type="family">Sinclair</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">Verena</namePart>
-        <namePart type="family">Rieser</namePart>
+        <namePart type="given">Jon</namePart>
+        <namePart type="family">Oberlander</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Dragan</namePart>
+        <namePart type="family">Gasevic</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
@@ -232,7 +698,7 @@
     <typeOfResource>text</typeOfResource>
     <relatedItem type="host">
         <titleInfo>
-            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
         </titleInfo>
         <originInfo>
             <publisher>SEMDIAL</publisher>
@@ -242,238 +708,21 @@
         </originInfo>
         <genre authority="marcgt">conference publication</genre>
     </relatedItem>
-    <identifier type="citekey">keizer-rieser-2017-towards</identifier>
+    <identifier type="citekey">sinclair-etal-2017-finding</identifier>
     <location>
-        <url>https://bakuzen.github.io/anthology/Z17-Keizer_semdial_0021.pdf</url>
+        <url>https://bakuzen.github.io/anthology/Z17-Sinclair_semdial_0017.pdf</url>
     </location>
     <part>
         <date>2017-aug</date>
     </part>
 </mods>
-<mods ID="kondratyuk-kennington-2017-towards">
+<mods ID="timpe-laughlin-etal-2017-designing">
     <titleInfo>
-        <title>Towards a Dialogue System with Long-term, Episodic Memory</title>
+        <title>Designing interactive, automated dialogues for L2 pragmatics learning</title>
     </titleInfo>
     <name type="personal">
-        <namePart type="given">Daniel</namePart>
-        <namePart type="family">Kondratyuk</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Casey</namePart>
-        <namePart type="family">Kennington</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <originInfo>
-        <dateIssued>2017-aug</dateIssued>
-    </originInfo>
-    <typeOfResource>text</typeOfResource>
-    <relatedItem type="host">
-        <titleInfo>
-            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
-        </titleInfo>
-        <originInfo>
-            <publisher>SEMDIAL</publisher>
-            <place>
-                <placeTerm type="text">Saarbrücken, Geramny</placeTerm>
-            </place>
-        </originInfo>
-        <genre authority="marcgt">conference publication</genre>
-    </relatedItem>
-    <identifier type="citekey">kondratyuk-kennington-2017-towards</identifier>
-    <location>
-        <url>https://bakuzen.github.io/anthology/Z17-Kondratyuk_semdial_0022.pdf</url>
-    </location>
-    <part>
-        <date>2017-aug</date>
-    </part>
-</mods>
-<mods ID="lison-kennington-2017-incremental">
-    <titleInfo>
-        <title>Incremental Processing for Neural Conversation Models</title>
-    </titleInfo>
-    <name type="personal">
-        <namePart type="given">Pierre</namePart>
-        <namePart type="family">Lison</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Casey</namePart>
-        <namePart type="family">Kennington</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <originInfo>
-        <dateIssued>2017-aug</dateIssued>
-    </originInfo>
-    <typeOfResource>text</typeOfResource>
-    <relatedItem type="host">
-        <titleInfo>
-            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
-        </titleInfo>
-        <originInfo>
-            <publisher>SEMDIAL</publisher>
-            <place>
-                <placeTerm type="text">Saarbrücken, Geramny</placeTerm>
-            </place>
-        </originInfo>
-        <genre authority="marcgt">conference publication</genre>
-    </relatedItem>
-    <identifier type="citekey">lison-kennington-2017-incremental</identifier>
-    <location>
-        <url>https://bakuzen.github.io/anthology/Z17-Lison_semdial_0023.pdf</url>
-    </location>
-    <part>
-        <date>2017-aug</date>
-    </part>
-</mods>
-<mods ID="miehle-etal-2017-intelligent">
-    <titleInfo>
-        <title>An Intelligent Digital Assistant for Clinical Operating Rooms</title>
-    </titleInfo>
-    <name type="personal">
-        <namePart type="given">Juliana</namePart>
-        <namePart type="family">Miehle</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Nadine</namePart>
-        <namePart type="family">Gerstenlauer</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Daniel</namePart>
-        <namePart type="family">Ostler</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Hubertus</namePart>
-        <namePart type="family">Feussner</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Wolfgang</namePart>
-        <namePart type="family">Minker</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Stefan</namePart>
-        <namePart type="family">Ultes</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <originInfo>
-        <dateIssued>2017-aug</dateIssued>
-    </originInfo>
-    <typeOfResource>text</typeOfResource>
-    <relatedItem type="host">
-        <titleInfo>
-            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
-        </titleInfo>
-        <originInfo>
-            <publisher>SEMDIAL</publisher>
-            <place>
-                <placeTerm type="text">Saarbrücken, Geramny</placeTerm>
-            </place>
-        </originInfo>
-        <genre authority="marcgt">conference publication</genre>
-    </relatedItem>
-    <identifier type="citekey">miehle-etal-2017-intelligent</identifier>
-    <location>
-        <url>https://bakuzen.github.io/anthology/Z17-Miehle_semdial_0024.pdf</url>
-    </location>
-    <part>
-        <date>2017-aug</date>
-    </part>
-</mods>
-<mods ID="morishita-harada-2017-syntactic">
-    <titleInfo>
-        <title>Syntactic Priming by Japanese EFL Learners in Dialogue Contexts based on Different Task Types</title>
-    </titleInfo>
-    <name type="personal">
-        <namePart type="given">Miwa</namePart>
-        <namePart type="family">Morishita</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Yasunari</namePart>
-        <namePart type="family">Harada</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <originInfo>
-        <dateIssued>2017-aug</dateIssued>
-    </originInfo>
-    <typeOfResource>text</typeOfResource>
-    <relatedItem type="host">
-        <titleInfo>
-            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
-        </titleInfo>
-        <originInfo>
-            <publisher>SEMDIAL</publisher>
-            <place>
-                <placeTerm type="text">Saarbrücken, Geramny</placeTerm>
-            </place>
-        </originInfo>
-        <genre authority="marcgt">conference publication</genre>
-    </relatedItem>
-    <identifier type="citekey">morishita-harada-2017-syntactic</identifier>
-    <location>
-        <url>https://bakuzen.github.io/anthology/Z17-Morishita_semdial_0025.pdf</url>
-    </location>
-    <part>
-        <date>2017-aug</date>
-    </part>
-</mods>
-<mods ID="qian-etal-2017-towards">
-    <titleInfo>
-        <title>Towards End-to-End Modeling of Spoken Language Understanding in a Cloud-based Spoken Dialog System</title>
-    </titleInfo>
-    <name type="personal">
-        <namePart type="given">Yao</namePart>
-        <namePart type="family">Qian</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Rutuja</namePart>
-        <namePart type="family">Ubale</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Vikram</namePart>
-        <namePart type="family">Ramanaryanan</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">David</namePart>
-        <namePart type="family">Suendermann-Oeft</namePart>
+        <namePart type="given">Veronika</namePart>
+        <namePart type="family">Timpe-Laughlin</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
@@ -486,92 +735,22 @@
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">Patrick</namePart>
-        <namePart type="family">Lange</namePart>
+        <namePart type="given">Ashley</namePart>
+        <namePart type="family">Green</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">Eugene</namePart>
-        <namePart type="family">Tsuprun</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <originInfo>
-        <dateIssued>2017-aug</dateIssued>
-    </originInfo>
-    <typeOfResource>text</typeOfResource>
-    <relatedItem type="host">
-        <titleInfo>
-            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
-        </titleInfo>
-        <originInfo>
-            <publisher>SEMDIAL</publisher>
-            <place>
-                <placeTerm type="text">Saarbrücken, Geramny</placeTerm>
-            </place>
-        </originInfo>
-        <genre authority="marcgt">conference publication</genre>
-    </relatedItem>
-    <identifier type="citekey">qian-etal-2017-towards</identifier>
-    <location>
-        <url>https://bakuzen.github.io/anthology/Z17-Qian_semdial_0026.pdf</url>
-    </location>
-    <part>
-        <date>2017-aug</date>
-    </part>
-</mods>
-<mods ID="raveh-steiner-2017-phonetic">
-    <titleInfo>
-        <title>A Phonetic Adaptation Module for Spoken Dialogue Systems</title>
-    </titleInfo>
-    <name type="personal">
-        <namePart type="given">Eran</namePart>
-        <namePart type="family">Raveh</namePart>
+        <namePart type="given">Ian</namePart>
+        <namePart type="family">Blood</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">Ingmar</namePart>
-        <namePart type="family">Steiner</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <originInfo>
-        <dateIssued>2017-aug</dateIssued>
-    </originInfo>
-    <typeOfResource>text</typeOfResource>
-    <relatedItem type="host">
-        <titleInfo>
-            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
-        </titleInfo>
-        <originInfo>
-            <publisher>SEMDIAL</publisher>
-            <place>
-                <placeTerm type="text">Saarbrücken, Geramny</placeTerm>
-            </place>
-        </originInfo>
-        <genre authority="marcgt">conference publication</genre>
-    </relatedItem>
-    <identifier type="citekey">raveh-steiner-2017-phonetic</identifier>
-    <location>
-        <url>https://bakuzen.github.io/anthology/Z17-Raveh_semdial_0027.pdf</url>
-    </location>
-    <part>
-        <date>2017-aug</date>
-    </part>
-</mods>
-<mods ID="schnelle-walka-etal-2017-open">
-    <titleInfo>
-        <title>An Open Source Standards-Compliant Voice Browser with Support for Multiple Language Understanding Implementations</title>
-    </titleInfo>
-    <name type="personal">
-        <namePart type="given">Dirk</namePart>
-        <namePart type="family">Schnelle-Walka</namePart>
+        <namePart type="given">Judit</namePart>
+        <namePart type="family">Dombi</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
@@ -583,34 +762,13 @@
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
-    <name type="personal">
-        <namePart type="given">Stefan</namePart>
-        <namePart type="family">Radomski</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Patrick</namePart>
-        <namePart type="family">Lange</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">David</namePart>
-        <namePart type="family">Suendermann-Oeft</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
     <originInfo>
         <dateIssued>2017-aug</dateIssued>
     </originInfo>
     <typeOfResource>text</typeOfResource>
     <relatedItem type="host">
         <titleInfo>
-            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
         </titleInfo>
         <originInfo>
             <publisher>SEMDIAL</publisher>
@@ -620,237 +778,9 @@
         </originInfo>
         <genre authority="marcgt">conference publication</genre>
     </relatedItem>
-    <identifier type="citekey">schnelle-walka-etal-2017-open</identifier>
+    <identifier type="citekey">timpe-laughlin-etal-2017-designing</identifier>
     <location>
-        <url>https://bakuzen.github.io/anthology/Z17-Schnelle-Walka_semdial_0028.pdf</url>
-    </location>
-    <part>
-        <date>2017-aug</date>
-    </part>
-</mods>
-<mods ID="stab-gurevych-2017-training">
-    <titleInfo>
-        <title>Training Argumentation Skills with Argumentative Writing Support</title>
-    </titleInfo>
-    <name type="personal">
-        <namePart type="given">Christian</namePart>
-        <namePart type="family">Stab</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Iryna</namePart>
-        <namePart type="family">Gurevych</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <originInfo>
-        <dateIssued>2017-aug</dateIssued>
-    </originInfo>
-    <typeOfResource>text</typeOfResource>
-    <relatedItem type="host">
-        <titleInfo>
-            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
-        </titleInfo>
-        <originInfo>
-            <publisher>SEMDIAL</publisher>
-            <place>
-                <placeTerm type="text">Saarbrücken, Geramny</placeTerm>
-            </place>
-        </originInfo>
-        <genre authority="marcgt">conference publication</genre>
-    </relatedItem>
-    <identifier type="citekey">stab-gurevych-2017-training</identifier>
-    <location>
-        <url>https://bakuzen.github.io/anthology/Z17-Stab_semdial_0029.pdf</url>
-    </location>
-    <part>
-        <date>2017-aug</date>
-    </part>
-</mods>
-<mods ID="trinh-etal-2017-incremental">
-    <titleInfo>
-        <title>Incremental Joint Modelling for Dialogue State Tracking</title>
-    </titleInfo>
-    <name type="personal">
-        <namePart type="given">Anh</namePart>
-        <namePart type="given">Duong</namePart>
-        <namePart type="family">Trinh</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Robert</namePart>
-        <namePart type="given">J</namePart>
-        <namePart type="family">Ross</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">John</namePart>
-        <namePart type="given">D</namePart>
-        <namePart type="family">Kelleher</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <originInfo>
-        <dateIssued>2017-aug</dateIssued>
-    </originInfo>
-    <typeOfResource>text</typeOfResource>
-    <relatedItem type="host">
-        <titleInfo>
-            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
-        </titleInfo>
-        <originInfo>
-            <publisher>SEMDIAL</publisher>
-            <place>
-                <placeTerm type="text">Saarbrücken, Geramny</placeTerm>
-            </place>
-        </originInfo>
-        <genre authority="marcgt">conference publication</genre>
-    </relatedItem>
-    <identifier type="citekey">trinh-etal-2017-incremental</identifier>
-    <location>
-        <url>https://bakuzen.github.io/anthology/Z17-Trinh_semdial_0030.pdf</url>
-    </location>
-    <part>
-        <date>2017-aug</date>
-    </part>
-</mods>
-<mods ID="umata-etal-2017-factor">
-    <titleInfo>
-        <title>Factor Analysis of Gazing Activities in Native and Second Language Conversations</title>
-    </titleInfo>
-    <name type="personal">
-        <namePart type="given">Ichiro</namePart>
-        <namePart type="family">Umata</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Koki</namePart>
-        <namePart type="family">Ijuin</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Seiichi</namePart>
-        <namePart type="family">Yamamoto</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <originInfo>
-        <dateIssued>2017-aug</dateIssued>
-    </originInfo>
-    <typeOfResource>text</typeOfResource>
-    <relatedItem type="host">
-        <titleInfo>
-            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
-        </titleInfo>
-        <originInfo>
-            <publisher>SEMDIAL</publisher>
-            <place>
-                <placeTerm type="text">Saarbrücken, Geramny</placeTerm>
-            </place>
-        </originInfo>
-        <genre authority="marcgt">conference publication</genre>
-    </relatedItem>
-    <identifier type="citekey">umata-etal-2017-factor</identifier>
-    <location>
-        <url>https://bakuzen.github.io/anthology/Z17-Umata_semdial_0031.pdf</url>
-    </location>
-    <part>
-        <date>2017-aug</date>
-    </part>
-</mods>
-<mods ID="valentino-etal-2017-towards">
-    <titleInfo>
-        <title>Towards a Natural User Interface for Small Groups in Real Museum Environments</title>
-    </titleInfo>
-    <name type="personal">
-        <namePart type="given">Marco</namePart>
-        <namePart type="family">Valentino</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Maria</namePart>
-        <namePart type="given">Di</namePart>
-        <namePart type="family">Maro</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart type="given">Franco</namePart>
-        <namePart type="family">Cutugno</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <originInfo>
-        <dateIssued>2017-aug</dateIssued>
-    </originInfo>
-    <typeOfResource>text</typeOfResource>
-    <relatedItem type="host">
-        <titleInfo>
-            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
-        </titleInfo>
-        <originInfo>
-            <publisher>SEMDIAL</publisher>
-            <place>
-                <placeTerm type="text">Saarbrücken, Geramny</placeTerm>
-            </place>
-        </originInfo>
-        <genre authority="marcgt">conference publication</genre>
-    </relatedItem>
-    <identifier type="citekey">valentino-etal-2017-towards</identifier>
-    <location>
-        <url>https://bakuzen.github.io/anthology/Z17-Valentino_semdial_0032.pdf</url>
-    </location>
-    <part>
-        <date>2017-aug</date>
-    </part>
-</mods>
-<mods ID="yae-2017-transferentive">
-    <titleInfo>
-        <title>A Transferentive Connective Marker -etaka in Korean: perspectives of grammaticalilzation and pragmatics</title>
-    </titleInfo>
-    <name type="personal">
-        <namePart type="given">Sunhee</namePart>
-        <namePart type="family">Yae</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <originInfo>
-        <dateIssued>2017-aug</dateIssued>
-    </originInfo>
-    <typeOfResource>text</typeOfResource>
-    <relatedItem type="host">
-        <titleInfo>
-            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
-        </titleInfo>
-        <originInfo>
-            <publisher>SEMDIAL</publisher>
-            <place>
-                <placeTerm type="text">Saarbrücken, Geramny</placeTerm>
-            </place>
-        </originInfo>
-        <genre authority="marcgt">conference publication</genre>
-    </relatedItem>
-    <identifier type="citekey">yae-2017-transferentive</identifier>
-    <location>
-        <url>https://bakuzen.github.io/anthology/Z17-Yae_semdial_0033.pdf</url>
+        <url>https://bakuzen.github.io/anthology/Z17-Timpe-Laughlin_semdial_0018.pdf</url>
     </location>
     <part>
         <date>2017-aug</date>
