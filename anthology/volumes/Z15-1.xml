@@ -2,7 +2,7 @@
 <modsCollection xmlns="http://www.loc.gov/mods/v3">
 <mods ID="semdial-2015-semantics">
     <titleInfo>
-        <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue</title>
+        <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Front Matter</title>
     </titleInfo>
     <name type="personal">
         <namePart type="given">Christine</namePart>
@@ -29,7 +29,7 @@
     <genre authority="marcgt">conference publication</genre>
     <identifier type="citekey">semdial-2015-semantics</identifier>
     <location>
-        <url>https://bakuzen.github.io/anthology/semdial2015_godial_proceedings.pdf</url>
+        <url>https://bakuzen.github.io/anthology/semdial2015_godial_front_matter.pdf</url>
     </location>
 </mods>
 </modsCollection>

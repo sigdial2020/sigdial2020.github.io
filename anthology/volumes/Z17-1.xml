@@ -2,7 +2,7 @@
 <modsCollection xmlns="http://www.loc.gov/mods/v3">
 <mods ID="semdial-2017-semantics">
     <titleInfo>
-        <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue</title>
+        <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Front Matter</title>
     </titleInfo>
     <name type="personal">
         <namePart type="given">Volha</namePart>
@@ -29,7 +29,7 @@
     <genre authority="marcgt">conference publication</genre>
     <identifier type="citekey">semdial-2017-semantics</identifier>
     <location>
-        <url>https://bakuzen.github.io/anthology/semdial2017_saardial_proceedings.pdf</url>
+        <url>https://bakuzen.github.io/anthology/semdial2017_saardial_front_matter.pdf</url>
     </location>
 </mods>
 </modsCollection>
