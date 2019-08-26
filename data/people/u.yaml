@@ -78,6 +78,19 @@ uri-zernik:
   papers: []
   slug: uri-zernik
   venues: []
+ute-ehrlich:
+  coauthors:
+  - - jakob-landesberger
+    - 1
+  first: Ute
+  full: Ute Ehrlich
+  last: Ehrlich
+  papers:
+  - Z18-4032
+  slug: ute-ehrlich
+  venues:
+  - - SEMDIAL
+    - 1
 ute-ziegenhain:
   coauthors: []
   first: Ute

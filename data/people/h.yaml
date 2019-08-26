@@ -437,6 +437,21 @@ harsh-vardhan-sharma:
   papers: []
   slug: harsh-vardhan-sharma
   venues: []
+harshawardhan-madhukar-wabgaonkar:
+  coauthors:
+  - - poulami-debnath
+    - 1
+  - - shubhashis-sengupta
+    - 1
+  first: Harshawardhan Madhukar
+  full: Harshawardhan Madhukar Wabgaonkar
+  last: Wabgaonkar
+  papers:
+  - Z18-3006
+  slug: harshawardhan-madhukar-wabgaonkar
+  venues:
+  - - SEMDIAL
+    - 1
 hassan-s-shavarani:
   coauthors: []
   first: Hassan S.
@@ -733,6 +748,25 @@ hendrik-buschmeier:
   papers:
   - Z14-3006
   slug: hendrik-buschmeier
+  venues:
+  - - SEMDIAL
+    - 1
+hendrik-harkema:
+  coauthors:
+  - - jiaying-shen
+    - 1
+  - - richard-crouch
+    - 1
+  - - peng-yu
+    - 1
+  - - ciaran-oreilly
+    - 1
+  first: Hendrik
+  full: Hendrik Harkema
+  last: Harkema
+  papers:
+  - Z18-3009
+  slug: hendrik-harkema
   venues:
   - - SEMDIAL
     - 1
@@ -1766,3 +1800,22 @@ hyung-bae-jeon:
   papers: []
   slug: hyung-bae-jeon
   venues: []
+hyungtak-choi:
+  coauthors:
+  - - carla-gordon
+    - 1
+  - - kallirroi-georgila
+    - 1
+  - - jill-boberg
+    - 1
+  - - david-traum
+    - 1
+  first: Hyungtak
+  full: Hyungtak Choi
+  last: Choi
+  papers:
+  - Z18-3010
+  slug: hyungtak-choi
+  venues:
+  - - SEMDIAL
+    - 1

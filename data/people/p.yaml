@@ -228,6 +228,23 @@ patricia-goncalves:
   papers: []
   slug: patricia-goncalves
   venues: []
+patricia-kittel:
+  coauthors:
+  - - wolfgang-maier
+    - 1
+  - - maria-schmidt
+    - 1
+  - - wolfgang-minker
+    - 1
+  first: Patricia
+  full: Patricia Kittel
+  last: Kittel
+  papers:
+  - Z18-3020
+  slug: patricia-kittel
+  venues:
+  - - SEMDIAL
+    - 1
 patricia-robinson:
   coauthors: []
   first: Patricia
@@ -270,24 +287,33 @@ patrick-caudal:
   venues: []
 patrick-healey:
   coauthors:
+  - - matthew-purver
+    - 3
   - - shauna-concannon
     - 2
-  - - matthew-purver
-    - 2
+  - - tom-gurion
+    - 1
+  - - julian-hough
+    - 1
   first: Patrick
   full: Patrick Healey
   last: Healey
   papers:
+  - Z18-4027
+  - Z18-4029
   - Z15-3004
   - Z15-3005
   slug: patrick-healey
   variant_entries:
+  - first: Patrick G.T.
+    full: Patrick G.T. Healey
+    last: Healey
   - first: Pat
     full: Pat Healey
     last: Healey
   venues:
   - - SEMDIAL
-    - 2
+    - 4
 patrick-l-lange:
   coauthors:
   - - david-suendermann-oeft
@@ -585,6 +611,25 @@ penelope-sibun:
   papers: []
   slug: penelope-sibun
   venues: []
+peng-yu:
+  coauthors:
+  - - jiaying-shen
+    - 1
+  - - hendrik-harkema
+    - 1
+  - - richard-crouch
+    - 1
+  - - ciaran-oreilly
+    - 1
+  first: Peng
+  full: Peng Yu
+  last: Yu
+  papers:
+  - Z18-3009
+  slug: peng-yu
+  venues:
+  - - SEMDIAL
+    - 1
 pengyuan-liu:
   coauthors: []
   first: Pengyuan
@@ -1046,13 +1091,20 @@ philipp-cimiano:
   slug: philipp-cimiano
   venues: []
 philippe-blache:
-  coauthors: []
+  coauthors:
+  - - magalie-ochs
+    - 1
+  - - gregoire-montcheuil
+    - 1
   first: Philippe
   full: Philippe Blache
   last: Blache
-  papers: []
+  papers:
+  - Z18-4035
   slug: philippe-blache
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 philippe-boula-de-mareuil:
   coauthors: []
   first: Philippe
@@ -1339,6 +1391,21 @@ poul-soren-kjaersgaard:
   papers: []
   slug: poul-soren-kjaersgaard
   venues: []
+poulami-debnath:
+  coauthors:
+  - - shubhashis-sengupta
+    - 1
+  - - harshawardhan-madhukar-wabgaonkar
+    - 1
+  first: Poulami
+  full: Poulami Debnath
+  last: Debnath
+  papers:
+  - Z18-3006
+  slug: poulami-debnath
+  venues:
+  - - SEMDIAL
+    - 1
 pradeep-muthukrishnan:
   coauthors: []
   first: Pradeep

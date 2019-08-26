@@ -150,6 +150,35 @@ raghu-pujitha-gade:
   papers: []
   slug: raghu-pujitha-gade
   venues: []
+raja-lala:
+  coauthors:
+  - - johan-jeuring
+    - 1
+  - - rick-heemskerk
+    - 1
+  - - marcell-van-geest
+    - 1
+  - - jordy-van-dortmont
+    - 1
+  - - gabriel-gutu-robu
+    - 1
+  - - stefan-ruseti
+    - 1
+  - - mihai-dascalu
+    - 1
+  - - beatrice-alex
+    - 1
+  - - richard-tobin
+    - 1
+  first: Raja
+  full: Raja Lala
+  last: Lala
+  papers:
+  - Z18-4031
+  slug: raja-lala
+  venues:
+  - - SEMDIAL
+    - 1
 rajakrishnan-rajkumar:
   coauthors: []
   first: Rajakrishnan
@@ -221,23 +250,32 @@ ralf-kese:
   venues: []
 ralf-klabunde:
   coauthors:
-  - - jon-stevens
-    - 1
   - - anton-benz
+    - 2
+  - - jon-stevens
     - 1
   - - sebastian-reusse
     - 1
   - - ronja-laarmann-quante
     - 1
+  - - christoph-hesse
+    - 1
+  - - maryam-mohammadi
+    - 1
+  - - maurice-langner
+    - 1
+  - - judith-fischer
+    - 1
   first: Ralf
   full: Ralf Klabunde
   last: Klabunde
   papers:
+  - Z18-3014
   - Z14-3020
   slug: ralf-klabunde
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 ralf-schlueter:
   coauthors: []
   first: Ralf
@@ -396,6 +434,10 @@ raquel-fernandez:
     - 1
   - - julian-j-schloder
     - 1
+  - - janosch-haber
+    - 1
+  - - elia-bruni
+    - 1
   - - laura-aina
     - 1
   - - natalia-philippova
@@ -408,6 +450,7 @@ raquel-fernandez:
   full: "Raquel Fern\xE1ndez"
   last: "Fern\xE1ndez"
   papers:
+  - Z18-4028
   - Z17-3004
   - Z15-4030
   - Z14-4028
@@ -419,7 +462,7 @@ raquel-fernandez:
     last: Fernandez
   venues:
   - - SEMDIAL
-    - 4
+    - 5
 raquel-martinez:
   coauthors: []
   first: Raquel
@@ -715,6 +758,25 @@ richard-c-wang:
   papers: []
   slug: richard-c-wang
   venues: []
+richard-crouch:
+  coauthors:
+  - - jiaying-shen
+    - 1
+  - - hendrik-harkema
+    - 1
+  - - peng-yu
+    - 1
+  - - ciaran-oreilly
+    - 1
+  first: Richard
+  full: Richard Crouch
+  last: Crouch
+  papers:
+  - Z18-3009
+  slug: richard-crouch
+  venues:
+  - - SEMDIAL
+    - 1
 richard-d-boyce:
   coauthors: []
   first: Richard D.
@@ -811,6 +873,35 @@ richard-sproat:
   papers: []
   slug: richard-sproat
   venues: []
+richard-tobin:
+  coauthors:
+  - - raja-lala
+    - 1
+  - - johan-jeuring
+    - 1
+  - - rick-heemskerk
+    - 1
+  - - marcell-van-geest
+    - 1
+  - - jordy-van-dortmont
+    - 1
+  - - gabriel-gutu-robu
+    - 1
+  - - stefan-ruseti
+    - 1
+  - - mihai-dascalu
+    - 1
+  - - beatrice-alex
+    - 1
+  first: Richard
+  full: Richard Tobin
+  last: Tobin
+  papers:
+  - Z18-4031
+  slug: richard-tobin
+  venues:
+  - - SEMDIAL
+    - 1
 richard-tzong-han-tsai:
   coauthors: []
   first: Richard Tzong-Han
@@ -835,6 +926,35 @@ richmond-h-thomason:
   papers: []
   slug: richmond-h-thomason
   venues: []
+rick-heemskerk:
+  coauthors:
+  - - raja-lala
+    - 1
+  - - johan-jeuring
+    - 1
+  - - marcell-van-geest
+    - 1
+  - - jordy-van-dortmont
+    - 1
+  - - gabriel-gutu-robu
+    - 1
+  - - stefan-ruseti
+    - 1
+  - - mihai-dascalu
+    - 1
+  - - beatrice-alex
+    - 1
+  - - richard-tobin
+    - 1
+  first: Rick
+  full: Rick Heemskerk
+  last: Heemskerk
+  papers:
+  - Z18-4031
+  slug: rick-heemskerk
+  venues:
+  - - SEMDIAL
+    - 1
 rie-johnson:
   coauthors: []
   first: Rie
@@ -1015,6 +1135,21 @@ robert-j-ross:
   coauthors:
   - - anh-duong-trinh
     - 1
+  - - john-d-kelleher
+    - 1
+  first: Robert J
+  full: Robert J Ross
+  last: Ross
+  papers:
+  - Z18-3017
+  slug: robert-j-ross
+  venues:
+  - - SEMDIAL
+    - 1
+robert-j-ross1:
+  coauthors:
+  - - anh-duong-trinh
+    - 1
   - - john-kelleher
     - 1
   first: Robert J.
@@ -1022,7 +1157,7 @@ robert-j-ross:
   last: Ross
   papers:
   - Z17-4030
-  slug: robert-j-ross
+  slug: robert-j-ross1
   venues:
   - - SEMDIAL
     - 1
@@ -1206,16 +1341,19 @@ roberto-pieraccini:
   slug: roberto-pieraccini
   venues: []
 robin-cooper:
-  coauthors: []
+  coauthors:
+  - - ellen-breitholtz
+    - 1
   first: Robin
   full: Robin Cooper
   last: Cooper
   papers:
+  - Z18-4022
   - Z14-3007
   slug: robin-cooper
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 robin-p-fawcett:
   coauthors: []
   first: Robin P.
@@ -1682,6 +1820,12 @@ ruth-aylett:
     - 2
 ruth-kempson:
   coauthors:
+  - - mehrnoosh-sadrzadeh
+    - 1
+  - - matthew-purver
+    - 1
+  - - julian-hough
+    - 1
   - - stergios-chatzikyriakidis
     - 1
   - - ronnie-cann
@@ -1690,11 +1834,12 @@ ruth-kempson:
   full: Ruth Kempson
   last: Kempson
   papers:
+  - Z18-3016
   - Z15-4035
   slug: ruth-kempson
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 rutu-mulkar-mehta:
   coauthors: []
   first: Rutu
@@ -1770,6 +1915,12 @@ ryuichiro-higashinaka:
   coauthors:
   - - yoshihiro-matsuo
     - 2
+  - - yuiko-tsunomori
+    - 1
+  - - tetsuro-takahashi
+    - 1
+  - - michimasa-inaba
+    - 1
   - - kazuki-sakai
     - 1
   - - hiroaki-sugiyama
@@ -1800,9 +1951,10 @@ ryuichiro-higashinaka:
   full: Ryuichiro Higashinaka
   last: Higashinaka
   papers:
+  - Z18-3007
   - Z17-4019
   - Z15-3011
   slug: ryuichiro-higashinaka
   venues:
   - - SEMDIAL
-    - 2
+    - 3

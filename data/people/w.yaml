@@ -527,10 +527,33 @@ wolfgang-klein:
   papers: []
   slug: wolfgang-klein
   venues: []
+wolfgang-maier:
+  coauthors:
+  - - patricia-kittel
+    - 1
+  - - maria-schmidt
+    - 1
+  - - wolfgang-minker
+    - 1
+  first: Wolfgang
+  full: Wolfgang Maier
+  last: Maier
+  papers:
+  - Z18-3020
+  slug: wolfgang-maier
+  venues:
+  - - SEMDIAL
+    - 1
 wolfgang-minker:
   coauthors:
   - - stefan-ultes
     - 2
+  - - patricia-kittel
+    - 1
+  - - wolfgang-maier
+    - 1
+  - - maria-schmidt
+    - 1
   - - juliana-miehle
     - 1
   - - nadine-gerstenlauer
@@ -547,12 +570,13 @@ wolfgang-minker:
   full: Wolfgang Minker
   last: Minker
   papers:
+  - Z18-3020
   - Z17-4024
   - Z15-4043
   slug: wolfgang-minker
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 wolfgang-wahlster:
   coauthors: []
   first: Wolfgang

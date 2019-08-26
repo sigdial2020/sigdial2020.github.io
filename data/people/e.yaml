@@ -253,6 +253,17 @@ eileen-fitzpatrick:
   papers: []
   slug: eileen-fitzpatrick
   venues: []
+eimear-maguire:
+  coauthors: []
+  first: Eimear
+  full: Eimear Maguire
+  last: Maguire
+  papers:
+  - Z18-4033
+  slug: eimear-maguire
+  venues:
+  - - SEMDIAL
+    - 1
 eirikur-rognvaldsson:
   coauthors: []
   first: Eirikur
@@ -385,6 +396,21 @@ eli-shamir:
   papers: []
   slug: eli-shamir
   venues: []
+elia-bruni:
+  coauthors:
+  - - janosch-haber
+    - 1
+  - - raquel-fernandez
+    - 1
+  first: Elia
+  full: Elia Bruni
+  last: Bruni
+  papers:
+  - Z18-4028
+  slug: elia-bruni
+  venues:
+  - - SEMDIAL
+    - 1
 elias-iosif:
   coauthors:
   - - pinelopi-papalampidi
@@ -567,17 +593,20 @@ ellen-bard:
     - 1
 ellen-breitholtz:
   coauthors:
+  - - robin-cooper
+    - 1
   - - christine-howes
     - 1
   first: Ellen
   full: Ellen Breitholtz
   last: Breitholtz
   papers:
+  - Z18-4022
   - Z15-4022
   slug: ellen-breitholtz
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 ellen-campana:
   coauthors: []
   first: Ellen

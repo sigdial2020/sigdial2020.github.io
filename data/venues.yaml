@@ -1023,10 +1023,16 @@ SEMDIAL:
     - Z17-2
     - Z17-3
     - Z17-4
+    '2018':
+    - Z18-1
+    - Z18-2
+    - Z18-3
+    - Z18-4
   years:
   - '2014'
   - '2015'
   - '2017'
+  - '2018'
 SEMITIC:
   is_acl: true
   is_toplevel: false

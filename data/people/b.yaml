@@ -251,13 +251,34 @@ beate-firzlaff:
   slug: beate-firzlaff
   venues: []
 beatrice-alex:
-  coauthors: []
+  coauthors:
+  - - raja-lala
+    - 1
+  - - johan-jeuring
+    - 1
+  - - rick-heemskerk
+    - 1
+  - - marcell-van-geest
+    - 1
+  - - jordy-van-dortmont
+    - 1
+  - - gabriel-gutu-robu
+    - 1
+  - - stefan-ruseti
+    - 1
+  - - mihai-dascalu
+    - 1
+  - - richard-tobin
+    - 1
   first: Beatrice
   full: Beatrice Alex
   last: Alex
-  papers: []
+  papers:
+  - Z18-4031
   slug: beatrice-alex
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 beatrice-daille:
   coauthors: []
   first: "B\xE9atrice"
@@ -395,13 +416,29 @@ benoit-crabbe:
   slug: benoit-crabbe
   venues: []
 benoit-favre:
-  coauthors: []
+  coauthors:
+  - - laurent-prevot
+    - 1
+  - - magalie-ochs
+    - 1
+  - - simone-fuscone
+    - 1
+  - - laurent-pr-evot
+    - 1
   first: Benoit
   full: Benoit Favre
   last: Favre
-  papers: []
+  papers:
+  - Z18-1000
+  - Z18-4026
   slug: benoit-favre
-  venues: []
+  variant_entries:
+  - first: "Beno\xEEt"
+    full: "Beno\xEEt Favre"
+    last: Favre
+  venues:
+  - - SEMDIAL
+    - 2
 benoit-gaillard:
   coauthors: []
   first: Benoit
@@ -657,6 +694,17 @@ biljana-drndarevic:
   papers: []
   slug: biljana-drndarevic
   venues: []
+bill-noble:
+  coauthors: []
+  first: Bill
+  full: Bill Noble
+  last: Noble
+  papers:
+  - Z18-4034
+  slug: bill-noble
+  venues:
+  - - SEMDIAL
+    - 1
 bill-yuchen-lin:
   coauthors: []
   first: Bill Yuchen

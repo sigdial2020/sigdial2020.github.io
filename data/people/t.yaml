@@ -263,6 +263,23 @@ tanveer-a-faruquie:
   papers: []
   slug: tanveer-a-faruquie
   venues: []
+tanvi-dinkar:
+  coauthors:
+  - - ioana-vasilescu
+    - 1
+  - - catherine-pelachaud
+    - 1
+  - - chloe-clavel
+    - 1
+  first: Tanvi
+  full: Tanvi Dinkar
+  last: Dinkar
+  papers:
+  - Z18-4024
+  slug: tanvi-dinkar
+  venues:
+  - - SEMDIAL
+    - 1
 tapas-nayak:
   coauthors: []
   first: Tapas
@@ -343,6 +360,23 @@ teruaki-aizawa:
   papers: []
   slug: teruaki-aizawa
   venues: []
+tetsuro-takahashi:
+  coauthors:
+  - - yuiko-tsunomori
+    - 1
+  - - ryuichiro-higashinaka
+    - 1
+  - - michimasa-inaba
+    - 1
+  first: Tetsuro
+  full: Tetsuro Takahashi
+  last: Takahashi
+  papers:
+  - Z18-3007
+  slug: tetsuro-takahashi
+  venues:
+  - - SEMDIAL
+    - 1
 tetsuya-nasukawa:
   coauthors: []
   first: Tetsuya
@@ -711,6 +745,23 @@ tim-anderson:
   papers: []
   slug: tim-anderson
   venues: []
+tim-diekmann:
+  coauthors:
+  - - david-schlangen
+    - 1
+  - - nikolai-ilinykh
+    - 1
+  - - sina-zarriess
+    - 1
+  first: Tim
+  full: Tim Diekmann
+  last: Diekmann
+  papers:
+  - Z18-4036
+  slug: tim-diekmann
+  venues:
+  - - SEMDIAL
+    - 1
 tim-finin:
   coauthors: []
   first: Tim
@@ -833,8 +884,12 @@ tina-kluwer:
 ting-han:
   coauthors:
   - - david-schlangen
-    - 2
+    - 3
   - - spyros-kousidis
+    - 1
+  - - sina-zariess
+    - 1
+  - - kazunori-komatani
     - 1
   - - casey-kennington
     - 1
@@ -842,12 +897,13 @@ ting-han:
   full: Ting Han
   last: Han
   papers:
+  - Z18-3004
   - Z15-3010
   - Z14-4030
   slug: ting-han
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 ting-hao-huang:
   coauthors: []
   first: Ting-Hao
@@ -912,6 +968,21 @@ tom-de-smedt:
   papers: []
   slug: tom-de-smedt
   venues: []
+tom-gurion:
+  coauthors:
+  - - patrick-healey
+    - 1
+  - - julian-hough
+    - 1
+  first: Tom
+  full: Tom Gurion
+  last: Gurion
+  papers:
+  - Z18-4027
+  slug: tom-gurion
+  venues:
+  - - SEMDIAL
+    - 1
 tom-mitchell:
   coauthors: []
   first: Tom

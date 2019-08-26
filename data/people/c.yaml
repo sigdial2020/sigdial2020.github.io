@@ -125,6 +125,25 @@ carl-pollard:
   papers: []
   slug: carl-pollard
   venues: []
+carla-gordon:
+  coauthors:
+  - - kallirroi-georgila
+    - 1
+  - - hyungtak-choi
+    - 1
+  - - jill-boberg
+    - 1
+  - - david-traum
+    - 1
+  first: Carla
+  full: Carla Gordon
+  last: Gordon
+  papers:
+  - Z18-3010
+  slug: carla-gordon
+  venues:
+  - - SEMDIAL
+    - 1
 carla-parra-escartin:
   coauthors: []
   first: Carla
@@ -311,21 +330,27 @@ carrara-nicolas:
 casey-kennington:
   coauthors:
   - - david-schlangen
-    - 3
+    - 4
+  - - soledad-lopez-gambino
+    - 2
   - - pierre-lison
     - 2
   - - spyros-kousidis
+    - 1
+  - - daniele-moro
+    - 1
+  - - sina-zarriess
     - 1
   - - daniel-kondratyuk
     - 1
   - - ting-han
     - 1
-  - - soledad-lopez-gambino
-    - 1
   first: Casey
   full: Casey Kennington
   last: Kennington
   papers:
+  - Z18-3012
+  - Z18-3018
   - Z17-4022
   - Z17-4023
   - Z15-3010
@@ -335,7 +360,7 @@ casey-kennington:
   slug: casey-kennington
   venues:
   - - SEMDIAL
-    - 6
+    - 8
 caspar-addyman:
   coauthors:
   - - chiara-mazzocconi
@@ -421,18 +446,25 @@ catherine-pelachaud:
   coauthors:
   - - nadine-glas
     - 2
+  - - tanvi-dinkar
+    - 1
+  - - ioana-vasilescu
+    - 1
+  - - chloe-clavel
+    - 1
   - - ken-prepin
     - 1
   first: Catherine
   full: Catherine Pelachaud
   last: Pelachaud
   papers:
+  - Z18-4024
   - Z15-3009
   - Z14-4027
   slug: catherine-pelachaud
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 catia-cucchiarini:
   coauthors: []
   first: Catia
@@ -791,6 +823,17 @@ chengxiang-zhai:
   papers: []
   slug: chengxiang-zhai
   venues: []
+chenjie-yuan:
+  coauthors: []
+  first: Chenjie
+  full: Chenjie Yuan
+  last: Yuan
+  papers:
+  - Z18-3013
+  slug: chenjie-yuan
+  venues:
+  - - SEMDIAL
+    - 1
 cheol-jung-kweon:
   coauthors: []
   first: Cheol Jung
@@ -908,15 +951,20 @@ chiara-mazzocconi:
     - 1
   - - caspar-addyman
     - 1
+  - - vladislav-maraev
+    - 1
+  - - jonathan-ginzburg
+    - 1
   first: Chiara
   full: Chiara Mazzocconi
   last: Mazzocconi
   papers:
+  - Z18-3005
   - Z14-4043
   slug: chiara-mazzocconi
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 chih-lung-lin:
   coauthors: []
   first: Chih-Lung
@@ -1005,6 +1053,23 @@ chiwei-che:
   papers: []
   slug: chiwei-che
   venues: []
+chloe-clavel:
+  coauthors:
+  - - tanvi-dinkar
+    - 1
+  - - ioana-vasilescu
+    - 1
+  - - catherine-pelachaud
+    - 1
+  first: "Chlo\xE9"
+  full: "Chlo\xE9 Clavel"
+  last: Clavel
+  papers:
+  - Z18-4024
+  slug: chloe-clavel
+  venues:
+  - - SEMDIAL
+    - 1
 chloe-kiddon:
   coauthors: []
   first: "Chlo\xE9"
@@ -1273,6 +1338,21 @@ christian-mueller:
   papers: []
   slug: christian-mueller
   venues: []
+christian-retore:
+  coauthors:
+  - - davide-catta
+    - 1
+  - - alda-mari
+    - 1
+  first: Christian
+  full: "Christian Retor\xE9"
+  last: "Retor\xE9"
+  papers:
+  - Z18-4023
+  slug: christian-retore
+  venues:
+  - - SEMDIAL
+    - 1
 christian-stab:
   coauthors:
   - - iryna-gurevych
@@ -1354,6 +1434,27 @@ christof-muller:
   papers: []
   slug: christof-muller
   venues: []
+christoph-hesse:
+  coauthors:
+  - - maryam-mohammadi
+    - 1
+  - - maurice-langner
+    - 1
+  - - judith-fischer
+    - 1
+  - - anton-benz
+    - 1
+  - - ralf-klabunde
+    - 1
+  first: Christoph
+  full: Christoph Hesse
+  last: Hesse
+  papers:
+  - Z18-3014
+  slug: christoph-hesse
+  venues:
+  - - SEMDIAL
+    - 1
 christoph-muller:
   coauthors: []
   first: Christoph
@@ -1664,6 +1765,25 @@ chunyu-kit:
   papers: []
   slug: chunyu-kit
   venues: []
+ciaran-oreilly:
+  coauthors:
+  - - jiaying-shen
+    - 1
+  - - hendrik-harkema
+    - 1
+  - - richard-crouch
+    - 1
+  - - peng-yu
+    - 1
+  first: Ciaran
+  full: Ciaran OReilly
+  last: OReilly
+  papers:
+  - Z18-3009
+  slug: ciaran-oreilly
+  venues:
+  - - SEMDIAL
+    - 1
 cicero-dos-santos:
   coauthors: []
   first: Cicero

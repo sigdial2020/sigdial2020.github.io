@@ -204,6 +204,19 @@ jaime-r-carbonell:
   - jaime-g-carbonell
   slug: jaime-r-carbonell
   venues: []
+jakob-landesberger:
+  coauthors:
+  - - ute-ehrlich
+    - 1
+  first: Jakob
+  full: Jakob Landesberger
+  last: Landesberger
+  papers:
+  - Z18-4032
+  slug: jakob-landesberger
+  venues:
+  - - SEMDIAL
+    - 1
 jakub-waszczuk:
   coauthors: []
   first: Jakub
@@ -583,6 +596,21 @@ janne-bondi-johannessen:
   papers: []
   slug: janne-bondi-johannessen
   venues: []
+janosch-haber:
+  coauthors:
+  - - elia-bruni
+    - 1
+  - - raquel-fernandez
+    - 1
+  first: Janosch
+  full: Janosch Haber
+  last: Haber
+  papers:
+  - Z18-4028
+  slug: janosch-haber
+  venues:
+  - - SEMDIAL
+    - 1
 janusz-stanislaw-bien:
   coauthors: []
   first: "Janusz Stanis\u0142aw"
@@ -829,6 +857,25 @@ jean-mark-gawron:
   papers: []
   slug: jean-mark-gawron
   venues: []
+jean-philippe-bernardy:
+  coauthors:
+  - - vladislav-maraev
+    - 1
+  - - jonathan-ginzburg
+    - 1
+  - - staffan-larsson
+    - 1
+  - - ye-tian
+    - 1
+  first: Jean-Philippe
+  full: Jean-Philippe Bernardy
+  last: Bernardy
+  papers:
+  - Z18-3011
+  slug: jean-philippe-bernardy
+  venues:
+  - - SEMDIAL
+    - 1
 jean-philippe-guilbaud:
   coauthors: []
   first: Jean-Philippe
@@ -1306,12 +1353,40 @@ jiaying-shen:
   coauthors:
   - - charles-ortiz
     - 1
+  - - hendrik-harkema
+    - 1
+  - - richard-crouch
+    - 1
+  - - peng-yu
+    - 1
+  - - ciaran-oreilly
+    - 1
   first: Jiaying
   full: Jiaying Shen
   last: Shen
   papers:
+  - Z18-3009
   - Z14-3018
   slug: jiaying-shen
+  venues:
+  - - SEMDIAL
+    - 2
+jill-boberg:
+  coauthors:
+  - - carla-gordon
+    - 1
+  - - kallirroi-georgila
+    - 1
+  - - hyungtak-choi
+    - 1
+  - - david-traum
+    - 1
+  first: Jill
+  full: Jill Boberg
+  last: Boberg
+  papers:
+  - Z18-3010
+  slug: jill-boberg
   venues:
   - - SEMDIAL
     - 1
@@ -1739,6 +1814,35 @@ johan-adam-du-preez:
   papers: []
   slug: johan-adam-du-preez
   venues: []
+johan-jeuring:
+  coauthors:
+  - - raja-lala
+    - 1
+  - - rick-heemskerk
+    - 1
+  - - marcell-van-geest
+    - 1
+  - - jordy-van-dortmont
+    - 1
+  - - gabriel-gutu-robu
+    - 1
+  - - stefan-ruseti
+    - 1
+  - - mihai-dascalu
+    - 1
+  - - beatrice-alex
+    - 1
+  - - richard-tobin
+    - 1
+  first: Johan
+  full: Johan Jeuring
+  last: Jeuring
+  papers:
+  - Z18-4031
+  slug: johan-jeuring
+  venues:
+  - - SEMDIAL
+    - 1
 johanna-d-moore:
   coauthors: []
   first: Johanna D.
@@ -1860,6 +1964,21 @@ john-d-burger:
   - john-f-burger
   slug: john-d-burger
   venues: []
+john-d-kelleher:
+  coauthors:
+  - - anh-duong-trinh
+    - 1
+  - - robert-j-ross
+    - 1
+  first: John D
+  full: John D Kelleher
+  last: Kelleher
+  papers:
+  - Z18-3017
+  slug: john-d-kelleher
+  venues:
+  - - SEMDIAL
+    - 1
 john-dowding:
   coauthors: []
   first: John
@@ -1971,7 +2090,7 @@ john-kelleher:
     - 1
   - - anh-duong-trinh
     - 1
-  - - robert-j-ross
+  - - robert-j-ross1
     - 1
   - - christine-howes
     - 1
@@ -2211,6 +2330,10 @@ jonathan-g-fiscus:
 jonathan-ginzburg:
   coauthors:
   - - ye-tian
+    - 3
+  - - vladislav-maraev
+    - 2
+  - - kwong-cheong-wong
     - 2
   - - sara-moradlou
     - 1
@@ -2218,16 +2341,23 @@ jonathan-ginzburg:
     - 1
   - - julian-hough
     - 1
+  - - chiara-mazzocconi
+    - 1
+  - - staffan-larsson
+    - 1
+  - - jean-philippe-bernardy
+    - 1
   - - claire-beyssade
     - 1
   - - yannick-mathieu
-    - 1
-  - - kwong-cheong-wong
     - 1
   first: Jonathan
   full: Jonathan Ginzburg
   last: Ginzburg
   papers:
+  - Z18-3005
+  - Z18-3011
+  - Z18-3019
   - Z15-3020
   - Z15-4048
   - Z14-3017
@@ -2235,7 +2365,7 @@ jonathan-ginzburg:
   slug: jonathan-ginzburg
   venues:
   - - SEMDIAL
-    - 4
+    - 7
 jonathan-h-clark:
   coauthors: []
   first: Jonathan H.
@@ -2332,6 +2462,35 @@ jordi-turmo:
   papers: []
   slug: jordi-turmo
   venues: []
+jordy-van-dortmont:
+  coauthors:
+  - - raja-lala
+    - 1
+  - - johan-jeuring
+    - 1
+  - - rick-heemskerk
+    - 1
+  - - marcell-van-geest
+    - 1
+  - - gabriel-gutu-robu
+    - 1
+  - - stefan-ruseti
+    - 1
+  - - mihai-dascalu
+    - 1
+  - - beatrice-alex
+    - 1
+  - - richard-tobin
+    - 1
+  first: Jordy van
+  full: Jordy van Dortmont
+  last: Dortmont
+  papers:
+  - Z18-4031
+  slug: jordy-van-dortmont
+  venues:
+  - - SEMDIAL
+    - 1
 jorg-kleinz:
   coauthors: []
   first: "J\xF6rg"
@@ -2833,6 +2992,27 @@ judith-d-schlesinger:
   papers: []
   slug: judith-d-schlesinger
   venues: []
+judith-fischer:
+  coauthors:
+  - - christoph-hesse
+    - 1
+  - - maryam-mohammadi
+    - 1
+  - - maurice-langner
+    - 1
+  - - anton-benz
+    - 1
+  - - ralf-klabunde
+    - 1
+  first: Judith
+  full: Judith Fischer
+  last: Fischer
+  papers:
+  - Z18-3014
+  slug: judith-fischer
+  venues:
+  - - SEMDIAL
+    - 1
 judith-holler:
   coauthors:
   - - paul-homke
@@ -2843,11 +3023,12 @@ judith-holler:
   full: Judith Holler
   last: Holler
   papers:
+  - Z18-2001
   - Z15-4032
   slug: judith-holler
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 judith-l-klavans:
   coauthors: []
   first: Judith L.
@@ -2920,9 +3101,9 @@ julian-hough:
     - 3
   - - stefan-kopp
     - 3
-  - - christine-howes
-    - 1
   - - matthew-purver
+    - 2
+  - - christine-howes
     - 1
   - - rose-mccabe
     - 1
@@ -2931,6 +3112,14 @@ julian-hough:
   - - jonathan-ginzburg
     - 1
   - - ye-tian
+    - 1
+  - - mehrnoosh-sadrzadeh
+    - 1
+  - - ruth-kempson
+    - 1
+  - - tom-gurion
+    - 1
+  - - patrick-healey
     - 1
   - - felix-hulsmann
     - 1
@@ -2942,6 +3131,8 @@ julian-hough:
   full: Julian Hough
   last: Hough
   papers:
+  - Z18-3016
+  - Z18-4027
   - Z15-3013
   - Z15-4026
   - Z14-3013
@@ -2950,7 +3141,7 @@ julian-hough:
   slug: julian-hough
   venues:
   - - SEMDIAL
-    - 5
+    - 7
 julian-j-odell:
   coauthors: []
   first: Julian J.

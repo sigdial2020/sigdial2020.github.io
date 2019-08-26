@@ -282,48 +282,50 @@ yaser-al-onaizan:
 yasuharu-den:
   coauthors:
   - - yasuhiro-katagiri
-    - 2
+    - 3
   - - katsuya-takanashi
-    - 2
+    - 3
   - - masato-ishizaki
-    - 2
+    - 3
   - - mika-enomoto
-    - 2
+    - 3
   - - shogo-okada
     - 1
   first: Yasuharu
   full: Yasuharu Den
   last: Den
   papers:
+  - Z18-4030
   - Z17-4020
   - Z14-4034
   slug: yasuharu-den
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 yasuhiro-katagiri:
   coauthors:
   - - katsuya-takanashi
-    - 3
+    - 4
   - - masato-ishizaki
-    - 2
+    - 3
   - - mika-enomoto
-    - 2
+    - 3
   - - yasuharu-den
-    - 2
+    - 3
   - - shogo-okada
     - 1
   first: Yasuhiro
   full: Yasuhiro Katagiri
   last: Katagiri
   papers:
+  - Z18-4030
   - Z17-4020
   - Z15-4034
   - Z14-4034
   slug: yasuhiro-katagiri
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 yasunari-harada:
   coauthors:
   - - miwa-morishita
@@ -356,7 +358,7 @@ yau-tarng-juang:
 ye-tian:
   coauthors:
   - - jonathan-ginzburg
-    - 2
+    - 3
   - - david-schlangen
     - 1
   - - julian-hough
@@ -366,6 +368,12 @@ ye-tian:
   - - sam-green
     - 1
   - - caspar-addyman
+    - 1
+  - - vladislav-maraev
+    - 1
+  - - staffan-larsson
+    - 1
+  - - jean-philippe-bernardy
     - 1
   - - volha-petukhova
     - 1
@@ -377,6 +385,7 @@ ye-tian:
   full: Ye Tian
   last: Tian
   papers:
+  - Z18-3011
   - Z17-1000
   - Z15-3020
   - Z14-4026
@@ -384,7 +393,7 @@ ye-tian:
   slug: ye-tian
   venues:
   - - SEMDIAL
-    - 4
+    - 5
 yen-lu-chow:
   coauthors: []
   first: Yen-Lu
@@ -799,6 +808,23 @@ yuichiro-yoshikawa:
   papers:
   - Z17-4019
   slug: yuichiro-yoshikawa
+  venues:
+  - - SEMDIAL
+    - 1
+yuiko-tsunomori:
+  coauthors:
+  - - ryuichiro-higashinaka
+    - 1
+  - - tetsuro-takahashi
+    - 1
+  - - michimasa-inaba
+    - 1
+  first: Yuiko
+  full: Yuiko Tsunomori
+  last: Tsunomori
+  papers:
+  - Z18-3007
+  slug: yuiko-tsunomori
   venues:
   - - SEMDIAL
     - 1

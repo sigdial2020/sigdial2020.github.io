@@ -134,6 +134,26 @@ magali-sanches-duran:
   papers: []
   slug: magali-sanches-duran
   venues: []
+magalie-ochs:
+  coauthors:
+  - - laurent-prevot
+    - 1
+  - - benoit-favre
+    - 1
+  - - gregoire-montcheuil
+    - 1
+  - - philippe-blache
+    - 1
+  first: Magalie
+  full: Magalie Ochs
+  last: Ochs
+  papers:
+  - Z18-1000
+  - Z18-4035
+  slug: magalie-ochs
+  venues:
+  - - SEMDIAL
+    - 2
 magdalena-plamada:
   coauthors: []
   first: Magdalena
@@ -529,6 +549,35 @@ marcela-charfuelan:
   papers: []
   slug: marcela-charfuelan
   venues: []
+marcell-van-geest:
+  coauthors:
+  - - raja-lala
+    - 1
+  - - johan-jeuring
+    - 1
+  - - rick-heemskerk
+    - 1
+  - - jordy-van-dortmont
+    - 1
+  - - gabriel-gutu-robu
+    - 1
+  - - stefan-ruseti
+    - 1
+  - - mihai-dascalu
+    - 1
+  - - beatrice-alex
+    - 1
+  - - richard-tobin
+    - 1
+  first: Marcell van
+  full: Marcell van Geest
+  last: Geest
+  papers:
+  - Z18-4031
+  slug: marcell-van-geest
+  venues:
+  - - SEMDIAL
+    - 1
 marcelo-adriano-amancio:
   coauthors: []
   first: Marcelo Adriano
@@ -797,6 +846,19 @@ mari-ostendorf:
   papers: []
   slug: mari-ostendorf
   venues: []
+maria-boritchev:
+  coauthors:
+  - - maxime-amblard
+    - 1
+  first: Maria
+  full: Maria Boritchev
+  last: Boritchev
+  papers:
+  - Z18-3021
+  slug: maria-boritchev
+  venues:
+  - - SEMDIAL
+    - 1
 maria-clara-paixao-de-sousa:
   coauthors: []
   first: "Maria Clara Paix\xE3o de"
@@ -916,6 +978,23 @@ maria-ruiz-casado:
   papers: []
   slug: maria-ruiz-casado
   venues: []
+maria-schmidt:
+  coauthors:
+  - - patricia-kittel
+    - 1
+  - - wolfgang-maier
+    - 1
+  - - wolfgang-minker
+    - 1
+  first: Maria
+  full: Maria Schmidt
+  last: Schmidt
+  papers:
+  - Z18-3020
+  slug: maria-schmidt
+  venues:
+  - - SEMDIAL
+    - 1
 maria-teresa-cabre:
   coauthors: []
   first: Maria Teresa
@@ -1710,6 +1789,27 @@ mary-swift:
   papers: []
   slug: mary-swift
   venues: []
+maryam-mohammadi:
+  coauthors:
+  - - christoph-hesse
+    - 1
+  - - maurice-langner
+    - 1
+  - - judith-fischer
+    - 1
+  - - anton-benz
+    - 1
+  - - ralf-klabunde
+    - 1
+  first: Maryam
+  full: Maryam Mohammadi
+  last: Mohammadi
+  papers:
+  - Z18-3014
+  slug: maryam-mohammadi
+  venues:
+  - - SEMDIAL
+    - 1
 masaaki-nagata:
   coauthors: []
   first: Masaaki
@@ -1785,25 +1885,26 @@ masatake-dantsuji:
 masato-ishizaki:
   coauthors:
   - - yasuhiro-katagiri
-    - 2
+    - 3
   - - katsuya-takanashi
-    - 2
+    - 3
   - - mika-enomoto
-    - 2
+    - 3
   - - yasuharu-den
-    - 2
+    - 3
   - - shogo-okada
     - 1
   first: Masato
   full: Masato Ishizaki
   last: Ishizaki
   papers:
+  - Z18-4030
   - Z17-4020
   - Z14-4034
   slug: masato-ishizaki
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 massih-r-amini:
   coauthors: []
   first: Massih R.
@@ -1910,20 +2011,26 @@ matthew-j-green:
   venues: []
 matthew-purver:
   coauthors:
-  - - shauna-concannon
-    - 2
   - - patrick-healey
+    - 3
+  - - julian-hough
+    - 2
+  - - shauna-concannon
     - 2
   - - christine-howes
     - 1
-  - - julian-hough
-    - 1
   - - rose-mccabe
+    - 1
+  - - mehrnoosh-sadrzadeh
+    - 1
+  - - ruth-kempson
     - 1
   first: Matthew
   full: Matthew Purver
   last: Purver
   papers:
+  - Z18-3016
+  - Z18-4029
   - Z15-3004
   - Z15-3005
   - Z14-2003
@@ -1931,7 +2038,7 @@ matthew-purver:
   slug: matthew-purver
   venues:
   - - SEMDIAL
-    - 4
+    - 6
 matthew-r-gormley:
   coauthors: []
   first: Matthew R.
@@ -2044,6 +2151,17 @@ matthieu-quignard:
   papers: []
   slug: matthieu-quignard
   venues: []
+matthijs-westera:
+  coauthors: []
+  first: Matthijs
+  full: Matthijs Westera
+  last: Westera
+  papers:
+  - Z18-4038
+  slug: matthijs-westera
+  venues:
+  - - SEMDIAL
+    - 1
 matti-ylilammi:
   coauthors: []
   first: Matti
@@ -2068,6 +2186,27 @@ maunendra-sankar-desarkar:
   papers: []
   slug: maunendra-sankar-desarkar
   venues: []
+maurice-langner:
+  coauthors:
+  - - christoph-hesse
+    - 1
+  - - maryam-mohammadi
+    - 1
+  - - judith-fischer
+    - 1
+  - - anton-benz
+    - 1
+  - - ralf-klabunde
+    - 1
+  first: Maurice
+  full: Maurice Langner
+  last: Langner
+  papers:
+  - Z18-3014
+  slug: maurice-langner
+  venues:
+  - - SEMDIAL
+    - 1
 maurice-quezel-ambrunaz:
   coauthors: []
   first: MAURICE
@@ -2108,6 +2247,19 @@ max-silberztein:
   papers: []
   slug: max-silberztein
   venues: []
+maxime-amblard:
+  coauthors:
+  - - maria-boritchev
+    - 1
+  first: Maxime
+  full: Maxime Amblard
+  last: Amblard
+  papers:
+  - Z18-3021
+  slug: maxime-amblard
+  venues:
+  - - SEMDIAL
+    - 1
 maximiliano-saiz-noeda:
   coauthors: []
   first: Maximiliano
@@ -2189,13 +2341,22 @@ megumi-kameyama:
   slug: megumi-kameyama
   venues: []
 mehrnoosh-sadrzadeh:
-  coauthors: []
+  coauthors:
+  - - matthew-purver
+    - 1
+  - - julian-hough
+    - 1
+  - - ruth-kempson
+    - 1
   first: Mehrnoosh
   full: Mehrnoosh Sadrzadeh
   last: Sadrzadeh
-  papers: []
+  papers:
+  - Z18-3016
   slug: mehrnoosh-sadrzadeh
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 mei-chih-tsai:
   coauthors: []
   first: Mei-Chih
@@ -2596,6 +2757,17 @@ michael-t-johnson:
   papers: []
   slug: michael-t-johnson
   venues: []
+michael-wagner:
+  coauthors: []
+  first: Michael
+  full: Michael Wagner
+  last: Wagner
+  papers:
+  - Z18-2003
+  slug: michael-wagner
+  venues:
+  - - SEMDIAL
+    - 1
 michael-wayne-goodman:
   coauthors: []
   first: Michael Wayne
@@ -2652,6 +2824,23 @@ michelle-q-wang:
   papers: []
   slug: michelle-q-wang
   venues: []
+michimasa-inaba:
+  coauthors:
+  - - yuiko-tsunomori
+    - 1
+  - - ryuichiro-higashinaka
+    - 1
+  - - tetsuro-takahashi
+    - 1
+  first: Michimasa
+  full: Michimasa Inaba
+  last: Inaba
+  papers:
+  - Z18-3007
+  slug: michimasa-inaba
+  venues:
+  - - SEMDIAL
+    - 1
 mickey-w-c-chong:
   coauthors: []
   first: Mickey W. C.
@@ -2716,6 +2905,35 @@ mihaela-plamada-onofrei:
   papers: []
   slug: mihaela-plamada-onofrei
   venues: []
+mihai-dascalu:
+  coauthors:
+  - - raja-lala
+    - 1
+  - - johan-jeuring
+    - 1
+  - - rick-heemskerk
+    - 1
+  - - marcell-van-geest
+    - 1
+  - - jordy-van-dortmont
+    - 1
+  - - gabriel-gutu-robu
+    - 1
+  - - stefan-ruseti
+    - 1
+  - - beatrice-alex
+    - 1
+  - - richard-tobin
+    - 1
+  first: Mihai
+  full: Mihai Dascalu
+  last: Dascalu
+  papers:
+  - Z18-4031
+  slug: mihai-dascalu
+  venues:
+  - - SEMDIAL
+    - 1
 miikka-silfverberg:
   coauthors: []
   first: Miikka
@@ -2735,25 +2953,26 @@ mijail-kabadjov:
 mika-enomoto:
   coauthors:
   - - yasuhiro-katagiri
-    - 2
+    - 3
   - - katsuya-takanashi
-    - 2
+    - 3
   - - masato-ishizaki
-    - 2
+    - 3
   - - yasuharu-den
-    - 2
+    - 3
   - - shogo-okada
     - 1
   first: Mika
   full: Mika Enomoto
   last: Enomoto
   papers:
+  - Z18-4030
   - Z17-4020
   - Z14-4034
   slug: mika-enomoto
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 mikael-andersson:
   coauthors: []
   first: Mikael

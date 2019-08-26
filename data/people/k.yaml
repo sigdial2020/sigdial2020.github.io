@@ -112,6 +112,25 @@ kalliopi-zervanou:
   papers: []
   slug: kalliopi-zervanou
   venues: []
+kallirroi-georgila:
+  coauthors:
+  - - carla-gordon
+    - 1
+  - - hyungtak-choi
+    - 1
+  - - jill-boberg
+    - 1
+  - - david-traum
+    - 1
+  first: Kallirroi
+  full: Kallirroi Georgila
+  last: Georgila
+  papers:
+  - Z18-3010
+  slug: kallirroi-georgila
+  venues:
+  - - SEMDIAL
+    - 1
 kam-fai-wong:
   coauthors: []
   first: Kam-Fai
@@ -424,26 +443,27 @@ katsumasa-shimizu:
 katsuya-takanashi:
   coauthors:
   - - yasuhiro-katagiri
-    - 3
+    - 4
   - - masato-ishizaki
-    - 2
+    - 3
   - - mika-enomoto
-    - 2
+    - 3
   - - yasuharu-den
-    - 2
+    - 3
   - - shogo-okada
     - 1
   first: Katsuya
   full: Katsuya Takanashi
   last: Takanashi
   papers:
+  - Z18-4030
   - Z17-4020
   - Z15-4034
   - Z14-4034
   slug: katsuya-takanashi
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 kavi-mahesh:
   coauthors: []
   first: Kavi
@@ -518,13 +538,22 @@ kazuki-sakai:
   - - SEMDIAL
     - 1
 kazunori-komatani:
-  coauthors: []
+  coauthors:
+  - - ting-han
+    - 1
+  - - sina-zariess
+    - 1
+  - - david-schlangen
+    - 1
   first: Kazunori
   full: Kazunori Komatani
   last: Komatani
-  papers: []
+  papers:
+  - Z18-3004
   slug: kazunori-komatani
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 kazunori-muraki:
   coauthors: []
   first: Kazunori
@@ -1295,16 +1324,17 @@ kwok-ping-chan:
 kwong-cheong-wong:
   coauthors:
   - - jonathan-ginzburg
-    - 1
+    - 2
   first: Kwong-Cheong
   full: Kwong-Cheong Wong
   last: Wong
   papers:
+  - Z18-3019
   - Z15-4048
   slug: kwong-cheong-wong
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 kyo-kageura:
   coauthors: []
   first: Kyo

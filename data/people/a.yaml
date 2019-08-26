@@ -675,6 +675,21 @@ albino-nogueiras:
   papers: []
   slug: albino-nogueiras
   venues: []
+alda-mari:
+  coauthors:
+  - - davide-catta
+    - 1
+  - - christian-retore
+    - 1
+  first: Alda
+  full: Alda Mari
+  last: Mari
+  papers:
+  - Z18-4023
+  slug: alda-mari
+  venues:
+  - - SEMDIAL
+    - 1
 alejandro-h-toselli:
   coauthors: []
   first: Alejandro H.
@@ -2059,17 +2074,22 @@ anh-duong-trinh:
   coauthors:
   - - robert-j-ross
     - 1
+  - - john-d-kelleher
+    - 1
+  - - robert-j-ross1
+    - 1
   - - john-kelleher
     - 1
   first: Anh Duong
   full: Anh Duong Trinh
   last: Trinh
   papers:
+  - Z18-3017
   - Z17-4030
   slug: anh-duong-trinh
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 anil-kumar-nelakanti:
   coauthors: []
   first: Anil Kumar
@@ -2396,23 +2416,32 @@ anton-batliner:
   venues: []
 anton-benz:
   coauthors:
+  - - ralf-klabunde
+    - 2
   - - jon-stevens
     - 1
   - - sebastian-reusse
     - 1
   - - ronja-laarmann-quante
     - 1
-  - - ralf-klabunde
+  - - christoph-hesse
+    - 1
+  - - maryam-mohammadi
+    - 1
+  - - maurice-langner
+    - 1
+  - - judith-fischer
     - 1
   first: Anton
   full: Anton Benz
   last: Benz
   papers:
+  - Z18-3014
   - Z14-3020
   slug: anton-benz
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 anton-karl-ingason:
   coauthors: []
   first: Anton Karl
@@ -2659,15 +2688,16 @@ arantza-diaz-de-ilarraza:
 arash-eshghi:
   coauthors:
   - - oliver-lemon
-    - 3
+    - 4
   - - igor-shalyminov
-    - 1
+    - 2
   - - yanchao-yu
     - 1
   first: Arash
   full: Arash Eshghi
   last: Eshghi
   papers:
+  - Z18-3008
   - Z17-3016
   - Z15-4028
   - Z15-4049
@@ -2675,7 +2705,7 @@ arash-eshghi:
   slug: arash-eshghi
   venues:
   - - SEMDIAL
-    - 4
+    - 5
 aravind-joshi:
   coauthors: []
   first: Aravind
@@ -3036,6 +3066,19 @@ avirup-sil:
   papers: []
   slug: avirup-sil
   venues: []
+axel-storckenfeldt:
+  coauthors:
+  - - simon-dobnik
+    - 1
+  first: Axel
+  full: Axel Storckenfeldt
+  last: Storckenfeldt
+  papers:
+  - Z18-4025
+  slug: axel-storckenfeldt
+  venues:
+  - - SEMDIAL
+    - 1
 ayisigi-b-sevdik-calli:
   coauthors: []
   first: Ayisigi B.

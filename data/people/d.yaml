@@ -62,6 +62,19 @@ damaris-ayuso:
   papers: []
   slug: damaris-ayuso
   venues: []
+damien-fleury:
+  coauthors:
+  - - lucia-tovena
+    - 1
+  first: Damien
+  full: Damien Fleury
+  last: Fleury
+  papers:
+  - Z18-3015
+  slug: damien-fleury
+  venues:
+  - - SEMDIAL
+    - 1
 damien-genthial:
   coauthors: []
   first: Damien
@@ -496,6 +509,19 @@ daniele-godard:
   papers: []
   slug: daniele-godard
   venues: []
+daniele-moro:
+  coauthors:
+  - - casey-kennington
+    - 1
+  first: Daniele
+  full: Daniele Moro
+  last: Moro
+  papers:
+  - Z18-3012
+  slug: daniele-moro
+  venues:
+  - - SEMDIAL
+    - 1
 danielle-l-mowery:
   coauthors: []
   first: Danielle L.
@@ -974,15 +1000,21 @@ david-schlangen:
   coauthors:
   - - julian-hough
     - 4
+  - - casey-kennington
+    - 4
   - - iwan-de-kok
     - 3
   - - stefan-kopp
     - 3
-  - - casey-kennington
-    - 3
   - - ting-han
-    - 2
+    - 3
   - - spyros-kousidis
+    - 2
+  - - soledad-lopez-gambino
+    - 2
+  - - sina-zarriess
+    - 2
+  - - nikolai-ilinykh
     - 2
   - - cornelia-frank
     - 1
@@ -990,18 +1022,28 @@ david-schlangen:
     - 1
   - - ye-tian
     - 1
+  - - sina-zariess
+    - 1
+  - - kazunori-komatani
+    - 1
+  - - tim-diekmann
+    - 1
+  - - sina-zarriess1
+    - 1
   - - felix-hulsmann
     - 1
   - - thomas-waltema
     - 1
   - - mario-botsch
     - 1
-  - - soledad-lopez-gambino
-    - 1
   first: David
   full: David Schlangen
   last: Schlangen
   papers:
+  - Z18-3004
+  - Z18-3018
+  - Z18-4036
+  - Z18-4037
   - Z15-3010
   - Z15-3013
   - Z15-4026
@@ -1013,7 +1055,7 @@ david-schlangen:
   slug: david-schlangen
   venues:
   - - SEMDIAL
-    - 8
+    - 12
 david-stallard:
   coauthors: []
   first: David
@@ -1066,15 +1108,24 @@ david-traum:
     - 1
   - - elnaz-nouri
     - 1
+  - - carla-gordon
+    - 1
+  - - kallirroi-georgila
+    - 1
+  - - hyungtak-choi
+    - 1
+  - - jill-boberg
+    - 1
   first: David
   full: David Traum
   last: Traum
   papers:
+  - Z18-3010
   - Z14-4044
   slug: david-traum
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 david-w-aha:
   coauthors: []
   first: David W.
@@ -1110,6 +1161,21 @@ david-yoshikazu-oshima:
   papers: []
   slug: david-yoshikazu-oshima
   venues: []
+davide-catta:
+  coauthors:
+  - - alda-mari
+    - 1
+  - - christian-retore
+    - 1
+  first: Davide
+  full: Davide Catta
+  last: Catta
+  papers:
+  - Z18-4023
+  slug: davide-catta
+  venues:
+  - - SEMDIAL
+    - 1
 davis-muhajereen-d-dimalen:
   coauthors: []
   first: Davis Muhajereen D.

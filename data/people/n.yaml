@@ -757,6 +757,26 @@ niklas-paulsson:
   papers: []
   slug: niklas-paulsson
   venues: []
+nikolai-ilinykh:
+  coauthors:
+  - - david-schlangen
+    - 2
+  - - tim-diekmann
+    - 1
+  - - sina-zarriess
+    - 1
+  - - sina-zarriess1
+    - 1
+  first: Nikolai
+  full: Nikolai Ilinykh
+  last: Ilinykh
+  papers:
+  - Z18-4036
+  - Z18-4037
+  slug: nikolai-ilinykh
+  venues:
+  - - SEMDIAL
+    - 2
 nikolay-arefyev:
   coauthors: []
   first: Nikolay

@@ -615,6 +615,28 @@ vladislav-kubon:
   papers: []
   slug: vladislav-kubon
   venues: []
+vladislav-maraev:
+  coauthors:
+  - - jonathan-ginzburg
+    - 2
+  - - chiara-mazzocconi
+    - 1
+  - - staffan-larsson
+    - 1
+  - - ye-tian
+    - 1
+  - - jean-philippe-bernardy
+    - 1
+  first: Vladislav
+  full: Vladislav Maraev
+  last: Maraev
+  papers:
+  - Z18-3005
+  - Z18-3011
+  slug: vladislav-maraev
+  venues:
+  - - SEMDIAL
+    - 2
 vlado-keselj:
   coauthors: []
   first: Vlado

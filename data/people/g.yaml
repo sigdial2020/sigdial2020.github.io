@@ -30,6 +30,35 @@ gabriel-g-bes:
   papers: []
   slug: gabriel-g-bes
   venues: []
+gabriel-gutu-robu:
+  coauthors:
+  - - raja-lala
+    - 1
+  - - johan-jeuring
+    - 1
+  - - rick-heemskerk
+    - 1
+  - - marcell-van-geest
+    - 1
+  - - jordy-van-dortmont
+    - 1
+  - - stefan-ruseti
+    - 1
+  - - mihai-dascalu
+    - 1
+  - - beatrice-alex
+    - 1
+  - - richard-tobin
+    - 1
+  first: Gabriel
+  full: Gabriel Gutu-Robu
+  last: Gutu-Robu
+  papers:
+  - Z18-4031
+  slug: gabriel-gutu-robu
+  venues:
+  - - SEMDIAL
+    - 1
 gabriel-lopes:
   coauthors: []
   first: Gabriel
@@ -1029,6 +1058,21 @@ gregers-koch:
   papers: []
   slug: gregers-koch
   venues: []
+gregoire-montcheuil:
+  coauthors:
+  - - magalie-ochs
+    - 1
+  - - philippe-blache
+    - 1
+  first: "Gr\xE9goire"
+  full: "Gr\xE9goire Montcheuil"
+  last: Montcheuil
+  papers:
+  - Z18-4035
+  slug: gregoire-montcheuil
+  venues:
+  - - SEMDIAL
+    - 1
 gregoire-moreau-de-montcheuil:
   coauthors: []
   first: "Gr\xE9goire"

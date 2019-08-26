@@ -1397,6 +1397,21 @@ shubhangi-tandon:
   venues:
   - - SEMDIAL
     - 1
+shubhashis-sengupta:
+  coauthors:
+  - - poulami-debnath
+    - 1
+  - - harshawardhan-madhukar-wabgaonkar
+    - 1
+  first: Shubhashis
+  full: Shubhashis Sengupta
+  last: Sengupta
+  papers:
+  - Z18-3006
+  slug: shubhashis-sengupta
+  venues:
+  - - SEMDIAL
+    - 1
 shuichi-itahashi:
   coauthors: []
   first: Shuichi
@@ -1567,6 +1582,8 @@ simon-dobnik:
     - 1
   - - sebastian-berlin
     - 1
+  - - axel-storckenfeldt
+    - 1
   - - amelie-astbom
     - 1
   - - christine-howes
@@ -1577,6 +1594,7 @@ simon-dobnik:
   full: Simon Dobnik
   last: Dobnik
   papers:
+  - Z18-4025
   - Z17-3005
   - Z15-3006
   - Z15-4025
@@ -1585,7 +1603,7 @@ simon-dobnik:
   slug: simon-dobnik
   venues:
   - - SEMDIAL
-    - 5
+    - 6
 simon-dobrisek:
   coauthors: []
   first: Simon
@@ -1620,6 +1638,21 @@ simon-suster:
   papers: []
   slug: simon-suster
   venues: []
+simone-fuscone:
+  coauthors:
+  - - laurent-pr-evot
+    - 1
+  - - benoit-favre
+    - 1
+  first: Simone
+  full: Simone Fuscone
+  last: Fuscone
+  papers:
+  - Z18-4026
+  slug: simone-fuscone
+  venues:
+  - - SEMDIAL
+    - 1
 simone-paolo-ponzetto:
   coauthors: []
   first: Simone Paolo
@@ -1644,14 +1677,60 @@ simonetta-montemagni:
   papers: []
   slug: simonetta-montemagni
   venues: []
+sina-zariess:
+  coauthors:
+  - - ting-han
+    - 1
+  - - kazunori-komatani
+    - 1
+  - - david-schlangen
+    - 1
+  first: Sina
+  full: Sina Zariess
+  last: Zariess
+  papers:
+  - Z18-3004
+  slug: sina-zariess
+  venues:
+  - - SEMDIAL
+    - 1
 sina-zarriess:
-  coauthors: []
+  coauthors:
+  - - david-schlangen
+    - 2
+  - - soledad-lopez-gambino
+    - 1
+  - - casey-kennington
+    - 1
+  - - tim-diekmann
+    - 1
+  - - nikolai-ilinykh
+    - 1
   first: Sina
   full: "Sina Zarrie\xDF"
   last: "Zarrie\xDF"
-  papers: []
+  papers:
+  - Z18-3018
+  - Z18-4036
   slug: sina-zarriess
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 2
+sina-zarriess1:
+  coauthors:
+  - - david-schlangen
+    - 1
+  - - nikolai-ilinykh
+    - 1
+  first: Sina
+  full: "Sina Zarrie\xDF}"
+  last: "Zarrie\xDF}"
+  papers:
+  - Z18-4037
+  slug: sina-zarriess1
+  venues:
+  - - SEMDIAL
+    - 1
 sisay-fissaha-adafre:
   coauthors: []
   first: Sisay
@@ -1727,18 +1806,21 @@ solange-oliveira-rezende:
 soledad-lopez-gambino:
   coauthors:
   - - casey-kennington
-    - 1
+    - 2
   - - david-schlangen
+    - 2
+  - - sina-zarriess
     - 1
   first: Soledad Lopez
   full: Soledad Lopez Gambino
   last: Gambino
   papers:
+  - Z18-3018
   - Z15-4036
   slug: soledad-lopez-gambino
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 solomon-teferra-abate:
   coauthors: []
   first: Solomon Teferra
@@ -2002,6 +2084,14 @@ staffan-larsson:
     - 1
   - - sebastian-berlin
     - 1
+  - - vladislav-maraev
+    - 1
+  - - jonathan-ginzburg
+    - 1
+  - - ye-tian
+    - 1
+  - - jean-philippe-bernardy
+    - 1
   - - jenny-myrendal
     - 1
   - - christine-howes
@@ -2010,6 +2100,7 @@ staffan-larsson:
   full: Staffan Larsson
   last: Larsson
   papers:
+  - Z18-3011
   - Z17-3009
   - Z15-1000
   - Z15-4037
@@ -2017,7 +2108,7 @@ staffan-larsson:
   slug: staffan-larsson
   venues:
   - - SEMDIAL
-    - 4
+    - 5
 stan-c-kwasny:
   coauthors: []
   first: Stan C.
@@ -2176,6 +2267,35 @@ stefan-rued:
   papers: []
   slug: stefan-rued
   venues: []
+stefan-ruseti:
+  coauthors:
+  - - raja-lala
+    - 1
+  - - johan-jeuring
+    - 1
+  - - rick-heemskerk
+    - 1
+  - - marcell-van-geest
+    - 1
+  - - jordy-van-dortmont
+    - 1
+  - - gabriel-gutu-robu
+    - 1
+  - - mihai-dascalu
+    - 1
+  - - beatrice-alex
+    - 1
+  - - richard-tobin
+    - 1
+  first: Stefan
+  full: Stefan Ruseti
+  last: Ruseti
+  papers:
+  - Z18-4031
+  slug: stefan-ruseti
+  venues:
+  - - SEMDIAL
+    - 1
 stefan-schulz:
   coauthors: []
   first: Stefan

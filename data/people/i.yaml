@@ -101,18 +101,19 @@ igor-melcuk:
 igor-shalyminov:
   coauthors:
   - - arash-eshghi
-    - 1
+    - 2
   - - oliver-lemon
-    - 1
+    - 2
   first: Igor
   full: Igor Shalyminov
   last: Shalyminov
   papers:
+  - Z18-3008
   - Z17-3016
   slug: igor-shalyminov
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 ihsan-yalcinkaya:
   coauthors: []
   first: Ihsan
@@ -246,13 +247,22 @@ insa-lawler:
   - - SEMDIAL
     - 1
 ioana-vasilescu:
-  coauthors: []
+  coauthors:
+  - - tanvi-dinkar
+    - 1
+  - - catherine-pelachaud
+    - 1
+  - - chloe-clavel
+    - 1
   first: Ioana
   full: Ioana Vasilescu
   last: Vasilescu
-  papers: []
+  papers:
+  - Z18-4024
   slug: ioana-vasilescu
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 ioannis-dologlou:
   coauthors: []
   first: Ioannis

@@ -103,10 +103,10 @@ olga-van-herwijnen:
   venues: []
 oliver-lemon:
   coauthors:
+  - - arash-eshghi
+    - 4
   - - verena-rieser
     - 4
-  - - arash-eshghi
-    - 3
   - - yanchao-yu
     - 3
   - - nina-dethlefs
@@ -116,6 +116,8 @@ oliver-lemon:
   - - helen-hastie
     - 2
   - - ioannis-efstathiou
+    - 2
+  - - igor-shalyminov
     - 2
   - - marie-aude-aufaure
     - 1
@@ -153,8 +155,6 @@ oliver-lemon:
     - 1
   - - zhuoran-wang
     - 1
-  - - igor-shalyminov
-    - 1
   - - simon-keizer
     - 1
   - - heriberto-cuayahuitl1
@@ -163,6 +163,7 @@ oliver-lemon:
   full: Oliver Lemon
   last: Lemon
   papers:
+  - Z18-3008
   - Z17-2001
   - Z17-3016
   - Z15-3007
@@ -177,7 +178,7 @@ oliver-lemon:
   slug: oliver-lemon
   venues:
   - - SEMDIAL
-    - 11
+    - 12
 olivia-o-y-kwong:
   coauthors: []
   first: Olivia O.Y.
@@ -236,11 +237,12 @@ olivier-pietquin:
   full: Olivier Pietquin
   last: Pietquin
   papers:
+  - Z18-2002
   - Z17-3012
   slug: olivier-pietquin
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 oliviero-stock:
   coauthors: []
   first: Oliviero

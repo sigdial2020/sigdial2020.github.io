@@ -255,8 +255,27 @@ laurent-gillard:
   papers: []
   slug: laurent-gillard
   venues: []
+laurent-pr-evot:
+  coauthors:
+  - - simone-fuscone
+    - 1
+  - - benoit-favre
+    - 1
+  first: Laurent
+  full: Laurent Pr\'evot
+  last: Pr\'evot
+  papers:
+  - Z18-4026
+  slug: laurent-pr-evot
+  venues:
+  - - SEMDIAL
+    - 1
 laurent-prevot:
   coauthors:
+  - - magalie-ochs
+    - 1
+  - - benoit-favre
+    - 1
   - - yao-yao
     - 1
   - - arnaud-gingold
@@ -269,11 +288,12 @@ laurent-prevot:
   full: "Laurent Pr\xE9vot"
   last: "Pr\xE9vot"
   papers:
+  - Z18-1000
   - Z15-4044
   slug: laurent-prevot
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 laurent-romary:
   coauthors: []
   first: Laurent
@@ -978,6 +998,19 @@ lucia-castillo:
   papers:
   - Z15-4023
   slug: lucia-castillo
+  venues:
+  - - SEMDIAL
+    - 1
+lucia-tovena:
+  coauthors:
+  - - damien-fleury
+    - 1
+  first: Lucia
+  full: Lucia Tovena
+  last: Tovena
+  papers:
+  - Z18-3015
+  slug: lucia-tovena
   venues:
   - - SEMDIAL
     - 1
