@@ -945,6 +945,8 @@ chiara-gambi:
     - 1
 chiara-mazzocconi:
   coauthors:
+  - - jonathan-ginzburg
+    - 2
   - - sam-green
     - 1
   - - ye-tian
@@ -953,18 +955,19 @@ chiara-mazzocconi:
     - 1
   - - vladislav-maraev
     - 1
-  - - jonathan-ginzburg
+  - - ye-tian1
     - 1
   first: Chiara
   full: Chiara Mazzocconi
   last: Mazzocconi
   papers:
   - Z18-3005
+  - Z16-3014
   - Z14-4043
   slug: chiara-mazzocconi
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 chih-lung-lin:
   coauthors: []
   first: Chih-Lung

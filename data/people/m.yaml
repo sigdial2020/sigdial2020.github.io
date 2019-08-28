@@ -385,6 +385,21 @@ manabu-okumura:
   papers: []
   slug: manabu-okumura
   venues: []
+mandy-simmons:
+  coauthors:
+  - - julie-hunter
+    - 1
+  - - matthew-stone
+    - 1
+  first: Mandy
+  full: Mandy Simmons
+  last: Simmons
+  papers:
+  - Z16-1000
+  slug: mandy-simmons
+  venues:
+  - - SEMDIAL
+    - 1
 mandy-simons:
   coauthors: []
   first: Mandy
@@ -2061,15 +2076,20 @@ matthew-stone:
     - 1
   - - brian-mcmahan
     - 1
+  - - julie-hunter
+    - 1
+  - - mandy-simmons
+    - 1
   first: Matthew
   full: Matthew Stone
   last: Stone
   papers:
+  - Z16-1000
   - Z14-3016
   slug: matthew-stone
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 matthew-w-bilotti:
   coauthors: []
   first: Matthew W.
@@ -2758,16 +2778,23 @@ michael-t-johnson:
   slug: michael-t-johnson
   venues: []
 michael-wagner:
-  coauthors: []
+  coauthors:
+  - - jeffrey-klassen
+    - 1
+  - - annie-tremblay
+    - 1
+  - - heather-goad
+    - 1
   first: Michael
   full: Michael Wagner
   last: Wagner
   papers:
   - Z18-2003
+  - Z16-3012
   slug: michael-wagner
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 michael-wayne-goodman:
   coauthors: []
   first: Michael Wayne

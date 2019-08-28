@@ -286,6 +286,17 @@ karsten-l-worm:
   papers: []
   slug: karsten-l-worm
   venues: []
+kata-balogh:
+  coauthors: []
+  first: Kata
+  full: Kata Balogh
+  last: Balogh
+  papers:
+  - Z16-4016
+  slug: kata-balogh
+  venues:
+  - - SEMDIAL
+    - 1
 katalin-ilona-simko:
   coauthors: []
   first: Katalin Ilona
@@ -1169,6 +1180,17 @@ koldo-gojenola:
   papers: []
   slug: koldo-gojenola
   venues: []
+kordula-de-kuthy:
+  coauthors: []
+  first: Kordula De
+  full: Kordula De Kuthy
+  last: Kuthy
+  papers:
+  - Z16-2002
+  slug: kordula-de-kuthy
+  venues:
+  - - SEMDIAL
+    - 1
 kornel-marko:
   coauthors: []
   first: "Korn\xE9l"

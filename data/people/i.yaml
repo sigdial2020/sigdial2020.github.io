@@ -274,7 +274,7 @@ ioannis-dologlou:
 ioannis-efstathiou:
   coauthors:
   - - oliver-lemon
-    - 2
+    - 3
   - - aimilios-vourliotakis
     - 1
   - - verena-rieser
@@ -283,13 +283,14 @@ ioannis-efstathiou:
   full: Ioannis Efstathiou
   last: Efstathiou
   papers:
+  - Z16-4018
   - Z15-3007
   - Z14-4025
   - Z14-4052
   slug: ioannis-efstathiou
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 ioannis-kakadiaris:
   coauthors: []
   first: Ioannis

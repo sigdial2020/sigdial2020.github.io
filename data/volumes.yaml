@@ -294,8 +294,142 @@ Z15-4:
   venues:
   - SEMDIAL
   year: '2015'
+Z16-1:
+  address: New Brunswick, NJ
+  editor:
+  - first: Julie
+    full: Julie Hunter
+    id: julie-hunter
+    last: Hunter
+  - first: Mandy
+    full: Mandy Simmons
+    id: mandy-simmons
+    last: Simmons
+  - first: Matthew
+    full: Matthew Stone
+    id: matthew-stone
+    last: Stone
+  has_abstracts: false
+  meta_date: 2016/7
+  month: July
+  papers:
+  - Z16-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 20th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  venues:
+  - SEMDIAL
+  year: '2016'
+Z16-2:
+  address: New Brunswick, NJ
+  editor:
+  - first: Julie
+    full: Julie Hunter
+    id: julie-hunter
+    last: Hunter
+  - first: Mandy
+    full: Mandy Simmons
+    id: mandy-simmons
+    last: Simmons
+  - first: Matthew
+    full: Matthew Stone
+    id: matthew-stone
+    last: Stone
+  has_abstracts: false
+  meta_date: 2016/7
+  month: July
+  papers:
+  - Z16-2001
+  - Z16-2002
+  - Z16-2003
+  - Z16-2004
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 20th Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics of
+    Dialogue - Invited Talks
+  venues:
+  - SEMDIAL
+  year: '2016'
+Z16-3:
+  address: New Brunswick, NJ
+  editor:
+  - first: Julie
+    full: Julie Hunter
+    id: julie-hunter
+    last: Hunter
+  - first: Mandy
+    full: Mandy Simmons
+    id: mandy-simmons
+    last: Simmons
+  - first: Matthew
+    full: Matthew Stone
+    id: matthew-stone
+    last: Stone
+  has_abstracts: false
+  meta_date: 2016/7
+  month: July
+  papers:
+  - Z16-3005
+  - Z16-3006
+  - Z16-3007
+  - Z16-3008
+  - Z16-3009
+  - Z16-3010
+  - Z16-3011
+  - Z16-3012
+  - Z16-3013
+  - Z16-3014
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 20th Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics of
+    Dialogue - Full Papers
+  venues:
+  - SEMDIAL
+  year: '2016'
+Z16-4:
+  address: New Brunswick, NJ
+  editor:
+  - first: Julie
+    full: Julie Hunter
+    id: julie-hunter
+    last: Hunter
+  - first: Mandy
+    full: Mandy Simmons
+    id: mandy-simmons
+    last: Simmons
+  - first: Matthew
+    full: Matthew Stone
+    id: matthew-stone
+    last: Stone
+  has_abstracts: false
+  meta_date: 2016/7
+  month: July
+  papers:
+  - Z16-4015
+  - Z16-4016
+  - Z16-4017
+  - Z16-4018
+  - Z16-4019
+  - Z16-4020
+  - Z16-4021
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 20th Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  title_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics of
+    Dialogue - Poster Abstracts
+  venues:
+  - SEMDIAL
+  year: '2016'
 Z17-1:
-  address: "Saarbr\xFCcken, Geramny"
+  address: "Saarbr\xFCcken, Germany"
   editor:
   - first: Volha
     full: Volha Petukhova
@@ -320,7 +454,7 @@ Z17-1:
   - SEMDIAL
   year: '2017'
 Z17-2:
-  address: "Saarbr\xFCcken, Geramny"
+  address: "Saarbr\xFCcken, Germany"
   editor:
   - first: Volha
     full: Volha Petukhova
@@ -347,7 +481,7 @@ Z17-2:
   - SEMDIAL
   year: '2017'
 Z17-3:
-  address: "Saarbr\xFCcken, Geramny"
+  address: "Saarbr\xFCcken, Germany"
   editor:
   - first: Volha
     full: Volha Petukhova
@@ -386,7 +520,7 @@ Z17-3:
   - SEMDIAL
   year: '2017'
 Z17-4:
-  address: "Saarbr\xFCcken, Geramny"
+  address: "Saarbr\xFCcken, Germany"
   editor:
   - first: Volha
     full: Volha Petukhova

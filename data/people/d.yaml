@@ -999,7 +999,7 @@ david-sankoff:
 david-schlangen:
   coauthors:
   - - julian-hough
-    - 4
+    - 5
   - - casey-kennington
     - 4
   - - iwan-de-kok
@@ -1044,6 +1044,8 @@ david-schlangen:
   - Z18-3018
   - Z18-4036
   - Z18-4037
+  - Z16-3008
+  - Z16-4017
   - Z15-3010
   - Z15-3013
   - Z15-4026
@@ -1055,7 +1057,7 @@ david-schlangen:
   slug: david-schlangen
   venues:
   - - SEMDIAL
-    - 12
+    - 14
 david-stallard:
   coauthors: []
   first: David

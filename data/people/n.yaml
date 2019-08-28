@@ -251,6 +251,17 @@ natalia-klyueva:
   papers: []
   slug: natalia-klyueva
   venues: []
+natalia-korotkova:
+  coauthors: []
+  first: Natalia
+  full: Natalia Korotkova
+  last: Korotkova
+  papers:
+  - Z16-3011
+  slug: natalia-korotkova
+  venues:
+  - - SEMDIAL
+    - 1
 natalia-loukachevitch:
   coauthors: []
   first: Natalia
@@ -527,6 +538,12 @@ nicholas-asher:
     - 1
   - - cedric-degremont
     - 1
+  - - soumya-paul
+    - 1
+  - - julian-j-schloder
+    - 1
+  - - antoine-venant1
+    - 1
   - - julie-hunter
     - 1
   - - eric-kow
@@ -535,13 +552,15 @@ nicholas-asher:
   full: Nicholas Asher
   last: Asher
   papers:
+  - Z16-3010
+  - Z16-4020
   - Z15-3014
   - Z14-3019
   - Z14-3021
   slug: nicholas-asher
   venues:
   - - SEMDIAL
-    - 3
+    - 5
 nicholas-j-haddock:
   coauthors: []
   first: Nicholas J.
@@ -746,9 +765,16 @@ nigel-ward:
   first: Nigel
   full: Nigel Ward
   last: Ward
-  papers: []
+  papers:
+  - Z16-2003
   slug: nigel-ward
-  venues: []
+  variant_entries:
+  - first: Nigel G.
+    full: Nigel G. Ward
+    last: Ward
+  venues:
+  - - SEMDIAL
+    - 1
 niklas-paulsson:
   coauthors: []
   first: Niklas

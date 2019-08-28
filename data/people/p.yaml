@@ -954,6 +954,17 @@ peteris-paikens:
   papers: []
   slug: peteris-paikens
   venues: []
+petr-babkin:
+  coauthors: []
+  first: Petr
+  full: Petr Babkin
+  last: Babkin
+  papers:
+  - Z16-4015
+  slug: petr-babkin
+  venues:
+  - - SEMDIAL
+    - 1
 petr-jirku:
   coauthors: []
   first: Petr
@@ -1018,6 +1029,17 @@ phil-c-woodland:
   papers: []
   slug: phil-c-woodland
   venues: []
+phil-crone:
+  coauthors: []
+  first: Phil
+  full: Phil Crone
+  last: Crone
+  papers:
+  - Z16-3013
+  slug: phil-crone
+  venues:
+  - - SEMDIAL
+    - 1
 phil-harrison:
   coauthors: []
   first: Phil

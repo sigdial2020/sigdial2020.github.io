@@ -104,18 +104,18 @@ olga-van-herwijnen:
 oliver-lemon:
   coauthors:
   - - arash-eshghi
-    - 4
+    - 5
+  - - yanchao-yu
+    - 5
   - - verena-rieser
     - 4
-  - - yanchao-yu
+  - - ioannis-efstathiou
     - 3
   - - nina-dethlefs
     - 2
   - - heriberto-cuayahuitl
     - 2
   - - helen-hastie
-    - 2
-  - - ioannis-efstathiou
     - 2
   - - igor-shalyminov
     - 2
@@ -155,6 +155,8 @@ oliver-lemon:
     - 1
   - - zhuoran-wang
     - 1
+  - - arash-eshghi1
+    - 1
   - - simon-keizer
     - 1
   - - heriberto-cuayahuitl1
@@ -166,6 +168,9 @@ oliver-lemon:
   - Z18-3008
   - Z17-2001
   - Z17-3016
+  - Z16-3009
+  - Z16-4018
+  - Z16-4021
   - Z15-3007
   - Z15-3015
   - Z15-4049
@@ -178,7 +183,7 @@ oliver-lemon:
   slug: oliver-lemon
   venues:
   - - SEMDIAL
-    - 12
+    - 15
 olivia-o-y-kwong:
   coauthors: []
   first: Olivia O.Y.

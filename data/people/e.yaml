@@ -484,6 +484,17 @@ elisabeth-andre:
   venues:
   - - SEMDIAL
     - 1
+elisabeth-camp:
+  coauthors: []
+  first: Elisabeth
+  full: Elisabeth Camp
+  last: Camp
+  papers:
+  - Z16-2004
+  slug: elisabeth-camp
+  venues:
+  - - SEMDIAL
+    - 1
 elisabeth-delais-roussarie:
   coauthors: []
   first: Elisabeth
@@ -595,6 +606,10 @@ ellen-breitholtz:
   coauthors:
   - - robin-cooper
     - 1
+  - - julian-j-schloder
+    - 1
+  - - raquel-fernandez
+    - 1
   - - christine-howes
     - 1
   first: Ellen
@@ -602,11 +617,12 @@ ellen-breitholtz:
   last: Breitholtz
   papers:
   - Z18-4022
+  - Z16-3005
   - Z15-4022
   slug: ellen-breitholtz
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 ellen-campana:
   coauthors: []
   first: Ellen

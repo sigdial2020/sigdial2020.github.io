@@ -2335,6 +2335,23 @@ annick-corluy:
   papers: []
   slug: annick-corluy
   venues: []
+annie-tremblay:
+  coauthors:
+  - - jeffrey-klassen
+    - 1
+  - - michael-wagner
+    - 1
+  - - heather-goad
+    - 1
+  first: Annie
+  full: Annie Tremblay,
+  last: Tremblay,
+  papers:
+  - Z16-3012
+  slug: annie-tremblay
+  venues:
+  - - SEMDIAL
+    - 1
 ansaf-salleb-aouissi:
   coauthors: []
   first: Ansaf
@@ -2406,6 +2423,21 @@ antoine-venant:
   venues:
   - - SEMDIAL
     - 1
+antoine-venant1:
+  coauthors:
+  - - julian-j-schloder
+    - 1
+  - - nicholas-asher
+    - 1
+  first: Antoine
+  full: Antoine Venant,
+  last: Venant,
+  papers:
+  - Z16-4020
+  slug: antoine-venant1
+  venues:
+  - - SEMDIAL
+    - 1
 anton-batliner:
   coauthors: []
   first: Anton
@@ -2417,10 +2449,10 @@ anton-batliner:
 anton-benz:
   coauthors:
   - - ralf-klabunde
+    - 3
+  - - sebastian-reusse
     - 2
   - - jon-stevens
-    - 1
-  - - sebastian-reusse
     - 1
   - - ronja-laarmann-quante
     - 1
@@ -2432,16 +2464,19 @@ anton-benz:
     - 1
   - - judith-fischer
     - 1
+  - - jon-stevens1
+    - 1
   first: Anton
   full: Anton Benz
   last: Benz
   papers:
   - Z18-3014
+  - Z16-4019
   - Z14-3020
   slug: anton-benz
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 anton-karl-ingason:
   coauthors: []
   first: Anton Karl
@@ -2688,24 +2723,40 @@ arantza-diaz-de-ilarraza:
 arash-eshghi:
   coauthors:
   - - oliver-lemon
-    - 4
+    - 5
   - - igor-shalyminov
     - 2
   - - yanchao-yu
-    - 1
+    - 2
   first: Arash
   full: Arash Eshghi
   last: Eshghi
   papers:
   - Z18-3008
   - Z17-3016
+  - Z16-3009
   - Z15-4028
   - Z15-4049
   - Z14-3010
   slug: arash-eshghi
   venues:
   - - SEMDIAL
-    - 5
+    - 6
+arash-eshghi1:
+  coauthors:
+  - - yanchao-yu
+    - 1
+  - - oliver-lemon
+    - 1
+  first: Arash
+  full: Arash Eshghi,
+  last: Eshghi,
+  papers:
+  - Z16-4021
+  slug: arash-eshghi1
+  venues:
+  - - SEMDIAL
+    - 1
 aravind-joshi:
   coauthors: []
   first: Aravind
@@ -2818,6 +2869,19 @@ arnaud-gingold:
   papers:
   - Z15-4044
   slug: arnaud-gingold
+  venues:
+  - - SEMDIAL
+    - 1
+arndt-riester:
+  coauthors:
+  - - suwe-reyle
+    - 1
+  first: Arndt
+  full: Arndt Riester
+  last: Riester
+  papers:
+  - Z16-3006
+  slug: arndt-riester
   venues:
   - - SEMDIAL
     - 1

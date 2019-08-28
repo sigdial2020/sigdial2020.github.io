@@ -704,23 +704,26 @@ sebastian-pena-saldarriaga:
   venues: []
 sebastian-reusse:
   coauthors:
-  - - jon-stevens
-    - 1
   - - anton-benz
+    - 2
+  - - ralf-klabunde
+    - 2
+  - - jon-stevens
     - 1
   - - ronja-laarmann-quante
     - 1
-  - - ralf-klabunde
+  - - jon-stevens1
     - 1
   first: Sebastian
   full: "Sebastian Reu\xDFe"
   last: "Reu\xDFe"
   papers:
+  - Z16-4019
   - Z14-3020
   slug: sebastian-reusse
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 sebastian-stuker:
   coauthors: []
   first: Sebastian
@@ -1575,7 +1578,7 @@ simon-de-deyne:
 simon-dobnik:
   coauthors:
   - - john-kelleher
-    - 2
+    - 3
   - - christos-koniaris
     - 1
   - - staffan-larsson
@@ -1596,6 +1599,7 @@ simon-dobnik:
   papers:
   - Z18-4025
   - Z17-3005
+  - Z16-3007
   - Z15-3006
   - Z15-4025
   - Z14-3009
@@ -1603,7 +1607,7 @@ simon-dobnik:
   slug: simon-dobnik
   venues:
   - - SEMDIAL
-    - 6
+    - 7
 simon-dobrisek:
   coauthors: []
   first: Simon
@@ -1942,6 +1946,19 @@ soumil-mandal:
   papers: []
   slug: soumil-mandal
   venues: []
+soumya-paul:
+  coauthors:
+  - - nicholas-asher
+    - 1
+  first: Soumya
+  full: Soumya Paul
+  last: Paul
+  papers:
+  - Z16-3010
+  slug: soumya-paul
+  venues:
+  - - SEMDIAL
+    - 1
 soumya-sankar-ghosh:
   coauthors: []
   first: Soumya Sankar
@@ -3053,6 +3070,19 @@ susumu-akamine:
   papers: []
   slug: susumu-akamine
   venues: []
+suwe-reyle:
+  coauthors:
+  - - arndt-riester
+    - 1
+  first: Suwe
+  full: Suwe Reyle
+  last: Reyle
+  papers:
+  - Z16-3006
+  slug: suwe-reyle
+  venues:
+  - - SEMDIAL
+    - 1
 suzan-uskudarli:
   coauthors: []
   first: Suzan

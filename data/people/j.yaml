@@ -964,6 +964,23 @@ jeff-bilmes:
   papers: []
   slug: jeff-bilmes
   venues: []
+jeffrey-klassen:
+  coauthors:
+  - - michael-wagner
+    - 1
+  - - annie-tremblay
+    - 1
+  - - heather-goad
+    - 1
+  first: Jeffrey
+  full: Jeffrey Klassen
+  last: Klassen
+  papers:
+  - Z16-3012
+  slug: jeffrey-klassen
+  venues:
+  - - SEMDIAL
+    - 1
 jeffrey-p-bigham:
   coauthors: []
   first: Jeffrey P.
@@ -2081,7 +2098,7 @@ john-keane:
 john-kelleher:
   coauthors:
   - - simon-dobnik
-    - 2
+    - 3
   - - christos-koniaris
     - 1
   - - niels-schuette
@@ -2099,6 +2116,7 @@ john-kelleher:
   last: Kelleher
   papers:
   - Z17-4030
+  - Z16-3007
   - Z15-3006
   - Z14-3009
   - Z14-4049
@@ -2109,7 +2127,7 @@ john-kelleher:
     last: Kelleher
   venues:
   - - SEMDIAL
-    - 4
+    - 5
 john-l-beaven:
   coauthors: []
   first: John L.
@@ -2233,6 +2251,17 @@ john-wilkerson:
   papers: []
   slug: john-wilkerson
   venues: []
+johnathan-ginzburg:
+  coauthors: []
+  first: Johnathan
+  full: Johnathan Ginzburg
+  last: Ginzburg
+  papers:
+  - Z16-2001
+  slug: johnathan-ginzburg
+  venues:
+  - - SEMDIAL
+    - 1
 jon-m-slack:
   coauthors: []
   first: Jon M.
@@ -2303,6 +2332,23 @@ jon-stevens:
   venues:
   - - SEMDIAL
     - 1
+jon-stevens1:
+  coauthors:
+  - - sebastian-reusse
+    - 1
+  - - ralf-klabunde
+    - 1
+  - - anton-benz
+    - 1
+  first: Jon
+  full: Jon Stevens,
+  last: Stevens,
+  papers:
+  - Z16-4019
+  slug: jon-stevens1
+  venues:
+  - - SEMDIAL
+    - 1
 jonathan-allen:
   coauthors: []
   first: Jonathan
@@ -2331,6 +2377,8 @@ jonathan-ginzburg:
   coauthors:
   - - ye-tian
     - 3
+  - - chiara-mazzocconi
+    - 2
   - - vladislav-maraev
     - 2
   - - kwong-cheong-wong
@@ -2341,11 +2389,11 @@ jonathan-ginzburg:
     - 1
   - - julian-hough
     - 1
-  - - chiara-mazzocconi
-    - 1
   - - staffan-larsson
     - 1
   - - jean-philippe-bernardy
+    - 1
+  - - ye-tian1
     - 1
   - - claire-beyssade
     - 1
@@ -2358,6 +2406,7 @@ jonathan-ginzburg:
   - Z18-3005
   - Z18-3011
   - Z18-3019
+  - Z16-3014
   - Z15-3020
   - Z15-4048
   - Z14-3017
@@ -2365,7 +2414,7 @@ jonathan-ginzburg:
   slug: jonathan-ginzburg
   venues:
   - - SEMDIAL
-    - 7
+    - 8
 jonathan-h-clark:
   coauthors: []
   first: Jonathan H.
@@ -3096,7 +3145,7 @@ julia-otmakhova:
 julian-hough:
   coauthors:
   - - david-schlangen
-    - 4
+    - 5
   - - iwan-de-kok
     - 3
   - - stefan-kopp
@@ -3133,6 +3182,7 @@ julian-hough:
   papers:
   - Z18-3016
   - Z18-4027
+  - Z16-4017
   - Z15-3013
   - Z15-4026
   - Z14-3013
@@ -3141,7 +3191,7 @@ julian-hough:
   slug: julian-hough
   venues:
   - - SEMDIAL
-    - 7
+    - 8
 julian-j-odell:
   coauthors: []
   first: Julian J.
@@ -3153,6 +3203,12 @@ julian-j-odell:
 julian-j-schloder:
   coauthors:
   - - raquel-fernandez
+    - 2
+  - - ellen-breitholtz
+    - 1
+  - - antoine-venant1
+    - 1
+  - - nicholas-asher
     - 1
   - - alex-lascarides
     - 1
@@ -3160,6 +3216,8 @@ julian-j-schloder:
   full: "Julian J. Schl\xF6der"
   last: "Schl\xF6der"
   papers:
+  - Z16-3005
+  - Z16-4020
   - Z15-3018
   - Z14-4047
   slug: julian-j-schloder
@@ -3169,7 +3227,7 @@ julian-j-schloder:
     last: "Schl\xF6der"
   venues:
   - - SEMDIAL
-    - 2
+    - 4
 julian-moreno-schneider:
   coauthors: []
   first: Julian
@@ -3241,6 +3299,10 @@ julie-e-boland:
   venues: []
 julie-hunter:
   coauthors:
+  - - mandy-simmons
+    - 1
+  - - matthew-stone
+    - 1
   - - nicholas-asher
     - 1
   - - eric-kow
@@ -3253,11 +3315,12 @@ julie-hunter:
   full: Julie Hunter
   last: Hunter
   papers:
+  - Z16-1000
   - Z15-3014
   slug: julie-hunter
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 julien-deriviere:
   coauthors: []
   first: Julien

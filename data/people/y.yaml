@@ -65,8 +65,10 @@ yan-zuo-zhou:
 yanchao-yu:
   coauthors:
   - - oliver-lemon
-    - 3
+    - 5
   - - verena-rieser
+    - 2
+  - - arash-eshghi
     - 2
   - - helen-hastie
     - 1
@@ -106,19 +108,21 @@ yanchao-yu:
     - 1
   - - andy-taylor
     - 1
-  - - arash-eshghi
+  - - arash-eshghi1
     - 1
   first: Yanchao
   full: Yanchao Yu
   last: Yu
   papers:
+  - Z16-3009
+  - Z16-4021
   - Z15-4049
   - Z14-4031
   - Z14-4046
   slug: yanchao-yu
   venues:
   - - SEMDIAL
-    - 3
+    - 5
 yang-liu:
   coauthors: []
   comment: May refer to several people
@@ -394,6 +398,21 @@ ye-tian:
   venues:
   - - SEMDIAL
     - 5
+ye-tian1:
+  coauthors:
+  - - chiara-mazzocconi
+    - 1
+  - - jonathan-ginzburg
+    - 1
+  first: Ye
+  full: Ye Tian,
+  last: Tian,
+  papers:
+  - Z16-3014
+  slug: ye-tian1
+  venues:
+  - - SEMDIAL
+    - 1
 yen-lu-chow:
   coauthors: []
   first: Yen-Lu

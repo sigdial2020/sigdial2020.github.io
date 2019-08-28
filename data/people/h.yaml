@@ -484,6 +484,23 @@ he-yan-huang:
   papers: []
   slug: he-yan-huang
   venues: []
+heather-goad:
+  coauthors:
+  - - jeffrey-klassen
+    - 1
+  - - michael-wagner
+    - 1
+  - - annie-tremblay
+    - 1
+  first: Heather
+  full: Heather Goad
+  last: Goad
+  papers:
+  - Z16-3012
+  slug: heather-goad
+  venues:
+  - - SEMDIAL
+    - 1
 heather-horsfall:
   coauthors: []
   first: Heather
