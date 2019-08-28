@@ -725,6 +725,8 @@ ellen-breitholtz:
     - 1
   - - raquel-fernandez
     - 1
+  - - kristina-lundholm-fors
+    - 1
   - - christine-howes
     - 1
   first: Ellen
@@ -734,11 +736,12 @@ ellen-breitholtz:
   - Z19-3016
   - Z18-4022
   - Z16-3005
+  - Z16-4017
   - Z15-4022
   slug: ellen-breitholtz
   venues:
   - - SEMDIAL
-    - 4
+    - 5
 ellen-campana:
   coauthors: []
   first: Ellen

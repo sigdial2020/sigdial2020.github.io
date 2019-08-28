@@ -120,13 +120,13 @@ oliver-lemon:
     - 5
   - - verena-rieser
     - 4
-  - - ioannis-efstathiou
-    - 3
   - - nina-dethlefs
     - 2
   - - heriberto-cuayahuitl
     - 2
   - - helen-hastie
+    - 2
+  - - ioannis-efstathiou
     - 2
   - - igor-shalyminov
     - 2
@@ -180,7 +180,6 @@ oliver-lemon:
   - Z17-2001
   - Z17-3016
   - Z16-3009
-  - Z16-4018
   - Z16-4021
   - Z15-3007
   - Z15-3015
@@ -194,7 +193,7 @@ oliver-lemon:
   slug: oliver-lemon
   venues:
   - - SEMDIAL
-    - 15
+    - 14
 olivia-o-y-kwong:
   coauthors: []
   first: Olivia O.Y.

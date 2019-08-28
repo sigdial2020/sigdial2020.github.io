@@ -387,15 +387,15 @@ Z16-4016:
 Z16-4017:
   address: New Brunswick, NJ
   author:
-  - first: Julian
-    full: Julian Hough
-    id: julian-hough
-    last: Hough
-  - first: David
-    full: David Schlangen
-    id: david-schlangen
-    last: Schlangen
-  bibkey: hough-schlangen-2016-mocking
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  - first: Kristina Lundholm
+    full: Kristina Lundholm Fors
+    id: kristina-lundholm-fors
+    last: Fors
+  bibkey: breitholtz-fors-2016-mocking
   bibtype: inproceedings
   booktitle_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics
     of Dialogue - Poster Abstracts
@@ -410,15 +410,15 @@ Z16-4017:
 Z16-4018:
   address: New Brunswick, NJ
   author:
-  - first: Ioannis
-    full: Ioannis Efstathiou
-    id: ioannis-efstathiou
-    last: Efstathiou
-  - first: Oliver
-    full: Oliver Lemon
-    id: oliver-lemon
-    last: Lemon
-  bibkey: efstathiou-lemon-2016-pentorob
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  bibkey: hough-schlangen-2016-pentorob
   bibtype: inproceedings
   booktitle_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics
     of Dialogue - Poster Abstracts

@@ -1321,6 +1321,19 @@ kristiina-jokinen:
   papers: []
   slug: kristiina-jokinen
   venues: []
+kristina-lundholm-fors:
+  coauthors:
+  - - ellen-breitholtz
+    - 1
+  first: Kristina Lundholm
+  full: Kristina Lundholm Fors
+  last: Fors
+  papers:
+  - Z16-4017
+  slug: kristina-lundholm-fors
+  venues:
+  - - SEMDIAL
+    - 1
 kristina-nilsson-bjorkenstam:
   coauthors: []
   first: Kristina
