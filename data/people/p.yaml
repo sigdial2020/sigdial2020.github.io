@@ -311,14 +311,14 @@ patrick-healey:
   - Z15-3005
   slug: patrick-healey
   variant_entries:
-  - first: Patrick G. T.
-    full: Patrick G. T. Healey
-    last: Healey
   - first: Pat
     full: Pat Healey
     last: Healey
   - first: Patrick G.T.
     full: Patrick G.T. Healey
+    last: Healey
+  - first: Patrick G. T.
+    full: Patrick G. T. Healey
     last: Healey
   venues:
   - - SEMDIAL
@@ -1189,6 +1189,21 @@ pi-chuan-chang:
   papers: []
   slug: pi-chuan-chang
   venues: []
+pia-knoeferle:
+  coauthors:
+  - - dato-abashidze
+    - 1
+  - - maria-nella-carminati
+    - 1
+  first: Pia
+  full: Pia Knoeferle
+  last: Knoeferle
+  papers:
+  - Z13-4021
+  slug: pia-knoeferle
+  venues:
+  - - SEMDIAL
+    - 1
 piercarlo-rossi:
   coauthors: []
   first: Piercarlo
@@ -1414,6 +1429,21 @@ po-yu-liang:
   papers: []
   slug: po-yu-liang
   venues: []
+pontus-warnestal:
+  coauthors:
+  - - fredrik-kronlid
+    - 1
+  - - staffan-larsson
+    - 1
+  first: Pontus
+  full: "Pontus W\xE4rnest\xE5l"
+  last: "W\xE4rnest\xE5l"
+  papers:
+  - Z13-4035
+  slug: pontus-warnestal
+  venues:
+  - - SEMDIAL
+    - 1
 poul-soren-kjaersgaard:
   coauthors: []
   first: "Poul S\xF8ren"

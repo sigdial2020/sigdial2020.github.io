@@ -6,6 +6,23 @@ u-rohini:
   papers: []
   slug: u-rohini
   venues: []
+udo-klein:
+  coauthors:
+  - - hannes-rieser
+    - 1
+  - - florian-hahn
+    - 1
+  - - insa-lawler
+    - 1
+  first: Udo
+  full: Udo Klein
+  last: Klein
+  papers:
+  - Z13-4034
+  slug: udo-klein
+  venues:
+  - - SEMDIAL
+    - 1
 udo-kruschwitz:
   coauthors: []
   first: Udo
@@ -133,3 +150,16 @@ uwe-reichel:
   papers: []
   slug: uwe-reichel
   venues: []
+uwe-reyle:
+  coauthors:
+  - - cristel-portes
+    - 1
+  first: Uwe
+  full: Uwe Reyle
+  last: Reyle
+  papers:
+  - Z13-4043
+  slug: uwe-reyle
+  venues:
+  - - SEMDIAL
+    - 1

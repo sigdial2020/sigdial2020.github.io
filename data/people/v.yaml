@@ -195,6 +195,12 @@ verena-rieser:
     - 1
   - - simon-keizer
     - 1
+  - - markus-guhe
+    - 1
+  - - alex-lascarides
+    - 1
+  - - kevin-o-connor
+    - 1
   first: Verena
   full: Verena Rieser
   last: Rieser
@@ -208,10 +214,11 @@ verena-rieser:
   - Z14-4046
   - Z14-4050
   - Z14-4052
+  - Z13-3012
   slug: verena-rieser
   venues:
   - - SEMDIAL
-    - 9
+    - 10
 verginica-barbu-mititelu:
   coauthors: []
   first: Verginica
@@ -589,15 +596,22 @@ vivien-mast:
     - 1
   - - mohammad-fazleh-elahi
     - 1
+  - - christina-freihorst
+    - 1
+  - - simon-algorta
+    - 1
+  - - robert-porzel
+    - 1
   first: Vivien
   full: Vivien Mast
   last: Mast
   papers:
   - Z14-4042
+  - Z13-3009
   slug: vivien-mast
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 vladimir-kadlec:
   coauthors: []
   first: "Vladim\xEDr"

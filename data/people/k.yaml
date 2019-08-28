@@ -289,6 +289,21 @@ karsten-l-worm:
   papers: []
   slug: karsten-l-worm
   venues: []
+karsten-weihe:
+  coauthors:
+  - - daniel-maurer
+    - 1
+  - - anna-bruns
+    - 1
+  first: Karsten
+  full: Karsten Weihe
+  last: Weihe
+  papers:
+  - Z13-3014
+  slug: karsten-weihe
+  venues:
+  - - SEMDIAL
+    - 1
 kata-balogh:
   coauthors: []
   first: Kata
@@ -348,6 +363,40 @@ katharina-boesefeldt:
   papers: []
   slug: katharina-boesefeldt
   venues: []
+katharina-j-rohlfing:
+  coauthors:
+  - - anna-lisa-vollmer
+    - 1
+  - - manuel-muhlig
+    - 1
+  - - britta-wrede
+    - 1
+  - - angelo-cangelosi
+    - 1
+  first: Katharina J.
+  full: Katharina J. Rohlfing
+  last: Rohlfing
+  papers:
+  - Z13-4046
+  slug: katharina-j-rohlfing
+  venues:
+  - - SEMDIAL
+    - 1
+katharina-rohlfing:
+  coauthors:
+  - - juana-salas-poblete
+    - 1
+  - - frank-joublin
+    - 1
+  first: Katharina
+  full: Katharina Rohlfing
+  last: Rohlfing
+  papers:
+  - Z13-3016
+  slug: katharina-rohlfing
+  venues:
+  - - SEMDIAL
+    - 1
 katharina-waschle:
   coauthors: []
   first: Katharina
@@ -457,15 +506,15 @@ katsumasa-shimizu:
 katsuya-takanashi:
   coauthors:
   - - yasuhiro-katagiri
-    - 4
+    - 5
   - - masato-ishizaki
-    - 3
+    - 4
   - - mika-enomoto
-    - 3
+    - 4
   - - yasuharu-den
-    - 3
+    - 4
   - - shogo-okada
-    - 1
+    - 2
   first: Katsuya
   full: Katsuya Takanashi
   last: Takanashi
@@ -474,10 +523,11 @@ katsuya-takanashi:
   - Z17-4020
   - Z15-4034
   - Z14-4034
+  - Z13-4032
   slug: katsuya-takanashi
   venues:
   - - SEMDIAL
-    - 4
+    - 5
 kavi-mahesh:
   coauthors: []
   first: Kavi
@@ -796,20 +846,21 @@ kenneth-s-bogh:
 kenny-coventry:
   coauthors:
   - - gesa-schole
-    - 1
+    - 2
   - - thora-tenbrink
-    - 1
+    - 2
   - - elena-andonova
-    - 1
+    - 2
   first: Kenny
   full: Kenny Coventry
   last: Coventry
   papers:
   - Z14-4048
+  - Z13-4045
   slug: kenny-coventry
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 kenny-smith:
   coauthors:
   - - lucia-castillo
@@ -913,6 +964,23 @@ kevin-mctait:
   papers: []
   slug: kevin-mctait
   venues: []
+kevin-o-connor:
+  coauthors:
+  - - markus-guhe
+    - 1
+  - - alex-lascarides
+    - 1
+  - - verena-rieser
+    - 1
+  first: Kevin
+  full: Kevin O'Connor
+  last: O'Connor
+  papers:
+  - Z13-3012
+  slug: kevin-o-connor
+  venues:
+  - - SEMDIAL
+    - 1
 key-sun-choi:
   coauthors: []
   first: Key-Sun
@@ -1278,13 +1346,22 @@ kristine-levane-petrova:
   slug: kristine-levane-petrova
   venues: []
 kristy-boyer:
-  coauthors: []
+  coauthors:
+  - - christopher-fox
+    - 1
   first: Kristy
   full: Kristy Boyer
   last: Boyer
-  papers: []
+  papers:
+  - Z13-4026
   slug: kristy-boyer
-  venues: []
+  variant_entries:
+  - first: Kristy Elizabeth
+    full: Kristy Elizabeth Boyer
+    last: Boyer
+  venues:
+  - - SEMDIAL
+    - 1
 krzysztof-kochut:
   coauthors: []
   first: Krzysztof

@@ -133,6 +133,23 @@ ik-hwan-lee:
   papers: []
   slug: ik-hwan-lee
   venues: []
+ilaria-baroni:
+  coauthors:
+  - - ivana-kruijff-korbayova
+    - 1
+  - - bernd-kiefer
+    - 1
+  - - mattia-coti-zelati
+    - 1
+  first: Ilaria
+  full: Ilaria Baroni
+  last: Baroni
+  papers:
+  - Z13-4036
+  slug: ilaria-baroni
+  venues:
+  - - SEMDIAL
+    - 1
 ilknur-durgar-el-kahlout:
   coauthors: []
   first: Ilknur
@@ -237,18 +254,21 @@ inmaculada-hernaez:
 insa-lawler:
   coauthors:
   - - florian-hahn
-    - 1
+    - 2
   - - hannes-rieser
+    - 2
+  - - udo-klein
     - 1
   first: Insa
   full: Insa Lawler
   last: Lawler
   papers:
   - Z14-4029
+  - Z13-4034
   slug: insa-lawler
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 ioana-vasilescu:
   coauthors:
   - - tanvi-dinkar
@@ -589,19 +609,24 @@ ivan-obradovic:
   venues: []
 ivana-kruijff-korbayova:
   coauthors:
-  - - stefania-racioppa
-    - 1
   - - bernd-kiefer
+    - 2
+  - - stefania-racioppa
     - 1
   - - elettra-oleari
     - 1
   - - clara-pozzi
+    - 1
+  - - ilaria-baroni
+    - 1
+  - - mattia-coti-zelati
     - 1
   first: Ivana
   full: "Ivana Kruijff-Korbayov\xE1"
   last: "Kruijff-Korbayov\xE1"
   papers:
   - Z14-3014
+  - Z13-4036
   slug: ivana-kruijff-korbayova
   variant_entries:
   - first: Ivana
@@ -609,7 +634,7 @@ ivana-kruijff-korbayova:
     last: Kruijff-Korbayova
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 ivandre-paraboni:
   coauthors: []
   first: "Ivandr\xE9"

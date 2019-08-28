@@ -1,3 +1,146 @@
+Z13-1:
+  address: Amsterdam, The Netherlands
+  editor:
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  - first: Amy
+    full: Amy Isard
+    id: amy-isard
+    last: Isard
+  has_abstracts: false
+  meta_date: 2013/12
+  month: December
+  papers:
+  - Z13-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  venues:
+  - SEMDIAL
+  year: '2013'
+Z13-2:
+  address: Amsterdam, The Netherlands
+  editor:
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  - first: Amy
+    full: Amy Isard
+    id: amy-isard
+    last: Isard
+  has_abstracts: false
+  meta_date: 2013/12
+  month: December
+  papers:
+  - Z13-2001
+  - Z13-2002
+  - Z13-2003
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics of
+    Dialogue - Invited Talks
+  venues:
+  - SEMDIAL
+  year: '2013'
+Z13-3:
+  address: Amsterdam, The Netherlands
+  editor:
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  - first: Amy
+    full: Amy Isard
+    id: amy-isard
+    last: Isard
+  has_abstracts: false
+  meta_date: 2013/12
+  month: December
+  papers:
+  - Z13-3004
+  - Z13-3005
+  - Z13-3006
+  - Z13-3007
+  - Z13-3008
+  - Z13-3009
+  - Z13-3010
+  - Z13-3011
+  - Z13-3012
+  - Z13-3013
+  - Z13-3014
+  - Z13-3015
+  - Z13-3016
+  - Z13-3017
+  - Z13-3018
+  - Z13-3019
+  - Z13-3020
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics of
+    Dialogue - Full Papers
+  venues:
+  - SEMDIAL
+  year: '2013'
+Z13-4:
+  address: Amsterdam, The Netherlands
+  editor:
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  - first: Amy
+    full: Amy Isard
+    id: amy-isard
+    last: Isard
+  has_abstracts: false
+  meta_date: 2013/12
+  month: December
+  papers:
+  - Z13-4021
+  - Z13-4022
+  - Z13-4023
+  - Z13-4024
+  - Z13-4025
+  - Z13-4026
+  - Z13-4027
+  - Z13-4028
+  - Z13-4029
+  - Z13-4030
+  - Z13-4031
+  - Z13-4032
+  - Z13-4033
+  - Z13-4034
+  - Z13-4035
+  - Z13-4036
+  - Z13-4037
+  - Z13-4038
+  - Z13-4039
+  - Z13-4040
+  - Z13-4041
+  - Z13-4042
+  - Z13-4043
+  - Z13-4044
+  - Z13-4045
+  - Z13-4046
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  title_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics of
+    Dialogue - Poster Abstracts
+  venues:
+  - SEMDIAL
+  year: '2013'
 Z14-1:
   address: Edinburgh, United Kingdom
   editor:

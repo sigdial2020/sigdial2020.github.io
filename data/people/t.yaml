@@ -262,6 +262,17 @@ tangqiu-li:
   papers: []
   slug: tangqiu-li
   venues: []
+tania-rojas-esponda:
+  coauthors: []
+  first: Tania
+  full: Tania Rojas-Esponda
+  last: Rojas-Esponda
+  papers:
+  - Z13-3017
+  slug: tania-rojas-esponda
+  venues:
+  - - SEMDIAL
+    - 1
 tanja-samardzic:
   coauthors: []
   first: Tanja
@@ -625,20 +636,21 @@ thomas-wasow:
 thora-tenbrink:
   coauthors:
   - - gesa-schole
-    - 1
+    - 2
   - - kenny-coventry
-    - 1
+    - 2
   - - elena-andonova
-    - 1
+    - 2
   first: Thora
   full: Thora Tenbrink
   last: Tenbrink
   papers:
   - Z14-4048
+  - Z13-4045
   slug: thora-tenbrink
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 thoudam-doren-singh:
   coauthors: []
   first: Thoudam Doren
@@ -1070,6 +1082,23 @@ tomoki-toda:
   papers: []
   slug: tomoki-toda
   venues: []
+tomoko-endo:
+  coauthors:
+  - - yasunari-harada
+    - 1
+  - - mayumi-kawamura
+    - 1
+  - - daisuke-yokomori
+    - 1
+  first: Tomoko
+  full: Tomoko Endo
+  last: Endo
+  papers:
+  - Z13-4030
+  slug: tomoko-endo
+  venues:
+  - - SEMDIAL
+    - 1
 ton-van-der-wouden:
   coauthors: []
   first: Ton

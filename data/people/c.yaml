@@ -128,16 +128,21 @@ carl-pollard:
 carl-vogel:
   coauthors:
   - - emer-gilmartin
+    - 2
+  - - francesca-bonin
+    - 1
+  - - nick-campbell
     - 1
   first: Carl
   full: Carl Vogel
   last: Vogel
   papers:
   - Z19-4023
+  - Z13-4028
   slug: carl-vogel
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 carla-gordon:
   coauthors:
   - - david-traum
@@ -1405,6 +1410,23 @@ christian-stab:
   venues:
   - - SEMDIAL
     - 1
+christina-freihorst:
+  coauthors:
+  - - simon-algorta
+    - 1
+  - - vivien-mast
+    - 1
+  - - robert-porzel
+    - 1
+  first: Christina
+  full: Christina Freihorst
+  last: Freihorst
+  papers:
+  - Z13-3009
+  slug: christina-freihorst
+  venues:
+  - - SEMDIAL
+    - 1
 christine-a-montgomery:
   coauthors: []
   first: Christine A.
@@ -1651,6 +1673,19 @@ christopher-dozier:
   papers: []
   slug: christopher-dozier
   venues: []
+christopher-fox:
+  coauthors:
+  - - kristy-boyer
+    - 1
+  first: Christopher
+  full: Christopher Fox
+  last: Fox
+  papers:
+  - Z13-4026
+  slug: christopher-fox
+  venues:
+  - - SEMDIAL
+    - 1
 christopher-habel:
   coauthors:
   - - ozge-alacam
@@ -1744,18 +1779,19 @@ christopher-r-walker:
 christos-koniaris:
   coauthors:
   - - simon-dobnik
-    - 1
+    - 2
   - - john-kelleher
-    - 1
+    - 2
   first: Christos
   full: Christos Koniaris
   last: Koniaris
   papers:
   - Z14-3009
+  - Z13-4025
   slug: christos-koniaris
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 chrysanne-dimarco:
   coauthors: []
   first: Chrysanne
@@ -2206,6 +2242,19 @@ courtney-d-corley:
   papers: []
   slug: courtney-d-corley
   venues: []
+cristel-portes:
+  coauthors:
+  - - uwe-reyle
+    - 1
+  first: Cristel
+  full: Cristel Portes
+  last: Portes
+  papers:
+  - Z13-4043
+  slug: cristel-portes
+  venues:
+  - - SEMDIAL
+    - 1
 cristian-ursu:
   coauthors: []
   first: Cristian

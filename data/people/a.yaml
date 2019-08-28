@@ -748,13 +748,24 @@ alessandro-mazzei:
   slug: alessandro-mazzei
   venues: []
 alex-chengyu-fang:
-  coauthors: []
+  coauthors:
+  - - yanjiao-li
+    - 1
+  - - jing-cao
+    - 1
   first: Alex Chengyu
   full: Alex Chengyu Fang
   last: Fang
-  papers: []
+  papers:
+  - Z13-4038
   slug: alex-chengyu-fang
-  venues: []
+  variant_entries:
+  - first: Alex C.
+    full: Alex C. Fang
+    last: Fang
+  venues:
+  - - SEMDIAL
+    - 1
 alex-fine:
   coauthors: []
   first: Alex
@@ -774,7 +785,7 @@ alex-klassmann:
 alex-lascarides:
   coauthors:
   - - markus-guhe
-    - 1
+    - 2
   - - jeremy-perret
     - 1
   - - stergos-afantenos
@@ -782,6 +793,10 @@ alex-lascarides:
   - - nicholas-asher
     - 1
   - - mattias-appelgren
+    - 1
+  - - kevin-o-connor
+    - 1
+  - - verena-rieser
     - 1
   - - julian-j-schloder
     - 1
@@ -793,10 +808,11 @@ alex-lascarides:
   - Z15-3018
   - Z14-3011
   - Z14-3019
+  - Z13-3012
   slug: alex-lascarides
   venues:
   - - SEMDIAL
-    - 4
+    - 5
 alex-liu:
   coauthors: []
   first: Alex
@@ -1459,6 +1475,19 @@ amparo-elizabeth-cano-basave:
   papers: []
   slug: amparo-elizabeth-cano-basave
   venues: []
+amy-isard:
+  coauthors:
+  - - raquel-fernandez
+    - 1
+  first: Amy
+  full: Amy Isard
+  last: Isard
+  papers:
+  - Z13-1000
+  slug: amy-isard
+  venues:
+  - - SEMDIAL
+    - 1
 amy-weinberg:
   coauthors: []
   first: Amy
@@ -1586,6 +1615,23 @@ anca-roxana-simon:
   papers: []
   slug: anca-roxana-simon
   venues: []
+anders-eliasson:
+  coauthors:
+  - - staffan-larsson
+    - 1
+  - - sebastian-berlin
+    - 1
+  - - fredrik-kronlid
+    - 1
+  first: Anders
+  full: Anders Eliasson
+  last: Eliasson
+  papers:
+  - Z13-4037
+  slug: anders-eliasson
+  venues:
+  - - SEMDIAL
+    - 1
 anders-johannsen:
   coauthors: []
   first: Anders
@@ -2040,6 +2086,17 @@ andrew-y-ng:
   papers: []
   slug: andrew-y-ng
   venues: []
+andy-lucking:
+  coauthors: []
+  first: Andy
+  full: "Andy L\xFCcking"
+  last: "L\xFCcking"
+  papers:
+  - Z13-4039
+  slug: andy-lucking
+  venues:
+  - - SEMDIAL
+    - 1
 andy-taylor:
   coauthors:
   - - verena-rieser
@@ -2117,6 +2174,25 @@ angelika-storrer:
   papers: []
   slug: angelika-storrer
   venues: []
+angelo-cangelosi:
+  coauthors:
+  - - anna-lisa-vollmer
+    - 1
+  - - manuel-muhlig
+    - 1
+  - - katharina-j-rohlfing
+    - 1
+  - - britta-wrede
+    - 1
+  first: Angelo
+  full: Angelo Cangelosi
+  last: Cangelosi
+  papers:
+  - Z13-4046
+  slug: angelo-cangelosi
+  venues:
+  - - SEMDIAL
+    - 1
 angels-egea:
   coauthors: []
   first: Angels
@@ -2228,6 +2304,21 @@ ankur-parikh:
   papers: []
   slug: ankur-parikh
   venues: []
+anna-bruns:
+  coauthors:
+  - - daniel-maurer
+    - 1
+  - - karsten-weihe
+    - 1
+  first: Anna
+  full: Anna Bruns
+  last: Bruns
+  papers:
+  - Z13-3014
+  slug: anna-bruns
+  venues:
+  - - SEMDIAL
+    - 1
 anna-hjalmarsson:
   coauthors:
   - - margaret-zellers
@@ -2249,6 +2340,25 @@ anna-kupsc:
   papers: []
   slug: anna-kupsc
   venues: []
+anna-lisa-vollmer:
+  coauthors:
+  - - manuel-muhlig
+    - 1
+  - - katharina-j-rohlfing
+    - 1
+  - - britta-wrede
+    - 1
+  - - angelo-cangelosi
+    - 1
+  first: Anna-Lisa
+  full: Anna-Lisa Vollmer
+  last: Vollmer
+  papers:
+  - Z13-4046
+  slug: anna-lisa-vollmer
+  venues:
+  - - SEMDIAL
+    - 1
 anna-maclachlan:
   coauthors: []
   first: Anna

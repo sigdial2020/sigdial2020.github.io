@@ -215,8 +215,10 @@ hanne-fersoe:
 hannes-rieser:
   coauthors:
   - - florian-hahn
-    - 1
+    - 2
   - - insa-lawler
+    - 2
+  - - udo-klein
     - 1
   first: Hannes
   full: Hannes Rieser
@@ -224,10 +226,11 @@ hannes-rieser:
   papers:
   - Z15-3017
   - Z14-4029
+  - Z13-4034
   slug: hannes-rieser
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 hans-dybkjaer:
   coauthors: []
   first: Hans
@@ -1523,6 +1526,19 @@ horng-jyh-paul-wu:
   papers: []
   slug: horng-jyh-paul-wu
   venues: []
+horst-muller:
+  coauthors:
+  - - franziska-schaller
+    - 1
+  first: Horst
+  full: "Horst M\xFCller"
+  last: "M\xFCller"
+  papers:
+  - Z13-4044
+  slug: horst-muller
+  venues:
+  - - SEMDIAL
+    - 1
 horst-udo-hain:
   coauthors: []
   first: Horst-Udo

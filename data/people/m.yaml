@@ -445,6 +445,21 @@ manish-shrivastava:
   papers: []
   slug: manish-shrivastava
   venues: []
+manjuan-duan:
+  coauthors:
+  - - micha-elsner
+    - 1
+  - - marie-catherine-de-marneffe
+    - 1
+  first: Manjuan
+  full: Manjuan Duan
+  last: Duan
+  papers:
+  - Z13-3006
+  slug: manjuan-duan
+  venues:
+  - - SEMDIAL
+    - 1
 manny-rayner:
   coauthors: []
   first: Manny
@@ -485,6 +500,25 @@ manuel-montes:
   papers: []
   slug: manuel-montes
   venues: []
+manuel-muhlig:
+  coauthors:
+  - - anna-lisa-vollmer
+    - 1
+  - - katharina-j-rohlfing
+    - 1
+  - - britta-wrede
+    - 1
+  - - angelo-cangelosi
+    - 1
+  first: Manuel
+  full: "Manuel M\xFChlig"
+  last: "M\xFChlig"
+  papers:
+  - Z13-4046
+  slug: manuel-muhlig
+  venues:
+  - - SEMDIAL
+    - 1
 manuel-palomar:
   coauthors: []
   first: Manuel
@@ -533,6 +567,17 @@ marc-el-beze:
   papers: []
   slug: marc-el-beze
   venues: []
+marc-swerts:
+  coauthors: []
+  first: Marc
+  full: Marc Swerts
+  last: Swerts
+  papers:
+  - Z13-2003
+  slug: marc-swerts
+  venues:
+  - - SEMDIAL
+    - 1
 marc-vilain:
   coauthors: []
   first: Marc
@@ -977,6 +1022,21 @@ maria-nadejde:
   papers: []
   slug: maria-nadejde
   venues: []
+maria-nella-carminati:
+  coauthors:
+  - - dato-abashidze
+    - 1
+  - - pia-knoeferle
+    - 1
+  first: Maria Nella
+  full: Maria Nella Carminati
+  last: Carminati
+  papers:
+  - Z13-4021
+  slug: maria-nella-carminati
+  venues:
+  - - SEMDIAL
+    - 1
 maria-novella-catarsi:
   coauthors: []
   first: Maria Novella
@@ -1148,13 +1208,24 @@ marie-candito:
   slug: marie-candito
   venues: []
 marie-catherine-de-marneffe:
-  coauthors: []
+  coauthors:
+  - - manjuan-duan
+    - 1
+  - - micha-elsner
+    - 1
   first: Marie-Catherine
   full: Marie-Catherine de Marneffe
   last: de Marneffe
-  papers: []
+  papers:
+  - Z13-3006
   slug: marie-catherine-de-marneffe
-  venues: []
+  variant_entries:
+  - first: Marie-Catherine de
+    full: Marie-Catherine de Marneffe
+    last: Marneffe
+  venues:
+  - - SEMDIAL
+    - 1
 marie-claude-lhomme:
   coauthors: []
   first: Marie-Claude
@@ -1219,6 +1290,21 @@ marie-paule-pery-woodley:
   papers: []
   slug: marie-paule-pery-woodley
   venues: []
+marie-postma-nilsenova:
+  coauthors:
+  - - lisette-mol
+    - 1
+  - - naomi-kamoen
+    - 1
+  first: Marie
+  full: Marie Postma-Nilsenova
+  last: Postma-Nilsenova
+  papers:
+  - Z13-3015
+  slug: marie-postma-nilsenova
+  venues:
+  - - SEMDIAL
+    - 1
 marieke-van-erp:
   coauthors: []
   first: Marieke
@@ -1328,6 +1414,27 @@ mariona-taule:
   papers: []
   slug: mariona-taule
   venues: []
+marisa-casillas:
+  coauthors:
+  - - elma-hilbrink
+    - 1
+  - - susan-c-bobb
+    - 1
+  - - eve-v-clark
+    - 1
+  - - merideth-gattis
+    - 1
+  - - stephen-c-levinson1
+    - 1
+  first: Marisa
+  full: Marisa Casillas
+  last: Casillas
+  papers:
+  - Z13-4023
+  slug: marisa-casillas
+  venues:
+  - - SEMDIAL
+    - 1
 marius-pasca:
   coauthors: []
   first: Marius
@@ -1507,16 +1614,21 @@ marketa-lopatkova:
 markus-guhe:
   coauthors:
   - - alex-lascarides
+    - 2
+  - - kevin-o-connor
+    - 1
+  - - verena-rieser
     - 1
   first: Markus
   full: Markus Guhe
   last: Guhe
   papers:
   - Z14-3011
+  - Z13-3012
   slug: markus-guhe
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 markus-kommenda:
   coauthors: []
   first: Markus
@@ -1585,6 +1697,17 @@ marta-garrote-salazar:
   papers: []
   slug: marta-garrote-salazar
   venues: []
+marta-gatius:
+  coauthors: []
+  first: Marta
+  full: Marta Gatius
+  last: Gatius
+  papers:
+  - Z13-4027
+  slug: marta-gatius
+  venues:
+  - - SEMDIAL
+    - 1
 marta-r-costa-jussa:
   coauthors: []
   first: Marta R.
@@ -1974,15 +2097,15 @@ masatake-dantsuji:
 masato-ishizaki:
   coauthors:
   - - yasuhiro-katagiri
-    - 3
+    - 4
   - - katsuya-takanashi
-    - 3
+    - 4
   - - mika-enomoto
-    - 3
+    - 4
   - - yasuharu-den
-    - 3
+    - 4
   - - shogo-okada
-    - 1
+    - 2
   first: Masato
   full: Masato Ishizaki
   last: Ishizaki
@@ -1990,10 +2113,11 @@ masato-ishizaki:
   - Z18-4030
   - Z17-4020
   - Z14-4034
+  - Z13-4032
   slug: masato-ishizaki
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 massih-r-amini:
   coauthors: []
   first: Massih R.
@@ -2101,7 +2225,7 @@ matthew-j-green:
 matthew-purver:
   coauthors:
   - - julian-hough
-    - 4
+    - 5
   - - patrick-healey
     - 3
   - - christine-howes
@@ -2134,10 +2258,11 @@ matthew-purver:
   - Z15-3005
   - Z14-2003
   - Z14-3013
+  - Z13-3013
   slug: matthew-purver
   venues:
   - - SEMDIAL
-    - 8
+    - 9
 matthew-r-gormley:
   coauthors: []
   first: Matthew R.
@@ -2170,10 +2295,11 @@ matthew-stone:
   papers:
   - Z16-1000
   - Z14-3016
+  - Z13-2002
   slug: matthew-stone
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 matthew-w-bilotti:
   coauthors: []
   first: Matthew W.
@@ -2262,10 +2388,11 @@ matthijs-westera:
   last: Westera
   papers:
   - Z18-4038
+  - Z13-3019
   slug: matthijs-westera
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 matti-ylilammi:
   coauthors: []
   first: Matti
@@ -2274,6 +2401,23 @@ matti-ylilammi:
   papers: []
   slug: matti-ylilammi
   venues: []
+mattia-coti-zelati:
+  coauthors:
+  - - ivana-kruijff-korbayova
+    - 1
+  - - bernd-kiefer
+    - 1
+  - - ilaria-baroni
+    - 1
+  first: Mattia Coti
+  full: Mattia Coti Zelati
+  last: Zelati
+  papers:
+  - Z13-4036
+  slug: mattia-coti-zelati
+  venues:
+  - - SEMDIAL
+    - 1
 mattias-appelgren:
   coauthors:
   - - alex-lascarides
@@ -2400,6 +2544,23 @@ mayank-n-vahia:
   papers: []
   slug: mayank-n-vahia
   venues: []
+mayumi-kawamura:
+  coauthors:
+  - - yasunari-harada
+    - 1
+  - - daisuke-yokomori
+    - 1
+  - - tomoko-endo
+    - 1
+  first: Mayumi
+  full: Mayumi Kawamura
+  last: Kawamura
+  papers:
+  - Z13-4030
+  slug: mayumi-kawamura
+  venues:
+  - - SEMDIAL
+    - 1
 mazhar-mehdi-hussain:
   coauthors: []
   first: Mazhar Mehdi
@@ -2606,6 +2767,27 @@ meriama-laib:
   papers: []
   slug: meriama-laib
   venues: []
+merideth-gattis:
+  coauthors:
+  - - marisa-casillas
+    - 1
+  - - elma-hilbrink
+    - 1
+  - - susan-c-bobb
+    - 1
+  - - eve-v-clark
+    - 1
+  - - stephen-c-levinson1
+    - 1
+  first: Merideth
+  full: Merideth Gattis
+  last: Gattis
+  papers:
+  - Z13-4023
+  slug: merideth-gattis
+  venues:
+  - - SEMDIAL
+    - 1
 meritxell-gonzalez:
   coauthors: []
   first: Meritxell
@@ -2622,6 +2804,21 @@ mia-xu-chen:
   papers: []
   slug: mia-xu-chen
   venues: []
+micha-elsner:
+  coauthors:
+  - - manjuan-duan
+    - 1
+  - - marie-catherine-de-marneffe
+    - 1
+  first: Micha
+  full: Micha Elsner
+  last: Elsner
+  papers:
+  - Z13-3006
+  slug: micha-elsner
+  venues:
+  - - SEMDIAL
+    - 1
 michael-b-kac:
   coauthors: []
   first: Michael B.
@@ -2913,16 +3110,26 @@ michael-wagner:
     - 1
   - - heather-goad
     - 1
+  - - daniel-goodhue
+    - 1
+  - - james-pickett
+    - 1
+  - - elise-mcclay
+    - 1
+  - - lauren-mak
+    - 1
   first: Michael
   full: Michael Wagner
   last: Wagner
   papers:
   - Z18-2003
   - Z16-3012
+  - Z13-3011
+  - Z13-3018
   slug: michael-wagner
   venues:
   - - SEMDIAL
-    - 2
+    - 4
 michael-wayne-goodman:
   coauthors: []
   first: Michael Wayne
@@ -3108,15 +3315,15 @@ mijail-kabadjov:
 mika-enomoto:
   coauthors:
   - - yasuhiro-katagiri
-    - 3
+    - 4
   - - katsuya-takanashi
-    - 3
+    - 4
   - - masato-ishizaki
-    - 3
+    - 4
   - - yasuharu-den
-    - 3
+    - 4
   - - shogo-okada
-    - 1
+    - 2
   first: Mika
   full: Mika Enomoto
   last: Enomoto
@@ -3124,10 +3331,11 @@ mika-enomoto:
   - Z18-4030
   - Z17-4020
   - Z14-4034
+  - Z13-4032
   slug: mika-enomoto
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 mikael-andersson:
   coauthors: []
   first: Mikael
@@ -3739,6 +3947,23 @@ montserrat-meya:
   papers: []
   slug: montserrat-meya
   venues: []
+morgan-fredriksson:
+  coauthors:
+  - - jana-gotze
+    - 1
+  - - johan-boye
+    - 1
+  - - jurgen-konigsmann
+    - 1
+  first: Morgan
+  full: Morgan Fredriksson
+  last: Fredriksson
+  papers:
+  - Z13-4029
+  slug: morgan-fredriksson
+  venues:
+  - - SEMDIAL
+    - 1
 mori-rimon:
   coauthors: []
   first: Mori

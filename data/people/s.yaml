@@ -407,16 +407,17 @@ sara-bogels:
 sara-moradlou:
   coauthors:
   - - jonathan-ginzburg
-    - 1
+    - 2
   first: Sara
   full: Sara Moradlou
   last: Moradlou
   papers:
   - Z14-3017
+  - Z13-3010
   slug: sara-moradlou
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 sarah-e-schwarm:
   coauthors: []
   first: Sarah E.
@@ -677,18 +678,23 @@ sean-boisen:
 sebastian-berlin:
   coauthors:
   - - staffan-larsson
-    - 1
+    - 2
   - - simon-dobnik
+    - 1
+  - - anders-eliasson
+    - 1
+  - - fredrik-kronlid
     - 1
   first: Sebastian
   full: Sebastian Berlin
   last: Berlin
   papers:
   - Z14-4037
+  - Z13-4037
   slug: sebastian-berlin
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 sebastian-drude:
   coauthors: []
   first: Sebastian
@@ -1341,24 +1347,25 @@ sho-yoshida:
 shogo-okada:
   coauthors:
   - - yasuhiro-katagiri
-    - 1
+    - 2
   - - katsuya-takanashi
-    - 1
+    - 2
   - - masato-ishizaki
-    - 1
+    - 2
   - - mika-enomoto
-    - 1
+    - 2
   - - yasuharu-den
-    - 1
+    - 2
   first: Shogo
   full: Shogo Okada
   last: Okada
   papers:
   - Z14-4034
+  - Z13-4032
   slug: shogo-okada
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 shoichi-matsunaga:
   coauthors: []
   first: Shoichi
@@ -1660,6 +1667,23 @@ silviu-cucerzan:
   papers: []
   slug: silviu-cucerzan
   venues: []
+simon-algorta:
+  coauthors:
+  - - christina-freihorst
+    - 1
+  - - vivien-mast
+    - 1
+  - - robert-porzel
+    - 1
+  first: "Sim\xF3n"
+  full: "Sim\xF3n Algorta"
+  last: Algorta
+  papers:
+  - Z13-3009
+  slug: simon-algorta
+  venues:
+  - - SEMDIAL
+    - 1
 simon-corston-oliver:
   coauthors: []
   first: Simon
@@ -1679,9 +1703,9 @@ simon-de-deyne:
 simon-dobnik:
   coauthors:
   - - john-kelleher
-    - 4
+    - 5
   - - christos-koniaris
-    - 1
+    - 2
   - - staffan-larsson
     - 1
   - - sebastian-berlin
@@ -1714,10 +1738,11 @@ simon-dobnik:
   - Z15-4025
   - Z14-3009
   - Z14-4037
+  - Z13-4025
   slug: simon-dobnik
   venues:
   - - SEMDIAL
-    - 10
+    - 11
 simon-dobrisek:
   coauthors: []
   first: Simon
@@ -2084,16 +2109,17 @@ soumil-mandal:
 soumya-paul:
   coauthors:
   - - nicholas-asher
-    - 1
+    - 2
   first: Soumya
   full: Soumya Paul
   last: Paul
   papers:
   - Z16-3010
+  - Z13-4022
   slug: soumya-paul
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 soumya-sankar-ghosh:
   coauthors: []
   first: Soumya Sankar
@@ -2232,11 +2258,13 @@ ssu-cheng-chen:
   venues: []
 staffan-larsson:
   coauthors:
+  - - sebastian-berlin
+    - 2
   - - christine-howes
     - 2
+  - - fredrik-kronlid
+    - 2
   - - simon-dobnik
-    - 1
-  - - sebastian-berlin
     - 1
   - - anastasia-bondarenko
     - 1
@@ -2254,6 +2282,10 @@ staffan-larsson:
     - 1
   - - jenny-myrendal
     - 1
+  - - pontus-warnestal
+    - 1
+  - - anders-eliasson
+    - 1
   first: Staffan
   full: Staffan Larsson
   last: Larsson
@@ -2266,10 +2298,12 @@ staffan-larsson:
   - Z15-1000
   - Z15-4037
   - Z14-4037
+  - Z13-4035
+  - Z13-4037
   slug: staffan-larsson
   venues:
   - - SEMDIAL
-    - 8
+    - 10
 stan-c-kwasny:
   coauthors: []
   first: Stan C.
@@ -2454,6 +2488,29 @@ stefan-ruseti:
   papers:
   - Z18-4031
   slug: stefan-ruseti
+  venues:
+  - - SEMDIAL
+    - 1
+stefan-scherer:
+  coauthors:
+  - - zhou-yu
+    - 1
+  - - david-devault
+    - 1
+  - - jon-gratch
+    - 1
+  - - giota-stratou
+    - 1
+  - - louis-philippe-morency
+    - 1
+  - - justine-cassell
+    - 1
+  first: Stefan
+  full: Stefan Scherer
+  last: Scherer
+  papers:
+  - Z13-3020
+  slug: stefan-scherer
   venues:
   - - SEMDIAL
     - 1
@@ -2669,6 +2726,27 @@ stephen-c-levinson:
   similar:
   - stephen-e-levinson
   slug: stephen-c-levinson
+  venues:
+  - - SEMDIAL
+    - 1
+stephen-c-levinson1:
+  coauthors:
+  - - marisa-casillas
+    - 1
+  - - elma-hilbrink
+    - 1
+  - - susan-c-bobb
+    - 1
+  - - eve-v-clark
+    - 1
+  - - merideth-gattis
+    - 1
+  first: Stephen
+  full: Stephen C.~Levinson
+  last: C.~Levinson
+  papers:
+  - Z13-4023
+  slug: stephen-c-levinson1
   venues:
   - - SEMDIAL
     - 1
@@ -3127,6 +3205,27 @@ susan-armstrong:
   papers: []
   slug: susan-armstrong
   venues: []
+susan-c-bobb:
+  coauthors:
+  - - marisa-casillas
+    - 1
+  - - elma-hilbrink
+    - 1
+  - - eve-v-clark
+    - 1
+  - - merideth-gattis
+    - 1
+  - - stephen-c-levinson1
+    - 1
+  first: Susan
+  full: Susan C.~Bobb
+  last: C.~Bobb
+  papers:
+  - Z13-4023
+  slug: susan-c-bobb
+  venues:
+  - - SEMDIAL
+    - 1
 susan-e-brennan:
   coauthors: []
   first: Susan E.

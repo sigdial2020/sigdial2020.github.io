@@ -1,3 +1,18 @@
+e-allyn-smith:
+  coauthors:
+  - - elena-castroviejo
+    - 1
+  - - laia-mayol
+    - 1
+  first: E.~Allyn
+  full: E.~Allyn Smith
+  last: Smith
+  papers:
+  - Z13-4024
+  slug: e-allyn-smith
+  venues:
+  - - SEMDIAL
+    - 1
 e-dario-gutierrez:
   coauthors: []
   first: E. Dario
@@ -61,6 +76,17 @@ eckhard-bick:
   papers: []
   slug: eckhard-bick
   venues: []
+ed-baggs:
+  coauthors: []
+  first: Ed
+  full: Ed Baggs
+  last: Baggs
+  papers:
+  - Z13-3004
+  slug: ed-baggs
+  venues:
+  - - SEMDIAL
+    - 1
 eda-okur:
   coauthors:
   - - saurav-sahay
@@ -335,20 +361,21 @@ eldon-g-lytle:
 elena-andonova:
   coauthors:
   - - gesa-schole
-    - 1
+    - 2
   - - thora-tenbrink
-    - 1
+    - 2
   - - kenny-coventry
-    - 1
+    - 2
   first: Elena
   full: Elena Andonova
   last: Andonova
   papers:
   - Z14-4048
+  - Z13-4045
   slug: elena-andonova
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 elena-barcena:
   coauthors: []
   first: Elena
@@ -357,6 +384,32 @@ elena-barcena:
   papers: []
   slug: elena-barcena
   venues: []
+elena-castroviejo:
+  coauthors:
+  - - laia-mayol
+    - 1
+  - - e-allyn-smith
+    - 1
+  first: Elena
+  full: Elena Castroviejo
+  last: Castroviejo
+  papers:
+  - Z13-4024
+  slug: elena-castroviejo
+  venues:
+  - - SEMDIAL
+    - 1
+elena-karagjosova:
+  coauthors: []
+  first: Elena
+  full: Elena Karagjosova
+  last: Karagjosova
+  papers:
+  - Z13-4031
+  slug: elena-karagjosova
+  venues:
+  - - SEMDIAL
+    - 1
 elena-paskaleva:
   coauthors: []
   first: Elena
@@ -572,6 +625,21 @@ elisabeth-maier:
   papers: []
   slug: elisabeth-maier
   venues: []
+elise-mcclay:
+  coauthors:
+  - - michael-wagner
+    - 1
+  - - lauren-mak
+    - 1
+  first: Elise
+  full: Elise McClay
+  last: McClay
+  papers:
+  - Z13-3018
+  slug: elise-mcclay
+  venues:
+  - - SEMDIAL
+    - 1
 elizabeth-a-hinkelman:
   coauthors: []
   first: Elizabeth A.
@@ -727,6 +795,27 @@ elliott-moreton:
   papers: []
   slug: elliott-moreton
   venues: []
+elma-hilbrink:
+  coauthors:
+  - - marisa-casillas
+    - 1
+  - - susan-c-bobb
+    - 1
+  - - eve-v-clark
+    - 1
+  - - merideth-gattis
+    - 1
+  - - stephen-c-levinson1
+    - 1
+  first: Elma
+  full: Elma Hilbrink
+  last: Hilbrink
+  papers:
+  - Z13-4023
+  slug: elma-hilbrink
+  venues:
+  - - SEMDIAL
+    - 1
 elmar-noth:
   coauthors: []
   first: Elmar
@@ -784,9 +873,11 @@ emanuele-pianta:
   venues: []
 emer-gilmartin:
   coauthors:
-  - - joao-paulo-cabral1
-    - 1
   - - nick-campbell
+    - 2
+  - - carl-vogel
+    - 2
+  - - joao-paulo-cabral1
     - 1
   - - sree-ganesh
     - 1
@@ -804,7 +895,7 @@ emer-gilmartin:
     - 1
   - - odei-rey-orozko
     - 1
-  - - carl-vogel
+  - - francesca-bonin
     - 1
   first: Emer
   full: Emer Gilmartin
@@ -812,10 +903,11 @@ emer-gilmartin:
   papers:
   - Z19-4023
   - Z14-4022
+  - Z13-4028
   slug: emer-gilmartin
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 emerson-cabrera-paraiso:
   coauthors: []
   first: Emerson Cabrera
@@ -890,6 +982,19 @@ emma-barker:
   papers:
   - Z19-3011
   slug: emma-barker
+  venues:
+  - - SEMDIAL
+    - 1
+emmanuel-ferreira:
+  coauthors:
+  - - fabrice-lefevre
+    - 1
+  first: Emmanuel
+  full: Emmanuel Ferreira
+  last: Ferreira
+  papers:
+  - Z13-3008
+  slug: emmanuel-ferreira
   venues:
   - - SEMDIAL
     - 1
@@ -1460,6 +1565,27 @@ evandro-b-fonseca:
   papers: []
   slug: evandro-b-fonseca
   venues: []
+eve-v-clark:
+  coauthors:
+  - - marisa-casillas
+    - 1
+  - - elma-hilbrink
+    - 1
+  - - susan-c-bobb
+    - 1
+  - - merideth-gattis
+    - 1
+  - - stephen-c-levinson1
+    - 1
+  first: Eve
+  full: Eve V.~Clark
+  last: V.~Clark
+  papers:
+  - Z13-4023
+  slug: eve-v-clark
+  venues:
+  - - SEMDIAL
+    - 1
 evelyne-tzoukermann:
   coauthors: []
   first: Evelyne

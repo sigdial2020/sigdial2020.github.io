@@ -574,20 +574,21 @@ gertjan-van-noord:
 gesa-schole:
   coauthors:
   - - thora-tenbrink
-    - 1
+    - 2
   - - kenny-coventry
-    - 1
+    - 2
   - - elena-andonova
-    - 1
+    - 2
   first: Gesa
   full: Gesa Schole
   last: Schole
   papers:
   - Z14-4048
+  - Z13-4045
   slug: gesa-schole
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 gholamreza-ghassem-sani:
   coauthors: []
   first: Gholamreza
@@ -788,6 +789,29 @@ giorgio-maria-di-nunzio:
   papers: []
   slug: giorgio-maria-di-nunzio
   venues: []
+giota-stratou:
+  coauthors:
+  - - zhou-yu
+    - 1
+  - - stefan-scherer
+    - 1
+  - - david-devault
+    - 1
+  - - jon-gratch
+    - 1
+  - - louis-philippe-morency
+    - 1
+  - - justine-cassell
+    - 1
+  first: Giota
+  full: Giota Stratou
+  last: Stratou
+  papers:
+  - Z13-3020
+  slug: giota-stratou
+  venues:
+  - - SEMDIAL
+    - 1
 giovanni-adorni:
   coauthors: []
   first: Giovanni
@@ -1138,6 +1162,17 @@ gregory-finley:
   papers: []
   slug: gregory-finley
   venues: []
+gregory-mills:
+  coauthors: []
+  first: Gregory
+  full: Gregory Mills
+  last: Mills
+  papers:
+  - Z13-4040
+  slug: gregory-mills
+  venues:
+  - - SEMDIAL
+    - 1
 gregory-roulet-guiot:
   coauthors: []
   first: "Gr\xE9gory"

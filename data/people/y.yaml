@@ -184,6 +184,21 @@ yang-liu-ict:
   - yang-liu-icsi
   slug: yang-liu-ict
   venues: []
+yanjiao-li:
+  coauthors:
+  - - alex-chengyu-fang
+    - 1
+  - - jing-cao
+    - 1
+  first: Yanjiao
+  full: Yanjiao Li
+  last: Li
+  papers:
+  - Z13-4038
+  slug: yanjiao-li
+  venues:
+  - - SEMDIAL
+    - 1
 yannick-marchand:
   coauthors: []
   first: Yannick
@@ -286,15 +301,15 @@ yaser-al-onaizan:
 yasuharu-den:
   coauthors:
   - - yasuhiro-katagiri
-    - 3
+    - 4
   - - katsuya-takanashi
-    - 3
+    - 4
   - - masato-ishizaki
-    - 3
+    - 4
   - - mika-enomoto
-    - 3
+    - 4
   - - shogo-okada
-    - 1
+    - 2
   first: Yasuharu
   full: Yasuharu Den
   last: Den
@@ -302,22 +317,23 @@ yasuharu-den:
   - Z18-4030
   - Z17-4020
   - Z14-4034
+  - Z13-4032
   slug: yasuharu-den
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 yasuhiro-katagiri:
   coauthors:
   - - katsuya-takanashi
-    - 4
+    - 5
   - - masato-ishizaki
-    - 3
+    - 4
   - - mika-enomoto
-    - 3
+    - 4
   - - yasuharu-den
-    - 3
+    - 4
   - - shogo-okada
-    - 1
+    - 2
   first: Yasuhiro
   full: Yasuhiro Katagiri
   last: Katagiri
@@ -326,23 +342,31 @@ yasuhiro-katagiri:
   - Z17-4020
   - Z15-4034
   - Z14-4034
+  - Z13-4032
   slug: yasuhiro-katagiri
   venues:
   - - SEMDIAL
-    - 4
+    - 5
 yasunari-harada:
   coauthors:
   - - miwa-morishita
+    - 1
+  - - mayumi-kawamura
+    - 1
+  - - daisuke-yokomori
+    - 1
+  - - tomoko-endo
     - 1
   first: Yasunari
   full: Yasunari Harada
   last: Harada
   papers:
   - Z17-4025
+  - Z13-4030
   slug: yasunari-harada
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 yasutsugu-morimoto:
   coauthors: []
   first: Yasutsugu

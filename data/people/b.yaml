@@ -581,22 +581,27 @@ bernardo-magnini:
 bernd-kiefer:
   coauthors:
   - - ivana-kruijff-korbayova
-    - 1
+    - 2
   - - stefania-racioppa
     - 1
   - - elettra-oleari
     - 1
   - - clara-pozzi
     - 1
+  - - ilaria-baroni
+    - 1
+  - - mattia-coti-zelati
+    - 1
   first: Bernd
   full: Bernd Kiefer
   last: Kiefer
   papers:
   - Z14-3014
+  - Z13-4036
   slug: bernd-kiefer
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 bernd-mobius:
   coauthors: []
   first: Bernd
@@ -1140,6 +1145,25 @@ brigitte-roudaud:
   papers: []
   slug: brigitte-roudaud
   venues: []
+britta-wrede:
+  coauthors:
+  - - anna-lisa-vollmer
+    - 1
+  - - manuel-muhlig
+    - 1
+  - - katharina-j-rohlfing
+    - 1
+  - - angelo-cangelosi
+    - 1
+  first: Britta
+  full: Britta Wrede
+  last: Wrede
+  papers:
+  - Z13-4046
+  slug: britta-wrede
+  venues:
+  - - SEMDIAL
+    - 1
 britta-zeller:
   coauthors: []
   first: Britta

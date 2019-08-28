@@ -171,6 +171,29 @@ zhiming-xu:
   papers: []
   slug: zhiming-xu
   venues: []
+zhou-yu:
+  coauthors:
+  - - stefan-scherer
+    - 1
+  - - david-devault
+    - 1
+  - - jon-gratch
+    - 1
+  - - giota-stratou
+    - 1
+  - - louis-philippe-morency
+    - 1
+  - - justine-cassell
+    - 1
+  first: Zhou
+  full: Zhou Yu
+  last: Yu
+  papers:
+  - Z13-3020
+  slug: zhou-yu
+  venues:
+  - - SEMDIAL
+    - 1
 zhuoran-wang:
   coauthors:
   - - verena-rieser

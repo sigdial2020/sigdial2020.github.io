@@ -14,6 +14,21 @@ l-venkata-subramaniam:
   papers: []
   slug: l-venkata-subramaniam
   venues: []
+laia-mayol:
+  coauthors:
+  - - elena-castroviejo
+    - 1
+  - - e-allyn-smith
+    - 1
+  first: Laia
+  full: Laia Mayol
+  last: Mayol
+  papers:
+  - Z13-4024
+  slug: laia-mayol
+  venues:
+  - - SEMDIAL
+    - 1
 laila-dybkjaer:
   coauthors: []
   first: Laila
@@ -227,6 +242,21 @@ laura-pecchia:
   papers: []
   slug: laura-pecchia
   venues: []
+lauren-mak:
+  coauthors:
+  - - michael-wagner
+    - 1
+  - - elise-mcclay
+    - 1
+  first: Lauren
+  full: Lauren Mak
+  last: Mak
+  papers:
+  - Z13-3018
+  slug: lauren-mak
+  venues:
+  - - SEMDIAL
+    - 1
 laurence-danlos:
   coauthors: []
   first: Laurence
@@ -310,10 +340,11 @@ laurent-prevot:
   papers:
   - Z18-1000
   - Z15-4044
+  - Z13-4042
   slug: laurent-prevot
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 laurent-romary:
   coauthors: []
   first: Laurent
@@ -741,6 +772,21 @@ lisanne-teunissen:
   papers: []
   slug: lisanne-teunissen
   venues: []
+lisette-mol:
+  coauthors:
+  - - marie-postma-nilsenova
+    - 1
+  - - naomi-kamoen
+    - 1
+  first: Lisette
+  full: Lisette Mol
+  last: Mol
+  papers:
+  - Z13-3015
+  slug: lisette-mol
+  venues:
+  - - SEMDIAL
+    - 1
 litton-j-kurisinkel:
   coauthors: []
   first: Litton
@@ -933,6 +979,29 @@ louis-des-tombe:
   papers: []
   slug: louis-des-tombe
   venues: []
+louis-philippe-morency:
+  coauthors:
+  - - zhou-yu
+    - 1
+  - - stefan-scherer
+    - 1
+  - - david-devault
+    - 1
+  - - jon-gratch
+    - 1
+  - - giota-stratou
+    - 1
+  - - justine-cassell
+    - 1
+  first: Louis-Philippe
+  full: Louis-Philippe Morency
+  last: Morency
+  papers:
+  - Z13-3020
+  slug: louis-philippe-morency
+  venues:
+  - - SEMDIAL
+    - 1
 louis-ten-bosch:
   coauthors: []
   first: Louis Ten

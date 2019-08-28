@@ -38,6 +38,23 @@ dagmar-schmauks:
   papers: []
   slug: dagmar-schmauks
   venues: []
+daisuke-yokomori:
+  coauthors:
+  - - yasunari-harada
+    - 1
+  - - mayumi-kawamura
+    - 1
+  - - tomoko-endo
+    - 1
+  first: Daisuke
+  full: Daisuke Yokomori
+  last: Yokomori
+  papers:
+  - Z13-4030
+  slug: daisuke-yokomori
+  venues:
+  - - SEMDIAL
+    - 1
 daisy-zhe-wang:
   coauthors: []
   first: Daisy Zhe
@@ -292,6 +309,21 @@ daniel-gildea:
   papers: []
   slug: daniel-gildea
   venues: []
+daniel-goodhue:
+  coauthors:
+  - - james-pickett
+    - 1
+  - - michael-wagner
+    - 1
+  first: Daniel
+  full: Daniel Goodhue
+  last: Goodhue
+  papers:
+  - Z13-3011
+  slug: daniel-goodhue
+  venues:
+  - - SEMDIAL
+    - 1
 daniel-hernandez-lopez:
   coauthors: []
   first: Daniel
@@ -349,6 +381,21 @@ daniel-magarreiro:
   papers:
   - Z14-3015
   slug: daniel-magarreiro
+  venues:
+  - - SEMDIAL
+    - 1
+daniel-maurer:
+  coauthors:
+  - - anna-bruns
+    - 1
+  - - karsten-weihe
+    - 1
+  first: Daniel
+  full: "Daniel M\xE4urer"
+  last: "M\xE4urer"
+  papers:
+  - Z13-3014
+  slug: daniel-maurer
   venues:
   - - SEMDIAL
     - 1
@@ -530,6 +577,17 @@ danielle-l-mowery:
   papers: []
   slug: danielle-l-mowery
   venues: []
+danielle-matthews:
+  coauthors: []
+  first: Danielle
+  full: Danielle Matthews
+  last: Matthews
+  papers:
+  - Z13-2001
+  slug: danielle-matthews
+  venues:
+  - - SEMDIAL
+    - 1
 danielle-s-mcnamara:
   coauthors: []
   first: Danielle S.
@@ -602,6 +660,21 @@ dasa-munkova:
   papers: []
   slug: dasa-munkova
   venues: []
+dato-abashidze:
+  coauthors:
+  - - pia-knoeferle
+    - 1
+  - - maria-nella-carminati
+    - 1
+  first: Dato
+  full: Dato Abashidze
+  last: Abashidze
+  papers:
+  - Z13-4021
+  slug: dato-abashidze
+  venues:
+  - - SEMDIAL
+    - 1
 dau-cheng-lyu:
   coauthors: []
   first: Dau-cheng
@@ -711,6 +784,18 @@ david-day:
   venues: []
 david-devault:
   coauthors:
+  - - zhou-yu
+    - 1
+  - - stefan-scherer
+    - 1
+  - - jon-gratch
+    - 1
+  - - giota-stratou
+    - 1
+  - - louis-philippe-morency
+    - 1
+  - - justine-cassell
+    - 1
   - - ramesh-manuvinakurike
     - 1
   - - maike-paetzel
@@ -720,10 +805,11 @@ david-devault:
   last: Devault
   papers:
   - Z15-3016
+  - Z13-3020
   slug: david-devault
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 david-e-johnson:
   coauthors: []
   first: David E.

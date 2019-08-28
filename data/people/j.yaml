@@ -393,6 +393,21 @@ james-paul-white:
   papers: []
   slug: james-paul-white
   venues: []
+james-pickett:
+  coauthors:
+  - - daniel-goodhue
+    - 1
+  - - michael-wagner
+    - 1
+  first: James
+  full: James Pickett
+  last: Pickett
+  papers:
+  - Z13-3011
+  slug: james-pickett
+  venues:
+  - - SEMDIAL
+    - 1
 james-pustejovsky:
   coauthors: []
   first: James
@@ -510,13 +525,22 @@ jan-vystrcil:
   slug: jan-vystrcil
   venues: []
 jana-gotze:
-  coauthors: []
+  coauthors:
+  - - johan-boye
+    - 1
+  - - morgan-fredriksson
+    - 1
+  - - jurgen-konigsmann
+    - 1
   first: Jana
   full: "Jana G\xF6tze"
   last: "G\xF6tze"
-  papers: []
+  papers:
+  - Z13-4029
   slug: jana-gotze
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 jana-kravalova:
   coauthors: []
   first: Jana
@@ -1521,6 +1545,21 @@ jindrich-helcl:
   papers: []
   slug: jindrich-helcl
   venues: []
+jing-cao:
+  coauthors:
+  - - yanjiao-li
+    - 1
+  - - alex-chengyu-fang
+    - 1
+  first: Jing
+  full: Jing Cao
+  last: Cao
+  papers:
+  - Z13-4038
+  slug: jing-cao
+  venues:
+  - - SEMDIAL
+    - 1
 jing-shin-chang:
   coauthors: []
   first: Jing-Shin
@@ -1832,6 +1871,23 @@ johan-adam-du-preez:
   papers: []
   slug: johan-adam-du-preez
   venues: []
+johan-boye:
+  coauthors:
+  - - jana-gotze
+    - 1
+  - - morgan-fredriksson
+    - 1
+  - - jurgen-konigsmann
+    - 1
+  first: Johan
+  full: Johan Boye
+  last: Boye
+  papers:
+  - Z13-4029
+  slug: johan-boye
+  venues:
+  - - SEMDIAL
+    - 1
 johan-jeuring:
   coauthors:
   - - raja-lala
@@ -2110,11 +2166,11 @@ john-keane:
 john-kelleher:
   coauthors:
   - - simon-dobnik
-    - 4
+    - 5
+  - - christos-koniaris
+    - 2
   - - anh-duong-trinh
     - 2
-  - - christos-koniaris
-    - 1
   - - niels-schuette
     - 1
   - - brian-mac-namee
@@ -2136,6 +2192,7 @@ john-kelleher:
   - Z15-3006
   - Z14-3009
   - Z14-4049
+  - Z13-4025
   slug: john-kelleher
   variant_entries:
   - first: John D.
@@ -2143,7 +2200,7 @@ john-kelleher:
     last: Kelleher
   venues:
   - - SEMDIAL
-    - 7
+    - 8
 john-l-beaven:
   coauthors: []
   first: John L.
@@ -2278,6 +2335,29 @@ johnathan-ginzburg:
   venues:
   - - SEMDIAL
     - 1
+jon-gratch:
+  coauthors:
+  - - zhou-yu
+    - 1
+  - - stefan-scherer
+    - 1
+  - - david-devault
+    - 1
+  - - giota-stratou
+    - 1
+  - - louis-philippe-morency
+    - 1
+  - - justine-cassell
+    - 1
+  first: Jon
+  full: Jon Gratch
+  last: Gratch
+  papers:
+  - Z13-3020
+  slug: jon-gratch
+  venues:
+  - - SEMDIAL
+    - 1
 jon-m-slack:
   coauthors: []
   first: Jon M.
@@ -2393,14 +2473,14 @@ jonathan-ginzburg:
   coauthors:
   - - ye-tian
     - 3
+  - - sara-moradlou
+    - 2
   - - chiara-mazzocconi
     - 2
   - - vladislav-maraev
     - 2
   - - kwong-cheong-wong
     - 2
-  - - sara-moradlou
-    - 1
   - - david-schlangen
     - 1
   - - julian-hough
@@ -2430,10 +2510,11 @@ jonathan-ginzburg:
   - Z15-4048
   - Z14-3017
   - Z14-4026
+  - Z13-3010
   slug: jonathan-ginzburg
   venues:
   - - SEMDIAL
-    - 9
+    - 10
 jonathan-h-clark:
   coauthors: []
   first: Jonathan H.
@@ -3063,6 +3144,21 @@ juana-maria-ruiz-martinez:
   papers: []
   slug: juana-maria-ruiz-martinez
   venues: []
+juana-salas-poblete:
+  coauthors:
+  - - katharina-rohlfing
+    - 1
+  - - frank-joublin
+    - 1
+  first: Juana Salas
+  full: Juana Salas Poblete
+  last: Poblete
+  papers:
+  - Z13-3016
+  slug: juana-salas-poblete
+  venues:
+  - - SEMDIAL
+    - 1
 judit-dombi:
   coauthors:
   - - veronika-timpe-laughlin
@@ -3195,11 +3291,11 @@ julia-otmakhova:
   venues: []
 julian-hough:
   coauthors:
+  - - matthew-purver
+    - 5
   - - david-schlangen
     - 5
   - - christine-howes
-    - 4
-  - - matthew-purver
     - 4
   - - iwan-de-kok
     - 3
@@ -3260,10 +3356,11 @@ julian-hough:
   - Z14-3013
   - Z14-4023
   - Z14-4026
+  - Z13-3013
   slug: julian-hough
   venues:
   - - SEMDIAL
-    - 13
+    - 14
 julian-j-odell:
   coauthors: []
   first: Julian J.
@@ -3538,6 +3635,23 @@ junya-tsutsumi:
   papers: []
   slug: junya-tsutsumi
   venues: []
+jurgen-konigsmann:
+  coauthors:
+  - - jana-gotze
+    - 1
+  - - johan-boye
+    - 1
+  - - morgan-fredriksson
+    - 1
+  first: "J\xFCrgen"
+  full: "J\xFCrgen K\xF6nigsmann"
+  last: "K\xF6nigsmann"
+  papers:
+  - Z13-4029
+  slug: jurgen-konigsmann
+  venues:
+  - - SEMDIAL
+    - 1
 jurgen-kunze:
   coauthors: []
   first: Jurgen
@@ -3578,6 +3692,29 @@ justin-h-gross:
   papers: []
   slug: justin-h-gross
   venues: []
+justine-cassell:
+  coauthors:
+  - - zhou-yu
+    - 1
+  - - stefan-scherer
+    - 1
+  - - david-devault
+    - 1
+  - - jon-gratch
+    - 1
+  - - giota-stratou
+    - 1
+  - - louis-philippe-morency
+    - 1
+  first: Justine
+  full: Justine Cassell
+  last: Cassell
+  papers:
+  - Z13-3020
+  slug: justine-cassell
+  venues:
+  - - SEMDIAL
+    - 1
 justus-c-roux:
   coauthors: []
   first: Justus C.

@@ -464,6 +464,8 @@ raquel-fernandez:
     - 1
   - - valentin-vogelmann
     - 1
+  - - amy-isard
+    - 1
   - - sarah-hiller
     - 1
   first: Raquel
@@ -478,6 +480,7 @@ raquel-fernandez:
   - Z15-4030
   - Z14-4028
   - Z14-4047
+  - Z13-1000
   slug: raquel-fernandez
   variant_entries:
   - first: Raquel
@@ -485,7 +488,7 @@ raquel-fernandez:
     last: Fernandez
   venues:
   - - SEMDIAL
-    - 8
+    - 9
 raquel-martinez:
   coauthors: []
   first: Raquel
@@ -1280,6 +1283,23 @@ robert-phillips:
   papers: []
   slug: robert-phillips
   venues: []
+robert-porzel:
+  coauthors:
+  - - christina-freihorst
+    - 1
+  - - simon-algorta
+    - 1
+  - - vivien-mast
+    - 1
+  first: Robert
+  full: Robert Porzel
+  last: Porzel
+  papers:
+  - Z13-3009
+  slug: robert-porzel
+  venues:
+  - - SEMDIAL
+    - 1
 robert-ross:
   coauthors:
   - - anh-duong-trinh
@@ -1429,6 +1449,17 @@ robin-cooper:
   venues:
   - - SEMDIAL
     - 2
+robin-copper:
+  coauthors: []
+  first: Robin
+  full: Robin Copper
+  last: Copper
+  papers:
+  - Z13-3005
+  slug: robin-copper
+  venues:
+  - - SEMDIAL
+    - 1
 robin-p-fawcett:
   coauthors: []
   first: Robin P.
@@ -1596,15 +1627,18 @@ ron-artstein:
     - 1
   - - david-traum
     - 1
+  - - fauren-faust
+    - 1
   first: Ron
   full: Ron Artstein
   last: Artstein
   papers:
   - Z19-3018
+  - Z13-3007
   slug: ron-artstein
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 ron-daniel-jr:
   coauthors: []
   first: Ron

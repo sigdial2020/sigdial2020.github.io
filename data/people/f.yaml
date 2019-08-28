@@ -71,13 +71,18 @@ fabio-tamburini:
   slug: fabio-tamburini
   venues: []
 fabrice-lefevre:
-  coauthors: []
+  coauthors:
+  - - emmanuel-ferreira
+    - 1
   first: Fabrice
   full: "Fabrice Lef\xE8vre"
   last: "Lef\xE8vre"
-  papers: []
+  papers:
+  - Z13-3008
   slug: fabrice-lefevre
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 fahad-khan:
   coauthors: []
   first: Fahad
@@ -189,6 +194,19 @@ fathi-debili:
   papers: []
   slug: fathi-debili
   venues: []
+fauren-faust:
+  coauthors:
+  - - ron-artstein
+    - 1
+  first: Fauren
+  full: Fauren Faust
+  last: Faust
+  papers:
+  - Z13-3007
+  slug: fauren-faust
+  venues:
+  - - SEMDIAL
+    - 1
 federico-prat:
   coauthors: []
   first: Federico
@@ -428,18 +446,21 @@ florence-reeder:
 florian-hahn:
   coauthors:
   - - insa-lawler
-    - 1
+    - 2
   - - hannes-rieser
+    - 2
+  - - udo-klein
     - 1
   first: Florian
   full: Florian Hahn
   last: Hahn
   papers:
   - Z14-4029
+  - Z13-4034
   slug: florian-hahn
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 florin-bulgarov:
   coauthors: []
   first: Florin
@@ -499,6 +520,23 @@ francesca-bertagna:
   papers: []
   slug: francesca-bertagna
   venues: []
+francesca-bonin:
+  coauthors:
+  - - emer-gilmartin
+    - 1
+  - - carl-vogel
+    - 1
+  - - nick-campbell
+    - 1
+  first: Francesca
+  full: Francesca Bonin
+  last: Bonin
+  papers:
+  - Z13-4028
+  slug: francesca-bonin
+  venues:
+  - - SEMDIAL
+    - 1
 francesco-piazza:
   coauthors: []
   first: Francesco
@@ -681,6 +719,21 @@ frank-henrik-muller:
   papers: []
   slug: frank-henrik-muller
   venues: []
+frank-joublin:
+  coauthors:
+  - - katharina-rohlfing
+    - 1
+  - - juana-salas-poblete
+    - 1
+  first: Frank
+  full: Frank Joublin
+  last: Joublin
+  papers:
+  - Z13-3016
+  slug: frank-joublin
+  venues:
+  - - SEMDIAL
+    - 1
 frank-k-soong:
   coauthors: []
   first: Frank K.
@@ -721,6 +774,19 @@ franz-josef-och:
   papers: []
   slug: franz-josef-och
   venues: []
+franziska-schaller:
+  coauthors:
+  - - horst-muller
+    - 1
+  first: Franziska
+  full: Franziska Schaller
+  last: Schaller
+  papers:
+  - Z13-4044
+  slug: franziska-schaller
+  venues:
+  - - SEMDIAL
+    - 1
 fred-damerau:
   coauthors: []
   first: Fred
@@ -801,6 +867,26 @@ frederique-segond:
   papers: []
   slug: frederique-segond
   venues: []
+fredrik-kronlid:
+  coauthors:
+  - - staffan-larsson
+    - 2
+  - - pontus-warnestal
+    - 1
+  - - sebastian-berlin
+    - 1
+  - - anders-eliasson
+    - 1
+  first: Fredrik
+  full: Fredrik Kronlid
+  last: Kronlid
+  papers:
+  - Z13-4035
+  - Z13-4037
+  slug: fredrik-kronlid
+  venues:
+  - - SEMDIAL
+    - 2
 fredy-a-amaya:
   coauthors: []
   first: Fredy A.

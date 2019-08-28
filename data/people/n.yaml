@@ -195,6 +195,21 @@ naomi-feldman:
   papers: []
   slug: naomi-feldman
   venues: []
+naomi-kamoen:
+  coauthors:
+  - - marie-postma-nilsenova
+    - 1
+  - - lisette-mol
+    - 1
+  first: Naomi
+  full: Naomi Kamoen
+  last: Kamoen
+  papers:
+  - Z13-3015
+  slug: naomi-kamoen
+  venues:
+  - - SEMDIAL
+    - 1
 naomi-sager:
   coauthors: []
   first: Naomi
@@ -532,13 +547,13 @@ nicholas-asher:
     - 2
   - - stergos-afantenos
     - 2
+  - - soumya-paul
+    - 2
   - - alex-lascarides
     - 1
   - - antoine-venant
     - 1
   - - cedric-degremont
-    - 1
-  - - soumya-paul
     - 1
   - - julian-j-schloder
     - 1
@@ -557,10 +572,22 @@ nicholas-asher:
   - Z15-3014
   - Z14-3019
   - Z14-3021
+  - Z13-4022
   slug: nicholas-asher
   venues:
   - - SEMDIAL
-    - 5
+    - 6
+nicholas-hubert-kirk:
+  coauthors: []
+  first: Nicholas Hubert
+  full: Nicholas Hubert Kirk
+  last: Kirk
+  papers:
+  - Z13-4033
+  slug: nicholas-hubert-kirk
+  venues:
+  - - SEMDIAL
+    - 1
 nicholas-j-haddock:
   coauthors: []
   first: Nicholas J.
@@ -579,13 +606,13 @@ nicholas-kushmerick:
   venues: []
 nick-campbell:
   coauthors:
+  - - emer-gilmartin
+    - 2
   - - joao-paulo-cabral1
     - 1
   - - sree-ganesh
     - 1
   - - mina-kheirkhah
-    - 1
-  - - emer-gilmartin
     - 1
   - - fasih-haider
     - 1
@@ -599,15 +626,20 @@ nick-campbell:
     - 1
   - - odei-rey-orozko
     - 1
+  - - francesca-bonin
+    - 1
+  - - carl-vogel
+    - 1
   first: Nick
   full: Nick Campbell
   last: Campbell
   papers:
   - Z14-4022
+  - Z13-4028
   slug: nick-campbell
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 nick-j-youd:
   coauthors: []
   first: Nick J.
