@@ -448,6 +448,17 @@ florin-bulgarov:
   papers: []
   slug: florin-bulgarov
   venues: []
+florrie-verity:
+  coauthors: []
+  first: Florrie
+  full: Florrie Verity
+  last: Verity
+  papers:
+  - Z19-3010
+  slug: florrie-verity
+  venues:
+  - - SEMDIAL
+    - 1
 folkert-de-vriend:
   coauthors: []
   first: Folkert

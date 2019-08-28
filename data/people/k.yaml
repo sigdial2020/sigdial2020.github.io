@@ -115,22 +115,25 @@ kalliopi-zervanou:
 kallirroi-georgila:
   coauthors:
   - - carla-gordon
+    - 2
+  - - david-traum
+    - 2
+  - - volodymyr-yanov
     - 1
   - - hyungtak-choi
     - 1
   - - jill-boberg
     - 1
-  - - david-traum
-    - 1
   first: Kallirroi
   full: Kallirroi Georgila
   last: Georgila
   papers:
+  - Z19-4024
   - Z18-3010
   slug: kallirroi-georgila
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 kam-fai-wong:
   coauthors: []
   first: Kam-Fai
@@ -1160,18 +1163,21 @@ kok-wee-gan:
 koki-ijuin:
   coauthors:
   - - ichiro-umata
-    - 1
+    - 2
   - - seiichi-yamamoto
+    - 2
+  - - tsuneo-kato
     - 1
   first: Koki
   full: Koki Ijuin
   last: Ijuin
   papers:
+  - Z19-4030
   - Z17-4031
   slug: koki-ijuin
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 koldo-gojenola:
   coauthors: []
   first: Koldo

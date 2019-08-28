@@ -61,6 +61,26 @@ eckhard-bick:
   papers: []
   slug: eckhard-bick
   venues: []
+eda-okur:
+  coauthors:
+  - - saurav-sahay
+    - 2
+  - - shachi-h-kumar1
+    - 2
+  - - lama-nachman
+    - 2
+  - - haroon-syed
+    - 1
+  first: Eda
+  full: Eda Okur
+  last: Okur
+  papers:
+  - Z19-3019
+  - Z19-4039
+  slug: eda-okur
+  venues:
+  - - SEMDIAL
+    - 2
 edgar-gonzalez-pellicer:
   coauthors: []
   first: Edgar
@@ -353,6 +373,31 @@ elena-v-paducheva:
   papers: []
   slug: elena-v-paducheva
   venues: []
+eleni-gregoromichelaki:
+  coauthors:
+  - - christine-howes
+    - 1
+  - - arash-eshghi
+    - 1
+  - - ruth-kempson
+    - 1
+  - - julian-hough
+    - 1
+  - - mehrnoosh-sadrzadeh
+    - 1
+  - - matthew-purver
+    - 1
+  - - gijs-wijnholds
+    - 1
+  first: Eleni
+  full: Eleni Gregoromichelaki
+  last: Gregoromichelaki
+  papers:
+  - Z19-4025
+  slug: eleni-gregoromichelaki
+  venues:
+  - - SEMDIAL
+    - 1
 eleni-koutsogeorgos:
   coauthors: []
   first: Eleni
@@ -604,6 +649,8 @@ ellen-bard:
     - 1
 ellen-breitholtz:
   coauthors:
+  - - vladislav-maraev
+    - 1
   - - robin-cooper
     - 1
   - - julian-j-schloder
@@ -616,13 +663,14 @@ ellen-breitholtz:
   full: Ellen Breitholtz
   last: Breitholtz
   papers:
+  - Z19-3016
   - Z18-4022
   - Z16-3005
   - Z15-4022
   slug: ellen-breitholtz
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 ellen-campana:
   coauthors: []
   first: Ellen
@@ -756,15 +804,18 @@ emer-gilmartin:
     - 1
   - - odei-rey-orozko
     - 1
+  - - carl-vogel
+    - 1
   first: Emer
   full: Emer Gilmartin
   last: Gilmartin
   papers:
+  - Z19-4023
   - Z14-4022
   slug: emer-gilmartin
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 emerson-cabrera-paraiso:
   coauthors: []
   first: Emerson Cabrera
@@ -829,6 +880,19 @@ emina-kurtic:
   papers: []
   slug: emina-kurtic
   venues: []
+emma-barker:
+  coauthors:
+  - - robert-gaizauskas
+    - 1
+  first: Emma
+  full: Emma Barker
+  last: Barker
+  papers:
+  - Z19-3011
+  slug: emma-barker
+  venues:
+  - - SEMDIAL
+    - 1
 eneida-a-mendonca:
   coauthors: []
   first: Eneida A.

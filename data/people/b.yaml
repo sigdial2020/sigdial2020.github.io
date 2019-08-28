@@ -622,6 +622,23 @@ berry-claus:
   venues:
   - - SEMDIAL
     - 1
+bert-le-bruyn:
+  coauthors:
+  - - jos-tellings
+    - 1
+  - - martijn-van-der-klis
+    - 1
+  - - henriette-de-swart
+    - 1
+  first: Bert Le
+  full: Bert Le Bruyn
+  last: Bruyn
+  papers:
+  - Z19-4029
+  slug: bert-le-bruyn
+  venues:
+  - - SEMDIAL
+    - 1
 beth-ann-hockey:
   coauthors: []
   first: Beth Ann
@@ -695,16 +712,21 @@ biljana-drndarevic:
   slug: biljana-drndarevic
   venues: []
 bill-noble:
-  coauthors: []
+  coauthors:
+  - - asad-sayeed
+    - 1
+  - - staffan-larsson
+    - 1
   first: Bill
   full: Bill Noble
   last: Noble
   papers:
+  - Z19-4038
   - Z18-4034
   slug: bill-noble
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 bill-yuchen-lin:
   coauthors: []
   first: Bill Yuchen

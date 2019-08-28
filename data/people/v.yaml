@@ -377,6 +377,21 @@ vidas-daudaravicius:
   papers: []
   slug: vidas-daudaravicius
   venues: []
+vidya-somashekarappa:
+  coauthors:
+  - - christine-howes
+    - 1
+  - - asad-sayeed
+    - 1
+  first: Vidya
+  full: Vidya Somashekarappa
+  last: Somashekarappa
+  papers:
+  - Z19-4041
+  slug: vidya-somashekarappa
+  venues:
+  - - SEMDIAL
+    - 1
 viet-cuong-nguyen:
   coauthors: []
   first: Viet Cuong
@@ -617,9 +632,17 @@ vladislav-kubon:
   venues: []
 vladislav-maraev:
   coauthors:
+  - - chiara-mazzocconi
+    - 2
   - - jonathan-ginzburg
     - 2
-  - - chiara-mazzocconi
+  - - ellen-breitholtz
+    - 1
+  - - arash-eshghi
+    - 1
+  - - christine-howes
+    - 1
+  - - julian-hough
     - 1
   - - staffan-larsson
     - 1
@@ -631,12 +654,14 @@ vladislav-maraev:
   full: Vladislav Maraev
   last: Maraev
   papers:
+  - Z19-3016
+  - Z19-4034
   - Z18-3005
   - Z18-3011
   slug: vladislav-maraev
   venues:
   - - SEMDIAL
-    - 2
+    - 4
 vlado-keselj:
   coauthors: []
   first: Vlado
@@ -674,6 +699,23 @@ volha-petukhova:
   venues:
   - - SEMDIAL
     - 3
+volodymyr-yanov:
+  coauthors:
+  - - carla-gordon
+    - 1
+  - - david-traum
+    - 1
+  - - kallirroi-georgila
+    - 1
+  first: Volodymyr
+  full: Volodymyr Yanov
+  last: Yanov
+  papers:
+  - Z19-4024
+  slug: volodymyr-yanov
+  venues:
+  - - SEMDIAL
+    - 1
 von-wun-soo:
   coauthors: []
   first: Von-Wun

@@ -119,6 +119,21 @@ takaki-makino:
   papers: []
   slug: takaki-makino
   venues: []
+takashi-kodama:
+  coauthors:
+  - - ribeka-tanaka
+    - 1
+  - - sadao-kurohashi
+    - 1
+  first: Takashi
+  full: Takashi Kodama
+  last: Kodama
+  papers:
+  - Z19-4027
+  slug: takashi-kodama
+  venues:
+  - - SEMDIAL
+    - 1
 takashi-miyata:
   coauthors: []
   first: Takashi
@@ -1231,13 +1246,15 @@ tsong-yi-chen:
   venues: []
 tsunehiro-arimoto:
   coauthors:
+  - - hiroaki-sugiyama
+    - 2
+  - - hiromi-narimatsu
+    - 2
   - - ryuichiro-higashinaka
+    - 2
+  - - masahiro-mizukami
     - 1
   - - kazuki-sakai
-    - 1
-  - - hiroaki-sugiyama
-    - 1
-  - - hiromi-narimatsu
     - 1
   - - takaaki-fukutomi-kiyoaki-matsui
     - 1
@@ -1257,8 +1274,26 @@ tsunehiro-arimoto:
   full: Tsunehiro Arimoto
   last: Arimoto
   papers:
+  - Z19-4020
   - Z17-4019
   slug: tsunehiro-arimoto
+  venues:
+  - - SEMDIAL
+    - 2
+tsuneo-kato:
+  coauthors:
+  - - ichiro-umata
+    - 1
+  - - koki-ijuin
+    - 1
+  - - seiichi-yamamoto
+    - 1
+  first: Tsuneo
+  full: Tsuneo Kato
+  last: Kato
+  papers:
+  - Z19-4030
+  slug: tsuneo-kato
   venues:
   - - SEMDIAL
     - 1

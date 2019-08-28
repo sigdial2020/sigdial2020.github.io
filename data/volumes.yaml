@@ -709,3 +709,157 @@ Z18-4:
   venues:
   - SEMDIAL
   year: '2018'
+Z19-1:
+  address: London, United Kingdom
+  editor:
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: Casey
+    full: Casey Kennington
+    id: casey-kennington
+    last: Kennington
+  has_abstracts: false
+  meta_date: 2019/9
+  month: September
+  papers:
+  - Z19-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  venues:
+  - SEMDIAL
+  year: '2019'
+Z19-2:
+  address: London, United Kingdom
+  editor:
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: Casey
+    full: Casey Kennington
+    id: casey-kennington
+    last: Kennington
+  has_abstracts: false
+  meta_date: 2019/9
+  month: September
+  papers:
+  - Z19-2001
+  - Z19-2002
+  - Z19-2003
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics of
+    Dialogue - Invited Talks
+  venues:
+  - SEMDIAL
+  year: '2019'
+Z19-3:
+  address: London, United Kingdom
+  editor:
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: Casey
+    full: Casey Kennington
+    id: casey-kennington
+    last: Kennington
+  has_abstracts: false
+  meta_date: 2019/9
+  month: September
+  papers:
+  - Z19-3004
+  - Z19-3005
+  - Z19-3006
+  - Z19-3007
+  - Z19-3008
+  - Z19-3009
+  - Z19-3010
+  - Z19-3011
+  - Z19-3012
+  - Z19-3013
+  - Z19-3014
+  - Z19-3015
+  - Z19-3016
+  - Z19-3017
+  - Z19-3018
+  - Z19-3019
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics of
+    Dialogue - Full Papers
+  venues:
+  - SEMDIAL
+  year: '2019'
+Z19-4:
+  address: London, United Kingdom
+  editor:
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: Casey
+    full: Casey Kennington
+    id: casey-kennington
+    last: Kennington
+  has_abstracts: false
+  meta_date: 2019/9
+  month: September
+  papers:
+  - Z19-4020
+  - Z19-4021
+  - Z19-4022
+  - Z19-4023
+  - Z19-4024
+  - Z19-4025
+  - Z19-4026
+  - Z19-4027
+  - Z19-4028
+  - Z19-4029
+  - Z19-4030
+  - Z19-4031
+  - Z19-4032
+  - Z19-4033
+  - Z19-4034
+  - Z19-4035
+  - Z19-4036
+  - Z19-4037
+  - Z19-4038
+  - Z19-4039
+  - Z19-4040
+  - Z19-4041
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  title_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics of
+    Dialogue - Poster Abstracts
+  venues:
+  - SEMDIAL
+  year: '2019'

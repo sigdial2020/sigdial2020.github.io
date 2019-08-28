@@ -1008,13 +1008,13 @@ david-schlangen:
     - 3
   - - ting-han
     - 3
+  - - nikolai-ilinykh
+    - 3
+  - - sina-zarriess
+    - 3
   - - spyros-kousidis
     - 2
   - - soledad-lopez-gambino
-    - 2
-  - - sina-zarriess
-    - 2
-  - - nikolai-ilinykh
     - 2
   - - cornelia-frank
     - 1
@@ -1040,6 +1040,7 @@ david-schlangen:
   full: David Schlangen
   last: Schlangen
   papers:
+  - Z19-3006
   - Z18-3004
   - Z18-3018
   - Z18-4036
@@ -1057,7 +1058,7 @@ david-schlangen:
   slug: david-schlangen
   venues:
   - - SEMDIAL
-    - 14
+    - 15
 david-stallard:
   coauthors: []
   first: David
@@ -1106,13 +1107,23 @@ david-tomas:
   venues: []
 david-traum:
   coauthors:
+  - - carla-gordon
+    - 3
+  - - kallirroi-georgila
+    - 2
   - - angela-nazarian
     - 1
   - - elnaz-nouri
     - 1
-  - - carla-gordon
+  - - usman-sohail
     - 1
-  - - kallirroi-georgila
+  - - ron-artstein
+    - 1
+  - - volodymyr-yanov
+    - 1
+  - - seyed-hossein-alavi
+    - 1
+  - - anton-leuski
     - 1
   - - hyungtak-choi
     - 1
@@ -1122,12 +1133,15 @@ david-traum:
   full: David Traum
   last: Traum
   papers:
+  - Z19-3018
+  - Z19-4024
+  - Z19-4026
   - Z18-3010
   - Z14-4044
   slug: david-traum
   venues:
   - - SEMDIAL
-    - 2
+    - 5
 david-w-aha:
   coauthors: []
   first: David W.

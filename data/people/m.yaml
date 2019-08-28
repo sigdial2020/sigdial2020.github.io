@@ -406,11 +406,12 @@ mandy-simons:
   full: Mandy Simons
   last: Simons
   papers:
+  - Z19-3015
   - Z15-4046
   slug: mandy-simons
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 manfred-gehrke:
   coauthors: []
   first: Manfred
@@ -864,16 +865,23 @@ mari-ostendorf:
 maria-boritchev:
   coauthors:
   - - maxime-amblard
+    - 2
+  - - marta-carletti
+    - 1
+  - - lea-dieudonat
+    - 1
+  - - yi-ting-tsai
     - 1
   first: Maria
   full: Maria Boritchev
   last: Boritchev
   papers:
+  - Z19-4031
   - Z18-3021
   slug: maria-boritchev
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 maria-clara-paixao-de-sousa:
   coauthors: []
   first: "Maria Clara Paix\xE3o de"
@@ -1550,6 +1558,25 @@ marsden-s-blois:
   papers: []
   slug: marsden-s-blois
   venues: []
+marta-carletti:
+  coauthors:
+  - - maxime-amblard
+    - 1
+  - - maria-boritchev
+    - 1
+  - - lea-dieudonat
+    - 1
+  - - yi-ting-tsai
+    - 1
+  first: Marta
+  full: Marta Carletti
+  last: Carletti
+  papers:
+  - Z19-4031
+  slug: marta-carletti
+  venues:
+  - - SEMDIAL
+    - 1
 marta-garrote-salazar:
   coauthors: []
   first: Marta
@@ -1598,6 +1625,17 @@ martha-palmer:
   papers: []
   slug: martha-palmer
   venues: []
+martha-robinson:
+  coauthors: []
+  first: Martha
+  full: Martha Robinson
+  last: Robinson
+  papers:
+  - Z19-4040
+  slug: martha-robinson
+  venues:
+  - - SEMDIAL
+    - 1
 martha-yifiru-tachbelie:
   coauthors: []
   first: Martha Yifiru
@@ -1614,6 +1652,23 @@ marti-a-hearst:
   papers: []
   slug: marti-a-hearst
   venues: []
+martijn-van-der-klis:
+  coauthors:
+  - - jos-tellings
+    - 1
+  - - bert-le-bruyn
+    - 1
+  - - henriette-de-swart
+    - 1
+  first: Martijn van der
+  full: Martijn van der Klis
+  last: Klis
+  papers:
+  - Z19-4029
+  slug: martijn-van-der-klis
+  venues:
+  - - SEMDIAL
+    - 1
 martin-ariel-dominguez:
   coauthors: []
   first: Martin Ariel
@@ -1841,6 +1896,25 @@ masahiro-araki:
   papers: []
   slug: masahiro-araki
   venues: []
+masahiro-mizukami:
+  coauthors:
+  - - tsunehiro-arimoto
+    - 1
+  - - hiroaki-sugiyama
+    - 1
+  - - hiromi-narimatsu
+    - 1
+  - - ryuichiro-higashinaka
+    - 1
+  first: Masahiro
+  full: Masahiro Mizukami
+  last: Mizukami
+  papers:
+  - Z19-4020
+  slug: masahiro-mizukami
+  venues:
+  - - SEMDIAL
+    - 1
 masahito-kawamori:
   coauthors: []
   first: Masahito
@@ -2026,24 +2100,34 @@ matthew-j-green:
   venues: []
 matthew-purver:
   coauthors:
+  - - julian-hough
+    - 4
   - - patrick-healey
     - 3
-  - - julian-hough
+  - - christine-howes
+    - 2
+  - - ruth-kempson
+    - 2
+  - - mehrnoosh-sadrzadeh
     - 2
   - - shauna-concannon
     - 2
-  - - christine-howes
-    - 1
   - - rose-mccabe
     - 1
-  - - mehrnoosh-sadrzadeh
+  - - shamila-nasreen
     - 1
-  - - ruth-kempson
+  - - eleni-gregoromichelaki
+    - 1
+  - - arash-eshghi
+    - 1
+  - - gijs-wijnholds
     - 1
   first: Matthew
   full: Matthew Purver
   last: Purver
   papers:
+  - Z19-3013
+  - Z19-4025
   - Z18-3016
   - Z18-4029
   - Z15-3004
@@ -2053,7 +2137,7 @@ matthew-purver:
   slug: matthew-purver
   venues:
   - - SEMDIAL
-    - 6
+    - 8
 matthew-r-gormley:
   coauthors: []
   first: Matthew R.
@@ -2190,6 +2274,19 @@ matti-ylilammi:
   papers: []
   slug: matti-ylilammi
   venues: []
+mattias-appelgren:
+  coauthors:
+  - - alex-lascarides
+    - 1
+  first: Mattias
+  full: Mattias Appelgren
+  last: Appelgren
+  papers:
+  - Z19-3004
+  slug: mattias-appelgren
+  venues:
+  - - SEMDIAL
+    - 1
 matus-pleva:
   coauthors: []
   first: "Mat\xFA\u0161"
@@ -2270,16 +2367,23 @@ max-silberztein:
 maxime-amblard:
   coauthors:
   - - maria-boritchev
+    - 2
+  - - marta-carletti
+    - 1
+  - - lea-dieudonat
+    - 1
+  - - yi-ting-tsai
     - 1
   first: Maxime
   full: Maxime Amblard
   last: Amblard
   papers:
+  - Z19-4031
   - Z18-3021
   slug: maxime-amblard
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 maximiliano-saiz-noeda:
   coauthors: []
   first: Maximiliano
@@ -2360,23 +2464,47 @@ megumi-kameyama:
   papers: []
   slug: megumi-kameyama
   venues: []
+mehdi-ghanimifard:
+  coauthors:
+  - - jose-miguel-cano-santin
+    - 1
+  - - simon-dobnik
+    - 1
+  first: Mehdi
+  full: Mehdi Ghanimifard
+  last: Ghanimifard
+  papers:
+  - Z19-4036
+  slug: mehdi-ghanimifard
+  venues:
+  - - SEMDIAL
+    - 1
 mehrnoosh-sadrzadeh:
   coauthors:
-  - - matthew-purver
-    - 1
-  - - julian-hough
-    - 1
   - - ruth-kempson
+    - 2
+  - - julian-hough
+    - 2
+  - - matthew-purver
+    - 2
+  - - eleni-gregoromichelaki
+    - 1
+  - - christine-howes
+    - 1
+  - - arash-eshghi
+    - 1
+  - - gijs-wijnholds
     - 1
   first: Mehrnoosh
   full: Mehrnoosh Sadrzadeh
   last: Sadrzadeh
   papers:
+  - Z19-4025
   - Z18-3016
   slug: mehrnoosh-sadrzadeh
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 mei-chih-tsai:
   coauthors: []
   first: Mei-Chih

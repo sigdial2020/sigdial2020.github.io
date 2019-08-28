@@ -46,18 +46,21 @@ ian-p-davy:
 ichiro-umata:
   coauthors:
   - - koki-ijuin
-    - 1
+    - 2
   - - seiichi-yamamoto
+    - 2
+  - - tsuneo-kato
     - 1
   first: Ichiro
   full: Ichiro Umata
   last: Umata
   papers:
+  - Z19-4030
   - Z17-4031
   slug: ichiro-umata
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 ido-dagan:
   coauthors: []
   first: Ido

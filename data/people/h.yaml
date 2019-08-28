@@ -173,9 +173,11 @@ hannah-bechara:
   venues: []
 hannah-rohde:
   coauthors:
-  - - ernisa-marzuki
-    - 1
   - - chris-cummins
+    - 2
+  - - alexandra-lorson
+    - 1
+  - - ernisa-marzuki
     - 1
   - - gareth-clegg
     - 1
@@ -187,12 +189,13 @@ hannah-rohde:
   full: Hannah Rohde
   last: Rohde
   papers:
+  - Z19-3009
   - Z17-3010
   - Z15-4047
   slug: hannah-rohde
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 hanne-erdman-thomsen:
   coauthors: []
   first: Hanne Erdman
@@ -371,6 +374,25 @@ harold-somers:
   papers: []
   slug: harold-somers
   venues: []
+haroon-syed:
+  coauthors:
+  - - saurav-sahay
+    - 1
+  - - shachi-h-kumar1
+    - 1
+  - - eda-okur
+    - 1
+  - - lama-nachman
+    - 1
+  first: Haroon
+  full: Haroon Syed
+  last: Syed
+  papers:
+  - Z19-3019
+  slug: haroon-syed
+  venues:
+  - - SEMDIAL
+    - 1
 harri-jappinen:
   coauthors: []
   first: Harri
@@ -827,6 +849,23 @@ hennie-van-der-vliet:
   papers: []
   slug: hennie-van-der-vliet
   venues: []
+henriette-de-swart:
+  coauthors:
+  - - jos-tellings
+    - 1
+  - - martijn-van-der-klis
+    - 1
+  - - bert-le-bruyn
+    - 1
+  first: "Henri\xEBtte de"
+  full: "Henri\xEBtte de Swart"
+  last: Swart
+  papers:
+  - Z19-4029
+  slug: henriette-de-swart
+  venues:
+  - - SEMDIAL
+    - 1
 henry-s-thompson:
   coauthors: []
   first: Henry S.
@@ -1103,13 +1142,15 @@ hiroaki-saito:
   venues: []
 hiroaki-sugiyama:
   coauthors:
+  - - tsunehiro-arimoto
+    - 2
+  - - hiromi-narimatsu
+    - 2
   - - ryuichiro-higashinaka
+    - 2
+  - - masahiro-mizukami
     - 1
   - - kazuki-sakai
-    - 1
-  - - hiromi-narimatsu
-    - 1
-  - - tsunehiro-arimoto
     - 1
   - - takaaki-fukutomi-kiyoaki-matsui
     - 1
@@ -1129,11 +1170,12 @@ hiroaki-sugiyama:
   full: Hiroaki Sugiyama
   last: Sugiyama
   papers:
+  - Z19-4020
   - Z17-4019
   slug: hiroaki-sugiyama
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 hirofumi-yamamoto:
   coauthors: []
   first: Hirofumi
@@ -1160,13 +1202,15 @@ hiromi-nakaiwa:
   venues: []
 hiromi-narimatsu:
   coauthors:
+  - - tsunehiro-arimoto
+    - 2
+  - - hiroaki-sugiyama
+    - 2
   - - ryuichiro-higashinaka
+    - 2
+  - - masahiro-mizukami
     - 1
   - - kazuki-sakai
-    - 1
-  - - hiroaki-sugiyama
-    - 1
-  - - tsunehiro-arimoto
     - 1
   - - takaaki-fukutomi-kiyoaki-matsui
     - 1
@@ -1186,11 +1230,12 @@ hiromi-narimatsu:
   full: Hiromi Narimatsu
   last: Narimatsu
   papers:
+  - Z19-4020
   - Z17-4019
   slug: hiromi-narimatsu
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 hiromi-ozaku:
   coauthors: []
   first: Hiromi

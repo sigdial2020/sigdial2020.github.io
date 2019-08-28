@@ -207,16 +207,17 @@ jaime-r-carbonell:
 jakob-landesberger:
   coauthors:
   - - ute-ehrlich
-    - 1
+    - 2
   first: Jakob
   full: Jakob Landesberger
   last: Landesberger
   papers:
+  - Z19-4028
   - Z18-4032
   slug: jakob-landesberger
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 jakub-waszczuk:
   coauthors: []
   first: Jakub
@@ -2004,6 +2005,17 @@ john-dowding:
   papers: []
   slug: john-dowding
   venues: []
+john-dubois:
+  coauthors: []
+  first: John
+  full: John Dubois
+  last: Dubois
+  papers:
+  - Z19-4022
+  slug: john-dubois
+  venues:
+  - - SEMDIAL
+    - 1
 john-elliott:
   coauthors: []
   first: John
@@ -2098,14 +2110,16 @@ john-keane:
 john-kelleher:
   coauthors:
   - - simon-dobnik
-    - 3
+    - 4
+  - - anh-duong-trinh
+    - 2
   - - christos-koniaris
     - 1
   - - niels-schuette
     - 1
   - - brian-mac-namee
     - 1
-  - - anh-duong-trinh
+  - - robert-ross
     - 1
   - - robert-j-ross1
     - 1
@@ -2115,6 +2129,8 @@ john-kelleher:
   full: John Kelleher
   last: Kelleher
   papers:
+  - Z19-4032
+  - Z19-4033
   - Z17-4030
   - Z16-3007
   - Z15-3006
@@ -2127,7 +2143,7 @@ john-kelleher:
     last: Kelleher
   venues:
   - - SEMDIAL
-    - 5
+    - 7
 john-l-beaven:
   coauthors: []
   first: John L.
@@ -2389,6 +2405,8 @@ jonathan-ginzburg:
     - 1
   - - julian-hough
     - 1
+  - - christopher-cash
+    - 1
   - - staffan-larsson
     - 1
   - - jean-philippe-bernardy
@@ -2403,6 +2421,7 @@ jonathan-ginzburg:
   full: Jonathan Ginzburg
   last: Ginzburg
   papers:
+  - Z19-3007
   - Z18-3005
   - Z18-3011
   - Z18-3019
@@ -2414,7 +2433,7 @@ jonathan-ginzburg:
   slug: jonathan-ginzburg
   venues:
   - - SEMDIAL
-    - 8
+    - 9
 jonathan-h-clark:
   coauthors: []
   first: Jonathan H.
@@ -2588,6 +2607,23 @@ jort-florent-gemmeke:
   papers: []
   slug: jort-florent-gemmeke
   venues: []
+jos-tellings:
+  coauthors:
+  - - martijn-van-der-klis
+    - 1
+  - - bert-le-bruyn
+    - 1
+  - - henriette-de-swart
+    - 1
+  first: Jos
+  full: Jos Tellings
+  last: Tellings
+  papers:
+  - Z19-4029
+  slug: jos-tellings
+  venues:
+  - - SEMDIAL
+    - 1
 josafa-de-jesus-aguiar-pontes:
   coauthors: []
   first: "Josaf\xE1"
@@ -2788,6 +2824,21 @@ jose-miguel-benedi:
   papers: []
   slug: jose-miguel-benedi
   venues: []
+jose-miguel-cano-santin:
+  coauthors:
+  - - simon-dobnik
+    - 1
+  - - mehdi-ghanimifard
+    - 1
+  first: "Jos\xE9 Miguel Cano"
+  full: "Jos\xE9 Miguel Cano Sant\xEDn"
+  last: "Sant\xEDn"
+  papers:
+  - Z19-4036
+  slug: jose-miguel-cano-santin
+  venues:
+  - - SEMDIAL
+    - 1
 jose-ramom-pichel-campos:
   coauthors: []
   first: "Jos\xE9 Ramom"
@@ -3146,14 +3197,20 @@ julian-hough:
   coauthors:
   - - david-schlangen
     - 5
+  - - christine-howes
+    - 4
+  - - matthew-purver
+    - 4
   - - iwan-de-kok
     - 3
   - - stefan-kopp
     - 3
-  - - matthew-purver
+  - - arash-eshghi
     - 2
-  - - christine-howes
-    - 1
+  - - ruth-kempson
+    - 2
+  - - mehrnoosh-sadrzadeh
+    - 2
   - - rose-mccabe
     - 1
   - - cornelia-frank
@@ -3162,9 +3219,19 @@ julian-hough:
     - 1
   - - ye-tian
     - 1
-  - - mehrnoosh-sadrzadeh
+  - - casey-kennington
     - 1
-  - - ruth-kempson
+  - - shamila-nasreen
+    - 1
+  - - eleni-gregoromichelaki
+    - 1
+  - - gijs-wijnholds
+    - 1
+  - - vladislav-maraev
+    - 1
+  - - chiara-mazzocconi
+    - 1
+  - - andrew-lewis-smith
     - 1
   - - tom-gurion
     - 1
@@ -3180,6 +3247,11 @@ julian-hough:
   full: Julian Hough
   last: Hough
   papers:
+  - Z19-1000
+  - Z19-3013
+  - Z19-4025
+  - Z19-4034
+  - Z19-4035
   - Z18-3016
   - Z18-4027
   - Z16-4017
@@ -3191,7 +3263,7 @@ julian-hough:
   slug: julian-hough
   venues:
   - - SEMDIAL
-    - 8
+    - 13
 julian-j-odell:
   coauthors: []
   first: Julian J.
@@ -3203,7 +3275,7 @@ julian-j-odell:
 julian-j-schloder:
   coauthors:
   - - raquel-fernandez
-    - 2
+    - 3
   - - ellen-breitholtz
     - 1
   - - antoine-venant1
@@ -3216,6 +3288,7 @@ julian-j-schloder:
   full: "Julian J. Schl\xF6der"
   last: "Schl\xF6der"
   papers:
+  - Z19-3014
   - Z16-3005
   - Z16-4020
   - Z15-3018
@@ -3227,7 +3300,7 @@ julian-j-schloder:
     last: "Schl\xF6der"
   venues:
   - - SEMDIAL
-    - 4
+    - 5
 julian-moreno-schneider:
   coauthors: []
   first: Julian

@@ -62,6 +62,21 @@ sachindra-joshi:
   papers: []
   slug: sachindra-joshi
   venues: []
+sadao-kurohashi:
+  coauthors:
+  - - takashi-kodama
+    - 1
+  - - ribeka-tanaka
+    - 1
+  first: Sadao
+  full: Sadao Kurohashi
+  last: Kurohashi
+  papers:
+  - Z19-4027
+  slug: sadao-kurohashi
+  venues:
+  - - SEMDIAL
+    - 1
 sadaoki-furui:
   coauthors: []
   first: Sadaoki
@@ -575,6 +590,26 @@ saul-leon:
   papers: []
   slug: saul-leon
   venues: []
+saurav-sahay:
+  coauthors:
+  - - shachi-h-kumar1
+    - 2
+  - - eda-okur
+    - 2
+  - - lama-nachman
+    - 2
+  - - haroon-syed
+    - 1
+  first: Saurav
+  full: Saurav Sahay
+  last: Sahay
+  papers:
+  - Z19-3019
+  - Z19-4039
+  slug: saurav-sahay
+  venues:
+  - - SEMDIAL
+    - 2
 scott-c-stoness:
   coauthors: []
   first: Scott C.
@@ -775,18 +810,21 @@ seiichi-nakagawa:
 seiichi-yamamoto:
   coauthors:
   - - ichiro-umata
-    - 1
+    - 2
   - - koki-ijuin
+    - 2
+  - - tsuneo-kato
     - 1
   first: Seiichi
   full: Seiichi Yamamoto
   last: Yamamoto
   papers:
+  - Z19-4030
   - Z17-4031
   slug: seiichi-yamamoto
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 selcuk-kopru:
   coauthors: []
   first: Selcuk
@@ -907,6 +945,21 @@ seunghyun-baek:
   papers: []
   slug: seunghyun-baek
   venues: []
+seyed-hossein-alavi:
+  coauthors:
+  - - anton-leuski
+    - 1
+  - - david-traum
+    - 1
+  first: Seyed Hossein
+  full: Seyed Hossein Alavi
+  last: Alavi
+  papers:
+  - Z19-4026
+  slug: seyed-hossein-alavi
+  venues:
+  - - SEMDIAL
+    - 1
 shachi-h-kumar:
   coauthors: []
   first: Shachi
@@ -915,6 +968,26 @@ shachi-h-kumar:
   papers: []
   slug: shachi-h-kumar
   venues: []
+shachi-h-kumar1:
+  coauthors:
+  - - saurav-sahay
+    - 2
+  - - eda-okur
+    - 2
+  - - lama-nachman
+    - 2
+  - - haroon-syed
+    - 1
+  first: Shachi H.
+  full: Shachi H. Kumar
+  last: Kumar
+  papers:
+  - Z19-3019
+  - Z19-4039
+  slug: shachi-h-kumar1
+  venues:
+  - - SEMDIAL
+    - 2
 shafiq-joty:
   coauthors: []
   first: Shafiq
@@ -931,6 +1004,21 @@ shalom-lappin:
   papers: []
   slug: shalom-lappin
   venues: []
+shamila-nasreen:
+  coauthors:
+  - - matthew-purver
+    - 1
+  - - julian-hough
+    - 1
+  first: Shamila
+  full: Shamila Nasreen
+  last: Nasreen
+  papers:
+  - Z19-3013
+  slug: shamila-nasreen
+  venues:
+  - - SEMDIAL
+    - 1
 shannon-l-spruit:
   coauthors: []
   first: Shannon L.
@@ -984,6 +1072,19 @@ shari-landes:
   papers: []
   slug: shari-landes
   venues: []
+sharid-loaiciga:
+  coauthors:
+  - - simon-dobnik
+    - 1
+  first: Sharid
+  full: "Sharid Lo\xE1iciga"
+  last: "Lo\xE1iciga"
+  papers:
+  - Z19-4021
+  slug: sharid-loaiciga
+  venues:
+  - - SEMDIAL
+    - 1
 sharon-goldwater:
   coauthors: []
   first: Sharon
@@ -1578,12 +1679,18 @@ simon-de-deyne:
 simon-dobnik:
   coauthors:
   - - john-kelleher
-    - 3
+    - 4
   - - christos-koniaris
     - 1
   - - staffan-larsson
     - 1
   - - sebastian-berlin
+    - 1
+  - - sharid-loaiciga
+    - 1
+  - - jose-miguel-cano-santin
+    - 1
+  - - mehdi-ghanimifard
     - 1
   - - axel-storckenfeldt
     - 1
@@ -1597,6 +1704,9 @@ simon-dobnik:
   full: Simon Dobnik
   last: Dobnik
   papers:
+  - Z19-4021
+  - Z19-4032
+  - Z19-4036
   - Z18-4025
   - Z17-3005
   - Z16-3007
@@ -1607,7 +1717,7 @@ simon-dobnik:
   slug: simon-dobnik
   venues:
   - - SEMDIAL
-    - 7
+    - 10
 simon-dobrisek:
   coauthors: []
   first: Simon
@@ -1701,6 +1811,8 @@ sina-zariess:
 sina-zarriess:
   coauthors:
   - - david-schlangen
+    - 3
+  - - nikolai-ilinykh
     - 2
   - - soledad-lopez-gambino
     - 1
@@ -1708,18 +1820,17 @@ sina-zarriess:
     - 1
   - - tim-diekmann
     - 1
-  - - nikolai-ilinykh
-    - 1
   first: Sina
   full: "Sina Zarrie\xDF"
   last: "Zarrie\xDF"
   papers:
+  - Z19-3006
   - Z18-3018
   - Z18-4036
   slug: sina-zarriess
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 sina-zarriess1:
   coauthors:
   - - david-schlangen
@@ -1930,6 +2041,30 @@ sophie-rosset:
   papers: []
   slug: sophie-rosset
   venues: []
+sophie-scott:
+  coauthors: []
+  first: Sophie
+  full: Sophie Scott
+  last: Scott
+  papers:
+  - Z19-2003
+  slug: sophie-scott
+  venues:
+  - - SEMDIAL
+    - 1
+sophie-skach:
+  coauthors:
+  - - patrick-healey
+    - 1
+  first: Sophie
+  full: Sophie Skach
+  last: Skach
+  papers:
+  - Z19-3008
+  slug: sophie-skach
+  venues:
+  - - SEMDIAL
+    - 1
 sotaro-kita:
   coauthors: []
   first: Sotaro
@@ -2097,9 +2232,17 @@ ssu-cheng-chen:
   venues: []
 staffan-larsson:
   coauthors:
+  - - christine-howes
+    - 2
   - - simon-dobnik
     - 1
   - - sebastian-berlin
+    - 1
+  - - anastasia-bondarenko
+    - 1
+  - - bill-noble
+    - 1
+  - - asad-sayeed
     - 1
   - - vladislav-maraev
     - 1
@@ -2111,12 +2254,13 @@ staffan-larsson:
     - 1
   - - jenny-myrendal
     - 1
-  - - christine-howes
-    - 1
   first: Staffan
   full: Staffan Larsson
   last: Larsson
   papers:
+  - Z19-2002
+  - Z19-3012
+  - Z19-4038
   - Z18-3011
   - Z17-3009
   - Z15-1000
@@ -2125,7 +2269,7 @@ staffan-larsson:
   slug: staffan-larsson
   venues:
   - - SEMDIAL
-    - 5
+    - 8
 stan-c-kwasny:
   coauthors: []
   first: Stan C.
@@ -2894,11 +3038,12 @@ sumiyo-nishiguchi:
   full: Sumiyo Nishiguchi
   last: Nishiguchi
   papers:
+  - Z19-4037
   - Z15-4040
   slug: sumiyo-nishiguchi
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 sung-dong-kim:
   coauthors: []
   first: Sung Dong

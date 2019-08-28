@@ -786,10 +786,10 @@ niklas-paulsson:
 nikolai-ilinykh:
   coauthors:
   - - david-schlangen
+    - 3
+  - - sina-zarriess
     - 2
   - - tim-diekmann
-    - 1
-  - - sina-zarriess
     - 1
   - - sina-zarriess1
     - 1
@@ -797,12 +797,13 @@ nikolai-ilinykh:
   full: Nikolai Ilinykh
   last: Ilinykh
   papers:
+  - Z19-3006
   - Z18-4036
   - Z18-4037
   slug: nikolai-ilinykh
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 nikolay-arefyev:
   coauthors: []
   first: Nikolay

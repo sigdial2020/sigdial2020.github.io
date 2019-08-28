@@ -667,6 +667,23 @@ alberto-maritxalar:
   papers: []
   slug: alberto-maritxalar
   venues: []
+alberto-testoni:
+  coauthors:
+  - - ravi-shekhar
+    - 1
+  - - raquel-fernandez
+    - 1
+  - - raffaella-bernardi
+    - 1
+  first: Alberto
+  full: Alberto Testoni
+  last: Testoni
+  papers:
+  - Z19-3005
+  slug: alberto-testoni
+  venues:
+  - - SEMDIAL
+    - 1
 albino-nogueiras:
   coauthors: []
   first: Albino
@@ -764,19 +781,22 @@ alex-lascarides:
     - 1
   - - nicholas-asher
     - 1
+  - - mattias-appelgren
+    - 1
   - - julian-j-schloder
     - 1
   first: Alex
   full: Alex Lascarides
   last: Lascarides
   papers:
+  - Z19-3004
   - Z15-3018
   - Z14-3011
   - Z14-3019
   slug: alex-lascarides
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 alex-liu:
   coauthors: []
   first: Alex
@@ -944,6 +964,21 @@ alexandra-l-uitdenbogerd:
   papers: []
   slug: alexandra-l-uitdenbogerd
   venues: []
+alexandra-lorson:
+  coauthors:
+  - - chris-cummins
+    - 1
+  - - hannah-rohde
+    - 1
+  first: Alexandra
+  full: Alexandra Lorson
+  last: Lorson
+  papers:
+  - Z19-3009
+  slug: alexandra-lorson
+  venues:
+  - - SEMDIAL
+    - 1
 alexandre-agustini:
   coauthors: []
   first: Alexandre
@@ -1520,6 +1555,21 @@ anas-el-isbihani:
   papers: []
   slug: anas-el-isbihani
   venues: []
+anastasia-bondarenko:
+  coauthors:
+  - - christine-howes
+    - 1
+  - - staffan-larsson
+    - 1
+  first: Anastasia
+  full: Anastasia Bondarenko
+  last: Bondarenko
+  papers:
+  - Z19-3012
+  slug: anastasia-bondarenko
+  venues:
+  - - SEMDIAL
+    - 1
 anatoli-starostin:
   coauthors: []
   first: Anatoli
@@ -1890,6 +1940,19 @@ andrew-l-kun:
   papers: []
   slug: andrew-l-kun
   venues: []
+andrew-lewis-smith:
+  coauthors:
+  - - julian-hough
+    - 1
+  first: Andrew
+  full: Andrew Lewis-Smith
+  last: Lewis-Smith
+  papers:
+  - Z19-4035
+  slug: andrew-lewis-smith
+  venues:
+  - - SEMDIAL
+    - 1
 andrew-maas:
   coauthors: []
   first: Andrew
@@ -2072,24 +2135,27 @@ angrosh-mandya:
   venues: []
 anh-duong-trinh:
   coauthors:
+  - - john-kelleher
+    - 2
+  - - robert-ross
+    - 1
   - - robert-j-ross
     - 1
   - - john-d-kelleher
     - 1
   - - robert-j-ross1
     - 1
-  - - john-kelleher
-    - 1
   first: Anh Duong
   full: Anh Duong Trinh
   last: Trinh
   papers:
+  - Z19-4033
   - Z18-3017
   - Z17-4030
   slug: anh-duong-trinh
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 anil-kumar-nelakanti:
   coauthors: []
   first: Anil Kumar
@@ -2485,6 +2551,21 @@ anton-karl-ingason:
   papers: []
   slug: anton-karl-ingason
   venues: []
+anton-leuski:
+  coauthors:
+  - - seyed-hossein-alavi
+    - 1
+  - - david-traum
+    - 1
+  first: Anton
+  full: Anton Leuski
+  last: Leuski
+  papers:
+  - Z19-4026
+  slug: anton-leuski
+  venues:
+  - - SEMDIAL
+    - 1
 antonella-de-angeli:
   coauthors: []
   first: Antonella De
@@ -2724,14 +2805,34 @@ arash-eshghi:
   coauthors:
   - - oliver-lemon
     - 5
+  - - christine-howes
+    - 2
+  - - julian-hough
+    - 2
   - - igor-shalyminov
     - 2
   - - yanchao-yu
     - 2
+  - - eleni-gregoromichelaki
+    - 1
+  - - ruth-kempson
+    - 1
+  - - mehrnoosh-sadrzadeh
+    - 1
+  - - matthew-purver
+    - 1
+  - - gijs-wijnholds
+    - 1
+  - - vladislav-maraev
+    - 1
+  - - chiara-mazzocconi
+    - 1
   first: Arash
   full: Arash Eshghi
   last: Eshghi
   papers:
+  - Z19-4025
+  - Z19-4034
   - Z18-3008
   - Z17-3016
   - Z16-3009
@@ -2741,7 +2842,7 @@ arash-eshghi:
   slug: arash-eshghi
   venues:
   - - SEMDIAL
-    - 6
+    - 8
 arash-eshghi1:
   coauthors:
   - - yanchao-yu
@@ -2974,13 +3075,25 @@ arzucan-ozgur:
   slug: arzucan-ozgur
   venues: []
 asad-sayeed:
-  coauthors: []
+  coauthors:
+  - - bill-noble
+    - 1
+  - - staffan-larsson
+    - 1
+  - - vidya-somashekarappa
+    - 1
+  - - christine-howes
+    - 1
   first: Asad
   full: Asad Sayeed
   last: Sayeed
-  papers: []
+  papers:
+  - Z19-4038
+  - Z19-4041
   slug: asad-sayeed
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 2
 ascension-gallardo-antolin:
   coauthors: []
   first: Ascension

@@ -78,19 +78,37 @@ uri-zernik:
   papers: []
   slug: uri-zernik
   venues: []
+usman-sohail:
+  coauthors:
+  - - carla-gordon
+    - 1
+  - - ron-artstein
+    - 1
+  - - david-traum
+    - 1
+  first: Usman
+  full: Usman Sohail
+  last: Sohail
+  papers:
+  - Z19-3018
+  slug: usman-sohail
+  venues:
+  - - SEMDIAL
+    - 1
 ute-ehrlich:
   coauthors:
   - - jakob-landesberger
-    - 1
+    - 2
   first: Ute
   full: Ute Ehrlich
   last: Ehrlich
   papers:
+  - Z19-4028
   - Z18-4032
   slug: ute-ehrlich
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 ute-ziegenhain:
   coauthors: []
   first: Ute

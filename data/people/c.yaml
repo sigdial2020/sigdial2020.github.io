@@ -125,25 +125,46 @@ carl-pollard:
   papers: []
   slug: carl-pollard
   venues: []
+carl-vogel:
+  coauthors:
+  - - emer-gilmartin
+    - 1
+  first: Carl
+  full: Carl Vogel
+  last: Vogel
+  papers:
+  - Z19-4023
+  slug: carl-vogel
+  venues:
+  - - SEMDIAL
+    - 1
 carla-gordon:
   coauthors:
+  - - david-traum
+    - 3
   - - kallirroi-georgila
+    - 2
+  - - usman-sohail
+    - 1
+  - - ron-artstein
+    - 1
+  - - volodymyr-yanov
     - 1
   - - hyungtak-choi
     - 1
   - - jill-boberg
     - 1
-  - - david-traum
-    - 1
   first: Carla
   full: Carla Gordon
   last: Gordon
   papers:
+  - Z19-3018
+  - Z19-4024
   - Z18-3010
   slug: carla-gordon
   venues:
   - - SEMDIAL
-    - 1
+    - 3
 carla-parra-escartin:
   coauthors: []
   first: Carla
@@ -337,6 +358,10 @@ casey-kennington:
     - 2
   - - spyros-kousidis
     - 1
+  - - christine-howes
+    - 1
+  - - julian-hough
+    - 1
   - - daniele-moro
     - 1
   - - sina-zarriess
@@ -349,6 +374,7 @@ casey-kennington:
   full: Casey Kennington
   last: Kennington
   papers:
+  - Z19-1000
   - Z18-3012
   - Z18-3018
   - Z17-4022
@@ -360,7 +386,7 @@ casey-kennington:
   slug: casey-kennington
   venues:
   - - SEMDIAL
-    - 8
+    - 9
 caspar-addyman:
   coauthors:
   - - chiara-mazzocconi
@@ -945,6 +971,8 @@ chiara-gambi:
     - 1
 chiara-mazzocconi:
   coauthors:
+  - - vladislav-maraev
+    - 2
   - - jonathan-ginzburg
     - 2
   - - sam-green
@@ -953,7 +981,11 @@ chiara-mazzocconi:
     - 1
   - - caspar-addyman
     - 1
-  - - vladislav-maraev
+  - - arash-eshghi
+    - 1
+  - - christine-howes
+    - 1
+  - - julian-hough
     - 1
   - - ye-tian1
     - 1
@@ -961,13 +993,14 @@ chiara-mazzocconi:
   full: Chiara Mazzocconi
   last: Mazzocconi
   papers:
+  - Z19-4034
   - Z18-3005
   - Z16-3014
   - Z14-4043
   slug: chiara-mazzocconi
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 chih-lung-lin:
   coauthors: []
   first: Chih-Lung
@@ -1147,9 +1180,11 @@ chris-culy:
   venues: []
 chris-cummins:
   coauthors:
-  - - ernisa-marzuki
-    - 1
   - - hannah-rohde
+    - 2
+  - - alexandra-lorson
+    - 1
+  - - ernisa-marzuki
     - 1
   - - gareth-clegg
     - 1
@@ -1159,12 +1194,13 @@ chris-cummins:
   full: Chris Cummins
   last: Cummins
   papers:
+  - Z19-3009
   - Z17-3010
   - Z14-3008
   slug: chris-cummins
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 chris-dyer:
   coauthors: []
   first: Chris
@@ -1396,12 +1432,34 @@ christine-h-nakatani:
 christine-howes:
   coauthors:
   - - julian-hough
-    - 1
+    - 4
   - - matthew-purver
-    - 1
+    - 2
+  - - staffan-larsson
+    - 2
+  - - arash-eshghi
+    - 2
   - - rose-mccabe
     - 1
-  - - staffan-larsson
+  - - casey-kennington
+    - 1
+  - - anastasia-bondarenko
+    - 1
+  - - eleni-gregoromichelaki
+    - 1
+  - - ruth-kempson
+    - 1
+  - - mehrnoosh-sadrzadeh
+    - 1
+  - - gijs-wijnholds
+    - 1
+  - - vladislav-maraev
+    - 1
+  - - chiara-mazzocconi
+    - 1
+  - - vidya-somashekarappa
+    - 1
+  - - asad-sayeed
     - 1
   - - simon-dobnik
     - 1
@@ -1413,6 +1471,11 @@ christine-howes:
   full: Christine Howes
   last: Howes
   papers:
+  - Z19-1000
+  - Z19-3012
+  - Z19-4025
+  - Z19-4034
+  - Z19-4041
   - Z15-1000
   - Z15-3006
   - Z15-4022
@@ -1420,7 +1483,7 @@ christine-howes:
   slug: christine-howes
   venues:
   - - SEMDIAL
-    - 4
+    - 9
 christine-piatko:
   coauthors: []
   first: Christine
@@ -1543,6 +1606,19 @@ christopher-caruso:
   papers: []
   slug: christopher-caruso
   venues: []
+christopher-cash:
+  coauthors:
+  - - jonathan-ginzburg
+    - 1
+  first: Christopher
+  full: Christopher Cash
+  last: Cash
+  papers:
+  - Z19-3007
+  slug: christopher-cash
+  venues:
+  - - SEMDIAL
+    - 1
 christopher-chute:
   coauthors: []
   first: Christopher

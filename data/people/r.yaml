@@ -119,13 +119,22 @@ rafael-munoz:
   slug: rafael-munoz
   venues: []
 raffaella-bernardi:
-  coauthors: []
+  coauthors:
+  - - alberto-testoni
+    - 1
+  - - ravi-shekhar
+    - 1
+  - - raquel-fernandez
+    - 1
   first: Raffaella
   full: Raffaella Bernardi
   last: Bernardi
-  papers: []
+  papers:
+  - Z19-3005
   slug: raffaella-bernardi
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 raghava-krishnan:
   coauthors: []
   first: Raghava
@@ -434,8 +443,14 @@ raphael-troncy:
 raquel-fernandez:
   coauthors:
   - - julian-j-schloder
-    - 2
+    - 3
   - - robert-grimm
+    - 1
+  - - alberto-testoni
+    - 1
+  - - ravi-shekhar
+    - 1
+  - - raffaella-bernardi
     - 1
   - - janosch-haber
     - 1
@@ -455,6 +470,8 @@ raquel-fernandez:
   full: "Raquel Fern\xE1ndez"
   last: "Fern\xE1ndez"
   papers:
+  - Z19-3005
+  - Z19-3014
   - Z18-4028
   - Z17-3004
   - Z16-3005
@@ -468,7 +485,7 @@ raquel-fernandez:
     last: Fernandez
   venues:
   - - SEMDIAL
-    - 6
+    - 8
 raquel-martinez:
   coauthors: []
   first: Raquel
@@ -497,6 +514,23 @@ raul-mondragon:
   papers:
   - Z14-4032
   slug: raul-mondragon
+  venues:
+  - - SEMDIAL
+    - 1
+ravi-shekhar:
+  coauthors:
+  - - alberto-testoni
+    - 1
+  - - raquel-fernandez
+    - 1
+  - - raffaella-bernardi
+    - 1
+  first: Ravi
+  full: Ravi Shekhar
+  last: Shekhar
+  papers:
+  - Z19-3005
+  slug: ravi-shekhar
   venues:
   - - SEMDIAL
     - 1
@@ -708,6 +742,21 @@ rezarta-islamaj-dogan:
   papers: []
   slug: rezarta-islamaj-dogan
   venues: []
+ribeka-tanaka:
+  coauthors:
+  - - takashi-kodama
+    - 1
+  - - sadao-kurohashi
+    - 1
+  first: Ribeka
+  full: Ribeka Tanaka
+  last: Tanaka
+  papers:
+  - Z19-4027
+  slug: ribeka-tanaka
+  venues:
+  - - SEMDIAL
+    - 1
 ricardo-de-cordoba:
   coauthors: []
   first: Ricardo
@@ -1077,13 +1126,18 @@ robert-frederking:
   slug: robert-frederking
   venues: []
 robert-gaizauskas:
-  coauthors: []
+  coauthors:
+  - - emma-barker
+    - 1
   first: Robert
   full: Robert Gaizauskas
   last: Gaizauskas
-  papers: []
+  papers:
+  - Z19-3011
   slug: robert-gaizauskas
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 robert-granville:
   coauthors: []
   first: Robert
@@ -1226,6 +1280,21 @@ robert-phillips:
   papers: []
   slug: robert-phillips
   venues: []
+robert-ross:
+  coauthors:
+  - - anh-duong-trinh
+    - 1
+  - - john-kelleher
+    - 1
+  first: Robert
+  full: Robert Ross
+  last: Ross
+  papers:
+  - Z19-4033
+  slug: robert-ross
+  venues:
+  - - SEMDIAL
+    - 1
 robert-s-belvin:
   coauthors: []
   first: Robert S.
@@ -1519,6 +1588,23 @@ romuald-skiba:
   papers: []
   slug: romuald-skiba
   venues: []
+ron-artstein:
+  coauthors:
+  - - usman-sohail
+    - 1
+  - - carla-gordon
+    - 1
+  - - david-traum
+    - 1
+  first: Ron
+  full: Ron Artstein
+  last: Artstein
+  papers:
+  - Z19-3018
+  slug: ron-artstein
+  venues:
+  - - SEMDIAL
+    - 1
 ron-daniel-jr:
   coauthors: []
   first: Ron
@@ -1669,11 +1755,12 @@ rose-mccabe:
   full: Rose McCabe
   last: McCabe
   papers:
+  - Z19-2001
   - Z14-3013
   slug: rose-mccabe
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 rosemary-stevenson:
   coauthors: []
   first: Rosemary
@@ -1826,11 +1913,19 @@ ruth-aylett:
     - 2
 ruth-kempson:
   coauthors:
-  - - mehrnoosh-sadrzadeh
-    - 1
-  - - matthew-purver
-    - 1
   - - julian-hough
+    - 2
+  - - mehrnoosh-sadrzadeh
+    - 2
+  - - matthew-purver
+    - 2
+  - - eleni-gregoromichelaki
+    - 1
+  - - christine-howes
+    - 1
+  - - arash-eshghi
+    - 1
+  - - gijs-wijnholds
     - 1
   - - stergios-chatzikyriakidis
     - 1
@@ -1840,12 +1935,13 @@ ruth-kempson:
   full: Ruth Kempson
   last: Kempson
   papers:
+  - Z19-4025
   - Z18-3016
   - Z15-4035
   slug: ruth-kempson
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 rutu-mulkar-mehta:
   coauthors: []
   first: Rutu
@@ -1919,8 +2015,16 @@ ryochi-sugimura:
   venues: []
 ryuichiro-higashinaka:
   coauthors:
+  - - tsunehiro-arimoto
+    - 2
+  - - hiroaki-sugiyama
+    - 2
+  - - hiromi-narimatsu
+    - 2
   - - yoshihiro-matsuo
     - 2
+  - - masahiro-mizukami
+    - 1
   - - yuiko-tsunomori
     - 1
   - - tetsuro-takahashi
@@ -1928,12 +2032,6 @@ ryuichiro-higashinaka:
   - - michimasa-inaba
     - 1
   - - kazuki-sakai
-    - 1
-  - - hiroaki-sugiyama
-    - 1
-  - - hiromi-narimatsu
-    - 1
-  - - tsunehiro-arimoto
     - 1
   - - takaaki-fukutomi-kiyoaki-matsui
     - 1
@@ -1957,10 +2055,11 @@ ryuichiro-higashinaka:
   full: Ryuichiro Higashinaka
   last: Higashinaka
   papers:
+  - Z19-4020
   - Z18-3007
   - Z17-4019
   - Z15-3011
   slug: ryuichiro-higashinaka
   venues:
   - - SEMDIAL
-    - 3
+    - 4

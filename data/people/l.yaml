@@ -38,6 +38,26 @@ lalit-r-bahl:
   papers: []
   slug: lalit-r-bahl
   venues: []
+lama-nachman:
+  coauthors:
+  - - saurav-sahay
+    - 2
+  - - shachi-h-kumar1
+    - 2
+  - - eda-okur
+    - 2
+  - - haroon-syed
+    - 1
+  first: Lama
+  full: Lama Nachman
+  last: Nachman
+  papers:
+  - Z19-3019
+  - Z19-4039
+  slug: lama-nachman
+  venues:
+  - - SEMDIAL
+    - 2
 lambros-cranias:
   coauthors: []
   first: Lambros
@@ -366,6 +386,25 @@ le-quan-ha:
   papers: []
   slug: le-quan-ha
   venues: []
+lea-dieudonat:
+  coauthors:
+  - - maxime-amblard
+    - 1
+  - - maria-boritchev
+    - 1
+  - - marta-carletti
+    - 1
+  - - yi-ting-tsai
+    - 1
+  first: Lea
+  full: Lea Dieudonat
+  last: Dieudonat
+  papers:
+  - Z19-4031
+  slug: lea-dieudonat
+  venues:
+  - - SEMDIAL
+    - 1
 lee-becker:
   coauthors: []
   first: Lee
@@ -430,6 +469,19 @@ leonida-della-rocca:
   papers: []
   slug: leonida-della-rocca
   venues: []
+leshao-zhang:
+  coauthors:
+  - - patrick-healey
+    - 1
+  first: Leshao
+  full: Leshao Zhang
+  last: Zhang
+  papers:
+  - Z19-3017
+  slug: leshao-zhang
+  venues:
+  - - SEMDIAL
+    - 1
 lesly-miculicich-werlen:
   coauthors: []
   first: Lesly

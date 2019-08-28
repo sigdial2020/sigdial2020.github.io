@@ -683,6 +683,31 @@ gideon-mann:
   papers: []
   slug: gideon-mann
   venues: []
+gijs-wijnholds:
+  coauthors:
+  - - eleni-gregoromichelaki
+    - 1
+  - - christine-howes
+    - 1
+  - - arash-eshghi
+    - 1
+  - - ruth-kempson
+    - 1
+  - - julian-hough
+    - 1
+  - - mehrnoosh-sadrzadeh
+    - 1
+  - - matthew-purver
+    - 1
+  first: Gijs
+  full: Gijs Wijnholds
+  last: Wijnholds
+  papers:
+  - Z19-4025
+  slug: gijs-wijnholds
+  venues:
+  - - SEMDIAL
+    - 1
 gil-chang-kim:
   coauthors: []
   first: Gil Chang

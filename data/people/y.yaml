@@ -469,6 +469,25 @@ yi-rong-chen:
   papers: []
   slug: yi-rong-chen
   venues: []
+yi-ting-tsai:
+  coauthors:
+  - - maxime-amblard
+    - 1
+  - - maria-boritchev
+    - 1
+  - - marta-carletti
+    - 1
+  - - lea-dieudonat
+    - 1
+  first: Yi-Ting
+  full: Yi-Ting Tsai
+  last: Tsai
+  papers:
+  - Z19-4031
+  slug: yi-ting-tsai
+  venues:
+  - - SEMDIAL
+    - 1
 yichun-chen:
   coauthors: []
   first: YiChun

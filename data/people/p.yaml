@@ -291,6 +291,10 @@ patrick-healey:
     - 3
   - - shauna-concannon
     - 2
+  - - sophie-skach
+    - 1
+  - - leshao-zhang
+    - 1
   - - tom-gurion
     - 1
   - - julian-hough
@@ -299,21 +303,26 @@ patrick-healey:
   full: Patrick Healey
   last: Healey
   papers:
+  - Z19-3008
+  - Z19-3017
   - Z18-4027
   - Z18-4029
   - Z15-3004
   - Z15-3005
   slug: patrick-healey
   variant_entries:
-  - first: Patrick G.T.
-    full: Patrick G.T. Healey
+  - first: Patrick G. T.
+    full: Patrick G. T. Healey
     last: Healey
   - first: Pat
     full: Pat Healey
     last: Healey
+  - first: Patrick G.T.
+    full: Patrick G.T. Healey
+    last: Healey
   venues:
   - - SEMDIAL
-    - 4
+    - 6
 patrick-l-lange:
   coauthors:
   - - david-suendermann-oeft
