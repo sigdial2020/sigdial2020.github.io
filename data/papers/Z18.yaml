@@ -90,9 +90,9 @@ Z18-3004:
     id: ting-han
     last: Han
   - first: Sina
-    full: Sina Zariess
-    id: sina-zariess
-    last: Zariess
+    full: "Sina Zarrie\xDF"
+    id: sina-zarriess
+    last: "Zarrie\xDF"
   - first: Kazunori
     full: Kazunori Komatani
     id: kazunori-komatani
@@ -1057,9 +1057,9 @@ Z18-4037:
     id: nikolai-ilinykh
     last: Ilinykh
   - first: Sina
-    full: "Sina Zarrie\xDF}"
-    id: sina-zarriess1
-    last: "Zarrie\xDF}"
+    full: "Sina Zarrie\xDF"
+    id: sina-zarriess
+    last: "Zarrie\xDF"
   bibkey: schlangen-etal-2018-meetup
   bibtype: inproceedings
   booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics

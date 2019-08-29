@@ -1816,29 +1816,16 @@ simonetta-montemagni:
   papers: []
   slug: simonetta-montemagni
   venues: []
-sina-zariess:
+sina-zarriess:
   coauthors:
+  - - david-schlangen
+    - 5
+  - - nikolai-ilinykh
+    - 3
   - - ting-han
     - 1
   - - kazunori-komatani
     - 1
-  - - david-schlangen
-    - 1
-  first: Sina
-  full: Sina Zariess
-  last: Zariess
-  papers:
-  - Z18-3004
-  slug: sina-zariess
-  venues:
-  - - SEMDIAL
-    - 1
-sina-zarriess:
-  coauthors:
-  - - david-schlangen
-    - 3
-  - - nikolai-ilinykh
-    - 2
   - - soledad-lopez-gambino
     - 1
   - - casey-kennington
@@ -1850,27 +1837,14 @@ sina-zarriess:
   last: "Zarrie\xDF"
   papers:
   - Z19-3006
+  - Z18-3004
   - Z18-3018
   - Z18-4036
+  - Z18-4037
   slug: sina-zarriess
   venues:
   - - SEMDIAL
-    - 3
-sina-zarriess1:
-  coauthors:
-  - - david-schlangen
-    - 1
-  - - nikolai-ilinykh
-    - 1
-  first: Sina
-  full: "Sina Zarrie\xDF}"
-  last: "Zarrie\xDF}"
-  papers:
-  - Z18-4037
-  slug: sina-zarriess1
-  venues:
-  - - SEMDIAL
-    - 1
+    - 5
 sisay-fissaha-adafre:
   coauthors: []
   first: Sisay

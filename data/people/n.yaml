@@ -817,13 +817,11 @@ niklas-paulsson:
   venues: []
 nikolai-ilinykh:
   coauthors:
+  - - sina-zarriess
+    - 3
   - - david-schlangen
     - 3
-  - - sina-zarriess
-    - 2
   - - tim-diekmann
-    - 1
-  - - sina-zarriess1
     - 1
   first: Nikolai
   full: Nikolai Ilinykh

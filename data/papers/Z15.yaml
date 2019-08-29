@@ -178,10 +178,10 @@ Z15-3007:
   paper_id: '3007'
   parent_volume_id: Z15-3
   publisher: SEMDIAL
-  title: 'Learning non-cooperative dialogue policies to beat opponent models: ``The
-    good, the bad and the ugly'''''
+  title: 'Learning non-cooperative dialogue policies to beat opponent models: "The
+    good, the bad and the ugly"'
   title_html: 'Learning non-cooperative dialogue policies to beat opponent models:
-    ``The good, the bad and the ugly'''''
+    "The good, the bad and the ugly"'
   url: https://bakuzen.github.io/anthology/Z15-Efstathiou_semdial_0007.pdf
   year: '2015'
 Z15-3008:
@@ -504,10 +504,10 @@ Z15-3019:
   paper_id: '3019'
   parent_volume_id: Z15-3
   publisher: SEMDIAL
-  title: '``Hand me the yellow stapler'''' or ``hand me the yellow dress'''': Colour
+  title: '"Hand me the yellow stapler" or "hand me the yellow dress": Colour overspecification
+    depends on object category'
+  title_html: '"Hand me the yellow stapler" or "hand me the yellow dress": Colour
     overspecification depends on object category'
-  title_html: '``Hand me the yellow stapler'''' or ``hand me the yellow dress'''':
-    Colour overspecification depends on object category'
   url: https://bakuzen.github.io/anthology/Z15-Tarenskeen_semdial_0019.pdf
   year: '2015'
 Z15-3020:
