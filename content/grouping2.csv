@@ -1,0 +1,42 @@
+Submission ID,Authors,Title,Submission Type,Session,TIme Zone First Author
+28,Weronika Sieińska; Christian Dondrup; Nancie Gunson and Oliver Lemon,Conversational Agents for Intelligent Buildings,Demo,Demo (1),UK (GMT+1)
+44,Thilo Michael,Retico: An incremental framework for spoken dialogue systems,Demo,Demo (1),Germany (GMT+2
+72,Arne Köhn; Julia Wichlacz; Christine Schäfer; Álvaro Torralba; Joerg Hoffmann and Alexander Koller,MC-Saar-Instruct: a Platform for Minecraft Instruction Giving Agents,Demo,Demo (1),Germany
+61,Casey Kennington; Daniele Moro; Lucas Marchand; Jake Carns and David McNeill,rrSDS: Towards a Robot-ready Spoken Dialogue System,Demo - SS,Demo (2),US(MDT; GMT-6)
+62,Georgiy Platonov; Lenhart Schubert; Benjamin Kane and Aaron Gindi,A Spoken Dialogue System for Spatial Question Answering in a Physical Blocks World,Demo - SS,Demo (2),US(EST)
+7,Yansen Wang; R. Charles Murray; Haogang Bao and Carolyn Rose,Agent-Based Dynamic Collaboration Support in a Smart Office Space,Demo,Demo (3),US (EST; GMT-4)
+71,Jonathan P. Chang; Caleb Chiam; Liye Fu; Andrew Wang; Justine Zhang and Cristian Danescu-Niculescu-Mizil,ConvoKit: A Toolkit for the Analysis of Conversations,Demo,Demo (3),US (EST)
+100,James D. Finch and Jinho D. Choi,Emora STDM: A Versatile Framework for Innovative Dialogue System Development,Demo,Demo (3),US (EST)
+16,Yan Cao; Keting Lu; Xiaoping Chen and Shiqi Zhang,Adaptive Dialog Policy Learning with Hindsight and User Modeling,Main Long Paper,Dialogue Policy,China
+25,Maryam Zare; Ali Ayub; Aishan Liu; Sweekar Sudhakara; Alan Wagner and Rebecca Passonneau,Dialogue Policies for Learning Board Games through Multimodal Communication,Main Long Paper,Dialogue Policy,US (EST)
+4,Shikib Mehri and Maxine Eskenazi,Unsupervised Evaluation of Interactive Dialog with DialoGPT,Main Long Paper,Evaluation + Corpora (1),US (EST)
+60,Itika Gupta; Barbara Di Eugenio; Brian Ziebart; Aiswarya Baiju; Bing Liu; Ben Gerber; Lisa Sharp; Nadia Nabulsi and Mary Smart,Human-Human Health Coaching via Text Messages: Corpus; Annotation; and Analysis,Main Long Paper,Evaluation + Corpora (1),US (EST)
+79,Sarah E. Finch and Jinho D. Choi,Towards Unified Dialogue System Evaluation: A Comprehensive Analysis of Current Evaluation Protocols,Main Long Paper,Evaluation + Corpora (1),US(EST)
+8,Ryuichi Takanobu; Qi Zhu; Jinchao Li; Baolin Peng; Jianfeng Gao and Minlie Huang,Is Your Goal-Oriented Dialog Model Performing Really Well? Empirical Analysis of System-wise Evaluation,Main Long Paper,Evaluation + Corpora (2),China (GMT+8)
+9,Stefan Ultes and Wolfgang Maier,Similarity Scoring for Dialogue Behaviour Comparison,Main Long Paper,Evaluation + Corpora (2),Germany
+92,Tsunehiro Arimoto; Ryuichiro Higashinaka; Kou Tanaka; Takahito Kawanishi; Hiroaki Sugiyama; Hiroshi Sawada and Hiroshi Ishiguro,Collection and Analysis of Dialogues Provided by Two Speakers Acting as One,Main Short Paper,Evaluation + Corpora (2),Japan (GMT+9)
+87,Megha Jhunjhunwala; Caleb Bryant and Pararth Shah,Multi-Action Dialog Policy Learning with Interactive Human Teaching,Main Short Paper,Generation + Task-Orineted Dialogues (2),US(PDT)
+22,Cheng-Hsun Hsueh and Wei-Yun Ma,Semantic Guidance of Dialogue Generation with Reinforcement Learning,Main Long Paper,Generation +Task-Oriented Dialogues (1),Taiwan (GMT+8)
+76,Siqi Shen; Charles Welch; Rada Mihalcea and Verónica Pérez-Rosas,Counseling-Style Reflection Generation Using Generative Pretrained Transformers with Augmented Context,Main Long Paper,Generation +Task-Oriented Dialogues (1),US (EST; GMT-4)
+98,Lena Reed; Vrindavan Harrison; Shereen Oraby; Dilek Hakkani-Tur and Marilyn Walker,Learning from Mistakes: Combining Ontologies via Self-Training for Dialogue Generation,Main Long Paper,Generation +Task-Oriented Dialogues (1),US (PDT)
+103,Michael Heck; Carel van Niekerk; Nurul Lubis; Christian Geishauser; Hsien-Chin Lin; Marco Moresi and Milica Gasic,TripPy: A Triple Copy Strategy for Value Independent Neural Dialog State Tracking,Main Long Paper,Generation +Task-Oriented Dialogues (1),Germany
+2,Chenguang Zhu,Boosting Naturalness of Language in Task-oriented Dialogues via Adversarial Training,Main Short Paper,Generation +Task-Oriented Dialogues (2),US (PDT)
+38,Hongjie Shi,A Sequence-to-sequence Approach for Numerical Slot-filling Dialog Systems,Main Short Paper,Generation +Task-Oriented Dialogues (2),Japan (GMT+9)
+83,Seokhwan Kim; Mihail Eric; Karthik Gopalakrishnan; Behnam Hedayatnia; Yang Liu and Dilek Hakkani-Tur,Beyond Domain APIs: Task-oriented Conversational Modeling with Unstructured Knowledge Access,Main Long Paper,Generation +Task-Oriented Dialogues (2),US (PDT; GMT-7)
+12,Ayush Jain; Maria Pacheco; Steven Lancette; Mahak Goindani and Dan Goldwasser,Identifying Collaborative Conversations using Latent Discourse Behaviors,Main Short Paper,Knowledge Acquisition/Use & Behavior Modeling (1),US(EST)
+78,Ye Liu; Tao Yang; Zeyu You; Wei Fan and Philip S. Yu,Commonsense Evidence Generation and Injection in Reading Comprehension,Main Long Paper,Knowledge Acquisition/Use & Behavior Modeling (1),US(CDT; GMT-5)
+89,Timothy Hewitt and Ian Beaver,A Case Study of User Communication Styles with Customer Service Agents versus Intelligent Virtual Agents,Main Short Paper,Knowledge Acquisition/Use & Behavior Modeling (1),US(CDT; GMT-5)
+17,Subhasis Ghosh; Arpita Kundu; Aniket Pramanick and Indrajit Bhattacharya,Discovering Knowledge Graph Schema from Short Natural Language Text via Dialog,Main Long Paper,Knowledge Acquisition/Use & Behavior Modeling (2),India (GMT+5:30)
+41,Thilo Michael and Sebastian Möller,Simulating Turn-Taking in Conversations with Delayed Transmission,Main Short Paper,Knowledge Acquisition/Use & Behavior Modeling (2),Germany
+42,Kazunori Komatani and Mikio Nakano,User Impressions of Questions to Acquire Lexical Knowledge,Main Long Paper,Knowledge Acquisition/Use & Behavior Modeling (2),Japan (GMT+9)
+11,Ramiro H. Gálvez; Lara Gauder; Jordi Luque and Agustín Gravano,A unifying framework for modeling acoustic/prosodic entrainment: definition and evaluation on two large corpora,Main Long Paper,Modeling Convergence,Argentina (GMT-3)
+24,Amanda Bergqvist; Ramesh Manuvinakurike; Deepthi Karkada and Maike Paetzel,Nontrivial Lexical Convergence in a Geography-Themed Game,Main Short Paper,Modeling Convergence,Sweden (GMT+2)
+43,Simone Fuscone; Benoit Favre and Laurent Prévot,Filtering conversations through dialogue acts labels for improving corpus-based convergence studies,Main Short Paper,Modeling Convergence,France
+58,Alessandra Cervone and Giuseppe Riccardi,Is this Dialogue Coherent? Learning from Dialogue Acts and Entities,Main Long Paper,Semantic and Pragmatic Modeling,Italy (GMT+2)
+94,Brian McMahan and Matthew Stone,Analyzing Speaker Strategy in Referential Communication,Main Long Paper,Semantic and Pragmatic Modeling,US (EST)
+97,Adam Stiff; Qi Song and Eric Fosler-Lussier,How Self-Attention Improves Rare Class Performance in a Question-Answering Dialogue Agent,Main Short Paper,Semantic and Pragmatic Modeling,US(EST)
+102,Yan Wang; Jiayu Zhang; Jun Ma; Shaojun Wang and Jing Xiao,Contextualized Emotion Recognition in Conversation as Sequence Tagging,Main Long Paper,Semantic and Pragmatic Modeling,China
+18,Koji Inoue; Divesh Lala; Kenta Yamamoto; Shizuka Nakamura; Katsuya Takanashi and Tatsuya Kawahara,An Attentive Listening System with Android ERICA: Comparison of Autonomous and WOZ Interactions,Main Long Paper,Special Session,Japan (GMT+9)
+63,David McNeill and Casey Kennington,Learning Word Groundings from Humans Facilitated by Robot Emotional Displays,Special Session (RoboDial 2.0) Long Paper,Special Session,US(MDT; GMT-6)
+81,Keting Lu; Shiqi Zhang; Peter Stone and Xiaoping Chen,Learning and Reasoning for Robot Dialog and Navigation Tasks,Special Session (RoboDial 2.0) Long Paper,Special Session,China + US (EST)
+49,Felix Gervits; Ravenna Thielstrom; Antonio Roque and Matthias Scheutz,It's About Time: Turn-Entry Timing For Situated Human-Robot Dialogue,Special Session (RoboDial 2.0) Long Paper,Special Session ,US(EST)

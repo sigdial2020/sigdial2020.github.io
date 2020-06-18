@@ -9,55 +9,70 @@ $(document).ready(function() {
            type: "GET",
            url: "/content/schedule.csv",
            //dataType: "text",
-           //success: function(data1){
-              //  schedule = data1;
-            //}
+           success: function(data1){
+                schedule = data1;
+            }
         }),
         $.ajax({
            type: "GET",
            url: "/content/grouping2.csv",
            //dataType: "text",
-           //success: function(data2){
-             //   return data2;
-            //}
+           success: function(data2){
+                return data2;
+            }
         })
     ).done(function ( v1, v2 ) {
-        process(v1,v2)}
+        process(v1[0],v2[0])}
 
     )
 
 
     function process(schedule,grouping){
-        docs=get_docs()
-        console.log(schedule)
-        console.log(grouping)
+        papers_parsed=Papa.parse(grouping).data.slice(1)
+        papers={}
+        for (paper in papers_parsed){
+            papers[papers_parsed[paper][0]]=papers_parsed[paper]
+        }
+        console.log(papers)
 
         table_data=Papa.parse(schedule).data.slice(1)
-        table_html='<table class="col-md-12 board text-center"></table>'
-        tables={tab1: $(table_html),tab2: $(table_html),tab3: $(table_html)}
+        //table_html='<table class="col-md-12 board text-center"></table>'
+        //tables={tab1: $(table_html),tab2: $(table_html),tab3: $(table_html)}
 
 
         $(table_data).each(function (i, rowData) {
-            var row = $('<tr></tr>');
+            if (rowData[2]=="Break"){
+            return;}
+            var row = $('<tr class="col-md-9 col-sm-12" id=schedule_'+i+'></tr>');
             dates=get_dates(rowData[1],rowData[0][2])
 
             for (index = 0; index < dates.length; index++){
-
                 row.append("<td>"+dates[index]+"</td>")
             }
 
-            div=$('<td><div class="col-md-9 col-sm-12"></div></td>')
-            title='<a name="oral1" href="#" class="btn-large bg-2"><img src="assets/img/microphone.png" alt="">'+rowData[2]+'</a>'
-            div.append($('<div class="member stephen"><div class="button">'+title+'</div><p>'+rowData[3]+'</p></div></div>'))
+            div_=$('<td></td>')
 
-            row.append(div)
+            div=$('<div class="member stephen"></div>')
+            title='<a name="oral1" href="#" class="btn-large bg-2"><img src="assets/img/microphone.png" alt="">'+rowData[2]+'</a>'
+
+            div.append($('<div class="button">'+title+'</div><h4>'+rowData[3]+'</h4></div>'))
+            papers_ids=rowData[4].split(", ")
+
+            for (idx in papers_ids){
+                paper_id=papers_ids[idx]
+                if (paper_id in papers){
+                    div.append($("<p><bold>"+papers[paper_id][2]+papers[paper_id][1]+" <br></p>"))
+            }}
+
+            div_.append(div)
+            row.append(div_)
+
             day_key="tab"+rowData[0][2]
-            tables[day_key].append(row);
+            //tables[day_key].append(row);
+            $("#"+day_key).append(row)
         });
 
-        for (tab in tables){
-            $("#"+tab).append(tables[tab])
-        }
+
 
     }
 
