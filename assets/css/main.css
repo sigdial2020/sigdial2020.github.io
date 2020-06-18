@@ -2340,3 +2340,10 @@ blockquote .quote-text {
   box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.14);
   outline: none;
 }
+
+.board_custom {
+  padding: 60px 5px 30px;
+}
+.li_custom{
+    width: 100%
+}

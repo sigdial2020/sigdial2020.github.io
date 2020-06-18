@@ -37,37 +37,46 @@ $(document).ready(function() {
 
         table_data=Papa.parse(schedule).data.slice(1)
         //table_html='<table class="col-md-12 board text-center"></table>'
-        //tables={tab1: $(table_html),tab2: $(table_html),tab3: $(table_html)}
 
 
         $(table_data).each(function (i, rowData) {
-            if (rowData[2]=="Break"){
-            return;}
-            var row = $('<div class="row" id=schedule_'+i+'></div>');
+
+
+            id_row="schedule_"+i
+            day_key="tab"+rowData[0][2]
+
+            schedule_timeline=$("#schedule_timeline_"+rowData[0][2])
+
             dates=get_dates(rowData[1],rowData[0][2])
 
-            date_row=$("<div class='row'></div>")
+            dates_str=[]
             for (index = 0; index < dates.length; index++){
-                date_row.append("<div style='width:14%' class='col-md-1'>"+dates[index]+"</div>")
+                dates_str.push(dates[index])
             }
+            dates_str=dates_str.join(" ")
+            schedule_timeline.append($("<li class='color-"+get_color_idx(rowData[2])+"'><a style='width:100%'  href=#"+id_row+">"+dates_str+"</a><br>"+rowData[3]+"</li>"))
             date_col=$("<div class='col-md-4' align='center'></div>")
-            date_col.append(date_row)
+            //date_col.append(date_row)
 
             if (rowData[7] != ""){
                 dates=get_dates(rowData[7],rowData[0][2])
-                date_row=$("<div class='row'></div>")
+                dates_str=[]
                 for (index = 0; index < dates.length; index++){
-                    date_row.append("<div style='width:14%' class='col-md-1'>"+dates[index]+"</div>")
+                    dates_str.push(dates[index])
                 }
-                date_col.append(date_row)
+                dates_str=dates_str.join(" ")
+                schedule_timeline.append($("<li class='color-2'><a style='width:100%'  href=#"+id_row+">"+dates_str+"</a><br>"+rowData[6]+"</li>"))
             }
-            row.append(date_col)
+            //schedule_timeline.append(date_col)
+            if (rowData[2]=="Break"){
+            return;}
 
 
+            var row = $('<div class="row" id=schedule_'+i+'></div>');
 
-            div_=$('<div class="col-md-8 "></div>')
-            div=$('<div class=" member stephen"></div>')
-            title='<a name="oral1" href="#" class="btn-large bg-2"><img src="assets/img/microphone.png" alt="">'+rowData[2]+'</a>'
+            div_=$('<div class="col-md-12 "></div>')
+            div=$('<div class="member stephen"></div>')
+            title='<a href="#" class="btn-large bg-2"><img src="assets/img/microphone.png" name='+id_row+'>'+rowData[2]+'</a>'
 
             div.append($('<div class="button">'+title+'</div><h4>'+rowData[3]+'</h4></div>'))
             papers_ids=rowData[4].split(";")
@@ -99,7 +108,6 @@ $(document).ready(function() {
 
 
 
-            day_key="tab"+rowData[0][2]
             //tables[day_key].append(row);
             $("#"+day_key).append(row)
         });
@@ -134,6 +142,15 @@ $(document).ready(function() {
            success: process
         });
 
+    }
+
+    function get_color_idx(type_key){
+        if (["Keynote","Talk","Demo"]){
+            return 1
+        }
+        else {
+            return 2
+            }
     }
 
 
