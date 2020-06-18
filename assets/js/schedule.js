@@ -33,7 +33,6 @@ $(document).ready(function() {
         for (paper in papers_parsed){
             papers[papers_parsed[paper][0]]=papers_parsed[paper]
         }
-        console.log(papers)
 
         table_data=Papa.parse(schedule).data.slice(1)
         //table_html='<table class="col-md-12 board text-center"></table>'
@@ -106,9 +105,6 @@ $(document).ready(function() {
             row.append(div_)
 
 
-
-
-            //tables[day_key].append(row);
             $("#"+day_key).append(row)
         });
 
@@ -117,7 +113,6 @@ $(document).ready(function() {
     }
 
     function get_dates(date, day){
-        console.log(date)
         countries=[-7,-6,-4,2,5.50,8,9]
         date_split=date.split(":")
         times=[]
