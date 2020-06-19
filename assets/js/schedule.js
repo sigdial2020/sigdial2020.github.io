@@ -7,7 +7,7 @@ $(document).ready(function() {
     $.when(
         $.ajax({
            type: "GET",
-           url: "/content/schedule.csv",
+           url: "content/schedule.csv",
            //dataType: "text",
            success: function(data1){
                 schedule = data1;
@@ -15,7 +15,7 @@ $(document).ready(function() {
         }),
         $.ajax({
            type: "GET",
-           url: "/content/grouping.csv",
+           url: "content/grouping.csv",
            //dataType: "text",
            success: function(data2){
                 return data2;
