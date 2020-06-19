@@ -47,27 +47,12 @@ $(document).ready(function() {
 
             schedule_timeline=$("#schedule_timeline_"+rowData[0][2])
 
-            dates=get_dates(rowData[1],rowData[0][2])
-
-            dates_str=[]
-            for (index = 0; index < dates.length; index++){
-                dates_str.push(dates[index])
-            }
-            dates_str=dates_str.join(" ")
-            schedule_timeline.append($("<li class='color-"+idx_color+"'><a style='width:100%'  href=#"+id_row+">"+dates_str+"</a><br>"+rowData[3]+"</li>"))
-            date_col=$("<div class='col-md-4' align='center'></div>")
-            //date_col.append(date_row)
+            append_date(rowData[1],rowData[0][2], schedule_timeline, rowData[3])
 
             if (rowData[7] != ""){
-                dates=get_dates(rowData[7],rowData[0][2])
-                dates_str=[]
-                for (index = 0; index < dates.length; index++){
-                    dates_str.push(dates[index])
-                }
-                dates_str=dates_str.join(" ")
-                schedule_timeline.append($("<li class='color-"+idx_color+"'><a style='width:100%'  href=#"+id_row+">"+dates_str+"</a><br>"+rowData[6]+"</li>"))
+                append_date(rowData[7],rowData[0][2],schedule_timeline,rowData[6])
             }
-            //schedule_timeline.append(date_col)
+
             if (rowData[2]=="Break"){
             return;}
 
@@ -105,7 +90,6 @@ $(document).ready(function() {
             div_.append(div)
             row.append(div_)
 
-
             $("#"+day_key).append(row)
         });
 
@@ -126,16 +110,6 @@ $(document).ready(function() {
         return times
     }
 
-    function get_docs(){
-        $.ajax({
-           type: "GET",
-           url: "/content/schedule.csv",
-           dataType: "text",
-           success: process
-        });
-
-    }
-
     function get_color_idx(type_key){
         if (["Keynote","Talk","Demo"].includes(type_key)){
             return 1
@@ -143,6 +117,17 @@ $(document).ready(function() {
         else {
             return 2
             }
+    }
+
+    function append_date(time_reference, day, timeline, title_schedule){
+        dates=get_dates(time_reference ,day)
+        dates_str=[]
+        for (index = 0; index < dates.length; index++){
+            dates_str.push(dates[index])
+        }
+        dates_str=dates_str.join(" ")
+        timeline.append($("<li class='color-"+idx_color+"'><a style='width:100%'  href=#"+id_row+">"+dates_str+"</a><br>"+title_schedule+"</li>"))
+
     }
 
 
