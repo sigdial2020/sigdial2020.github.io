@@ -23,9 +23,7 @@ $(document).ready(function() {
         })
     ).done(function ( v1, v2 ) {
         process(v1[0],v2[0])}
-
     )
-
 
     function process(schedule,grouping){
         papers_parsed=Papa.parse(grouping).data.slice(1)
@@ -33,30 +31,19 @@ $(document).ready(function() {
         for (paper in papers_parsed){
             papers[papers_parsed[paper][0]]=papers_parsed[paper]
         }
-
         table_data=Papa.parse(schedule).data.slice(1)
-        //table_html='<table class="col-md-12 board text-center"></table>'
-
-
         $(table_data).each(function (i, rowData) {
-
-
             id_row="schedule_"+i
             day_key="tab"+rowData[0][2]
             idx_color=get_color_idx(rowData[2])
-
             schedule_timeline=$("#schedule_timeline_"+rowData[0][2])
 
             append_date(rowData[1],rowData[0][2], schedule_timeline, rowData[3])
-
             if (rowData[7] != ""){
                 append_date(rowData[7],rowData[0][2],schedule_timeline,rowData[6])
             }
-
             if (rowData[2]=="Break"){
             return;}
-
-
             var row = $('<div class="row" id=schedule_'+i+'></div>');
 
             div_=$('<div class="col-md-12 "></div>')
@@ -71,8 +58,6 @@ $(document).ready(function() {
             }
             if (papers_ids != ""){
                 if (["Prerecord stream","Session"].includes(rowData[2])){
-                    console.log(rowData[2])
-
                     div.append($("<h5>Prerecord stream:</h5> "))
                 }
                 for (idx in papers_ids){
@@ -82,19 +67,13 @@ $(document).ready(function() {
                     }
                 }
             }
-
             if (rowData[6]!= ""){
                 div.append($("<br><h5>"+rowData[6]+"</h5>"))
             }
-
             div_.append(div)
             row.append(div_)
-
             $("#"+day_key).append(row)
         });
-
-
-
     }
 
     function get_dates(date, day){
@@ -127,9 +106,5 @@ $(document).ready(function() {
         }
         dates_str=dates_str.join(" ")
         timeline.append($("<li class='color-"+idx_color+"'><a style='width:100%'  href=#"+id_row+">"+dates_str+"</a><br>"+title_schedule+"</li>"))
-
     }
-
-
-
    });
