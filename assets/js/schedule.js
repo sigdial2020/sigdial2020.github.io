@@ -114,18 +114,14 @@ $(document).ready(function() {
     }
 
     function get_dates(date, day){
-        countries=[-7,-6,-4,2,5.50,8,9]
+        countries=[-7,-6,-4,2,5.5,8,9]
         date_split=date.split(":")
         times=[]
-        var d = new Date(2020, 7, day, date_split[0]-7, date_split[1], 0, 0);
-
+        var d = new Date(Date.UTC(20, 7,parseInt(day),  parseInt(date_split[0])+7, date_split[1], 0, 0));
         for (index = 0; index < countries.length; index++){
-            date_=new Date(d.getTime())
-            date_.setHours(date_.getHours()-countries[index])
-            //local_time=new Date(2020,7,day,date_split[0],date_split[1]+countries[index],0,0)
-            //var time = d.toLocaleString("en-GB", {timeZone: "Japan"});
-            var time = date_.toLocaleString("en-GB");
-            times.push(time.split(" ")[1].slice(0,5))
+            date_=new Date(d.getTime()+ parseFloat(countries[index])*60*60*1000)
+            var time = date_.toUTCString();
+            times.push(time.split(" ")[4].slice(0,5))
         }
         return times
     }
