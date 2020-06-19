@@ -43,6 +43,7 @@ $(document).ready(function() {
 
             id_row="schedule_"+i
             day_key="tab"+rowData[0][2]
+            idx_color=get_color_idx(rowData[2])
 
             schedule_timeline=$("#schedule_timeline_"+rowData[0][2])
 
@@ -53,7 +54,7 @@ $(document).ready(function() {
                 dates_str.push(dates[index])
             }
             dates_str=dates_str.join(" ")
-            schedule_timeline.append($("<li class='color-"+get_color_idx(rowData[2])+"'><a style='width:100%'  href=#"+id_row+">"+dates_str+"</a><br>"+rowData[3]+"</li>"))
+            schedule_timeline.append($("<li class='color-"+idx_color+"'><a style='width:100%'  href=#"+id_row+">"+dates_str+"</a><br>"+rowData[3]+"</li>"))
             date_col=$("<div class='col-md-4' align='center'></div>")
             //date_col.append(date_row)
 
@@ -64,7 +65,7 @@ $(document).ready(function() {
                     dates_str.push(dates[index])
                 }
                 dates_str=dates_str.join(" ")
-                schedule_timeline.append($("<li class='color-2'><a style='width:100%'  href=#"+id_row+">"+dates_str+"</a><br>"+rowData[6]+"</li>"))
+                schedule_timeline.append($("<li class='color-"+idx_color+"'><a style='width:100%'  href=#"+id_row+">"+dates_str+"</a><br>"+rowData[6]+"</li>"))
             }
             //schedule_timeline.append(date_col)
             if (rowData[2]=="Break"){
@@ -75,9 +76,9 @@ $(document).ready(function() {
 
             div_=$('<div class="col-md-12 "></div>')
             div=$('<div class="member stephen"></div>')
-            title='<a href="#" class="btn-large bg-2"><img src="assets/img/microphone.png" name='+id_row+'>'+rowData[2]+'</a>'
+            title='<a href="#" class="btn-large bg-'+idx_color+'"><img src="assets/img/microphone.png" name='+id_row+'>'+rowData[2]+'</a>'
 
-            div.append($('<div class="button">'+title+'</div><h4>'+rowData[3]+'</h4></div>'))
+            div.append($('<div class="button color">'+title+'</div><h4>'+rowData[3]+'</h4></div>'))
             papers_ids=rowData[4].split(";")
 
             if (rowData[2]== "Keynote"){
@@ -140,7 +141,7 @@ $(document).ready(function() {
     }
 
     function get_color_idx(type_key){
-        if (["Keynote","Talk","Demo"]){
+        if (["Keynote","Talk","Demo"].includes(type_key)){
             return 1
         }
         else {
