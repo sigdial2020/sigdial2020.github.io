@@ -961,6 +961,9 @@ fieldset[disabled] .btn {
 .board .member .bg-5 {
   background: #bbbb00;
 }
+.board .member .bg-6 {
+  background: purple;
+}
 .board .jon p {
   margin: 40px 0;
 }
@@ -2347,3 +2350,4 @@ blockquote .quote-text {
 .li_custom{
     width: 100%
 }
+
