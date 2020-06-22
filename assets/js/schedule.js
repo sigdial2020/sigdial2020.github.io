@@ -56,10 +56,8 @@ $(document).ready(function() {
             if (rowData[2]== "Keynote"){
                 div.append($("<br><a href="+rowData[6]+">Abstract</a>"))
             }
-            if (papers_ids != "" && rowData[2]=="Keynote"){
-                if (["Prerecord stream","Session"].includes(rowData[2])){
-                    div.append($("<h5>Prerecord stream:</h5>"))
-                }
+            if (papers_ids != "" && ["Prerecord stream", "Demo", "Session"].includes(rowData[2])){
+                div.append($("<h5>Prerecord stream:</h5>"))
                 for (idx in papers_ids){
                     paper_id=papers_ids[idx]
                     if (paper_id in papers){
