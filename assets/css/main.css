@@ -2351,12 +2351,12 @@ blockquote .quote-text {
     width: 100%
 }
 
-.schedule_timeline tr th {
+.schedule_timeline thead tr th {
     text-align:center;
     vertical-align:middle;
 }
 
-.schedule_timeline tr td {
+.schedule_timeline tbody tr td {
     text-align:center;
     vertical-align:middle;
 }
