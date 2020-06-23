@@ -101,7 +101,7 @@ $(document).ready(function() {
     function append_date(time_reference, day, row, title_schedule){
         dates=get_dates(time_reference ,day)
         for (index = 0; index < dates.length; index++){
-            row.append($("<td style='vertical-align:middle'><h4>"+dates[index]+"</h4></td>"))
+            row.append($("<td><h4>"+dates[index]+"</h4></td>"))
 
             //dates_str.push(dates[index])
         }
