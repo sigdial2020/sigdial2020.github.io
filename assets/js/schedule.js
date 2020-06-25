@@ -42,7 +42,7 @@ $(document).ready(function() {
             //var row = $('<div class="row" id=schedule_'+i+'></div>');
 
             div_=$('<td></td>')
-            div=$('<div class="member stephen" style="background:none;margin-bottom:0px" ></div>')
+            div=$('<div class="member stephen member_custom" style="background:none;margin-bottom:0px" ></div>')
 
             microphone=''
             if (rowData[2]!= "Break"){
@@ -50,7 +50,9 @@ $(document).ready(function() {
                 }
             title='<a href="#" class="btn-large bg-'+idx_color+'">'+microphone+rowData[2]+'</a>'
 
-            div.append($('<div class="button color" style="margin-top:-5%">'+title+'</div><h4>'+rowData[3]+'</h4></div>'))
+            //div.append($('<div class="button color" style="margin-top:-5%">'+title+'</div><h4>'+rowData[3]+'</h4></div>'))
+            div.append($('<h4>'+rowData[3]+'</h4>'))
+
             papers_ids=rowData[4].split(",")
 
             if (rowData[2]== "Keynote"){
