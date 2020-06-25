@@ -2344,8 +2344,8 @@ blockquote .quote-text {
   outline: none;
 }
 
-.board .member_custom {
-  padding: 10px 5px ;
+.board_custom {
+  padding: 60px 5px ;
 }
 .li_custom{
     width: 100%
